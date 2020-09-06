@@ -7,3 +7,4 @@ Named Entity Extraction - ADE, Reason, and Drug mention extraction - from clinic
 Medical Named Entity Recognition](https://arxiv.org/pdf/1804.09021.pdf)
 - [CliNER](https://github.com/text-machine-lab/CliNER)
 - [scispacy](https://medium.com/@maheshdmahi/scispacy-for-bio-medical-named-entity-recognition-ner-63ed548f1df0)
+- [GNTeam at 2018 n2c2: Feature-augmented BiLSTM-CRF for drug-related entity recognition in hospital discharge summaries](https://arxiv.org/pdf/1909.10390.pdf)
