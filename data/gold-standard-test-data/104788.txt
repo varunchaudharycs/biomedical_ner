@@ -1,0 +1,131 @@
+Admission Date:  [**2121-11-29**]       Discharge Date:  [**2121-12-2**]
+
+Date of Birth:   [**2052-6-12**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 68 year old man
+who was admitted to an outside hospital after pulling his
+chronic Foley catheter out at [**Hospital3 24509**] Home.
+The patient had a urinary tract infection with probable
+urosepsis and he is chronically treated with Foley catheter
+as a result of his atonic bladder which was thought to be
+related to his systemic amyloidosis which he has been
+diagnosed with for some time.  The patient developed
+urosepsis, took out his Foley catheter with the balloon
+inflated and was taken to an outside hospital for reinsertion
+of the Foley catheter and evaluation of hematuria.  The
+patient had significant pain with reinsertion of the Foley
+catheter and was resisting significantly in the Emergency
+Room and was given multiple pain medications, most notably
+Versed for sedation and pain control in order to place the
+Foley catheter.  Unfortunately the patient became apneic and
+went into respiratory failure and was intubated.  The patient
+was admitted to [**Hospital6 256**]
+intubated and directly transferred to the Fenard Intensive
+Care Unit.  The patient was monitored for one night in the
+Intensive Care Unit on mechanical ventilation.  He was doing
+fine and had no signs of pulmonary function outside of a
+possible pneumonia in the left lower lobe.  The patient took
+out his own endotracheal tube on the second day of admission
+and did very well with no further evidence of respiratory
+failure over-sedation from the Versed that he received the
+day prior.  The patient was then transferred to the [**Company 191**]
+Medicine Service on [**11-29**].
+
+PAST MEDICAL HISTORY:  Cardiac amyloidosis echocardiogram
+from [**2119-11-22**] showing diffusely hypokinetic left
+ventricle with ejection fraction of 40%, diffusely
+hypokinetic right ventricle, amyloidosis on a lung basis.
+Left lower lobectomy, status post limited stage lung cancer.
+Cervical and spinal lumbar stenosis, status post multiple
+back surgeries and complicated by atonic bladder, peripheral
+neuropathy, bilateral ulnar neuropathy, status post carpal
+tunnel surgery on the right, depression with question of
+bipolar disorder and recurrent urinary tract infections
+secondary to chronic Foley catheterization.
+
+HOSPITAL COURSE:  Shortness of breath - The patient continued
+to improve from a respiratory standpoint and required no
+oxygen.  After being extubated there were no signs of
+congestive heart failure and was maintained on 1.5 liter
+fluid restriction q. day and his outpatient Lasix regimen.
+
+Urinary tract infection - Foley catheterization, the patient
+tolerated his Foley catheter and was treated with Levaquin
+for urinary tract infection and possible left lower lobe
+pneumonia, all of this was felt to be atelectasis upon
+further review of the chest radiographs.  The patient was to
+complete a seven day course of Levaquin, 500 mg q. day.  He
+had no urinary symptoms on discharge.
+
+DISPOSITION:  The patient was discharged to [**Location (un) 2716**] Point.
+
+CONDITION ON DISCHARGE:  The patient was discharged in
+condition.
+
+DISCHARGE MEDICATIONS:
+1.  Colace 100 mg p.o. b.i.d.
+2.  Lisinopril 40 mg p.o. q. day
+3.  Levaquin 500 mg p.o. q. day to complete a seven day
+course
+4.  Norvasc 5 mg p.o. q. day
+5.  Toprol 100 mg p.o. q. day
+6.  Detrol discontinued due to anticholinergic side effects
+causing mental status changes
+7.  Lasix 80 mg p.o. q. day
+8.  Lamictal 200 mg p.o. q.h.s. for bipolar disorder
+9.  Depakote 1500 mg p.o. q.h.s. for bipolar disorder
+10. Celexa 20 mg p.o. q. day for depression
+
+DISCHARGE DIAGNOSIS:
+1.  Respiratory failure secondary to Versed overdose
+2.  Systemic amyloidosis
+3.  Pulmonary amyloidosis
+4.  Cardiac amyloidosis
+5.  Atonic bladder
+6.  Urinary tract infection
+7.  Urosepsis
+
+ADDENDUM - PHYSICAL EXAMINATION:  The patient was afebrile,
+vital signs stable.  His blood pressure was 150/65, sating
+98% on room air.  The patient was in no acute distress, was
+alert and oriented times three.  Pupils equal, round and
+reactive to light.  His oropharynx was clear, no signs of
+oropharyngeal trauma.  Neck was supple with occasional pain
+from his chronic neck pain problems.  [**Name (NI) **] lymphadenopathy.
+Lungs were clear to auscultation bilaterally, no wheezes,
+rales or rhonchi.  There was a regular rate with a III/VI
+systolic murmur at the right sternal border which was old.
+Abdomen was soft, nontender, nondistended, bowel sounds were
+active.  Pulses were 2+ in the lower extremities and upper
+extremities bilaterally.  The patient had 1+ deep tendon
+reflexes in the upper extremities, lower extremities
+bilaterally, 5/5 strength in the upper extremities, lower
+extremities bilaterally.  No rashes.  No edema.
+
+LABORATORY DATA:  White count was 1.6, hemoglobin 12.3,
+hematocrit 39.1, MCV 87, platelets 150.  Cerebrospinal fluid
+analysis showed 1 white blood cell, 4 red blood cells, 100%
+lymphocytes in Tube 4.  Chem-7 glucose was 95, BUN 20,
+creatinine .8, sodium 139, potassium 4.1, chloride 104,
+bicarbonate 23, calcium 8.4, phosphate 3.0, magnesium 1.7.
+Cerebrospinal fluid protein was 47 and glucose was 54, both
+were normal.  Urine culture was negative.  Cerebrospinal
+fluid culture was negative with no polymorphonuclear
+leukocytes and no microorganisms seen, no growth on culture.
+Chest x-ray was as above.  Electrocardiogram was sinus
+rhythm, left anterior vesicular block, left bundle branch
+block, old inferior infarct, no significant change from the
+last electrocardiogram.
+
+
+
+                            [**Doctor Last Name **] [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 5712**]
+
+Dictated By:[**Last Name (NamePattern1) 7942**]
+MEDQUIST36
+
+D:  [**2121-12-2**]  11:24
+T:  [**2121-12-2**]  11:36
+JOB#:  [**Job Number 101513**]

@@ -1,0 +1,258 @@
+Admission Date:  [**2125-6-19**]              Discharge Date:   [**2125-6-30**]
+
+Date of Birth:  [**2081-12-19**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Codeine / Haldol
+
+Attending:[**First Name3 (LF) 4691**]
+Chief Complaint:
+Motorcycle Crash
+
+Major Surgical or Invasive Procedure:
+[**2125-6-19**]
+PROCEDURES:
+1. Closed reduction right supracondylar femur fracture with
+    manipulation.
+2. Closed reduction right tibia fracture with manipulation.
+3. Application multi plantar external fixator to right
+    supracondylar femur fracture.
+4. Application multiplanar external fixator to right tibia
+    fracture.
+5. Washout and debridement open supracondylar femur
+    fracture down to and inclusive of bone.
+6. Washout and debridement open tibia fracture down to and
+    inclusive of bone.
+7. Closed treatment right great toe phalanx fracture.
+8. Washout and debridement open great toe phalanx fracture
+    to bone.
+9. Washout and closure complex laceration to left forearm
+    with the wound being approximately 30 cm in length.
+
+[**2125-6-21**]
+PROCEDURE:
+1. Removal of external fixator from tibia and femur.
+2. Irrigation and debridement down to inclusive of bone of
+    both tibial wounds.
+3. Open reduction internal fixation distal femur with
+    lateral plating via an open lateral exposure (modifier
+    22).
+4. Intramedullary nailing right tibia shaft comminuted
+    fracture.
+5. Complex wound closure open tibia wound.
+
+
+History of Present Illness:
+ 43year old male who was helmeted riding a motorcycle and hit a
+car. Unclear if he experienced any loss of conciousness. He was
+transferred from an OSH with for further management. He
+sustained a R comminuted midshaft tibia fracture a R comminuted
+distal femur fx, a R foot second and third metatarsal shaft
+fractures, comminuted proximal and distal phalanx fractures of
+great toe and a large lacerations with degloving of LUEx - no
+fractures on films.
+
+Past Medical History:
+Fibromyalgia
+Bipolar disorder
+Right knee "fracture" s/p bike accident as youth
+Left wrist fracture and repair
+"bleeding problem" as youth which resolved
+
+
+Social History:
+No Etoh
+
+Family History:
+Noncontributory
+
+Physical Exam:
+HR:130 O(2)Sat:98 normal
+
+Constitutional: Moderate to severe pain
+HEENT: Normocephalic, atraumatic, Pupils equal, round and
+reactive to light, Extraocular muscles intact
+Oropharynx within normal limits neck nontender
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft, Nontender abrasion across the abdomen
+Rectal: Heme Negative
+GU/Flank: No costovertebral angle tenderness
+Extr/Back: The right upper extremity which wound with
+exposed muscle. The left lower extremity and multiple large
+wound with exposed muscle and obvious deformity her knee
+vascular exam is intact both in the upper and lower
+extremities
+Skin: No rash
+Neuro: Speech fluent
+Psych: Normal mood
+Heme/[**Last Name (un) **]/[**Last Name (un) **]: No petechiae
+
+Pertinent Results:
+[**2125-6-19**] 09:46PM   GLUCOSE-173* UREA N-7 CREAT-1.3* SODIUM-144
+POTASSIUM-3.2* CHLORIDE-113* TOTAL CO2-23 ANION GAP-11
+[**2125-6-19**] 09:46PM   CALCIUM-8.1* PHOSPHATE-3.8 MAGNESIUM-1.6
+[**2125-6-19**] 09:46PM   WBC-27.9* RBC-3.41*# HGB-10.2*# HCT-30.3*#
+MCV-89 MCH-29.8 MCHC-33.6 RDW-13.5
+[**2125-6-19**] 09:46PM   PLT COUNT-310
+[**2125-6-19**] 04:50PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2125-6-19**] 04:50PM   WBC-41.8* RBC-4.76 HGB-14.0 HCT-42.2 MCV-89
+MCH-29.3 MCHC-33.1 RDW-13.2
+[**2125-6-19**] 04:50PM   PLT COUNT-421
+
+CXR ([**6-19**]):
+1. No acute cardiopulmonary pathology detected.
+2. Mild widening of the superior mediastinum likely relates to
+the low lung volumes. If there is continued clinical concern for
+acute aortic injury, a CT of the chest can be performed.
+
+CT Torso: 1. Non-displaced left fourth and sixth rib fractures,
+with associated ground-glass opacity in the left upper lobe
+adjacent to the fracture. This is non-specific and may represent
+contusion versus an area of inflammation. No pneumothorax or
+acute vascular injury detected.
+2. No acute traumatic injury identified in the abdomen and
+pelvis.
+3. No acute vascular injury detected in the right lower
+extremity
+runoff.
+4. Extensive right lower extremity fractures, without evidence
+of
+vascular injury. Open comminuted right tibial and fibular
+fracture.
+
+
+Brief Hospital Course:
+Pt was seen and resuscitated in the trauma bay. His primary
+survey was unremarkable and secondary survey revealed a nearly
+amputated RLE at the level of the ankle/mid tibia, as well as
+two lacerations on the LUE, each approx 5-6cm. Orthopedics and
+Plastic Surgery were consulted to the trauma bay for management
+of these two injuries respectively. He required one unit pRBCs
+during his resuscitation. The patient did still have a
+dopplerable pulse in the RLE, and was taken immediately to the
+OR for preliminary stabilization of the associated fractures in
+an attempt to salvage this extremity. His forearm lacerations
+were repaired concurrently.  The patient was followed for these
+injuries and admitted to the trauma service for management. He
+was progressing well with an open right tib fib injury that had
+already been stabilized, but continued to have unstable
+hematocrits, requiring multiple additional transfusions. No
+source outside of the RLE could be identified, so the bleeding
+was assumed to be from his lower extremity injuries.
+
+During the patients recovery on the floor he developed acute
+mental status changes . A head CT was obtained with no acute
+changes. He was given Haldol for agitation and acutely developed
+fever to 103F. A diagnosis of Neuroleptic Malignant Syndrome was
+presumed and he was transferred to the SICU for management. He
+was also noted with high urine output and hypernatremia; of note
+he has a history of bipolar disorder and has been on lithium.
+Psychiatry became involved and his Lithium and other psychiatric
+meds were withheld. His Na did normalize and was 141 at time of
+discharge. His psychiatric meds were recommended to be slowed
+restarted. All of his other potentially offending medications
+were held and he was followed in the ICU until his fevers
+resolved and his mental status improved.
+
+Following this, the patient was transferred to the floor for
+further management. He was evaluated by Psychiatry for
+recommendations regarding his home psych meds and they were
+resumed at lower doses in order to assess his response. At time
+of this dictation he is tolerating these initial doses and
+should be increased to his home dose once continued stabilized
+while at rehab.
+
+He did have significant pain control issues requiring initially
+higher doses of his narcotics. He was started on Methadone 10 mg
+[**Hospital1 **] to manage his acute pain issues and is also receiving
+Dilaudid po prn for breakthrough pain.
+
+He was evaluated by Physical therapy and is being recommended
+for rehab after his acute hospital stay.
+
+Medications on Admission:
+Lithium
+Percocet
+
+Discharge Medications:
+1. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as
+needed for pain: apply over.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+4. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for constipation.
+5. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+6. Silver Sulfadiazine 1 % Cream Sig: One (1) Appl Topical DAILY
+(Daily): apply to right distal tibil region.
+7. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every [**3-27**]
+hours as needed for fever or pain.
+11. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ML
+Injection TID (3 times a day).
+12. Methadone 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day): for pain control.
+13. Perphenazine 2 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): home medication.
+14. Lithium Carbonate 300 mg Capsule Sig: One (1) Capsule PO
+DAILY (Daily).
+15. Lithium Carbonate 300 mg Capsule Sig: Two (2) Capsule PO HS
+(at bedtime): home medication.
+16. Amiloride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+please administer with a.m. Lithium dose.
+17. Hydromorphone 4 mg Tablet Sig: 1 - 1 [**12-23**] Tablet PO Q3H
+(every 3 hours) as needed for pain.
+18. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+19. Magnesium Citrate     Solution Sig: Three Hundred (300) ML
+PO once a day as needed for constipation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 **] Cape & Islands
+
+Discharge Diagnosis:
+s/p Motorcycle crash
+Left upper extremity open lacerations
+Non- displaced left 4th & 6th rib fractures
+Right Tibia & Fibula fractures
+Malignant neuroleptic syndrome
+Diabetes Insipidus
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+Discharge Instructions:
+*
+
+Followup Instructions:
+Follow up next week in Plastics Hand Clinic, call [**Telephone/Fax (1) 3009**]
+for an appointment.
+
+Follow up in 2 weeks with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], [**MD Number(3) 85162**] Trauma,
+call [**Telephone/Fax (1) 1228**] for an appointment.
+
+Follow up in 2 weeks in [**Hospital 2536**] clinic for evlaution of your rib
+fractures; call [**Telephone/Fax (1) 600**] for an appointment.
+
+
+Completed by:[**2125-7-4**]

@@ -1,0 +1,191 @@
+T1	Drug 2304 2315	Carboplatin
+T2	Drug 7810 7820	vancomycin
+T3	Drug 2563 2573	paclitaxel
+T4	Strength 2574 2579;2579 2582	50 mg /m2
+T5	Drug 2180 2191	carboplatin
+T6	Drug 10761 10771	olanzapine
+T7	Drug 10562 10570	atenolol
+T8	Strength 10571 10577	100 mg
+T9	Drug 7822 7830	cefepime
+T10	Drug 8975 8983	morphine
+T11	Drug 2192 2202	paclitaxel
+T12	Drug 2322 2332	paclitaxel
+T13	Strength 2333 2338;2338 2341	50 mg /m2
+T14	Drug 9619 9626	aspirin
+T15	Strength 9627 9632	325mg
+T16	Drug 2626 2637	Carboplatin
+T17	Drug 10005 10013	morphine
+T18	Drug 919 926	Aspirin
+T19	Drug 409 419	paclitaxel
+T20	Drug 7835 7847	levofloxacin
+T21	Drug 10398 10406	morphine
+T22	Drug 8863 8871	morphine
+T23	Drug 2464 2475	Carboplatin
+T24	Drug 10789 10813	prochlorperazine maleate
+T25	Strength 10814 10819	10 mg
+T26	Form 10820 10826	Tablet
+T27	Frequency 10827 10829;10830 10833	q6 PRN
+T28	Drug 2545 2556	Carboplatin
+T29	Drug 554 565	Carboplatin
+T30	Drug 8876 8897	albuterol/ipratropium
+T31	Drug 2224 2235	Carboplatin
+T32	Drug 2482 2492	paclitaxel
+T33	Strength 2493 2498;2498 2501	50 mg /m2
+T34	Drug 10675 10685	fluoxetine
+T35	Strength 10686 10691	40 mg
+T36	Drug 180 186	Ativan
+T37	Form 8898 8908	nebulizers
+T38	Drug 572 582	paclitaxel
+T39	Drug 2242 2252	paclitaxel
+T40	Strength 2253 2258;2258 2261	50 mg /m2
+T41	Drug 2402 2412	paclitaxel
+T42	Strength 2413 2418;2418 2421	50 mg /m2
+T43	Drug 397 408	carboplatin
+T44	Drug 2384 2395	Carboplatin
+T45	Drug 10451 10459	morphine
+T46	Drug 2644 2654	paclitaxel
+T47	Strength 2655 2660;2660 2663	50 mg /m2
+T48	Form 11012 11021	Mouthwash
+T49	Drug 10584 10596	atorvastatin
+T50	Strength 10597 10602	20 mg
+T51	Drug 9817 9827	olanzapine
+T52	Drug 10917 10936	lidocaine-diphenhyd
+T53	Strength 10740 10746	0.3 mg
+T54	Form 10747 10753	Tablet
+T55	Drug 10726 10738;10738 10739	nitroglyceri n
+T56	Drug 9705 9712	aspirin
+T57	Drug 10474 10482	morphine
+T58	Drug 9965 9975	olanzapine
+T59	Strength 10619 10623	4 mg
+T60	Form 10644 10650	Tablet
+T61	Route 10651 10653	PO
+T62	Drug 10609 10617;10617 10618	doxazosi n
+T63	Drug 9079 9087	morphine
+T64	Drug 8568 8575	bactrim
+T65	Reason 8527 8530;8531 8540	PCP pneumonia
+T66	Reason 10028 10035	comfort
+T67	Reason 11095 11099	pain
+T68	Drug 166 177	Penicillins
+T69	Strength 583 585;586 591	50 mg/m2
+T70	Drug 860 875	magic mouthwash
+T71	Reason 790 823	radiation-induced mid-esophagitis
+T72	Reason 7796 7805	pneumonia
+T73	Drug 8323 8331	steroids
+T74	Reason 8341 8350;8351 8362	radiation pneumonitis
+T75	Reason 8824 8857	controlling tachypnea and dyspnea
+T76	Reason 8998 9023	assistance with breathing
+T77	Frequency 8984 8993	as needed
+T78	Route 9088 9092	drip
+T79	Strength 9889 9893	15mg
+T80	Frequency 9894 9897	qHS
+T81	Strength 9976 9980	10mg
+T82	Frequency 9981 9984	qHS
+T83	Frequency 10014 10023	as needed
+T84	Dosage 10407 10414	boluses
+T85	Dosage 10460 10467	boluses
+T86	Route 10483 10487	drip
+T87	Frequency 10578 10580	qd
+T88	Frequency 10603 10605	qd
+T89	Dosage 10636 10643	One (1)
+T90	Frequency 10654 10669	HS (at bedtime)
+T91	Frequency 10692 10694	qd
+T92	Drug 10698 10711	levothyroxine
+T93	Strength 10712 10719	175 mcg
+T94	Frequency 10720 10722	qd
+T95	Frequency 10782 10785	qHS
+T96	Drug 10837 10860	triamcinolone acetonide
+T97	Strength 10861 10866	0.1 %
+T98	Form 10867 10875	Ointment
+T99	Drug 10897 10909	multivitamin
+T100	Frequency 10910 10912	qd
+T101	Strength 10989 11011	200-25-400-40 mg/30 mL
+T102	Dosage 11027 11043	One (1) teaspoon
+T103	Frequency 11060 11074;11075 11090	every four (4) hours as needed
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Strength-Drug Arg1:T8 Arg2:T7
+R3	Strength-Drug Arg1:T13 Arg2:T12
+R4	Strength-Drug Arg1:T15 Arg2:T14
+R5	Strength-Drug Arg1:T25 Arg2:T24
+R6	Form-Drug Arg1:T26 Arg2:T24
+R7	Frequency-Drug Arg1:T27 Arg2:T24
+R8	Strength-Drug Arg1:T33 Arg2:T32
+R9	Strength-Drug Arg1:T35 Arg2:T34
+R10	Form-Drug Arg1:T37 Arg2:T30
+R11	Strength-Drug Arg1:T40 Arg2:T39
+R12	Strength-Drug Arg1:T42 Arg2:T41
+R13	Strength-Drug Arg1:T47 Arg2:T46
+R14	Strength-Drug Arg1:T50 Arg2:T49
+R15	Strength-Drug Arg1:T53 Arg2:T55
+R16	Form-Drug Arg1:T54 Arg2:T55
+R17	Strength-Drug Arg1:T59 Arg2:T62
+R18	Form-Drug Arg1:T60 Arg2:T62
+R19	Route-Drug Arg1:T61 Arg2:T62
+R20	Strength-Drug Arg1:T69 Arg2:T38
+R21	Reason-Drug Arg1:T71 Arg2:T70
+R22	Reason-Drug Arg1:T72 Arg2:T20
+R23	Reason-Drug Arg1:T72 Arg2:T9
+R24	Reason-Drug Arg1:T72 Arg2:T2
+R25	Reason-Drug Arg1:T74 Arg2:T73
+R26	Reason-Drug Arg1:T65 Arg2:T64
+R27	Reason-Drug Arg1:T75 Arg2:T30
+R28	Reason-Drug Arg1:T75 Arg2:T22
+R29	Reason-Drug Arg1:T76 Arg2:T10
+R30	Frequency-Drug Arg1:T77 Arg2:T10
+R31	Route-Drug Arg1:T78 Arg2:T63
+R32	Frequency-Drug Arg1:T80 Arg2:T51
+R33	Strength-Drug Arg1:T79 Arg2:T51
+R34	Frequency-Drug Arg1:T82 Arg2:T58
+R35	Strength-Drug Arg1:T81 Arg2:T58
+R36	Frequency-Drug Arg1:T83 Arg2:T17
+R37	Reason-Drug Arg1:T66 Arg2:T17
+R38	Dosage-Drug Arg1:T84 Arg2:T21
+R39	Dosage-Drug Arg1:T85 Arg2:T45
+R40	Route-Drug Arg1:T86 Arg2:T57
+R41	Frequency-Drug Arg1:T88 Arg2:T49
+R42	Frequency-Drug Arg1:T87 Arg2:T7
+R43	Frequency-Drug Arg1:T90 Arg2:T62
+R44	Dosage-Drug Arg1:T89 Arg2:T62
+R45	Frequency-Drug Arg1:T95 Arg2:T6
+R46	Frequency-Drug Arg1:T94 Arg2:T92
+R47	Strength-Drug Arg1:T93 Arg2:T92
+R48	Frequency-Drug Arg1:T91 Arg2:T34
+R49	Form-Drug Arg1:T98 Arg2:T96
+R50	Strength-Drug Arg1:T97 Arg2:T96
+R51	Frequency-Drug Arg1:T100 Arg2:T99
+R52	Strength-Drug Arg1:T101 Arg2:T52
+T104	Drug 3283 3287	pack
+T105	Drug 1257 1262	fluid
+T106	Form 1263 1270	boluses
+T107	Drug 8649 8653;8654 8660	Beta glucan
+T109	Reason 9871 9876	sleep
+T110	Reason 351 371	NSCLC adenocarcinoma
+T111	Dosage 420 422	x6
+T112	Drug 514 526	chemotherapy
+T113	Drug 8578 8586	Steroids
+T114	Reason 8609 8612	PCP
+T115	Drug 8767 8775	steroids
+T116	Drug 9507 9510	TPA
+T118	Reason 9734 9742	Insomnia
+T119	Reason 10349 10376	increased work of breathing
+T120	Form 10624 10630	Tablet
+T121	Frequency 10754 10757	prn
+T122	Route 11044 11059	Mucous membrane
+R53	Reason-Drug Arg1:T114 Arg2:T113
+R54	Form-Drug Arg1:T106 Arg2:T105
+R55	Reason-Drug Arg1:T110 Arg2:T43	
+R56	Reason-Drug Arg1:T110 Arg2:T19	
+R57	Dosage-Drug Arg1:T111 Arg2:T19	
+R58	Dosage-Drug Arg1:T111 Arg2:T43	
+R59	Reason-Drug Arg1:T118 Arg2:T51	
+R60	Reason-Drug Arg1:T109 Arg2:T51	
+R61	Reason-Drug Arg1:T119 Arg2:T21	
+R62	Form-Drug Arg1:T120 Arg2:T62	
+R63	Frequency-Drug Arg1:T121 Arg2:T55	
+R64	Form-Drug Arg1:T48 Arg2:T52	
+R65	Dosage-Drug Arg1:T102 Arg2:T52	
+R66	Route-Drug Arg1:T122 Arg2:T52	
+R67	Frequency-Drug Arg1:T103 Arg2:T52	
+R68	Reason-Drug Arg1:T67 Arg2:T52
+T108	Drug 7246 7254	contrast
+T117	Route 7243 7245	IV
+R69	Route-Drug Arg1:T117 Arg2:T108	

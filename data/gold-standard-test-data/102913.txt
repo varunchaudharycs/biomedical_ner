@@ -1,0 +1,406 @@
+Admission Date:  [**2120-6-17**]              Discharge Date:   [**2120-6-25**]
+
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1515**]
+Chief Complaint:
+worsening shortness of breath
+
+Major Surgical or Invasive Procedure:
+percutaneouos aortic valve replacement (CoreValve)
+pacemaker placement
+
+
+History of Present Illness:
+This [**Age over 90 **] year old patient with a history of prior CABG has been
+experiencing fatigue and severe shortness of breath with minimal
+activity, which is new over the last few months. He denies any
+symptoms occurring at rest. He denies any chest pain. He denies
+claudication, orthopnea, pnd, lightheadedness  or lower
+extremity edema. He was seen by Dr. [**Last Name (STitle) 59323**] who referred him
+for an echocardiogram. This revealed worsening of his aortic
+stenosis. He was seen and [**Last Name (STitle) 6349**] and was deemed appropriate
+for TAVI/CoreValve placement.
+NYHA Class:II
+
+Past Medical History:
+PMH:
+CAD, s/p inferior, posterior MI,
+s/p CABG x 4 in [**8-/2113**](SVG/OM, Diag, PLB, and LIMA to LAD)
+Pancreatitis post CABG
+S/P Cholescystectomy in [**10/2113**]
+S/P cataract extraction OD
+S/P right carpal tunnel release
+S/P right knee arthroscopy
+S/P Upper GI scope with gastric biopsy, esophageal biopsy, and
+balloon dilatation in [**4-/2116**]
+H/O diverticulosis
+H/O GIB S/P right hemicolectomy  (17 units of blood)
+H/O right carotid bruit
+H/O NSVT
+Hypertension
+Hyperlipidemia
+Chronic renal failure
+Mitral regurgitation
+Depression
+Insomnia
+Hearing impaired
+Polymyalgia rheumatica- on Prednisone
+Arthritis
+BPH s/p TURP
+
+Past Surgical History:
+S/P Cholescystectomy in [**10/2113**]
+S/P cataract extraction OD
+S/P right carpal tunnel release
+S/P right knee arthroscopy
+s/p TURP
+s/p R hemicolectomy
+s/p CABGx4 (SVG/OM, Diag, PLB, and LIMA to LAD) [**8-25**]
+
+Social History:
+SOCIAL HISTORY: Pt lives alone independently in a [**Doctor Last Name **] house in
+NH. He plans to stay with his daughter, [**Name (NI) **] after discharge.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 37190**] (dtr)[**Telephone/Fax (1) 82471**]
+[**Doctor First Name **] (dtr-in-law) [**Telephone/Fax (1) 82472**]
+Lives with: lives alone
+Occupation: retired GE tester (jet engines)
+Tobacco: 1/2ppd x 15yrs - quit 60yrs ago
+ETOH: none
+
+
+Family History:
+Longevity (sisters x 2 deceased age [**Age over 90 **])
+
+
+Physical Exam:
+ADMISSION EXAM
+Pulse: 65
+B/P: 146/65
+Resp: 18
+O2 Sat:
+Temp: 97.1
+General: Alert hard of hearing pleasant elderly gentleman in NAD
+at rest, spleaking comfortably.
+Skin: Color pale pink, turgor fair. No ulcerations, no lesions.
+HEENT: Normocephalic, anicteric. Oropharynx moist. Conjunctiva
+pale pink. Lower partials.
+Neck: Neck supple, trachea midline. Bilat carotid bruit vs.
+referred murmer. JVD.
+Chest: Well healed sternal incision. No obvious deformity.
+Heart: RRR. V/VI murmer throughout
+Abdomen: soft, nontender, nondistended, (+)bowel sounds all quad
+Extremities: No hair growth below knees. Trace pedal edema
+bilat.
+Neuro: Alert and oriented, mildly anxious. Gross FROM. OOB, gait
+steady.
+Pulses: [**12-24**]+ palpable peripheral pulses throughout
+
+DISCHARGE EXAM
+VITALS: Temp current: 98.7 HR: 75-95 RR: 18  BP: 126-147/60s  O2
+Sat: 100% RA
+General: resting comfortably in bed, NAD
+HEENT: Oropharynx moist.
+Neck: Neck supple.
+Chest: Well healed sternal incision. No obvious deformity. Skin
+[**Month/Day (2) 1994**] from tape removal center chest, dressing not removed for
+exam. Lungs CTA bilaterally with good air entry.
+Heart: RRR, paradoxical split S2.
+Abdomen: soft, nontender, nondistended, (+)bowel sounds all
+quad.
+Well healed surgical scar.
+Extremities: No hair growth below knees. No pedal edema. Small
+(nickel-sized) right groin hematoma, mildly TTP. Palpable DP
+pulses.
+Neuro: Alert and oriented, mildly anxious. Gross FROM. OOB, gait
+steady.
+Skin: Color pink, skin warm and dry. Heels and sacrum intact.
+
+
+Pertinent Results:
+Admission labs
+[**2120-6-17**] WBC-7.8 RBC-3.19* Hgb-11.2* Hct-31.4* MCV-99* MCH-35.1*
+MCHC-35.7* RDW-16.3* Plt Ct-189
+PT-13.7* PTT-22.6 INR(PT)-1.2*
+Glucose-121* UreaN-34* Creat-1.5* Na-143 K-4.7 Cl-109* HCO3-26
+AnGap-13
+Albumin-4.0
+Calcium-9.0 Phos-2.9 Mg-2.0
+%HbA1c-5.7 eAG-117
+ALT-18 AST-37 CK(CPK)-29* AlkPhos-40 TotBili-0.9
+CK-MB-3 proBNP-2320*
+
+Discharge labs:
+[**2120-6-25**] WBC-9.4 RBC-2.78* Hgb-9.2* Hct-27.6* MCV-99* MCH-33.1*
+MCHC-33.3 RDW-15.8* Plt Ct-240
+PT-13.5* PTT-25.0 INR(PT)-1.2*
+Glucose-92 UreaN-29* Creat-1.4* Na-142 K-4.1 Cl-108 HCO3-24
+AnGap-14
+Calcium-8.4 Phos-2.5* Mg-1.9
+proBNP-2338*
+
+Imaging
+ECG: ([**6-17**])
+Sinus rhythm. Right bundle-branch block. Left anterior
+fascicular block.
+Inferolateral lead ST-T wave changes are primary and
+non-specific. Since the previous tracing of [**2120-5-17**]
+inferolateral lead ST-T wave changes appear less prominent.
+.
+ECHO ([**6-18**])
+PRE VALVE DEPLOYMENT The left atrium is dilated. No spontaneous
+echo contrast or thrombus is seen in the body of the left atrium
+or left atrial appendage. A patent foramen ovale is present. A
+left-to-right shunt across the interatrial septum is seen at
+rest. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. There is moderate
+regional left ventricular systolic dysfunction with severe
+inferior, inferolateral, and inferoseptal hypokinesis. The
+remaining myocardial segments are mildly, globally depressed.
+The right ventricle displays mild global free wall hypokinesis.
+The descending thoracic aorta is mildly dilated. There are
+simple atheroma in the descending thoracic aorta. There are
+three aortic valve leaflets. The aortic valve leaflets are
+severely thickened/deformed. There is critical aortic valve
+stenosis (valve area <0.8cm2). Mild to moderate ([**12-24**]+) aortic
+regurgitation is seen. The mitral valve leaflets are moderately
+thickened. There is more significant calcification of the base
+of the posterior mitral leaflet and posterior mitral annulus.
+Mild to moderate ([**12-24**]+) mitral regurgitation is seen. There is a
+trivial/physiologic pericardial effusion.
+.
+POST VALVE DEPLOYMENT At initail deployment, the patient
+developed near cardiac arrest with right ventricular akinesis.
+The aortic valve was quickly replaced and epinephrine was given
+with resolution of right ventricular failure. The right
+ventriclular function then returned to the pre-deployment state.
+The mitral regurgitation was worsened and severe immediately
+after this event but after valve replacement returned to
+baseline (mild to moderate). The aortic valve and supporting
+structure is in situ. The leaflets can be seen moving. The
+maximum gradient across the valve was 7 mmHg with a mean of 4
+mmHg. There is mild aortic regurgitation with two paravalvular
+jets seen.
+.
+ECG ([**6-18**])
+Sinus rhythm with atrial sensed and ventricular paced rhythm.
+Since the
+previous tracing of the same date ventricular paced rhythm is
+now present.
+TRACING #2
+.
+CXR ([**6-18**])
+A CoreValve is in place. The left-sided pacemaker with the leads
+terminating at right atrium and right ventricle is noted. Lungs
+are essentially clear. Heart size and mediastinal silhouette are
+stable. There is no pleural effusion or pneumothorax noted.
+.
+ECHO ([**6-20**])
+The left atrium is mildly dilated. There is mild symmetric left
+ventricular hypertrophy. Overall left ventricular systolic
+function is moderately depressed (LVEF= 35 %) secondary to
+jypokinesis of the inferior septum, inferior free wall, and
+posterior wall. The right ventricular free wall is
+hypertrophied. Right ventricular chamber size is normal. with
+borderline normal free wall function. An aortic CoreValve
+prosthesis is present. A paravalvular aortic valve leak
+(trace-to-mild) is probably present. The mitral valve leaflets
+are mildly thickened. There is no mitral valve prolapse. Mild to
+moderate ([**12-24**]+) mitral regurgitation is seen. [Due to acoustic
+shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] There is borderline pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+
+.
+CXR ([**6-20**])
+IMPRESSION: Very satisfactory postoperative situation. Permanent
+pacer with two intracavitary electrodes in unremarkable
+position. No pneumothorax identified.
+.
+ECHO ([**6-25**])
+The left atrium is moderately dilated. There is moderate
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. There is mild regional left ventricular
+systolic dysfunction with basal inferoseptal, inferior, and
+inferolateral akinesis. Right ventricular chamber size and free
+wall motion are normal. An aortic CoreValve prosthesis is
+present and appears well-seated. The transaortic gradient is
+normal for this prosthesis. Mild (1+) aortic regurgitation is
+seen (probably paravalvular). The mitral valve leaflets are
+mildly thickened. Moderate (2+) mitral regurgitation is seen.
+Moderate [2+] tricuspid regurgitation is seen. There is no
+pericardial effusion.
+.
+Compared with the prior study (images reviewed) of [**2120-6-20**],
+left ventricular systolic function appears similar. Left
+ventricular ejection fraction may have been slightly
+underestimated in the prior report. Estimated pulmonary artery
+systolic pressure is now higher. Mitral regurgitation is now
+more prominent. Tricuspid regurgitation is now more prominent.
+.
+ECG ([**6-25**])
+Ventricular paced rhythm at a rate of 80 beats per minute. No
+diagnostic
+change compared to previous tracing.
+
+
+Brief Hospital Course:
+Pt is a [**Age over 90 **]yo M with a PMH significant for critical AS, CABG x4
+and MR [**First Name (Titles) **] [**Last Name (Titles) 82473**] for percutaneous aortic valve
+replacement with CoreValve device.
+
+#1 Severe symptomatic aortic stenosis s/p CoreValve [**6-18**]:
+At initail deployment, the patient developed near cardiac arrest
+with right ventricular akinesis. The aortic valve was quickly
+replaced and epinephrine was given with resolution of right
+ventricular failure. The right ventriclular function then
+returned to the pre-deployment state. The mitral regurgitation
+was worsened and severe immediately after this event but after
+valve replacement returned to baseline (mild to moderate).
+Perioperative permanent pacemaker placed following occlusion of
+RCA, has right BBB and paced beats. ECHO shows good valve
+placement and mild perivalvular leak. One unit PRBC given post
+procedure for low hct. Pt will need aspirin and Plavix for a
+total of 3 months and will follow up with Dr. [**Last Name (STitle) **] and [**First Name4 (NamePattern1) 1022**]
+[**Last Name (NamePattern1) 32655**] NP for routine post procedure care.
+.
+#2 Complete Heart Block during CoreValve placement: common
+occurance in patients with right bundle branch block. A
+[**Company 1543**] DDD pacemaker model Sensia SEDR01,
+serial number [**Serial Number 82474**]. One week wound check and
+interrogation occurred while pt was still hospitalized and pt
+will need to f/u every 6 months for a pacemaker check.
+
+#3 CAD: s/p CABG x 4 ([**2112**]). Bypass graft angiography
+demonstrates  the vein graft to the obtuse marginal and the LIMA
+to LAD to be  patent, however during CoreValve procedure the RCA
+graft was TO. Pt had no significant chest pain during
+hospitalization and was discharged on home aspirin, plavix,
+metoprolol and Lipitor.
+.
+#4 Chronic Systolic Dysfunction: EF 35%. Appeared euvolemic at
+discharge.
+Had not been on ACEi [**1-24**] AS and [**Last Name (un) **]. Would consider starting low
+dose ACEi as outpatient. Started Lasix 20 mg PO for inc TR
+gradient.
+.
+# Diarrhea. Possibly due to antibiotics and bowel regimen. No
+fever or leukocytosis. Resolved at discharge.
+.
+# Skin [**Last Name (un) 1994**]. Likely secondary to prednisone. Mild serosanguinous
+oozing at site. Wound nurse [**First Name (Titles) 6349**] [**Last Name (Titles) 1994**] and wrote
+recommendations to VNA for dressing.
+.
+#. Polymyalgia Rheumatica: On chronic steroids at home,
+continued in hospital.
+.
+#. CKD: baseline creatinine 1.5. Increased to 1.6, possibly
+secondary to intravascular depletion from diuresis/diarrhea. Pt
+will have his labs rechecked as an outpatient.
+
+
+
+Medications on Admission:
+atenolol 25mg daily
+aspirin 81mg daily
+lipitor 10mg QOD (every other am)
+prednisone 10mg daily
+tamulosiin SR 0.4mg qevening
+multivitamin 1 tab daily
+fish oil capsule 1000mg twice a day
+systane lubricant eye drops 1gtt TID
+
+Discharge Medications:
+1. Outpatient Lab Work
+Please check Chem-7 and CBC on Thursday [**6-27**] with results to [**First Name5 (NamePattern1) 1022**]
+[**Last Name (NamePattern1) 32655**] at [**Telephone/Fax (1) 32656**] fax and [**Telephone/Fax (1) 79809**] phone
+2. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig:
+1.5 Tablet Extended Release 24 hrs PO once a day.
+Disp:*45 Tablet Extended Release 24 hr(s)* Refills:*2*
+3. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO QODHS (every
+other day (at bedtime)).
+5. prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+7. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. omega-3 fatty acids     Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+9. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 1519**]
+
+Discharge Diagnosis:
+Aortic Stenosis
+Acute Systolic Dysfunction, no ACE/[**Last Name (un) **] [**1-24**] acute kidney injury
+Hypertension
+Anemia
+Complete heart block
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You had a percutaneous replacement of your aortic valve with a
+CoreValve bioprosthetic valve. You will need to take asprin and
+Plavix for 3 months to prevent blood clots around the valve. Do
+not stop taking aspirin and Plavix unless Dr. [**Last Name (STitle) **] tells you it
+is OK to do so. You also needed a pacemaker after the procedure
+for a slow heart rhythm, you will need to see Dr. [**Last Name (STitle) 11250**] and
+an electrophysiology doctor [**First Name (Titles) **] [**Location (un) 3844**] to have the
+pacemaker checked every 6 months. No lifting more than 5 pounds
+with your left arm or lift your left arm over your head for 6
+weeks. There are no activity restrictions for your right arm.
+You can shower when you get home. You needed a blood transfusion
+for anemia, your blood count is better now. You heart is
+slightly weaker now than before. You need to watch your salt
+intake and take all of your medicines daily. Information
+regarding your medicines and diet was discussed with you before
+discharge.
+Weigh yourself every morning, call Dr.[**Last Name (STitle) 11250**] if weight goes
+up more than 3 lbs in 1 day or 5 pounds in 3 days.
+.
+We made the following changes to your medicines:
+1. Stop taking Atenolol, take metoprolol instead to lower your
+heart rate and help your heart pump better
+2. Start taking plavix every day to prevent blood clots on the
+new valve.
+
+
+Followup Instructions:
+Department: CARDIAC SERVICES
+When: THURSDAY [**2120-7-18**] at 3:00 PM
+With: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+You will have an Echocardiogram at the same time as this appt.
+.
+PCP
+
+Name: AUNG,THET H
+Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 77486**]
+Phone: [**Telephone/Fax (1) 77350**]
+Appointment: Thursday [**2120-6-27**] 11:30am
+
+
+
+Completed by:[**2120-6-29**]

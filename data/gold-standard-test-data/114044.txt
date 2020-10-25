@@ -1,0 +1,355 @@
+Admission Date:  [**2101-9-6**]              Discharge Date:   [**2101-9-13**]
+
+Date of Birth:  [**2055-6-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3565**]
+Chief Complaint:
+hypotension and ascites
+
+Major Surgical or Invasive Procedure:
+Abdominal Paracentesis (8.8 and 8.11)
+
+History of Present Illness:
+Mr. [**Known lastname 59304**] is a 46-year-old male with metastatic renal cell
+carcinoma now on axitinib therapy for ~5 weeks, admitted
+[**Date range (1) 91600**] with anemia, malignant ascites and treated with
+3L therapeutic paracentesis 2 wks ago and noted to have disease
+progression on CT. Patient presented from cliic with hypotension
+(SBP 70s). He had acutely worsening sharp diffuse abdominal pain
+that is worse with movement the night prior to admission.  The
+morning of admission he felt weak and dizzy.  He had two episoes
+of vomiting; one prior to admission which was bilious and one
+while in the ED that had small amount of blood.  He also reports
+decreased PO intake over the past several days secondary to
+feeling consipated and bloated.  His last bowel movement was two
+days prior to admission. He denies any fever, cough, dyspnea,
+chest pain, rash.
+
+Of note, has also been on steroid taper (previously on dex 1 mg
+qdaily, now tapered to 0.5mg every other day).
+
+In the ED, initial VS were:  97.7 104 94/54 17 97%RA.
+Examination was notable for a distended, tender, non-rigid
+abdomen with guarding. Got 100 hydrocortisone, 2L NS, and
+Albumin 5% (12.5g / 250mL) x1. Dilaudid 1mg x3 given for pain
+control. Bladder scan showed > 800 cc and patient unable to
+void; foley placed with 35 cc UOP, likely that bladder saw
+ascites not urine. Foley placement verified by ultrasound.
+Diagnostic paracentesis performed.  Patient was started on
+ceftriaxone 1g, vancomycin 1g, azithromycin 500mg and blood,
+urine, ascites cx sent.
+
+On transfer, VS were:
+97.2 103 87/57 20 99% 4L
+
+On arrival to the MICU, patient's VS.  98.1, 100, 96/59, 18, 98%
+RA
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies shortness of breath, cough, dyspnea or
+wheezing. Denies chest pain, chest pressure, palpitations.
+Denies diarrhea, dark or bloody stools. Denies dysuria,
+frequency, or urgency. Denies arthralgias or myalgias. Denies
+rashes or skin changes.
+
+
+
+Past Medical History:
+Oncologic History:
+Mr. [**Known lastname 59304**] presented to his PCP in [**2100-10-30**] for routine
+physical exam and reported he had some left lower quadrant
+abdominal discomfort. He was referred to a surgeon for
+questionable hernia with CT scan on [**2100-11-18**] revealing a left
+kidney mass measuring 9 x 7.5 cm, with a larger exophytic
+component measuring approximately 12 cm abutting the abdominal
+wall.  He also had periaortic lymphadenopathy and pulmonary
+nodules. He was referred here for further management. Plain film
+of the left femur was done due to pain, revealing a lytic
+lesion. He was referred to Dr. [**First Name (STitle) 4223**] in orthopedics with plan
+for left femur surgery in the future. She obtained plain films
+of the right wrist due to pain and another lytic lesion was
+noted in the distal ulna. Bone scan on [**2100-12-6**] revealed
+widespread bony disease. Zometa was initiated on [**2100-12-7**]. He
+underwent open radical left nephrectomy on [**2100-12-17**] by Dr.
+[**Last Name (STitle) 3748**]. At the time of surgery, there was significant
+progression of disease with extension of tumor into the colon
+and mesentery, requiring left colectomy and small bowel
+resection. Pathology confirmed renal cell carcinoma, clear cell
+histology, [**Last Name (un) 19076**] grade 2 with lymphovascular invasion and 4
+positive lymph nodes. He underwent excision and curettage of
+left distal femur lesion and prophylactic fixation with a
+combination of cement, plate, and screws on [**2101-1-5**] by Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 4223**]. He developed increased right wrist pain and was found
+to have a pathologic fracture of the distal ulna on [**2101-1-17**]. He
+underwent radiation therapy to the right wrist, left shoulder
+and left femur at the [**Location (un) **] [**Hospital 5028**] Cancer Center.
+Right heel MRI on [**2101-2-28**] demonstrated a metastatic bony lesion
+and he received radiation to that site, completing on [**2101-3-18**].
+He also had radiation to the left tibia and L3 region. He
+developed a pathologic fracture of the left
+proximal humerus on [**2101-4-25**], managed with splinting. He was
+admitted [**Date range (3) 91600**] with anemia, ascites and disease
+progression noted on CT including lung/liver/peritoneam
+metastases.
+
+1.  RCC - as above
+2.  Hypertension.
+3.  Hypercholesterolemia.
+4.  Anxiety -- has prior history of panic attacks.
+5.  Migraines.
+6.  Seasonal allergies.
+7.  s/p XRT to L3 lesion
+8.  Right humerus pathologic fracture
+
+Social History:
+Divorced and lives in [**Location **]. He has two daughters ages 8 and 11. He
+works as a firefighter and EMT.  No smoking.  He drinks alcohol
+socially.  Denies illicit drug use.  Brother [**Name (NI) **] is HCP.
+
+
+Family History:
+No history of renal cell carcinoma or other cancers.  His mother
+died of a cardiac arrest with no significant cardiac history at
+age 66.  Grandmother died of a stroke and coronary artery
+disease in her 80s.  He has a brother who is alive and well.
+His biological father died when he was age 12 and he does not
+know his medical history.
+
+Physical Exam:
+ADMITTING EXAM
+97.2 103 87/57 20 99% 4L
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: tachycardic regular rhythm, normal S1 + S2, no murmurs,
+rubs, gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: distended, flank dullness to percusion, bowel sounds
+present, diffusely tender to palpation, no rebound or guarding
+GU: no foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, gait deferred, no asterixis
+
+
+Pertinent Results:
+ADMITTING LABS
+
+[**2101-9-6**] 02:10PM   UREA N-44* CREAT-2.9*# SODIUM-132*
+POTASSIUM-5.8* CHLORIDE-91* TOTAL CO2-24 ANION GAP-23*
+[**2101-9-6**] 02:10PM   ALT(SGPT)-17 AST(SGOT)-19 LD(LDH)-205 ALK
+PHOS-162* TOT BILI-0.3
+[**2101-9-6**] 02:10PM   LIPASE-7
+[**2101-9-6**] 02:10PM   ALBUMIN-2.5* CALCIUM-9.0 PHOSPHATE-5.4*#
+MAGNESIUM-2.1
+[**2101-9-6**] 02:10PM   TSH-6.8*
+[**2101-9-6**] 02:10PM   WBC-10.2# RBC-4.90# HGB-13.2*# HCT-42.5#
+MCV-87 MCH-27.0 MCHC-31.1 RDW-17.0*
+[**2101-9-6**] 02:10PM   NEUTS-78* BANDS-0 LYMPHS-18 MONOS-3 EOS-0
+BASOS-0 ATYPS-1* METAS-0 MYELOS-0
+
+PERTINENT LABS
+
+[**2101-9-12**] 04:08AM BLOOD Glucose-146* UreaN-61* Creat-3.4* Na-137
+K-4.8 Cl-103 HCO3-14* AnGap-25*
+[**2101-9-12**] 04:08AM BLOOD Calcium-8.5 Phos-5.8* Mg-2.4
+[**2101-9-12**] 01:25AM BLOOD Type-ART pO2-87 pCO2-31* pH-7.26*
+calTCO2-15* Base XS--11 Intubat-NOT INTUBA
+[**2101-9-12**] 11:11AM BLOOD Lactate-3.7*
+
+MICRO
+[**2101-9-10**] 1:36 pm PERITONEAL FLUID      PERITONEAL FLUID.
+
+   GRAM STAIN (Final [**2101-9-10**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (Preliminary):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+
+[**2101-9-7**] 2:23 pm PERITONEAL FLUID      PERITONEAL FLUID.
+
+GRAM STAIN (Final [**2101-9-7**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (Final [**2101-9-10**]):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+
+IMAGING
+.
+Radiology Report RENAL U.S. Study Date of [**2101-9-7**] 9:30 AM
+IMPRESSION:
+1.  Prior left nephrectomy.  No evidence of hydronephrosis or
+renal vascular
+occlusion involving the right kidney to explain the patient's
+acute renal
+failure.
+2.  Large amount of ascites with diffuse intraperitoneal
+metastatic disease.
+.
+ECHO [**2101-9-8**] at 9:30:00 AM
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Left ventricular systolic function is hyperdynamic (EF =
+75%) M-mode analysis of the aortic valve suggests premature
+systolic closure. A left ventricular outflow tract obstruction
+cannot be excluded with certainty due to the technically
+suboptimal nature of this study. Tissue Doppler imaging suggests
+a normal left ventricular filling pressure (PCWP<12mmHg). The
+right ventricular free wall thickness is normal. Right
+ventricular chamber size is normal. with depressed free wall
+contractility. The aortic valve leaflets are mildly thickened
+(?#). There is no aortic valve stenosis. No aortic regurgitation
+is seen. The mitral valve leaflets are mildly thickened. There
+is mild posterior leaflet mitral valve prolapse. Trivial mitral
+regurgitation is seen. There is borderline pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+.
+ECHO   Portable TTE (Complete) Done [**2101-9-12**] at 2:20:00 PM
+FINAL
+Poor image quality.The left atrium is normal in size. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thicknesses are normal. The left ventricular cavity size is
+normal. Regional left ventricular wall motion is normal. Left
+ventricular systolic function is hyperdynamic (EF>75%). There is
+no ventricular septal defect. Right ventricular chamber size and
+free wall motion are probably normal. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic stenosis or aortic regurgitation. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse. Tricuspid regurgitation is
+present but cannot be quantified. There is mild pulmonary artery
+systolic hypertension. There is a trivial/physiologic
+pericardial effusion. There are no echocardiographic signs of
+tamponade.
+.
+CXR 8.9
+ As compared to the previous radiograph, there is a newly
+appeared
+moderate left pleural effusion.  There is unchanged evidence of
+low lung
+volumes and known nodular opacities in both lungs.  No evidence
+of pulmonary edema.  Unchanged appearance of the cardiac
+silhouette.
+
+
+Brief Hospital Course:
+# Shock: The patient presented with hypotension with systolics
+in the 70s-80s compared to his baseline of 120s-130s in the
+outpatient setting.  His pressures did not respond adequately to
+fluid boluses.  A PICC line was placed and he was started on
+dopamine initially.  Dopamine was switched to vasopressin given
+concern for his recurrent ascites.  His shock was thought to be
+due to a combination of sepsis and intravascular volume
+depletion [**3-3**] recurrent malignant ascites. A definitive
+infectious source was never identified, though SBP was excluded
+with 2 large volume paracenteses. The patient was placed on
+vancomycin, cefepime, and flagyl. He was also given stress dose
+steroids. Fluid resuscitation was performed with crystalloid and
+colloid without success. The patient continued to rapidly
+reaccumulate fluid in his abdomen. The patient remained oliguric
+to anuric during his admission. Norepinephrine was added on the
+day of intubation added without improvement in urine output.
+After a family meeting, the patient was made CMO and vasoactive
+medications were discontinued. The patient expired shortly
+thereafter.
+
+# Respiratory failure: The patient developed tachypnea and
+increased work of breathing on the morning of his expiration
+while undergoing a CT head. He was intubated for respiratory
+distress, self-extubated, and was reintubated for continuing
+respiratory distress. Versed, fentanyl, and propofol were used
+for sedation. A CXR did not show any acute intrapulmonary
+process. Bilateral LENIs were negative for DVTs.  An ECHO did
+not show any RV strain.  Most likely etiology was worsening lung
+function in the setting of extensive RCC lung metastases and
+worsening metabolic acidoses due to renal failure.  A family
+meeting was held in the afternoon and the decision was made to
+make him CMO given his poor prognosis.  The patient was
+terminally extubated on the afternoon of [**9-12**] and expired
+shortly thereafter.
+
+# Acute renal failure: The patient was oliguric on presentation.
+A renal ultrasound did not show impaired renal flow. Bladder
+pressures were consistently below 20.  Etiology was likely
+secondary to intraarterial volume depletion due to massive 3rd
+spacing of fluids secondary to ascites. Urine output did not
+improve after large volume paracentesis or after fluid
+resuscitation with crystalloid or colloid.  Patient became
+increasingly acidemic.  Dialysis was discussed and not
+considered appropriate given his poor prognosis.
+
+# Metastatic renal cell carcinoma: The patient required 2 large
+volume paracenteses to manage his malignant ascites. His pain
+was managed with a dilaudid PCA.  Patient's outpatient
+oncologist was contact[**Name (NI) **] and informed of worsening status and
+the decision was made to not be aggressive with interventions
+given his worsening prognosis and lack of tumor response to
+multiple biologic therapies.
+
+# Comfort care: Patient's Oncologist was contact[**Name (NI) **] regarding
+transitioning to comfort care.  As noted above, his prognosis
+was poor given his lack of response to biologic therapies.
+Palliative care service was consulted.  Patient's family was
+called on the day of intubation and arrived in the afternoon.
+Discussion was had with the family as well as Oncologist NP and
+Palliative care and decision was made to terminally extubate.
+Patient expired peacefully in the evening.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientwebOMR.
+1. Dexamethasone 0.5 mg PO EVERY OTHER DAY
+2. Lisinopril 20 mg PO DAILY
+3. Metoprolol Tartrate 50 mg PO DAILY PRN SBP>110
+4. HYDROmorphone (Dilaudid) 2-6 mg PO Q3H:PRN pain
+hold for sedation, RR<10
+5. Oxycodone SR (OxyconTIN) 60 mg PO Q8H
+6. Sertraline 50 mg PO DAILY
+
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Metastatic renal cell carcinoma
+Malignant ascites
+Respiratory failure
+
+
+Discharge Condition:
+Expired.
+
+
+Discharge Instructions:
+Expired.
+
+Followup Instructions:
+Expired.
+
+
+
+Completed by:[**2101-9-13**]

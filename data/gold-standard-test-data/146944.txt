@@ -1,0 +1,295 @@
+Admission Date:  [**2110-4-18**]              Discharge Date:   [**2110-4-26**]
+
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors / Captopril / Penicillins
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+found unresponsive by daughter
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+
+History of Present Illness:
+86 yoM with largely unknown past medical history, found down on
+kitchen floor by daughter [**4-17**].  EMS activated, per records
+found patient unresponsive with no pulse, WCT ?VT noted.
+Patient was given defibrillation x1, noted "sinus tachycardia"
+120 bpm post cardioversion.  Recorded SBP 86/p.
+
+In [**Hospital1 18**] ER, patient subsequently urgently intubated secondary
+to respiratory distress.  ER concern for sepsis given
+hypotension, leukocytosis, and possible pneumonia, so "code
+sepsis" activated with placement of central venous lines,
+obtainment of cultures, and administration of antibiotic
+(vanc/levo/zosyn).
+
+Patient given total 8 L IVF in ER, MAP ~65, started on
+norepinephrine vasopressor for hemodynamic support.  Transferred
+to [**Hospital Unit Name 153**] for further therapy, arriving intubated and sedated.
+
+Per family, patient complained of "cold-like" symptoms for 5
+days prior to admission.  Last contact 2 days before being found
+down.
+
+Meds (in ER):  Vancomycin 1g, Zosyn, Levofloxacin, Decadron 6 mg
+IV.
+
+
+Past Medical History:
+Largely unknown.  Per ER, patient living alone, no current
+medical issues.
+
+
+Social History:
+Lives alone, fully functional, family in area.
+
+Family History:
+Non contributory
+
+Physical Exam:
+PE:  T 99.7, BP 124/82, P96, R14
+Gen:  Sedated,
+CV:  S1 S2 with no MRG
+Lungs:  Rare wheezes bilateral anterior fields
+Abd:  Soft, NT/ND
+Ext:  1+ bilateral pitting edema
+Neuro:  Moves all extremities, reacts to painful stimuli.  No
+signs of trauma.
+
+
+Pertinent Results:
+CXR:
+Endotracheal tube is terminating approximately 5 cm above the
+carina. Nasogastric tube is coursing down below the left
+hemidiaphragm, and terminating in right upper quadrant. Cardiac
+and mediastinal contours are within normal limits for age, given
+the positioning. Right costophrenic angle is not included.
+Patchy opacities are seen in bilateral lower lobes, which may
+represent atelectasis versus aspiration.
+
+IMPRESSION: Tubes and lines as described above. Bibasilar patchy
+opacities, representing atelectasis or aspiration.
+.
+Head CT:
+IMPRESSION:
+1. No evidence of hemorrhage.
+2. There is white matter hypodensity near the trigone of the
+left lateral ventricle without extension to the [**Doctor Last Name 352**] matter that
+may represent sequela from chronic small vessel disease.
+3. Left thalamic and caudate lacunar infarcts.
+.
+Repeat CXR: FINDINGS: The cardiomediastinal silhouette is
+stable. Again seen are bilateral basilar parenchymal opacities,
+which demonstrate no significant change compared to prior
+examinations. There are likely small bilateral pleural
+effusions.
+IMPRESSION:
+1. Slight improvement in bilateral basilar pulmonary opacities,
+right more prominent than left with differential diagnosis
+including aspiration versus pneumonia.
+.
+CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2110-4-24**]):
+      FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.
+      Reference Range:  Negative.
+Blood Cultures: negative
+Urine Cultures: negative
+.
+C1 esterase inhibitory assay: pending at time of discharge
+[**2110-4-17**] 08:00PM BLOOD WBC-14.7* RBC-4.51* Hgb-14.6 Hct-43.2
+MCV-96 MCH-32.5* MCHC-33.9 RDW-13.6 Plt Ct-272
+[**2110-4-23**] 05:36AM BLOOD WBC-23.0*# RBC-4.37* Hgb-14.3 Hct-40.8
+MCV-93 MCH-32.6* MCHC-35.0 RDW-14.3 Plt Ct-514*
+[**2110-4-26**] 07:40AM BLOOD WBC-18.8* RBC-4.36* Hgb-14.6 Hct-40.9
+MCV-94 MCH-33.4* MCHC-35.7* RDW-14.5 Plt Ct-644*
+[**2110-4-25**] 07:40AM BLOOD Neuts-82* Bands-1 Lymphs-12* Monos-1*
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-3*
+[**2110-4-21**] 05:25AM BLOOD Ret Aut-0.6*
+[**2110-4-25**] 07:40AM BLOOD Glucose-145* UreaN-33* Creat-1.0 Na-142
+K-4.0 Cl-104 HCO3-29 AnGap-13
+[**2110-4-20**] 05:05AM BLOOD ALT-30 AST-54* AlkPhos-52 TotBili-0.5
+[**2110-4-18**] 02:12AM BLOOD ALT-29 AST-104* LD(LDH)-363* AlkPhos-50
+TotBili-1.3
+[**2110-4-17**] 08:00PM BLOOD cTropnT-0.35*
+[**2110-4-18**] 06:06AM BLOOD CK-MB-124* MB Indx-9.5* cTropnT-3.36*
+[**2110-4-18**] 02:07PM BLOOD CK-MB-110* MB Indx-8.8* cTropnT-3.37*
+[**2110-4-21**] 05:25AM BLOOD calTIBC-156* VitB12-406 Folate-5.0
+Hapto-357* Ferritn-1171* TRF-120*
+[**2110-4-23**] 05:36AM BLOOD Triglyc-213* HDL-20 CHOL/HD-8.9
+LDLcalc-115
+[**2110-4-18**] 06:06AM BLOOD TSH-5.4*
+[**2110-4-22**] 04:33AM BLOOD C4-34
+[**2110-4-17**] 08:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2110-4-17**] 08:12PM BLOOD Glucose-376* Lactate-5.3* Na-141 K-4.1
+Cl-101 calHCO3-21
+[**2110-4-18**] 05:28AM BLOOD Lactate-2.6*
+[**2110-4-18**] 02:24AM BLOOD freeCa-1.03*
+
+Brief Hospital Course:
+86 yoM with unknown past medical history presents after being
+found unresponsive by family member. [**Name (NI) **] had prodrome of
+cold-like symptoms per report. It is unclear what was the
+precipitant of the profound weakness / loss of consciousness,
+but concern exists for cardiac etiology in addition to infection
+/ sepsis. The patient was not "down" for long (likely << 24h)
+given absence of profound volume depletion, minimal CK
+elevation. No evidence of trauma.  He was initially transferred
+to the ICU for treatment.  Hospital course is discussed by
+problem.
+.
+ID - Blood cultures were drawn, negative for growth.  Given the
+patient's low grade temperature elevation and leukocytosis, as
+well as the history of "cold-like" symptoms experienced by
+patient, pneumonia was thought to be the most likely source of
+infection.  An initial CXR demonstrated an early PNA consistent
+with aspiration, so he was started on empiric coverage with
+vancomycin/levofloxacin/Flagyl.  The patient went into
+respiratory distress secondary to sepsis/pneumonia, and the
+patient required intubation.  He was later successfully
+extubated. The patient rapidly improved and his lactate
+normalized.  His antibiotic coverage was narrowed to
+Levofloxacin only and finished a seven day course prior to
+discharge.
+.
+CV - Possible arrhythmic impetus (VT, less likely VF given
+period on floor) in setting of unknown history of vascular
+disease. An EKG demonstrates LBBB, which could be chronic and
+indicate significant CAD.  Given his NSTEMI, with troponin up to
+>3.0 and an index of 8, cardiology was consulted for further
+recommendations.  Given that the patient was shocked,
+hypotensive, and septic; this may have all contributed to the
+troponin elevation.  He underwent an echocardiogram with report
+as follows: 1. The left atrium is mildly dilated.
+2. There is mild symmetric left ventricular hypertrophy with
+normal cavity
+size. Overall left ventricular systolic function is difficult to
+assess but is
+probably moderately depressed. Overall left ventricular systolic
+function
+cannot be reliably assessed.
+3. The aortic root is mildly dilated.
+4. The aortic valve leaflets are severely thickened/deformed.
+There is
+probably mild to moderate aortic valve stenosis.
+5. The mitral valve leaflets are mildly thickened. There is
+moderate
+thickening of the mitral valve chordae. At least mild (1+)
+mitral
+regurgitation is seen. The mitral regurgitation jet is
+eccentric. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly
+underestimated.]
+He was started on a beta-blocker, aspirin, high dose Statin, and
+an ACE inhibitor for medical management.  In addition, a heparin
+drip was administered for 48 hours.  However, a few hours after
+the second dose of Captopril, the patient developed severe
+angioedema with lip and tongue swelling.  The patient was given
+Epi, Benadryl, IV steroids and ranitidine immediately, and
+anesthesia was consulted for possible intubation, as well as the
+ICU team.  The patient was transferred back to the ICU for
+airway monitoring, but was able to be medically managed without
+intubation.  Allergy service was consulted, and felt that this
+was consistent with an ACE-I allergy rather than a C-1
+deficiency.  The C-1 assay was sent to rule out deficiency, with
+the results still pending at the time of discharge.  The
+patient's PCP was [**Name (NI) 653**], and a follow-up appointment with an
+outside cardiologist was arranged prior to discharge.  He was
+also started on Norvasc to help optimize his blood pressure
+control.
+.
+Renal- He was initially in acute renal failure, with a
+creatinine of 1.8 on admission.  Although his baseline was
+unknown, it resolved to 1.1.  His Foley was discontinued, and he
+urinated without difficulty.  A microalbumin was sent, which was
+negative, therefore initiating [**First Name8 (NamePattern2) **] [**Last Name (un) **] was deferred by now.
+According to the allergy service, there is some risk of allergy
+with [**Last Name (un) **], although very low.
+.
+Endocrine- Given that he had a history of "borderline" diabetes,
+he was monitored with FS QID and covered with an ISS,
+particularly in the setting of steroids for angioedema.  A free
+T4 was normal, and a urine for microalbumin shows alb/creatinine
+ratio 27.6.
+.
+Heme- He was found to have anemia, normocytic, hct since
+admission 33-38, then improved to 40.  He was guaiac negative,
+and iron studies were consistent with anemia of chronic disease.
+.
+He was evaluated by PT and was cleared for a home discharge with
+services.  His PCP was [**Name (NI) 653**] prior to discharge, and the
+patient was scheduled for a follow-up appointment within one
+week of discharge.
+
+Medications on Admission:
+excedrin
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+4. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+vna carenetwork
+
+Discharge Diagnosis:
+Principal:
+1. Multilobar Pneumonia.
+2. Septic Shock.
+3. Wide Complex Tachycardia NOS.
+4. Non ST Elevation Myocardial Infarction.
+5. Acute ACE-I Angioedema with Airway Compromise.
+6. Acute Renal Failure.
+7. Left Thalamic and Caudate lacunar infarcts - chronic.
+
+Secondary:
+1. Diabetes Mellitus Type II.
+2. Chronic Kidney Disease Stage I.
+3. Hypercholesterolemia.
+4. Hypertension.
+5. Psoriasis.
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+We have started you on four new medications for your heart.
+Please continue to take these and all of your medications as
+instructed.  Please call your doctor or return to the hospital
+if you develop chest pain, difficulty breathing, fevers or
+chills.
+You develop a severe allergic reaction called angioedema when
+you take a medication called ACE inhibitors.  Please refrain
+from ever taking this type of medication.
+
+Followup Instructions:
+1. You have a scheduled appointment with Dr. [**Last Name (STitle) 66070**] at [**Hospital 1411**]
+Medical Associates on Monday [**4-28**] at 14:15. It is important
+that you go to this appointment.
+
+2. You will also need follow-up with a cardiologist. We have
+scheduled an appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] (cardiologist) at
+[**Hospital 1411**] Medical Associates (his office is next to Dr.[**Name (NI) 66071**]
+office) on [**5-5**] at 09:15 in the morning. Please call his
+office at [**Telephone/Fax (1) 66072**] if you have any questions.
+
+
+

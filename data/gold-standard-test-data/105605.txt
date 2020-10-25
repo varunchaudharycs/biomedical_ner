@@ -1,0 +1,435 @@
+Admission Date:  [**2199-8-30**]              Discharge Date:   [**2199-9-11**]
+
+Date of Birth:  [**2121-11-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 3016**]
+Chief Complaint:
+left hemiplegia
+
+Major Surgical or Invasive Procedure:
+MERCI procedure- (Mechanical Embolus Removal in Cerebral
+Ischemia) Thoracentesis x2
+Nephrostomy tube replacement
+
+
+History of Present Illness:
+77-year-old male with history gastric CA metastatic and atrial
+fibrillation, who developed acute onset aphasia, eye movement
+abnormalities and left-sided hemiplegia during an
+ultrasound-guided thoracentesis on [**2199-8-30**] for malignant pleural
+effusion. Patient had been off of coumadin for 10 days for the
+thoracentesis. Code stroke was called and patient was
+transferred to the ED. A CTA revealed a large thrombus in tip of
+the basilar artery, not extending into PCA's. He was taken
+emergently to angio, where embolectomy and intrarterial tPA
+injection was performed. Ischemia time was 4 hours; EBL was
+minimal, and he received 2U plts for plt count of 25. Patient
+was transferred to the SICU for postop care.
+
+Past Medical History:
+Stage IV gastric malignancy
+Atrial Fibrillation
+Hypertension
+Hyperlipidemia
+BPH
+Depression/Anxiety
+Osteoarthritis
+Obstructive Uropathy s/p right percutaneous nephrostomy
+
+Social History:
+His wife died in [**2193**] due to metastatic lung cancer. He
+previously lived alone but recently moved in with his son &
+daughter. [**Name (NI) **] is retired, previously working 40 years in the
+airline industry as a maintenance supervisor. Has family
+nearby who are involved in his care. Smoked 1ppd x 20 years
+tobacco, quitting in the [**2158**]. Social alcohol. No recreational
+drugs.
+
+Family History:
+Father died of pneumonia at 64 years old; unknown other medical
+issues. Mother died of pneumonia at 53 and had asthma.
+
+
+Physical Exam:
+VS: T 96.8, BP: 116/63, P:81, RR: 18, 98% on 1L
+GEN: Elderly male in NAD, NC in place
+CV: normal rate, ireg rhythm, normal s1, s2, no mr/g
+PULM: decreased breath sounds and dull to percussion over RLL,
+LLL, clear in other lung fields
+EXT: 2+ edema to mid-tibia, DP, PT pulses 1+
+
+Pertinent Results:
+Hematology
+[**2199-9-11**] 06:00AM BLOOD WBC-5.7 RBC-2.86* Hgb-8.9* Hct-28.0*
+MCV-98 MCH-31.2 MCHC-31.8 RDW-17.1* Plt Ct-257
+[**2199-9-10**] 12:43AM BLOOD WBC-6.1 RBC-2.98* Hgb-9.4* Hct-29.3*
+MCV-98 MCH-31.4 MCHC-31.9 RDW-16.9* Plt Ct-238
+[**2199-9-9**] 05:00AM BLOOD WBC-4.6 RBC-2.92* Hgb-9.2* Hct-28.4*
+MCV-97 MCH-31.5 MCHC-32.3 RDW-16.8* Plt Ct-210
+[**2199-8-31**] 03:05AM BLOOD WBC-5.8 RBC-2.94* Hgb-9.0* Hct-27.2*
+MCV-93 MCH-30.6 MCHC-33.1 RDW-14.9 Plt Ct-129*
+[**2199-8-30**] 10:05PM BLOOD WBC-7.0 RBC-2.89* Hgb-9.3* Hct-25.9*#
+MCV-90 MCH-32.1*# MCHC-35.9*# RDW-14.8 Plt Ct-121*#
+[**2199-8-30**] 03:30PM BLOOD WBC-9.3 RBC-3.72* Hgb-10.7* Hct-34.8*
+MCV-94 MCH-28.8 MCHC-30.8* RDW-14.8 Plt Ct-34*#
+[**2199-9-10**] 12:43AM BLOOD Neuts-70 Bands-0 Lymphs-10* Monos-19*
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2199-9-9**] 05:00AM BLOOD Neuts-62 Bands-1 Lymphs-18 Monos-17*
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-1*
+[**2199-9-5**] 06:00AM BLOOD Neuts-52 Bands-2 Lymphs-29 Monos-13*
+Eos-1 Baso-0 Atyps-1* Metas-0 Myelos-2*
+[**2199-8-30**] 10:05PM BLOOD Neuts-81.9* Lymphs-16.2* Monos-0.7*
+Eos-1.1 Baso-0
+[**2199-9-10**] 12:43AM BLOOD PT-13.8* PTT-35.0 INR(PT)-1.2*
+[**2199-9-9**] 05:00AM BLOOD PT-13.9* PTT-33.5 INR(PT)-1.2*
+[**2199-9-7**] 05:06AM BLOOD PT-13.7* PTT-34.1 INR(PT)-1.2*
+[**2199-9-6**] 04:08AM BLOOD PT-13.9* PTT-53.6* INR(PT)-1.2*
+[**2199-9-4**] 02:29AM BLOOD PT-18.0* PTT-142.8* INR(PT)-1.6*
+[**2199-9-3**] 04:30PM BLOOD PT-25.2* PTT-150* INR(PT)-2.4*
+[**2199-9-3**] 08:30AM BLOOD PT-28.1* PTT-63.3* INR(PT)-2.8*
+[**2199-9-3**] 02:00AM BLOOD PT-22.8* PTT-56.0* INR(PT)-2.2*
+[**2199-9-2**] 10:30PM BLOOD PT-21.4* PTT-45.7* INR(PT)-2.0*
+[**2199-9-2**] 01:13PM BLOOD PT-23.1* PTT-53.7* INR(PT)-2.2*
+[**2199-9-2**] 08:24AM BLOOD PT-22.0* PTT-57.2* INR(PT)-2.1*
+[**2199-8-30**] 03:30PM BLOOD PT-15.5* PTT-24.6 INR(PT)-1.4*
+[**2199-8-30**] 01:20PM BLOOD PT-15.2* INR(PT)-1.3*
+[**2199-8-30**] 10:05PM BLOOD FDP-40-80*
+[**2199-8-30**] 05:30PM BLOOD Fibrino-213
+[**2199-9-4**] 02:29AM BLOOD Ret Aut-0.5*
+
+Chemistries:
+[**2199-9-12**]: Creatinine is 2.0
+[**2199-9-11**] 06:00AM BLOOD Glucose-97 UreaN-35* Creat-2.0* Na-140
+K-4.5 Cl-105 HCO3-29 AnGap-11
+[**2199-9-10**] 12:43AM BLOOD Glucose-92 UreaN-29* Creat-1.7* Na-143
+K-4.6 Cl-108 HCO3-28 AnGap-12
+[**2199-9-9**] 05:00AM BLOOD Glucose-86 UreaN-27* Creat-1.3* Na-141
+K-4.4 Cl-106 HCO3-28 AnGap-11
+[**2199-9-3**] 03:22AM BLOOD Glucose-105* UreaN-35* Creat-1.2 Na-139
+K-4.0 Cl-112* HCO3-20* AnGap-11
+[**2199-9-2**] 02:12PM BLOOD Glucose-109* UreaN-41* Creat-1.4* Na-136
+K-4.2 Cl-106 HCO3-21* AnGap-13
+[**2199-8-31**] 06:09AM BLOOD Glucose-101* UreaN-49* Creat-1.4* Na-131*
+K-4.6 Cl-99 HCO3-25 AnGap-12
+[**2199-8-31**] 03:05AM BLOOD Glucose-102* UreaN-48* Creat-1.3* Na-133
+K-4.6 Cl-100 HCO3-25 AnGap-13
+[**2199-8-30**] 10:05PM BLOOD Glucose-117* UreaN-49* Creat-1.3* Na-130*
+K-4.7 Cl-98 HCO3-26 AnGap-11
+[**2199-8-30**] 03:30PM BLOOD Glucose-116* UreaN-53* Creat-1.5* Na-133
+K-5.1 Cl-97 HCO3-21* AnGap-20
+[**2199-9-11**] 06:00AM BLOOD ALT-46* AST-39 LD(LDH)-251* AlkPhos-1010*
+TotBili-0.7
+[**2199-9-10**] 12:43AM BLOOD ALT-60* AST-56* LD(LDH)-274*
+AlkPhos-1171* TotBili-0.9
+[**2199-9-1**] 03:03AM BLOOD ALT-50* AST-42* LD(LDH)-363* AlkPhos-457*
+TotBili-0.8
+[**2199-8-30**] 10:05PM BLOOD ALT-61* AST-45* LD(LDH)-339* CK(CPK)-81
+AlkPhos-390* TotBili-0.8
+[**2199-9-6**] 04:08AM BLOOD GGT-1139*
+[**2199-9-10**] 12:43AM BLOOD Albumin-2.9* Calcium-8.4 Phos-3.2 Mg-1.9
+[**2199-9-5**] 06:00AM BLOOD Albumin-2.7* Calcium-8.5 Phos-2.5* Mg-1.9
+[**2199-9-4**] 02:29AM BLOOD Albumin-3.0* Calcium-8.7 Phos-1.9* Mg-2.1
+Iron-31*
+[**2199-8-30**] 10:05PM BLOOD Albumin-3.0* Calcium-8.4 Phos-3.3 Mg-2.1
+Cholest-153
+
+Cardiac Enzymes:
+[**2199-9-6**] 04:08AM BLOOD CK-MB-3 cTropnT-0.79*
+[**2199-9-5**] 06:00AM BLOOD CK-MB-4 cTropnT-0.84*
+[**2199-9-3**] 03:22AM BLOOD CK-MB-9 cTropnT-0.59*
+[**2199-9-2**] 02:12PM BLOOD CK-MB-10 MB Indx-9.6* cTropnT-0.70*
+[**2199-8-31**] 06:09AM BLOOD CK-MB-6 cTropnT-0.40*
+[**2199-8-30**] 10:05PM BLOOD CK-MB-7 cTropnT-0.39*
+[**2199-8-30**] 03:30PM BLOOD cTropnT-0.35*
+
+Other:
+[**2199-9-4**] 02:29AM BLOOD calTIBC-194 Ferritn-2235* TRF-149*
+[**2199-8-30**] 10:05PM BLOOD %HbA1c-6.1* eAG-128*
+[**2199-8-30**] 10:05PM BLOOD Triglyc-186* HDL-44 CHOL/HD-3.5
+LDLcalc-72
+[**2199-8-30**] 10:05PM BLOOD TSH-0.98
+
+ABG:
+[**2199-9-1**] 08:57AM BLOOD Type-ART pO2-167* pCO2-47* pH-7.32*
+calTCO2-25 Base XS--2
+[**2199-8-31**] 06:05PM BLOOD Type-ART pO2-160* pCO2-42 pH-7.37
+calTCO2-25 Base XS-0
+[**2199-8-31**] 05:17AM BLOOD Type-ART pO2-127* pCO2-45 pH-7.37
+calTCO2-27 Base XS-0
+[**2199-8-30**] 10:42PM BLOOD Type-ART pO2-202* pCO2-43 pH-7.40
+calTCO2-28 Base XS-1
+
+Chest X-ray [**2199-9-8**]:
+IMPRESSION: PA and lateral chest compared to [**8-9**] through
+[**9-3**]:
+
+Moderate left pleural effusion is reaccumulating relative to
+[**9-1**].  There is no pneumothorax. Right pleural effusion
+including a fissural
+component is chronic. No pulmonary edema. Heart size is top
+normal. Right
+infusion port catheter ends in the mid SVC. Presence of small
+pulmonary
+nodules would be obscured by the extensive overlying pleural
+abnormalities.
+
+[**2199-9-6**] Liver/ Gallbladder US:
+1. Mild intrahepatic biliary dilatation, though with common bile
+duct within normal limits in size. MRCP could be performed to
+assess for relationship of hepatic metastases to intrahepatic
+ducts if intervention is planned.
+
+2. Multiple known hepatic metastasis is incompletely evaluated
+on this study.
+
+3. Layering sludge within the gallbladder.
+
+4. Small amount of intra-abdominal ascites.
+
+[**2199-9-6**]: Right Femoral US:
+Pseudoaneurysm of the right common femoral artery. Size has
+slightly increased from 1.7 to 1.9 mm in the sagittal plane
+only.
+
+[**2199-9-2**]: CT Abdomen/Pelvis:
+1. No evidence of retroperitoneal hematoma.
+2. Right nephrostomy tube in stable position. Similar extent of
+mild left
+hydronephrosis and hydroureter. Retained contrast within the
+left kidney,
+likely from recent CT two days prior, is compatible with
+obstructive
+nephropathy.
+3. Similar extent of bilateral pleural effusions with associated
+compressive atelectasis and right middle lobe collapse.
+4. Metastatic gastric adenocarcinoma with unchanged omental and
+hepatic
+metastases.
+5. Increased anasarca, pulmonary edema, and size of abdominal
+ascites,
+suggestive of volume overload.
+
+[**2199-8-31**]: ECHO
+The left atrium is moderately dilated. The right atrium is
+moderately dilated. There is mild symmetric left ventricular
+hypertrophy with normal cavity size and global systolic function
+(LVEF>55%). Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. No masses or
+thrombi are seen in the left ventricle. Right ventricular
+chamber size and free wall motion are normal. The aortic root is
+mildly dilated at the sinus level. There is no aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is mild pulmonary artery
+systolic hypertension. There is no pericardial effusion. There
+is an anterior space which most likely represents a prominent
+fat pad.
+
+IMPRESSION: No left ventricular thrombus seen. Normal global
+biventricular systolic function. Mild pulmonary hypertension.
+
+[**2199-8-30**] MRI HEAD:
+MPRESSION: Multiple small acute infarcts are identified in both
+parietooccipital lobes and cerebellar hemispheres without
+definite acute
+infarct within the brainstem. Small vessel disease and brain
+atrophy.
+
+[**2199-8-30**]: CT Head and Neck:
+1. Thrombosis of the basilar artery. Possible perfusion defects
+concerning
+for infarct within the brainstem; however, CT perfusion is
+suboptimal for the evaluation of the posterior circulation. MRI
+could be performed for further evaluation.
+
+2. Extensive focal atherosclerosis with marked narrowing of the
+left
+subclavian artery just proximal to the takeoff of the left
+vertebral artery.  No other areas of significant stenosis or
+aneurysm formation are seen.
+
+
+Brief Hospital Course:
+#. Basilar stroke: Patient was transferred to [**Hospital1 18**] on [**2199-8-30**]
+for acute stroke. He was treated with MERCI and intra-arterial
+TPA: The patient's neuro status was closely monitored. He was
+transitioned from a heparin gtt to lovenox given recent embolic
+stroke and hypercoaguable state in setting of malignancy.  The
+patient was cleared for a regular diet after a speech and
+swallow evaluation.
+
+#. Right common femoral artery pseudoaneurysm: Patient s/p
+mechanical and chemical thrombectomy via right common femoral
+artery puncture, and was found to have small right common
+femoral artery pseudoaneurysm. He had a repeat ultrasound on
+[**2199-9-6**] which showed the pseudoaneurysm had slightly increased
+in size from 1.7 to 1.9 mm in the sagittal plane only. Vascular
+surgery was following, and did not feel there was a need for
+intervention.  The patient's HCT remained stable.
+
+#. Hypoxia: Likely secondary to pleural effusions (malignant).
+CXR on [**2199-9-3**] had shown stable reticular nodular pattern in
+right lung likely representing lymphatic obstruction, a stable
+right pleural effusion, and increased opacification in left lung
+likely representing increased atelectasis and increased pleural
+effusion. The patient's supplemental O2 was gradually weaned as
+tolerated.  Repeat CXR on [**2199-9-8**] showed increased pleural
+effusion and patient had a repeat thoracentesis on [**2199-9-11**] prior
+to discharge. A post-procedure chest x-ray was done and there
+were no complications from the procedure.
+
+#. [**Last Name (un) **]: Patient has h/o bilateral hydronephrosis, likely
+secondary to obstructive uropathy. s/p right nephrostomy tube in
+08/[**2198**]. Prior to this admission, the patient had been scheduled
+for bilateraly stent placement on [**2199-9-12**]. His left stent showed
+hematuria and had poor output in setting of creatinine increase
+from 1.3->1.7, his left nephrostomy tube was placed. On
+discharge, his creatinine was 2.0. This lab test should be
+repeated.
+
+#. Stage IV gastric CA: Patient recently diagnosed with gastric
+cancer, and gastric biopsy returned positive for poorly
+differentiated adenocarcinoma infiltrating through the deep
+mucosal layer. Cytology from the peripancreatic lymph nodes was
+also
+positive for malignant cells consistent with adenocarcinoma.
+Patient started first cycle of chemotherapy with epirubicin,
+oxaliplatin and capecitabine on [**2199-8-22**]. Given recent
+complications in course, chemo currently on hold.  His cell
+counts were monitored closely in setting of recent chemo.
+
+#. Atrial Fibrillation: Patient rate-controlled with metoprolol.
+Coumadin had been held initially for thoracentesis, and was not
+restarted in setting of stroke and low platelet count. Patient
+was previously on argatroban gtt, but placed on heparin gtt
+after rise in platelets and exclusion of HIT. Patient will need
+long-term anticoagulation in setting of recent embolic stroke
+and hypercoagulable state.  He was started on lovenox.
+
+#. Hypertension: BP was well-controlled after transfer to
+medical oncology service. The patient was continued on
+metoprolol for both rate control and BP control.
+
+Medications on Admission:
+Coumadin 5 mg daily
+Digoxin 0.125 mg daily
+Lisinopril 20 mg daily
+Simvastatin 40 mg daily
+Vicodin 1 tab Q4-6H PRN
+
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation. Tablet(s)
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain.
+5. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+6. Heparin Flush (10 units/ml) 5 mL IV PRN line flush
+Indwelling Port (e.g. Portacath), heparin dependent: Flush with
+10 mL Normal Saline followed by Heparin as above daily and PRN
+per lumen.
+7. Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port
+Indwelling Port (e.g. Portacath), heparin dependent: When
+de-accessing port, instill Heparin as above per lumen.
+8. Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1)  Subcutaneous
+[**Hospital1 **] (2 times a day).
+9. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24
+hours).
+10. Alum-Mag Hydroxide-Simeth 200-200-20 mg/5 mL Suspension Sig:
+15-30 MLs PO QID (4 times a day) as needed for indigestion.
+11. Outpatient Lab Work
+Please check CBC, Na, K, Cl, HCO3, BUN, Creatinine, Glucose on
+[**2199-9-13**]. Please fax results to Dr. [**Last Name (STitle) **] (Fax #[**0-0-**]).
+12. Zofran 4 mg Tablet Sig: 1-2 Tablets PO three times a day as
+needed for nausea.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Life Care Center of [**Location (un) 5165**]
+
+Discharge Diagnosis:
+Primary:
+Cerebral Vascular Accident
+
+Secondary:
+Metastatic Gastric Cancer w/ obstruction of left ureter
+Atrial Fibrillation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+It was a pleasure being involved in your care, Mr. [**Known lastname **].
+
+1. Stroke: You were admitted to [**Hospital1 18**] for management of your
+acute stoke. You had a procedure to remove a clot from a major
+artery in your brain. This helped to prevent your stroke from
+causing more damage to your brain. You were also treated with
+blood thinners to prevent more clots from forming.
+
+2. Cancer: You have been diagnosed with metastatic gastric
+cancer. You were not given any cancer treatments during this
+admission. You should follow-up with your oncologist as an
+outpatient as to when you should restart chemotherapy.
+
+3. Atrial Fibrillation: You have atrial fibrillation, which is
+an abnormal heart rhythm. The fast rate was controlled with
+metoprolol, a drug that slows your heart rate down.
+
+4. Pleural effusion: You had a thoracentesis (Draining of fluid
+from around the lung) on two occasions during your hospital
+course.
+
+5: The following changes were made to your medications:
+-ADDED Lovenox 80 mg subcutaneous injection twice a day
+-STOPPED Lisinopril, Coumadin, Digoxin, Vicodin
+-ADDED Senna, Docusate, Miralax
+-ADDED Metoprolol 37.5 mg TID (three times per day)
+
+Followup Instructions:
+Please keep the following appointments:
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY [**2199-9-19**] at 1 PM
+With: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 10280**], PA [**Telephone/Fax (1) 22**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY [**2199-9-19**] at 1 PM
+With: [**Name6 (MD) **] [**Last Name (NamePattern4) 7634**], MD [**Telephone/Fax (1) 22**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY [**2199-9-19**] at 2:00 PM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4425**], RN [**Telephone/Fax (1) 22**]
+Building: [**Hospital6 29**] [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+** please discuss your chemotherapy questions w/ your oncologist
+at this time***
+
+Per urology, they would like to reschedule your stent placement
+for a later time, they are cancelling your appointment for
+tomorrow as you need to get stronger first.
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) 831**] MD, [**Doctor First Name 3018**]
+

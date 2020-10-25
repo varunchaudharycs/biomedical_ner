@@ -1,0 +1,346 @@
+Admission Date:  [**2175-6-10**]              Discharge Date:   [**2175-6-20**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamides) / Ceftriaxone
+
+Attending:[**First Name3 (LF) 3507**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+[**Age over 90 **] yo female with hx of HTN, afib, ? PE, multiinfarct dementia
+and recurrent UTI who presents with lethargy, hypoxia, and LE
+erythema. Pt is aphasic at baseline. Per notes from ED and PCP
+coverage, the patient was being treated for recurrent UTI with a
+course of levofloxacin started on [**6-7**] but was otherwise doing
+well. Last night she was noted to be more lethargic than normal
+with increasing SOB. She was noted to be hypoxic with O2 Sats of
+80% so was transferred to the ED.
+
+In the ED she had a fever to 101.8 with intermittent hypoxia
+that improved to 98% with 4LNS oxygen . She was given
+Clindamycin 600mg IV x1 for LE cellulitis and a dose of
+Levofloxacin 500mg IV for possible UTI. For her hypoxia, she was
+given 20mg IV Lasix and a combivent neb with significant
+improvement with CTA neg for PE and LENI neg for DVT. She
+continued to have intermittent hypoxia of unclear etiology so
+was transferred to the [**Hospital Unit Name 153**] for closer monitoring.
+.
+In the MICU, the patient was treated with CTX and Vanc for
+UTI/cellulitis. Also diuresed. Patient improved and sent to
+floor [**6-11**] on 2L NC. Patient noted to have increased Eos in
+blood and urine so CTX stopped and placed on levo/macrodantin.
+.
+[**6-13**] Patient decompenstated on the floor. Patient desatted to
+80's on 6L NC. ABG 7.46/52/63 on 6L NC. Patient initially with
+HR in 80's. Patient given lasix 20mg IV x 1 and an alb neb. Then
+went into afib with RVR into the 140's maintaining her pressure.
+Patient given 5mg IV lopressor x 3 with out response in HR.
+Transferred back unit for further mgt of HR and hypoxia, where
+she was started on a diltiazem drip; CTA was without evidence of
+PE. Course complicated by persistent hypotension requiring
+multiple fluid boluses; this resolved after the discontinuation
+of the diltiazem drip. She was started on an amiodarone load
+with conversion into NSR. Her O2 sat improved with diuresis. A
+picc line was placed and she was started on aztreonam (instead
+of macrobid) for UTI. She was transferred back to the general
+medical floor on [**2175-6-16**]. Currently, she has a new rash over her
+trunk and arms bilaterally--thought to be from Ceftriaxone.
+
+Past Medical History:
+CVA-with multiinfarct dementia-aphasic at baseline
+Afib
+UTI
+Zoster-L thorax
+Syncope
+PE
+Hypothyroidism
+DJD
+
+
+Social History:
+Divorced, lived alone in [**Location (un) 7349**] until fall at home with hip fx then
+moved to NH here in [**Location (un) 86**] because son lives in [**Name (NI) 392**], had CVA
+at [**Name (NI) **], never smoker, no ETOH, no illicits.
+
+Family History:
+NC
+
+Physical Exam:
+T 98 HR 93 BP 100/37 RR 24 O2Sat 99 (3LNC)
+Gen: chronically ill, in bed listing to left side, NAD
+HEENT: R nasolabial flattening, Edentulous, Dry MM,
+Neck: JVP to mandible
+Heart: regular with occasional premature beats, no MRG, no
+heave, not parvus et tardus
+Lungs: Marked kyphosis, Bilateral crackles throughout, decreased
+breath sounds at R base- not dull to percussion.
+Abd: soft, NT, ND, BS+
+Extrem: 2+ LLE with erthema to midshin, 1+ RLE, 1+ DP pulses
+bilaterally.
+Neuro: expressive aphasia- unintelligable speech, follows verbal
+commands "close your eyes" "wiggle your toes" Pupils 2-->1cm
+bilaterally, arcus senilis, moving all 4 extremities.
+Skin: Large 3x4cm SK's over thorax, crusted raised lesions in T4
+distribution on Left back and chest.
+
+
+Pertinent Results:
+[**2175-6-10**] CT CHEST: 1. No evidence of acute pulmonary embolism,
+aortic aneurysm, or dissection.
+2. No evidence of pneumonia.
+3. Midthoracic vertebral body compression fracture likely
+chronic.
+4. Calcified left lung granuloma and mediastinal lymph node
+consistent with old granulomatous disease, such as tuberculosis.
+5. Moderate-sized hiatal hernia.
+.
+[**2175-6-10**] BILAT LOWER EXT VEINS: No evidence of DVT.
+.
+[**2175-6-10**] CT HEAD: Slightly limited study by patient motion, but
+no intracranial hemorrhage is identified.
+.
+[**2175-6-10**] CXR:  No evidence of pneumonia or CHF.
+.
+[**2175-6-10**] ECG: Technically difficult study
+Sinus tachycardia
+Left ventricular hypertrophy
+Early R wave progression
+Lateral ST-T changes are probably due to ventricular hypertrophy
+
+Clinical correlation is suggested
+No previous tracing available for comparison
+.
+[**2175-6-13**] CTA CHEST: 1. No pulmonary embolism.
+2. Right lower lobe atelectasis/consolidation with tiny
+bilateral pleural effusions.
+3. Moderate hiatal hernia.
+4. Unchanged calcified mediastinal lymph node.
+.
+[**2175-6-13**] CXR: Small bilateral pleural effusions without overt
+CHF/pulmonary edema and no evidence for new pneumonia. Calcified
+granuloma and node on left. Osteoporosis of spine with
+compression fractures.
+.
+[**2175-6-13**] ECG: Sinus rhythm @ 78 with atrial premature beats. Left
+ventricular hypertrophy. Since the previous tracing of [**2175-6-10**]
+probably no significant change, although baseline artifact on
+both tracings makes comparison difficult. TRACING #1
+.
+[**2175-6-13**] ECG: Atrial fibrillation with a rapid ventricular
+response. Left ventricular hypertrophy. Non-specific ST-T wave
+changes. Since the previous tracing  of [**2175-6-13**] atrial
+fibrillation and ST-T wave changes are present. TRACING #2
+.
+[**2175-6-14**] FLUORO: Successful repositioning of the right-sided PICC
+which now terminates in the distal SVC. Line is ready for use.
+.
+[**2175-6-14**] ECHO: The left atrium is mildly dilated. The estimated
+right atrial pressure is  16-20 mmHg. There is mild symmetric
+left ventricular hypertrophy. The left ventricular cavity size
+is normal. Left ventricular systolic function is hyperdynamic
+(EF 70-80%). Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets (3) are mildly thickened
+but aortic stenosis is not present. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Trivial mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+Impression: hypertrophic, hyperdynamic left ventricle
+.
+[**2175-6-16**] CXR: Lung volumes have improved, borderline interstitial
+edema decreased, heart size normal, but left atrium likely
+enlarged. Stable pulmonary vascular congestion. Small right
+pleural effusion may also have decreased. Leftward tracheal
+deviation just above the thoracic inlet is due to tortuous head
+and neck vessels.
+.
+[**2175-6-11**] 8:35 am URINE      Source: Catheter.
+   URINE CULTURE (Final [**2175-6-12**]):    NO GROWTH.
+.
+
+[**2175-6-10**] 03:15AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.014
+[**2175-6-10**] 03:15AM URINE Blood-MOD Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD
+[**2175-6-10**] 03:15AM URINE RBC-[**7-23**]* WBC->50 Bacteri-RARE Yeast-NONE
+Epi-[**4-17**]
+[**2175-6-12**] 06:31PM URINE Eos-POSITIVE
+[**2175-6-11**] 08:35AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.020
+[**2175-6-11**] 08:35AM URINE Blood-LGE Nitrite-NEG Protein-100
+Glucose-NEG Ketone-15 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+[**2175-6-11**] 08:35AM URINE RBC-88* WBC-2 Bacteri-FEW Yeast-NONE
+Epi-0
+[**2175-6-10**] 03:15AM BLOOD WBC-17.6* RBC-3.73* Hgb-11.3* Hct-34.2*
+MCV-92 MCH-30.4 MCHC-33.1 RDW-13.8 Plt Ct-229
+[**2175-6-10**] 03:15AM BLOOD Neuts-84* Bands-9* Lymphs-2* Monos-2
+Eos-3 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2175-6-10**] 03:15AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+
+Macrocy-1+ Microcy-NORMAL Polychr-1+ Ovalocy-1+
+Stipple-OCCASIONAL
+[**2175-6-10**] 03:15AM BLOOD Plt Ct-229
+[**2175-6-10**] 03:15AM BLOOD Glucose-144* UreaN-19 Creat-0.8 Na-138
+K-4.5 Cl-99 HCO3-30 AnGap-14
+[**2175-6-10**] 03:15AM BLOOD ALT-11 AST-21 AlkPhos-101 Amylase-23
+TotBili-0.4
+[**2175-6-10**] 03:15AM BLOOD Lipase-17
+[**2175-6-10**] 03:15AM BLOOD CK-MB-2 cTropnT-0.03*
+[**2175-6-10**] 10:30AM BLOOD CK-MB-NotDone proBNP-1148*
+[**2175-6-10**] 10:30AM BLOOD cTropnT-0.03*
+[**2175-6-10**] 04:41PM BLOOD CK-MB-2 cTropnT-0.03* proBNP-1259*
+[**2175-6-10**] 03:15AM BLOOD Albumin-3.6 Phos-3.4 Mg-2.1
+[**2175-6-10**] 11:55AM BLOOD Type-ART pO2-101 pCO2-49* pH-7.43
+calTCO2-34* Base XS-6 Intubat-NOT INTUBA
+[**2175-6-10**] 03:34AM BLOOD Lactate-1.9
+.
+
+[**2175-6-11**] 10:15AM BLOOD WBC-10.2 RBC-3.35* Hgb-10.5* Hct-31.9*
+MCV-95 MCH-31.2 MCHC-32.8 RDW-13.1 Plt Ct-211
+[**2175-6-11**] 10:15AM BLOOD Neuts-73.5* Lymphs-12.2* Monos-1.0*
+Eos-12.2* Baso-0 Atyps-1.0*
+[**2175-6-11**] 10:15AM BLOOD Hypochr-NORMAL Anisocy-NORMAL
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**2175-6-11**] 10:15AM BLOOD PT-14.3* PTT-32.3 INR(PT)-1.3*
+[**2175-6-11**] 10:15AM BLOOD Plt Smr-NORMAL Plt Ct-211
+[**2175-6-11**] 05:54AM BLOOD Glucose-95 UreaN-15 Creat-0.6 Na-140
+K-3.6 Cl-101 HCO3-31 AnGap-12
+[**2175-6-11**] 05:54AM BLOOD Calcium-8.6 Phos-2.6* Mg-2.2
+.
+CT Head
+FINDINGS: There is no intracranial hemorrhage, mass effect,
+hydrocephalus, or shift of normally midline structures.
+Ventricular prominence is unchanged, consistent with moderate
+cortical atrophy. Focal hypodensities in the left parietal lobe,
+coronal radiata, and frontal lobe are unchanged, representing
+chronic infarction. More diffuse hypodensities in the
+periventricular white matter are unchanged, and most consistent
+with chronic small vessel ischemic disease. Surrounding osseous
+and soft tissue structures are unremarkable.
+.
+IMPRESSION: No significant change since [**2175-6-10**]. Unchanged
+appearance of several left-sided chronic infarcts, and small
+vessel ischemic disease. No intracranial hemorrhage.
+.
+[**2175-6-20**] 06:10AM    98 13 1.3* 141 4.0 100 36* 9
+.
+CXR [**6-19**]: IMPRESSION: Slight interval improvement in pulmonary
+vascular congestion, otherwise no significant interval change.
+
+Brief Hospital Course:
+A/P: [**Age over 90 **] yo female with hx of HTN, afib, PE, multinfarct dementia
+admitted with UTI, left leg cellulitis, and diastolic CHF;
+course c/b AF with RVR.
+.
+#Diastolic CHF: initially due to infection, worsened by AF with
+RVR and fluid resuscitation, was continued on Lasix with good
+diuresis.  Needs serial assesments of volume status/weights at
+her nursing home with her lasix titrated accordingly.
+Low dose ACE was added.  No evidence of ACS.  Lasix held on day
+of d/c secondary to bump in Cr (.8-->1.3).  Needs serial Chem 7
+at her nursing home.  Currently has minimal oxygen requirements.
+.
+#AF: Now in NSR on amiodarone and Lopressor 12.5 TID.  Needs one
+more week of Amio 200 [**Hospital1 **] then 200 mg daily.  Poor
+anticoagulation candidate given fall risk and advanced age.
+.
+#UTI: Pt has received 7 days of treatment (CTX, macrodantin,
+aztreonam) for E. coli UTI; d/c'd aztreonam/ctx given rash.
+.
+#LLE Cellulitis: resolved with 10 days of vancomycin.
+.
+#Rash: suspect secondary to ceftriaxone or aztreonam. Resolving.
+.
+#Dementia:  pt noted to be more somnolent on [**6-19**]; CT
+head/ABG/toxic-metabolic w/u unrevealing.  ?secondary to
+benadryl (from rash) along with neurontin.  Would avoid sedating
+meds until MS completely back to baseline.  No evidence of
+recurrent infection.
+
+
+
+Medications on Admission:
+Ciprofloxacin 250mg [**Hospital1 **]
+Amoxicillin 500mg PO tid ? d/c'ed
+Lopressor 25mg tid
+Lasix 40mg alt 20mg qd held
+Neurontin 100mg [**Hospital1 **]
+Levofloxacin 250mg qd-started on
+Tylenol prn
+Erythromycin eye ointment
+Levalbuterol Nebs q6h prn
+Nortryptilline 25mg qhs
+MVI
+Digoxin 0.125mg qd
+KCl 10 meq qd
+Celexa 10mg qd
+Colace
+Levothyroxine 50mcg qd
+Macrodantin 50mg qid-completed
+
+
+Discharge Medications:
+1. Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+2. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Gabapentin 100 mg Tablet Sig: One (1) Tablet PO twice a day:
+Pleaes hold for somnolence.
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO every
+eight (8) hours: hold for SBP <110 or HR <55 .
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+9. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day: Please
+alternate with 20 mg daily
+to start [**6-21**].
+10. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed.
+11. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO twice a day
+for 1 weeks.
+12. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day:
+to begin after one week of [**Hospital1 **].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Doctor First Name 391**] Bay Skilled Nursing Facility
+
+Discharge Diagnosis:
+Left Lower Extremity Cellulitis
+Urinary Tract Infection
+Diastolic Dysfunction/Congestive Heart Failure
+Atrial Fibrillation
+Drug Rash
+
+Secondary Diagnoses:
+CVA-with multiinfarct dementia-aphasic at baseline
+h/o Zoster-L thorax
+Hypothyroidism
+DJD
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please come back to the emergency room should you develop any
+fevers, chills, chest pain, shortness of breath, difficulty
+thinking, or any other complaints.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] within the next two weeks.
+
+
+

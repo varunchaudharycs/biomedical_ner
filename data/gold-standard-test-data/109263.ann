@@ -1,0 +1,230 @@
+T1	Drug 10013 10021	cellcept
+T2	Drug 10026 10033	valcyte
+T3	Drug 162 174	Erythromycin
+T4	Drug 185 192	Bactrim
+T5	Drug 195 206	Penicillins
+T6	Dosage 5314 5321	2 units
+R1	Dosage-Drug Arg1:T6 Arg2:T7
+T7	Drug 5325 5330	RBC's
+T8	Dosage 5365 5372	2 units
+R2	Dosage-Drug Arg1:T8 Arg2:T9
+T9	Drug 5373 5377	RBCs
+T10	Reason 6225 6242	Immunosuppression
+R3	Reason-Drug Arg1:T10 Arg2:T11
+R4	Reason-Drug Arg1:T10 Arg2:T12
+R5	Reason-Drug Arg1:T10 Arg2:T13
+R6	Reason-Drug Arg1:T10 Arg2:T14
+T11	Drug 6309 6317	Cellcept
+T12	Drug 6359 6366	Prograf
+T13	Drug 6387 6393	imuran
+T14	Drug 6455 6462	valcyte
+T15	Drug 6645 6655	antibiotic
+T16	Drug 6743 6751	Levaquin
+T17	Drug 6753 6758	Vanco
+T18	Drug 6763 6769	Flagyl
+T19	Drug 6802 6808	Flagyl
+T20	Drug 6826 6837	antibiotics
+T21	Duration 6975 6981	7 days
+R7	Duration-Drug Arg1:T21 Arg2:T22
+T22	Drug 6985 6995	Filgrastim
+T23	Drug 7325 7335	FAMOTIDINE 
+T24	Strength 7338 7343	20 mg
+R8	Strength-Drug Arg1:T24 Arg2:T23
+T25	Form 7344 7350	Tablet
+R9	Form-Drug Arg1:T25 Arg2:T23
+T26	Dosage 7353 7354	1
+R10	Dosage-Drug Arg1:T26 Arg2:T23
+T28	Form 7355 7364	Tablet(s)
+R12	Form-Drug Arg1:T28 Arg2:T23
+T29	Route 7365 7373	by mouth
+R13	Route-Drug Arg1:T29 Arg2:T23
+T30	Frequency 7374 7385	twice a day
+R14	Frequency-Drug Arg1:T30 Arg2:T23
+T31	Drug 7386 7398	FEXOFENADINE
+T32	Strength 7462 7465;7466 7468	180 mg
+R15	Strength-Drug Arg1:T32 Arg2:T31
+T33	Form 7469 7475	Tablet
+R16	Form-Drug Arg1:T33 Arg2:T31
+T34	Dosage 7478 7479	1
+R17	Dosage-Drug Arg1:T34 Arg2:T31
+T35	Form 7480 7489	Tablet(s)
+R18	Form-Drug Arg1:T35 Arg2:T31
+T36	Route 7490 7498	by mouth
+R19	Route-Drug Arg1:T36 Arg2:T31
+T37	Frequency 7499 7509	once a day
+R20	Frequency-Drug Arg1:T37 Arg2:T31
+T38	Drug 7510 7532	METOCLOPRAMIDE [REGLAN
+T39	Strength 7570 7574	5 mg
+R21	Strength-Drug Arg1:T39 Arg2:T38
+T40	Form 7575 7581	Tablet
+R22	Form-Drug Arg1:T40 Arg2:T38
+T41	Dosage 7584 7585	1
+R23	Dosage-Drug Arg1:T41 Arg2:T38
+T42	Form 7586 7595	Tablet(s)
+R24	Form-Drug Arg1:T42 Arg2:T38
+T43	Route 7596 7604	by mouth
+R25	Route-Drug Arg1:T43 Arg2:T38
+T44	Frequency 7605 7622	three times a day
+R26	Frequency-Drug Arg1:T44 Arg2:T38
+T45	Drug 7623 7644	MYCOPHENOLATE MOFETIL
+T46	Strength 7647 7653	500 mg
+R27	Strength-Drug Arg1:T46 Arg2:T45
+T47	Form 7654 7660	Tablet
+R28	Form-Drug Arg1:T47 Arg2:T45
+T48	Dosage 7663 7664	1
+R29	Dosage-Drug Arg1:T48 Arg2:T45
+T49	Form 7665 7674	Tablet(s)
+R30	Form-Drug Arg1:T49 Arg2:T45
+T50	Route 7675 7683	by mouth
+R31	Route-Drug Arg1:T50 Arg2:T45
+T51	Frequency 7684 7688;7689 7700	four times a day
+R32	Frequency-Drug Arg1:T51 Arg2:T45
+T52	Drug 7701 7722	PENTAMIDINE [NEBUPENT
+T53	Strength 7726 7732	300 mg
+R33	Strength-Drug Arg1:T53 Arg2:T52
+T54	Form 7733 7743	Recon Soln
+R34	Form-Drug Arg1:T54 Arg2:T52
+T55	Dosage 7746 7752	300 mg
+R35	Dosage-Drug Arg1:T55 Arg2:T52
+T56	Route 7753 7755	ih
+R36	Route-Drug Arg1:T56 Arg2:T52
+T57	Frequency 7756 7763	monthly
+R37	Frequency-Drug Arg1:T57 Arg2:T52
+T58	Dosage 7774 7778	6 ml
+R38	Dosage-Drug Arg1:T58 Arg2:T59
+T59	Drug 7782 7795	sterile water
+T60	Drug 7796 7824	SODIUM POLYSTYRENE SULFONATE
+T61	Form 7829 7835	Powder
+R39	Form-Drug Arg1:T61 Arg2:T60
+T62	Strength 7843 7849	15 gms
+R40	Strength-Drug Arg1:T62 Arg2:T60
+T63	Reason 7870 7876	high k
+R41	Reason-Drug Arg1:T63 Arg2:T60
+T64	Drug 7894 7904	TACROLIMUS
+T65	Strength 7940 7944	1 mg
+R42	Strength-Drug Arg1:T65 Arg2:T64
+T66	Form 7945 7952	Capsule
+R43	Form-Drug Arg1:T66 Arg2:T64
+T67	Dosage 7955 7956	3
+R44	Dosage-Drug Arg1:T67 Arg2:T64
+T68	Form 7957 7967	Capsule(s)
+R45	Form-Drug Arg1:T68 Arg2:T64
+T69	Route 7968 7976	by mouth
+R46	Route-Drug Arg1:T69 Arg2:T64
+T70	Frequency 7977 7988	twice a day
+R47	Frequency-Drug Arg1:T70 Arg2:T64
+T71	Dosage 8000 8001	4
+R48	Dosage-Drug Arg1:T71 Arg2:T64
+T72	Form 8002 8010	capsules
+R49	Form-Drug Arg1:T72 Arg2:T64
+T73	Drug 8028 8038	TACROLIMUS
+T74	Strength 8074 8080	0.5 mg
+R50	Strength-Drug Arg1:T74 Arg2:T73
+T75	Form 8081 8088	Capsule
+R51	Form-Drug Arg1:T75 Arg2:T73
+T76	Dosage 8091 8092	1
+R52	Dosage-Drug Arg1:T76 Arg2:T73
+T77	Form 8093 8103	Capsule(s)
+R53	Form-Drug Arg1:T77 Arg2:T73
+T78	Route 8104 8112	by mouth
+R54	Route-Drug Arg1:T78 Arg2:T73
+T79	Frequency 8113 8124	twice a day
+R55	Frequency-Drug Arg1:T79 Arg2:T73
+T80	Drug 8125 8148	VALGANCICLOVIR [VALCYTE
+T81	Strength 8152 8158	450 mg
+R56	Strength-Drug Arg1:T81 Arg2:T80
+T82	Form 8159 8165	Tablet
+R57	Form-Drug Arg1:T82 Arg2:T80
+T83	Dosage 8168 8169	2
+R58	Dosage-Drug Arg1:T83 Arg2:T80
+T84	Form 8170 8179	Tablet(s)
+R59	Form-Drug Arg1:T84 Arg2:T80
+T85	Route 8180 8188	by mouth
+R60	Route-Drug Arg1:T85 Arg2:T80
+T86	Frequency 8189 8199	once a day
+R61	Frequency-Drug Arg1:T86 Arg2:T80
+T87	Drug 8227 8237	Famotidine
+T88	Strength 8238 8243	20 mg
+R62	Strength-Drug Arg1:T88 Arg2:T87
+T89	Form 8244 8250	Tablet
+R63	Form-Drug Arg1:T89 Arg2:T87
+T90	Dosage 8256 8263	One (1)
+R64	Dosage-Drug Arg1:T90 Arg2:T87
+T91	Form 8264 8270	Tablet
+R65	Form-Drug Arg1:T91 Arg2:T87
+T92	Route 8271 8273	PO
+R66	Route-Drug Arg1:T92 Arg2:T87
+T93	Frequency 8274 8285	twice a day
+R67	Frequency-Drug Arg1:T93 Arg2:T87
+T94	Drug 8290 8302	Fexofenadine
+T95	Strength 8303 8309	180 mg
+R68	Strength-Drug Arg1:T95 Arg2:T94
+T96	Form 8310 8316	Tablet
+R69	Form-Drug Arg1:T96 Arg2:T94
+T97	Dosage 8322 8329	One (1)
+R70	Dosage-Drug Arg1:T97 Arg2:T94
+T98	Form 8330 8336	Tablet
+R71	Form-Drug Arg1:T98 Arg2:T94
+T99	Route 8337 8339	PO
+R72	Route-Drug Arg1:T99 Arg2:T94
+T100	Frequency 8340 8350	once a day
+R73	Frequency-Drug Arg1:T100 Arg2:T94
+T101	Drug 8356 8370	Metoclopramide
+T102	Strength 8371 8375	5 mg
+R74	Strength-Drug Arg1:T102 Arg2:T101
+T103	Form 8376 8382	Tablet
+R75	Form-Drug Arg1:T103 Arg2:T101
+T104	Dosage 8388 8395	One (1)
+R76	Dosage-Drug Arg1:T104 Arg2:T101
+T105	Form 8396 8402	Tablet
+R77	Form-Drug Arg1:T105 Arg2:T101
+T106	Route 8403 8405	PO
+R78	Route-Drug Arg1:T106 Arg2:T101
+T107	Frequency 8406 8417;8418 8423	three times a day
+R79	Frequency-Drug Arg1:T107 Arg2:T101
+T108	Drug 8428 8439	Pentamidine
+T109	Strength 8440 8446	300 mg
+R80	Strength-Drug Arg1:T109 Arg2:T108
+T110	Form 8447 8457	Recon Soln
+R81	Form-Drug Arg1:T110 Arg2:T108
+T111	Dosage 8463 8470	One (1)
+R82	Dosage-Drug Arg1:T111 Arg2:T108
+T112	Route 8471 8481	inhalation
+R83	Route-Drug Arg1:T112 Arg2:T108
+T113	Route 8482 8492	Inhalation
+R84	Route-Drug Arg1:T113 Arg2:T108
+T114	Frequency 8493 8505	once a month
+R85	Frequency-Drug Arg1:T114 Arg2:T108
+T115	Drug 8510 8520	Tacrolimus
+T116	Strength 8521 8525	1 mg
+R86	Strength-Drug Arg1:T116 Arg2:T115
+T117	Form 8526 8533	Capsule
+R87	Form-Drug Arg1:T117 Arg2:T115
+T118	Dosage 8539 8547	Four (4)
+R88	Dosage-Drug Arg1:T118 Arg2:T115
+T119	Form 8548 8555	Capsule
+R89	Form-Drug Arg1:T119 Arg2:T115
+T120	Route 8556 8558	PO
+R90	Route-Drug Arg1:T120 Arg2:T115
+T121	Frequency 8559 8571;8572 8582	every twelve (12) hours
+R91	Frequency-Drug Arg1:T121 Arg2:T115
+T122	Drug 8601 8611	tacrolimus
+T123	Drug 8667 8679	Azathioprine
+T124	Strength 8680 8685	50 mg
+R92	Strength-Drug Arg1:T124 Arg2:T123
+T125	Form 8686 8692	Tablet
+R93	Form-Drug Arg1:T125 Arg2:T123
+T126	Dosage 8698 8705	One (1)
+R94	Dosage-Drug Arg1:T126 Arg2:T123
+T127	Form 8706 8712	Tablet
+R95	Form-Drug Arg1:T127 Arg2:T123
+T128	Route 8713 8715	PO
+R96	Route-Drug Arg1:T128 Arg2:T123
+T129	Frequency 8716 8721;8722 8729	DAILY (Daily)
+R97	Frequency-Drug Arg1:T129 Arg2:T123
+T130	Drug 8766 8774	Myfortic
+T131	Route 8776 8780	Oral
+R98	Route-Drug Arg1:T131 Arg2:T130
+T132	Drug 9051 9061	tacrolimus
+T27	Frequency 7862 7865	prn
+R11	Frequency-Drug Arg1:T27 Arg2:T60	

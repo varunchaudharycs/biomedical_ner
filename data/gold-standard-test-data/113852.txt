@@ -1,0 +1,178 @@
+Admission Date:  [**2164-8-25**]              Discharge Date:   [**2164-8-28**]
+
+Date of Birth:  [**2085-5-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lopressor / Lisinopril
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+facial swelling/laryngeal edema
+
+Major Surgical or Invasive Procedure:
+Endotrachial Intubation
+
+History of Present Illness:
+See MICU [**Location (un) **] note from [**8-26**] for full details. Briefly this is
+a 79yo patient with PMH significant for HTN, CAD, s/p CABG being
+transferred from the ICU for probable angioedema after taking
+lisinopril.
+.
+Patient had been giving script for lisinopril a while back but
+only started taking it on Friday [**8-24**] AM. He started to feel his
+lips, tongue and face swelling and it progressivly worsened to
+include his throat. He was admitted to the ICU and was intubated
+and sedated. ENT saw patient and recommended keeping tube in
+place. However, patient self-extubated overnight and actually
+remained stable. His condition improved and he was transferred
+to the floor for further care.
+.
+On arrival to the medical floor, patient was stable. Vital
+signs- T 96.5, HR 74, BP 125/64, R 14, satting 100% on 4L. No
+complaints except for some facial swelling but reduced from
+admission. Denied any shortness of breath, chest pain,
+headaches, dizziness. Doing well, comfortable.
+
+
+Past Medical History:
+-HTN
+-Psoriasis
+-Hypercholesterolemia
+-CKD, baseline Cr 2.6
+-CAD s/p MI([**2135**]) s/p Cardiac Stress Test([**5-20**]: Mild Reversible
+Ischemic Changes), s/p Cath([**2-21**]: 1 vessel disease, No stenting
+required), Chronic Stable Angina
+-Cardiomyopathy, EF 50% 2/09
+-Mild Dementia (short term memory impairment)
+-Gout
+-BPH
+-Eczema
+-s/p L hip fx s/p hemiarthroscopy [**3-/2164**]
+
+Social History:
+NA
+
+
+Family History:
+NA
+
+Physical Exam:
+General: Intubated, sedated
+HEENT:Conjunctiva injected. Pupils symmetric, constrict equally
+to light. Lip swelling.  Intubated, OGT in place.
+Neck: supple.  No bruit.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Bradycardic rate, regular rhythm, normal S1 + S2, no
+murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: No rashes, hives.
+
+Pertinent Results:
+[**2164-8-26**] 03:03AM BLOOD WBC-15.8*# RBC-3.50* Hgb-10.6* Hct-31.2*
+MCV-89 MCH-30.4 MCHC-34.0 RDW-13.3 Plt Ct-336
+[**2164-8-25**] 09:00AM BLOOD WBC-8.1 RBC-3.68* Hgb-11.2* Hct-33.4*
+MCV-91 MCH-30.3 MCHC-33.4 RDW-13.1 Plt Ct-313
+[**2164-8-25**] 09:00AM BLOOD Neuts-91.2* Lymphs-7.7* Monos-0.9*
+Eos-0.2 Baso-0.1
+[**2164-8-26**] 03:03AM BLOOD PT-12.0 PTT-23.5 INR(PT)-1.0
+[**2164-8-26**] 03:03AM BLOOD Glucose-168* UreaN-65* Creat-2.8* Na-143
+K-4.9 Cl-115* HCO3-18* AnGap-15
+[**2164-8-26**] 03:03AM BLOOD Calcium-9.0 Phos-5.0* Mg-2.3
+
+Brief Hospital Course:
+79yo male admitted to ICU for probable angioedema due to
+lisinopril injestion.
+
+1. Angioedema
+Pt was admitted to the ICU and was intubated and sedated.  He
+was also started on IV steroids, H2 blockers, and benadryl.  ENT
+saw patient and recommended keeping 6 mm tube in place.
+However, patient self-extubated overnight and actually remained
+stable.  His condition improved and he was transferred to the
+floor for further care on [**2164-8-26**].  He was initially on 4L NC
+and satting in high 90s and this was quickly weaned.  He
+experienced some soreness of the throat and had a difficult time
+swallowing pills at first.  ENT saw him and thought this was due
+to trauma from the ET tube and not lingering angioedema.  As his
+angioedema improved he was able to tollerate first thick
+liquids, then a regular diet.  He was switched to PO steroids
+with a 7 day taper starting on [**8-27**].
+
+2. Acute on chronic kidney injury - baseline 2.6. creatinine was
+3.2 on admission but this trended back down to 2.4 by D/C.
+Allopurinol was held in the ICU given Cr bump.
+
+3. HTN- Antihypertensives were held in ICU but amlodipine was
+restarted once stable on the medicine floor.
+
+4. CHF. Known EF [**3-26**] 50% with mild reduced systolic function.
+Appeared euvolemic on exam.
+
+5. CAD
+-held ASA as above
+-continued simvastatin
+
+
+Medications on Admission:
+Amlodipine 2.5mg PO daily
+Aspirin 325mg PO daily
+Furosemide 20mg daily
+Lisinopril 40mg daily
+Oxybutinin 5mg daily
+Simvastatin 80mg daily
+Allopur.  inol 100mg daily
+eucerin cream
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:  Angioedema
+
+Secondary Diagnosis:  Hypertension
+ Chronic Kidney Disease
+
+Discharge Condition:
+Good.  Vital Signs stable
+
+Discharge Instructions:
+You were admitted to the hospital for swelling in your face and
+throat after you took lisinopril.  You were taken to the ICU
+because the swelling in your neck gave you difficulty breathing.
+ After one night in the ICU you actually pulled out your
+breathing tube but did well without it.  You remained stable the
+next day and was transferred to the regular medicine floor on
+[**8-26**], where you remained stable.  You initially had trouble
+swallowing pills and food but this has gotten better and you are
+now able to swallow food.  Your facial swelling has also
+decreased.
+
+We have scheduled follow up appointments with your primary care
+doctor and the allergy Dr.  [**Last Name (STitle) 357**] go to your scheduled
+appointments.  You were also prescribed prednisone, famotidine,
+and fexofenadine to decrease residual swelling.  Please take the
+prednisone as follows: 6 tablets on day one, 5 tablets on day
+two, 4 tablets on day three, 3 tablets on day four, 2 tablets on
+day five, 1 tablet on day six, and 1 tablet on day seven.
+
+Please return to the hospital or call your doctor if you have
+worsening throat/facial swelling, hives or skin rash, or any
+other symptoms that concern you.
+
+Followup Instructions:
+Please make a follow-up appointment with your primary care
+doctor, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], within the next two weeks.  His
+office phone number is: ([**Telephone/Fax (1) 12871**]
+
+Allergist [**Last Name (LF) **],[**Name8 (MD) **] MD  ([**Telephone/Fax (1) 14583**]
+Tuesday [**10-2**], 9 am
+1 [**Location (un) **] pl [**Apartment Address(1) 20447**]
+
+
+

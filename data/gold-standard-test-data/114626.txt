@@ -1,0 +1,256 @@
+Admission Date:  [**2136-8-14**]              Discharge Date:   [**2136-8-21**]
+
+Date of Birth:  [**2064-3-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+nausea/vomiting
+
+Major Surgical or Invasive Procedure:
+Attempted temporary pacing wire placement (unsuccessful)
+Foley catheter
+
+
+History of Present Illness:
+72 year old female with h/o severe ventricular dysfunction (EF
+10%) secondary to polysubstance abuse and HIV (dx [**2116**] on [**Year (4 digits) 2775**],
+last CD4 359), 2+ MR, on methadone maintenance who presents with
+nausea, bradycardia, acute on chronic renal failure with
+potassium of 6.0.  Patient states she has been fatigued recently
+but denies shortness of breath, chest pain, orthopnea and leg
+swelling.  On day of presentation to ED, she began vomiting,
+non-bloody non-bilious.
+.
+Patient was recently admitted to [**Hospital1 18**] from [**Date range (1) 105348**]/07 with CHF
+exacerbation, swan was placed that admission and she was
+diuresed. Elevated troponin at the time thought secondary to
+demand.  She was started on amiodarone for runs of VTach and
+continued on digoxin.  She states she has been compliant with
+her medications.
+.
+ED: sbp 80's, which is baseline.  Given insulin, 1amp D50,
+atropine, calcium gluconate 1g, sodium bicarbonate 50mEq for
+potassium 6.0.  Given ondansetron.  EKG likely junctional brady
+with retrograde p waves.
+.
+On review of symptoms, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, hemoptysis, black stools or red stools. She
+denies recent fevers, chills or rigors. Other review of symptoms
+negative aside from above.
+.
+In the ED, the patient was afebrile with SBP in the 80-90s. She
+had nausea and was noted to have HR in the 30s junctional vs av
+delay. Now being transferred to floor for further mgmt.
+.
+On arrival to the CCU, she was feeling tired (hadn't slept all
+night) but no CP, shortness of breath, dizziness or LH.
+.
+On review of symptoms, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, hemoptysis, black stools or red stools. She
+denies recent fevers, chills or rigors. Other review of symptoms
+negative aside from above.
+.
+Cardiac review of systems is notable for absence of chest pain,
+shortness of breath, palpitations, syncope or presyncope.
+
+
+Past Medical History:
+1. HIV- Diagnosed in [**2116**], has taken [**Year (4 digits) 2775**] therapy
+intermittently. Stopped taking her pills three months ago
+because stated she had foamy vomit every time she took them. CD4
+274, VL<50 in [**12-10**]
+2. CHF- EF 10% 7/07 followed by Dr. [**First Name (STitle) 437**]
+3. HCV- VL >700K in [**12-9**], not a good candidate for interferon
+therapy or liver biopsy per gi note in 04.
+4. mild COPD- PFTs [**7-/2129**] showed a normal study
+5. IVDU--last abuse heroin several days ago, skin popping
+6. Arthritis
+7. chronic pancreatitis
+8. ventricular tachycardia
+
+
+Social History:
+Has 20 grandchildren, tobacco: [**4-8**] cig/day, 40 py
+Heavy EtOH in past. States that last used heroin in the past few
+days (skin popping) and also used cocaine in the last month.
+
+
+Family History:
+NC
+
+Physical Exam:
+VS:  96.2F  HR 30  BP 86/50  RR 16   100%/2Ln.c.
+Gen: Cachectic female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple, thin.
+CV: PMI located in 7th intercostal space, midclavicular line.
+Distant heart sounds, regular rhythm, normal S1, S2. [**3-13**]
+holosystolic murmur at apex.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Crackles at right base,
+left base clear.
+Abd: Soft, ND, mild TTP epigastrium and RUQ with hepatomegaly.
+No abdominal bruits.
+Ext: no LE edema bilaterally.
+Skin: Multiple well healed lesions from h/o drug abuse
+Pulses:
+Right: 1+ DP
+Left: 1+ DP
+
+Pertinent Results:
+7/13/7.  CXR.  Stable severe cardiomegaly. New mild-to-moderate
+pulmonary edema accompanied by small bilateral new pleural
+effusion.
+
+[**2136-8-14**].  Digoxin level 3.8
+[**2136-8-16**].  Dig level 2.5
+[**2136-8-17**].  Dig level 2.1
+[**2136-8-18**].  Dig level 1.5
+
+Brief Hospital Course:
+72 yo female with severe ventricular dysfunction (EF 10%)
+secondary to polysubstance abuse and HIV (last CD4 359) who
+presented with bradycardia secondary to digoxin and amiodarone
+toxicity.
+ .
+# Rhythm: Found to be bradycardic to 30's in ED in setting of
+digoxin toxicity with amiodarone and hyperkalemia contributing.
+Patient had been started on amiodarone at her last
+hospitalization due to runs of VTach.  Pacer pads were placed
+but she did not require transcutaneous pacing.  An isoproterenol
+drip was started which increased her Heart rates to 50's-60's
+(although initially remained in junctional rhythm).  Digoxin and
+amiodarone were held.  An attempt was made to place a temporary
+pacing wire, but this attempt was unsuccessful because of
+thrombosed veins.  The isoprotenenol drip was stopped on [**8-18**].
+Patient will not go home on amiodarone and will go home on
+Digoxin 0.125 mg qod.
+.
+# Pump: EF 10% on last echo ([**2136-8-3**]).  She appeared euvolemic
+on admission so lasix was held.  She developed increased
+shortness of breath and CXR was consistent with pulmonary edema,
+so patient was diuresed with lasix. A foley catheter was placed
+to monitor accurate I/Os. Digoxin and ACEI were held. ACEI will
+be held until she follows up in clinic with Dr. [**First Name (STitle) 437**].
+
+# CAD: No evidence of active ischemia during admission. Normal
+perfusion images in [**2133**].
+
+# HIV: Last CD4 359 in 04/[**2136**].  Patient requested that her
+[**Year (4 digits) 2775**] therapy be stopped as she felt that this made her
+nauseated and gave her abdominal discomfort.  Her PCP was
+[**Name (NI) 653**] and made aware that the [**Name (NI) 2775**] was stopped.  Her
+bactrim prophylaxis was continued.  She will follow-up with her
+PCP [**2136-8-23**] to discuss further treatment options.
+
+# Polysubstance abuse: Last use [**6-10**] mos PTA.  Continued with
+methadone 90mg.
+
+# ARF on CRI: Baseline creatinine 1.3-1.5. Now ARF on CRI;
+likely secondary to bradycardia and low EF in setting of digoxin
+toxicity.  Held lasix and ACEI initially. Creatine continues to
+trend towards baseline with return of home lasix dose.
+
+#) Hyperkalemia: likely [**3-9**] ARF on CRI.  Held ACEI.  Avoided
+Calcium in setting of digoxin toxicity.  Monitored frequent
+electrolytes.  Treated with kayxalate as needed.  She will have
+her potassium monitored on [**8-22**] at the rehab facility.
+
+#) Anticoagulation: Patient started on coumadin given poor LV
+function and risk of clot formation.  Continued coumadin at
+decreased dose with sub-therapeutic INR.  Prior to discharge to
+rehab, coumadin was increased to 5mg daily.  Her INR will be
+checked on [**8-22**] at rehab and coumadin will be adjusted by Dr.
+[**First Name (STitle) 437**].
+
+
+Medications on Admission:
+1. Amiodarone 400mg [**Hospital1 **]
+2. Digoxin 0.125 mcg Tablet [**Hospital1 **]: 0.5 Tablet PO DAILY
+3. Emtricitabine-Tenofovir 200-300 mg po daily
+4. Furosemide 100mg po bid
+5. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY
+6. Lisinopril 20 mg PO DAILY
+7. Methadone HCl 90 mg PO DAILY
+8. Sulfameth/Trimethoprim DS 1 TAB PO BID
+9. Warfarin 2 mg PO HS
+
+
+Discharge Medications:
+1. Methadone 10 mg Tablet [**Hospital1 **]: Nine (9) Tablet PO DAILY (Daily).
+
+2. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+3. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet [**Last Name (STitle) **]: One (1)
+Tablet PO DAILY (Daily).
+4. Furosemide 20 mg Tablet [**Last Name (STitle) **]: Five (5) Tablet PO BID (2 times
+a day).
+5. Digoxin 125 mcg Tablet [**Last Name (STitle) **]: One (1) Tablet PO every other
+day: Start on Tuesday, [**2136-8-21**].
+6. Coumadin 2.5 mg Tablet [**Month/Day/Year **]: Two (2) Tablet PO once a day:
+Please have your INR checked on [**2136-8-22**]. Results faxed to Dr.
+[**First Name8 (NamePattern2) 401**] [**Last Name (NamePattern1) 437**].
+7. Outpatient Lab Work
+Please have your PT/PTT/INR as well as a chem 7 (electrolytes,
+creatinine, BUN) checked on Wednesday, [**2136-8-22**]. Fax results to
+Dr. [**First Name8 (NamePattern2) 401**] [**Last Name (NamePattern1) 437**] at ([**Telephone/Fax (1) 49261**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1186**] - [**Location (un) 538**]
+
+Discharge Diagnosis:
+Digoxin toxicity resulting in bradycardia
+Congestive heart failure
+Coronary artery disease
+
+
+Discharge Condition:
+afebrile, comfortable on room air
+
+
+Discharge Instructions:
+Your foley catheter was removed just prior to discharge to
+rehab.  Please perform a voiding trial on the day of admission
+to rehab.
+.
+Please stop taking Amiodarone and lisinopril.  Please resume
+taking digoxin 0.125 mg every other day starting on Tuesday,
+[**2136-8-21**].
+.
+Please take coumadin at 5 mg daily. Your INR will be checked on
+Wednesday, [**8-22**]. Results will be faxed to Dr.[**Name (NI) 3536**]
+office.
+.
+Please resume the rest of the medications you were on prior to
+admission, including lasix 100 mg twice per day.
+
+Please call your primary physician or return to the emergency
+room should you develop any of the following symptoms:
+nausea/vomiting, chest pain, difficulty breathing, or any other
+concerns.
+
+
+Followup Instructions:
+Please keep your appointment to see Dr. [**Last Name (STitle) **] on Thursday,
+[**2136-8-23**] at 2:30 pm. Call [**Telephone/Fax (1) 3581**] if there is a problem with
+this appointment. You should discuss restarting your HIV
+medications at this appointment.
+
+Please see DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] on [**2136-8-27**] at 3:30 PM.  Call
+[**Telephone/Fax (1) 3512**] if there is a problem with this appointment.
+
+
+

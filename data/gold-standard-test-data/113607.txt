@@ -1,0 +1,296 @@
+Admission Date:  [**2125-9-13**]              Discharge Date:   [**2125-9-18**]
+
+Date of Birth:  [**2055-6-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ampicillin / Aspirin
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+Diarrhea
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+70 y/o lady with h/o recurrent C.diff colitis since [**Month (only) 958**] of
+[**2124**] presenting worsening diarrhea. Patient has noticed
+increased amount of bowel movements > 10 per day in the last two
+days. She has noticed some bright blood and dark colored stool
+occasionally. She has a hard time explaining the quality and
+quantitiy of stool. Her appetite was very poor and did not eat
+in the last two days. Denies nausea/vomitting. She had mild
+abdominal pain prior to bowel movement yesterday. She felt very
+tired and decided to come to the ED.
+.
+In the ED, initial vs were: T97.4 P95 BP128/65 R20 O292% sat in
+RA. She spiked a temp to 102.4 approx 5 hours after
+presentation. Patient recieved 1 gram of tylenol and became
+afebrile. She initially recieved 1 L NS. Her SBP dropped to 80s
+(per verbal signout) and she was started on peripheral levophed
+and additional 2 L NS were given. Patient refused central line.
+She had 2 PIV (18G) placed in ED per verbal signout. CXR was
+concerning LLL PNA. Patient was also given 1 gram of IV
+vancomycin, 500 mg IV flagyl, 750 mg IV levofloxacin and 2 grams
+of IV calcium.
+.
+On the floor, patient was comfortable.
+.
+Review of sytems:
+Denies fevers at home, chills, night sweats, headache,
+rhinorrhea or congestion. Denied cough, shortness of breath.
+Denied chest pain or tightness, palpitations. Denied arthralgias
+or myalgias, new weakness or numbness. Has chronic right
+shoulder weakness.
+
+
+Past Medical History:
+- Recurrent C Diff colitis beginning [**1-/2125**], last episode and
+hospitalization [**2125-8-1**] to [**2125-8-10**], confirmed colitis on CT and
+flex-sig without pseudomembranes and patient refused biopsy, was
+treated with a pulse and taper dose of vancomycin (completed on
+[**2125-9-2**]), Florastor [**Hospital1 **], and was started on rifaximin 400 mg
+[**Hospital1 **] on [**2125-9-3**].
+- RUE DVT following PICC Placement in [**2125-7-20**], on coumadin
+- Anxiety
+- HTN
+- CAD s/p NSTEMI in the setting of demand ischemia in [**Month (only) 958**] of
+[**2124**]
+- s/p ORIF of R wrist in [**1-/2125**]
+- Anemia
+
+
+Social History:
+Usually lives alone and is able to do activities of daily living
+including driving herself but since her MI in [**Month (only) 958**] she has been
+afraid to leave the house and her son has been living with her
+to help with activities around the house. She has a neice who
+works in the [**Name (NI) 13042**] at [**Hospital1 18**]. Quit tobacco in [**2-5**] but smoked for
+50 years [**12-1**] ppd before that. No alcohol or other drug use.
+
+
+Family History:
+One brother with kidney tumor, CHF, OA, obesity. Dad had DM.
+
+Physical Exam:
+Vitals: T:97.3 BP:101/44 P:84 R: 18 O2: 96% on 2LNC
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP 7cm
+Lungs: distant BS diffusely, no wheezes, rales, ronchi
+Heart: Regular rate and rhythm, normal S1 + S2, I/VI
+holosystolic murmur at left lower sternal border
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, no clubbing, cyanosis or edema
+Guaic negative in ED
+
+
+Pertinent Results:
+Admission Labs:
+[**2125-9-13**] 03:09PM   GLUCOSE-109* UREA N-18 CREAT-0.8 SODIUM-134
+POTASSIUM-4.5 CHLORIDE-106 TOTAL CO2-19* ANION GAP-14
+[**2125-9-13**] 03:09PM   ALT(SGPT)-29 AST(SGOT)-30 LD(LDH)-183 ALK
+PHOS-170* TOT BILI-0.4
+[**2125-9-13**] 03:09PM   GGT-153*
+[**2125-9-13**] 08:41AM   GLUCOSE-109* UREA N-20 CREAT-0.9 SODIUM-135
+POTASSIUM-5.0 CHLORIDE-106 TOTAL CO2-22 ANION GAP-12
+[**2125-9-13**] 08:41AM   ALBUMIN-3.1* CALCIUM-7.6* PHOSPHATE-3.5
+MAGNESIUM-1.6
+[**2125-9-13**] 08:41AM   WBC-4.5# RBC-3.04* HGB-9.2* HCT-28.2* MCV-93
+MCH-30.1 MCHC-32.4 RDW-14.8
+[**2125-9-13**] 04:35AM   LACTATE-1.4 K+-5.0
+[**2125-9-12**] 11:08PM   CALCIUM-9.6 PHOSPHATE-3.4 MAGNESIUM-1.8
+[**2125-9-12**] 11:08PM   NEUTS-84* BANDS-9* LYMPHS-3* MONOS-3 EOS-0
+BASOS-0 ATYPS-0 METAS-1* MYELOS-0
+.
+CT Abd/Pelvis:
+IMPRESSIONS:
+1. Wall thickening and stranding along the colon from the
+splenic flexure
+through the sigmoid colon, similar to that seen on [**2125-8-1**].
+Findings again
+represent nonspecific colitis, possibly ischemic, infectious or
+inflammatory
+in etiology. No free air, definite abscess, pneumatosis, or
+portal gas seen.
+2. Left kidney with hyperdense cyst and other subcentimeter
+hypodensities.
+3. Atherosclerotic disease.
+.
+Stool cx:
+/15/09 1:55 am STOOL     CONSISTENCY: SOFT
+
+                            **FINAL REPORT [**2125-9-17**]**
+
+   FECAL CULTURE (Final [**2125-9-14**]):    NO SALMONELLA OR SHIGELLA
+FOUND.
+
+   CAMPYLOBACTER CULTURE (Final [**2125-9-15**]):    NO CAMPYLOBACTER
+FOUND.
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2125-9-13**]):
+      REPORTED BY PHONE TO [**Doctor Last Name **] KITCHEN ON [**2125-9-13**] AT 1:10PM.
+      CLOSTRIDIUM DIFFICILE.
+         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+           (Reference Range-Negative).
+         A positive result in a recently treated patient is of
+uncertain
+         significance unless the patient is currently
+symptomatic
+         (relapse).
+
+
+Brief Hospital Course:
+C. difficile colitis/Sepsis: Given history of recurrent C.
+difficile colitis, diarrhea, and sepsis, etiology was presumed
+to be CDAD, confirmed on stool cx.  She was started on PO vanco,
+IV flagyl empirically.  CT scan demonstrated colitis.  Patient
+was admitted to the ICU for aggressive IVF, though patient
+refused central line.  She was briefly on peripheral levophed.
+ID and GI were consulted.  After adequate resuscitation, she
+stabilized clinically and was transferred to the medical floor.
+Her diarrhea improved, though her flagyl was stopped after she
+developed parasthesias.  Reviewing the record, it appeared that
+she stopped her previous taper early.  Therefore, a more
+aggressive taper was pursued, deferring possible fecal
+transplantation to the outpatient setting, as well as rifamixin.
+.
+ARF: Likely pre-renal.  Resolved with IVF resusitation
+.
+h/o DVT: Coumadin was reversed initially.  However, once she
+stabilized it was restarted with lovenox bridge.  She will need
+close follow up to ensure her coumadin returns to therapeutic
+range 2-3 and was dicharged on warfarin 4mg daily and lovenox
+40mg SC q12 to bridge
+.
+Plexopathy: Continued coumadin
+.
+HTN, benign: will restart home antihypertensives on discharge
+.
+Chronic diastolic CHF: was euvolemic on exam.  Continued home
+medications
+
+Medications on Admission:
+Citalopram 40 mg daily
+Gabapentin 100 mg TID
+Alprazolam 1 mg TID prn
+Lisinopril 10 mg daily
+Metoprolol Tartrate 12.5 mg [**Hospital1 **]
+Pantoprazole 40 mg daily
+Oxycodone 5 mg q6h prn pain
+Trazodone 50 mg qhs prn
+Vitamin D-3 800 units daily
+Calcium Carbonate 500 mg (1,250 mg) 2tabs daily
+Multivitamin daily
+Lidocaine HCl 5 % Ointment topical TID prn rectal pain
+Warfarin 6 mg for the first day follwed by 4 mg in the next two
+days
+
+
+Discharge Medications:
+1. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO as
+directed: 125mg 4 times per day through [**2125-9-26**], 14 days, then
+125mg 2 times per day through [**2125-10-3**], 7 days, then
+125mg 1 time per day through [**2125-10-10**], 7 days, then
+125mg every other day through [**2125-10-18**], 8 days, then
+125mg every 3rd day through [**2125-11-2**], 15 days.
+Disp:*90 Capsule(s)* Refills:*0*
+2. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+3. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2)
+Tablet PO DAILY (Daily).
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2)
+Tablet, Chewable PO DAILY (Daily).
+7. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+9. Alprazolam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+10. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for insomnia.
+11. Warfarin 2 mg Tablet Sig: Two (2) Tablet PO Once Daily at 4
+PM: please have INR checked 2 days after discharge and adjust
+according to your PCP.  [**Name10 (NameIs) 18303**] INR [**1-2**].
+12. Outpatient [**Name (NI) **] Work
+PT/INR on [**2125-9-20**], [**2125-9-22**].
+to fax to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 20561**]
+Phone: [**Telephone/Fax (1) 26190**]
+Fax: [**Telephone/Fax (1) 81080**]
+
+13. Enoxaparin 40 mg/0.4 mL Syringe Sig: One (1) injection
+Subcutaneous Q12 HR (): subcutaneously until INR 2.
+Disp:*10 injection* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+# C-diff colitis, protracted
+# Sepsis due to c-diff colitis
+# acute exacerbation of diastolic heart failure
+# Acute renal failure
+# Right brachial plexopathy
+# Peripheral neuropathy, new; likely d/t Flagyl
+# Anticoagulation on coumadin
+
+
+Discharge Condition:
+stable, diarrhea, improved
+
+
+Discharge Instructions:
+You were admitted with recurrent diarrhea due to your c-diff
+infection.  Please take your medications as prescribed.  It will
+be very important to complete the full course of vancomycin,
+even if you start feeling better.  You will be tapered off this
+medication.  Please seek medical attention if you develop
+worsened diarrhea, abdominal pain, blood in your stools, fevers,
+chills, or any other concerns.  Also, your coumadin is not in
+the desired range.  You will need to take Lovenox injections
+until your coumadin level is therapeutic.
+.
+New medication:
+Vancomycin, oral:
+125mg 4 times per day through [**2125-9-26**], 14 days, then
+125mg 2 times per day through [**2125-10-3**], 7 days, then
+125mg 1 time per day through [**2125-10-10**], 7 days, then
+125mg every other day through [**2125-10-18**], 8 days, then
+125mg every 3rd day through [**2125-11-2**], 15 days
+.
+Lovenox 40mg subcutaneously twice daily until INR is 2.
+.
+Appointments have been made for you.  Please return to the
+hospital if you experience fevers/chills, worsening abdominal
+pain, lightheadedness, or any other symptoms.
+
+Followup Instructions:
+Appointment #1
+MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 20561**]
+Specialty: Internal Medicine / PCP
+Date and time: Monday, [**10-1**], 1:20pm
+Location: One Pearl St, [**Hospital1 1474**] MA
+Phone number: [**Telephone/Fax (1) 26190**]
+Special instructions if applicable:
+.
+Appointment #2
+MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2643**]
+Specialty: Gastroenterology
+Date and time: Monday, [**10-15**], 11am
+Location: [**Last Name (NamePattern1) **], [**Hospital Ward Name **] Buidling [**Location (un) **], [**Location (un) 86**]
+Phone number: [**Telephone/Fax (1) 463**]
+
+
+

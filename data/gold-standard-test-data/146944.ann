@@ -1,0 +1,153 @@
+T1	Drug 10269 10274	ACE-I
+T2	ADE 10291 10308	Airway Compromise
+R1	ADE-Drug Arg1:T2 Arg2:T1
+T3	Reason 1028 1047	hemodynamic support
+R2	Reason-Drug Arg1:T3 Arg2:T81
+T4	ADE 10875 10885	angioedema
+R3	ADE-Drug Arg1:T4 Arg2:T5
+T5	Drug 10920 10934	ACE inhibitors
+T6	Drug 112 126	Ace Inhibitors
+T7	Drug 129 138	Captopril
+T8	Drug 1296 1306	Vancomycin
+T9	Strength 1307 1309	1g
+R4	Strength-Drug Arg1:T9 Arg2:T8
+T10	Drug 1311 1316	Zosyn
+T11	Drug 1318 1330	Levofloxacin
+T12	Drug 1332 1340	Decadron
+T13	Strength 1341 1345	6 mg
+R5	Strength-Drug Arg1:T13 Arg2:T12
+T15	Drug 141 152	Penicillins
+T16	Reason 5688 5691	PNA
+R10	Reason-Drug Arg1:T16 Arg2:T20
+R11	Reason-Drug Arg1:T16 Arg2:T19
+R12	Reason-Drug Arg1:T16 Arg2:T18
+T17	Reason 5741 5757	empiric coverage
+R13	Reason-Drug Arg1:T17 Arg2:T18
+R14	Reason-Drug Arg1:T17 Arg2:T19
+R15	Reason-Drug Arg1:T17 Arg2:T20
+T18	Drug 5763 5773	vancomycin
+T19	Drug 5774 5786	levofloxacin
+T20	Drug 5787 5793	Flagyl
+T21	Drug 6007 6017	antibiotic
+T22	Drug 6043 6055	Levofloxacin
+T23	Duration 6076 6085	seven day
+R16	Duration-Drug Arg1:T23 Arg2:T22
+T24	Drug 7390 7402	beta-blocker
+T25	Drug 7404 7411	aspirin
+T26	Dosage 7413 7422	high dose
+R17	Dosage-Drug Arg1:T26 Arg2:T27
+T27	Drug 7423 7429	Statin
+T28	Drug 7438 7451	ACE inhibitor
+T29	Reason 7456 7474	medical management
+R18	Reason-Drug Arg1:T29 Arg2:T28
+R19	Reason-Drug Arg1:T29 Arg2:T24
+R20	Reason-Drug Arg1:T29 Arg2:T25
+R21	Reason-Drug Arg1:T29 Arg2:T27
+T30	Drug 7492 7499	heparin
+T31	Route 7500 7504	drip
+R22	Route-Drug Arg1:T31 Arg2:T30
+T32	Duration 7522 7534	for 48 hours
+R23	Duration-Drug Arg1:T32 Arg2:T30
+T33	Drug 7583 7592	Captopril
+T34	ADE 7616 7622;7623 7633	severe angioedema
+R24	ADE-Drug Arg1:T34 Arg2:T33
+T35	ADE 7639 7662	lip and tongue swelling
+R25	ADE-Drug Arg1:T35 Arg2:T33
+T36	Drug 7687 7690	Epi
+T37	Drug 7692 7700	Benadryl
+T39	Drug 7705 7713	steroids
+T40	Drug 7718 7728	ranitidine
+T41	Drug 8020 8025	ACE-I
+T42	ADE 8026 8033	allergy
+R28	ADE-Drug Arg1:T42 Arg2:T41
+T43	Reason 807 813	sepsis
+R29	Reason-Drug Arg1:T43 Arg2:T51
+R30	Reason-Drug Arg1:T43 Arg2:T52
+R31	Reason-Drug Arg1:T43 Arg2:T53
+R32	Reason-Drug Arg1:T43 Arg2:T50
+T44	Drug 8327 8334	Norvasc
+T46	Reason 8356 8370;8371 8378	blood pressure control
+R33	Reason-Drug Arg1:T46 Arg2:T44
+T48	Drug 8997 9005	steroids
+T49	Reason 9010 9020	angioedema
+R34	Reason-Drug Arg1:T49 Arg2:T48
+T50	Drug 911 921	antibiotic
+T51	Drug 923 927	vanc
+T52	Drug 928 932	levo
+T53	Drug 933 938	zosyn
+T54	Drug 9539 9547	excedrin
+T55	Drug 9575 9582	Aspirin
+T56	Strength 9583 9589	325 mg
+R35	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 9590 9596	Tablet
+R36	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 9602 9609	One (1)
+R37	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 9610 9616	Tablet
+R38	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 9617 9619	PO
+R39	Route-Drug Arg1:T60 Arg2:T55
+T61	Dosage 962 965	8 L
+R40	Dosage-Drug Arg1:T61 Arg2:T63
+T62	Frequency 9620 9625	DAILY
+R41	Frequency-Drug Arg1:T62 Arg2:T55
+T63	Drug 966 969	IVF
+T64	Drug 9670 9682	Atorvastatin
+T65	Strength 9683 9688	80 mg
+R42	Strength-Drug Arg1:T65 Arg2:T64
+T66	Form 9689 9695	Tablet
+R43	Form-Drug Arg1:T66 Arg2:T64
+T67	Dosage 9701 9708	One (1)
+R44	Dosage-Drug Arg1:T67 Arg2:T64
+T68	Form 9709 9715	Tablet
+R45	Form-Drug Arg1:T68 Arg2:T64
+T69	Route 9716 9718	PO
+R46	Route-Drug Arg1:T69 Arg2:T64
+T70	Frequency 9719 9724	DAILY
+R47	Frequency-Drug Arg1:T70 Arg2:T64
+T71	Drug 9769 9789	Metoprolol Succinate
+T72	Strength 9790 9796	100 mg
+R48	Strength-Drug Arg1:T72 Arg2:T71
+T73	Form 9797 9826	Tablet Sustained Release 24HR
+R49	Form-Drug Arg1:T73 Arg2:T71
+T74	Dosage 9832 9839	One (1)
+R50	Dosage-Drug Arg1:T74 Arg2:T71
+T75	Form 9840 9869	Tablet Sustained Release 24HR
+R51	Form-Drug Arg1:T75 Arg2:T71
+T76	Route 9870 9872	PO
+R52	Route-Drug Arg1:T76 Arg2:T71
+T77	Frequency 9873 9878	DAILY
+R53	Frequency-Drug Arg1:T77 Arg2:T71
+T78	Drug 9946 9956	Amlodipine
+T79	Strength 9957 9961	5 mg
+R54	Strength-Drug Arg1:T79 Arg2:T78
+T80	Form 9962 9968	Tablet
+R55	Form-Drug Arg1:T80 Arg2:T78
+T81	Drug 997 1023	norepinephrine vasopressor
+T82	Dosage 9974 9981	One (1)
+R56	Dosage-Drug Arg1:T82 Arg2:T78
+T83	Form 9982 9988	Tablet
+R57	Form-Drug Arg1:T83 Arg2:T78
+T84	Route 9989 9991	PO
+R58	Route-Drug Arg1:T84 Arg2:T78
+T85	Frequency 9992 9997	DAILY
+R59	Frequency-Drug Arg1:T85 Arg2:T78
+T45	Reason 7616 7622;7623 7633	severe angioedema
+T86	Reason 7639 7662	lip and tongue swelling
+R60	Reason-Drug Arg1:T45 Arg2:T36	
+R61	Reason-Drug Arg1:T45 Arg2:T37	
+R62	Reason-Drug Arg1:T45 Arg2:T39	
+R63	Reason-Drug Arg1:T45 Arg2:T40	
+R64	Reason-Drug Arg1:T86 Arg2:T36	
+R65	Reason-Drug Arg1:T86 Arg2:T37	
+R66	Reason-Drug Arg1:T86 Arg2:T39	
+R67	Reason-Drug Arg1:T86 Arg2:T40	
+T87	Drug 8961 8964	ISS
+T88	Reason 8889 8910	"borderline" diabetes
+T14	Route 1346 1348	IV
+R6	Route-Drug Arg1:T14 Arg2:T12	
+T38	Route 7702 7704	IV
+R7	Route-Drug Arg1:T38 Arg2:T39	
+T47	ADE 10275 10285	Angioedema
+R8	ADE-Drug Arg1:T47 Arg2:T1	
+R9	Reason-Drug Arg1:T88 Arg2:T87	

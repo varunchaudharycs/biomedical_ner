@@ -1,0 +1,240 @@
+T1	Drug 11416 11428	chemotherapy
+T2	Drug 11516 11522	imuran
+T3	Reason 11527 11537	myasthenia
+R1	Reason-Drug Arg1:T3 Arg2:T2
+T4	Drug 11714 11720	Imuran
+T5	Reason 1230 1241	cholangitis
+R2	Reason-Drug Arg1:T5 Arg2:T6
+T6	Drug 1262 1268	Unasyn
+T7	Drug 13010 13016	Haldol
+T8	Drug 13017 13025	Seroquel
+T9	Reason 13030 13035	sleep
+R3	Reason-Drug Arg1:T9 Arg2:T7
+R4	Reason-Drug Arg1:T9 Arg2:T8
+R5	Reason-Drug Arg1:T9 Arg2:T11
+T10	ADE 13051 13079	made the patient feel strage
+R8	ADE-Drug Arg1:T10 Arg2:T7
+R9	ADE-Drug Arg1:T10 Arg2:T8
+T11	Drug 13140 13146	ambien
+T12	Frequency 13156 13159	prn
+R10	Frequency-Drug Arg1:T12 Arg2:T11
+T13	Reason 13163 13166	HTN
+R11	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 13176 13185	Lopressor
+T15	Strength 13186 13192	100 mg
+R12	Strength-Drug Arg1:T15 Arg2:T14
+T16	Frequency 13193 13196	TID
+R13	Frequency-Drug Arg1:T16 Arg2:T14
+T17	Drug 13248 13254	Imuran
+T18	Drug 13256 13263	Imitrex
+T19	Drug 13265 13276	Amoxicillin
+T20	Drug 13278 13287	Augmentin
+T21	Drug 13289 13299	Atovaquone
+T22	Drug 13301 13311	Azithromax
+T23	Drug 13339 13358	Metoprolol Tartrate
+T24	Strength 13359 13364	50 mg
+R14	Strength-Drug Arg1:T24 Arg2:T23
+T25	Form 13365 13371	Tablet
+R15	Form-Drug Arg1:T25 Arg2:T23
+T26	Dosage 13377 13384	Two (2)
+R16	Dosage-Drug Arg1:T26 Arg2:T23
+T27	Form 13385 13391	Tablet
+R17	Form-Drug Arg1:T27 Arg2:T23
+T28	Route 13392 13394	PO
+R18	Route-Drug Arg1:T28 Arg2:T23
+T29	Frequency 13395 13398	TID
+R19	Frequency-Drug Arg1:T29 Arg2:T23
+T30	Drug 13452 13461	Meropenem
+T31	Strength 13462 13468	500 mg
+R20	Strength-Drug Arg1:T31 Arg2:T30
+T32	Form 13469 13479	Recon Soln
+R21	Form-Drug Arg1:T32 Arg2:T30
+T33	Dosage 13485 13506	Five Hundred (500) mg
+R22	Dosage-Drug Arg1:T33 Arg2:T30
+T34	Route 13507 13518	Intravenous
+R23	Route-Drug Arg1:T34 Arg2:T30
+T35	Frequency 13520 13541	every eight (8) hours
+R24	Frequency-Drug Arg1:T35 Arg2:T30
+T36	Drug 13603 13616	Dexamethasone
+T37	Strength 13617 13621	4 mg
+R25	Strength-Drug Arg1:T37 Arg2:T36
+T38	Form 13622 13628	Tablet
+R26	Form-Drug Arg1:T38 Arg2:T36
+T39	Dosage 13634 13637	2.5
+R27	Dosage-Drug Arg1:T39 Arg2:T36
+T40	Form 13638 13645	Tablets
+R28	Form-Drug Arg1:T40 Arg2:T36
+T41	Route 13646 13648	PO
+R29	Route-Drug Arg1:T41 Arg2:T36
+T42	Frequency 13649 13659	once a day
+R30	Frequency-Drug Arg1:T42 Arg2:T36
+T43	Strength 13673 13678	10 mg
+R31	Strength-Drug Arg1:T43 Arg2:T36
+T44	Route 13679 13681	PO
+R32	Route-Drug Arg1:T44 Arg2:T36
+T45	Frequency 13682 13687	daily
+R33	Frequency-Drug Arg1:T45 Arg2:T36
+T46	Strength 13717 13721	5 mg
+R34	Strength-Drug Arg1:T46 Arg2:T36
+T47	Route 13722 13724	po
+R35	Route-Drug Arg1:T47 Arg2:T36
+T48	Frequency 13725 13730	daily
+R36	Frequency-Drug Arg1:T48 Arg2:T36
+T49	Drug 13767 13780	Acetaminophen
+T50	Strength 13781 13787	325 mg
+R37	Strength-Drug Arg1:T50 Arg2:T49
+T51	Form 13788 13794	Tablet
+R38	Form-Drug Arg1:T51 Arg2:T49
+T52	Dosage 13800 13807	One (1)
+R39	Dosage-Drug Arg1:T52 Arg2:T49
+T53	Form 13808 13814	Tablet
+R40	Form-Drug Arg1:T53 Arg2:T49
+T54	Route 13815 13817	PO
+R41	Route-Drug Arg1:T54 Arg2:T49
+T55	Frequency 13818 13823;13824 13854	Q4-6H (every 4 to 6 hours) as needed
+R42	Frequency-Drug Arg1:T55 Arg2:T49
+T56	Reason 13859 13864	fever
+R43	Reason-Drug Arg1:T56 Arg2:T49
+T57	Drug 13901 13913	Pantoprazole
+T58	Strength 13914 13919	40 mg
+R44	Strength-Drug Arg1:T58 Arg2:T57
+T59	Form 13920 13943	Tablet, Delayed Release
+R45	Form-Drug Arg1:T59 Arg2:T57
+T61	Dosage 13956 13959;13960 13963	One (1)
+R47	Dosage-Drug Arg1:T61 Arg2:T57
+T62	Form 13964 13987	Tablet, Delayed Release
+R48	Form-Drug Arg1:T62 Arg2:T57
+T63	Route 13995 13997	PO
+R49	Route-Drug Arg1:T63 Arg2:T57
+T64	Frequency 13998 14008	once a day
+R50	Frequency-Drug Arg1:T64 Arg2:T57
+T65	Reason 14010 14018;14019 14027	while on steroids
+R51	Reason-Drug Arg1:T65 Arg2:T57
+T66	Drug 14019 14027	steroids
+T67	Dosage 1405 1411	1 Unit
+R52	Dosage-Drug Arg1:T67 Arg2:T75
+T68	Drug 14088 14106	Miconazole Nitrate
+T70	Form 14111 14117	Powder
+R54	Form-Drug Arg1:T70 Arg2:T68
+T71	Dosage 14123 14130	One (1)
+R55	Dosage-Drug Arg1:T71 Arg2:T68
+T72	Form 14131 14135	Appl
+R56	Form-Drug Arg1:T72 Arg2:T68
+T73	Route 14136 14143	Topical
+R57	Route-Drug Arg1:T73 Arg2:T68
+T74	Frequency 14145 14148;14149 14174	TID (3 times a day) as needed
+R58	Frequency-Drug Arg1:T74 Arg2:T68
+T75	Drug 1415 1421	PRBC's
+T76	Drug 14204 14212	Nystatin
+T77	Strength 14213 14227	100,000 unit/g
+R59	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 14228 14233	Cream
+R60	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 1423 1429	3 bags
+R61	Dosage-Drug Arg1:T79 Arg2:T85
+T80	Dosage 14239 14246	One (1)
+R62	Dosage-Drug Arg1:T80 Arg2:T76
+T81	Form 14247 14251	Appl
+R63	Form-Drug Arg1:T81 Arg2:T76
+T82	Route 14252 14259	Topical
+R64	Route-Drug Arg1:T82 Arg2:T76
+T83	Frequency 14279 14292	2 times a day
+R65	Frequency-Drug Arg1:T83 Arg2:T76
+T84	Drug 14323 14329	Ambien
+T85	Drug 1433 1436	FFP
+T86	Strength 14330 14334	5 mg
+R66	Strength-Drug Arg1:T86 Arg2:T84
+T87	Form 14335 14341	Tablet
+R67	Form-Drug Arg1:T87 Arg2:T84
+T88	Dosage 14347 14354	One (1)
+R68	Dosage-Drug Arg1:T88 Arg2:T84
+T89	Form 14355 14361	Tablet
+R69	Form-Drug Arg1:T89 Arg2:T84
+T90	Route 14362 14364	PO
+R70	Route-Drug Arg1:T90 Arg2:T84
+T91	Frequency 14365 14378;14379 14385	at bedtime as needed
+R71	Frequency-Drug Arg1:T91 Arg2:T84
+T92	Reason 14390 14398	insomnia
+R72	Reason-Drug Arg1:T92 Arg2:T84
+T93	Dosage 1442 1448	3 bags
+R73	Dosage-Drug Arg1:T93 Arg2:T101
+T94	Drug 14435 14446	Fluconazole
+T95	Strength 14447 14453	200 mg
+R74	Strength-Drug Arg1:T95 Arg2:T94
+T96	Form 14454 14460	Tablet
+R75	Form-Drug Arg1:T96 Arg2:T94
+T97	Dosage 14466 14473	Two (2)
+R76	Dosage-Drug Arg1:T97 Arg2:T94
+T98	Form 14474 14480	Tablet
+R77	Form-Drug Arg1:T98 Arg2:T94
+T99	Route 14481 14483	PO
+R78	Route-Drug Arg1:T99 Arg2:T94
+T100	Frequency 14484 14494	once a day
+R79	Frequency-Drug Arg1:T100 Arg2:T94
+T101	Drug 1452 1456	plts
+T102	Reason 1545 1583	bilateral patchy pulmonary infiltrates
+R80	Reason-Drug Arg1:T102 Arg2:T106
+R81	Reason-Drug Arg1:T102 Arg2:T107
+T103	Reason 1596 1620	hemodynamically unstable
+R82	Reason-Drug Arg1:T103 Arg2:T104
+T104	Drug 1643 1649	Norepi
+T105	Route 1650 1653	gtt
+R83	Route-Drug Arg1:T105 Arg2:T104
+T106	Drug 1677 1688	Ceftriaxone
+T107	Drug 1690 1700	Doxycyclin
+T108	Drug 1713 1718	Zosyn
+T109	Drug 1945 1955	Prednisone
+T110	ADE 1964 1976	osteoporosis
+R84	ADE-Drug Arg1:T110 Arg2:T109
+T111	Drug 2501 2509	Fentanyl
+T112	Strength 2510 2513	125
+R85	Strength-Drug Arg1:T112 Arg2:T111
+T113	Drug 2519 2524	Midaz
+T114	Reason 607 621	s/p thymectomy
+R86	Reason-Drug Arg1:T114 Arg2:T115
+T115	Drug 625 631	Imuran
+T116	Reason 705 714	dry cough
+R87	Reason-Drug Arg1:T116 Arg2:T117
+R88	Reason-Drug Arg1:T116 Arg2:T118
+T117	Drug 728 739	Amoxicillin
+T118	Drug 744 753	Augmentin
+T119	Drug 7952 7957	Vanco
+T120	Drug 7958 7964	Ceftaz
+T121	Reason 7998 8009	Tm of 102.2
+R89	Reason-Drug Arg1:T121 Arg2:T120
+R90	Reason-Drug Arg1:T121 Arg2:T119
+T122	ADE 8352 8359	C. diff
+R91	ADE-Drug Arg1:T122 Arg2:T123
+T123	Drug 8376 8379	ABX
+T124	Reason 8588 8622	Hemophagocytic Lymphohistiocytosis
+R92	Reason-Drug Arg1:T124 Arg2:T125
+R93	Reason-Drug Arg1:T124 Arg2:T128
+T125	Drug 8719 8728	etoposode
+T126	Drug 8730 8734	IVIG
+T128	Drug 8739 8747	decadron
+T129	Reason 8769 8781	pancytopenia
+R96	Reason-Drug Arg1:T129 Arg2:T130
+R97	Reason-Drug Arg1:T129 Arg2:T131
+T130	Drug 8804 8810	epogen
+T131	Drug 8815 8823	neupogen
+T132	Drug 8972 8975	MTX
+T133	Drug 9007 9014	steroid
+T134	Dosage 9015 9020	taper
+R98	Dosage-Drug Arg1:T134 Arg2:T133
+T135	Strength 9035 9040	10 mg
+R99	Strength-Drug Arg1:T135 Arg2:T136
+T136	Drug 9041 9049	Decadron
+T138	Drug 9082 9091	Etoposide
+T139	Reason 9244 9255	EBV viremia
+R101	Reason-Drug Arg1:T139 Arg2:T140
+T140	Drug 9261 9272	anti-virals
+T141	Drug 930 942	Azythromycin
+T142	Reason 9312 9327	EBSL klebsiella
+R102	Reason-Drug Arg1:T142 Arg2:T143
+T143	Drug 9373 9382	meropenem
+T144	Duration 9383 9393	for 14 day
+R103	Duration-Drug Arg1:T144 Arg2:T143
+T145	Drug 947 957	Atovaquone
+T146	Reason 962 976;977 990	suspected tick borne illness
+R104	Reason-Drug Arg1:T146 Arg2:T141
+R105	Reason-Drug Arg1:T146 Arg2:T145

@@ -1,0 +1,201 @@
+Admission Date:  [**2178-3-25**]              Discharge Date:   [**2178-3-28**]
+
+Date of Birth:  [**2094-5-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3326**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+83-year-old woman with a history of tongue cancer on
+chemoradiation, most recent cisplatin dose on [**2178-3-13**], presents
+with altered mental status. Per his wife, the patient took his
+oxycodone-acetaminophen for the first time the night before
+admission, [**2178-3-24**]. He woke up the morning of admission,
+[**2178-3-25**], confused and somnolent. No other complaint. Patient was
+brought to the ED.
+.
+Of note, patient has been hyponatremic lately, per Atrius
+records:
+.
+Date   Na
+[**2-20**]   115
+[**2-22**]   126
+[**2-24**]   133
+[**3-5**]   130
+[**3-19**]   124
+.
+In the ED, T 98.9, HR 95, BP 142/59, RR 18, 97%RA. His neuro
+exam was nonfocal. Head CT showed no acute abnormality. CXR and
+urinalysis unremarkable. His labs were notable for Na 117, Cr
+0.8, WBC 2.3 with 66% neutrophils, Hct 22.0, plt 194. He
+reportedly became more awake and mental status almost returned
+to baseline after some hydration in the ED. Admitted for further
+management.
+.
+On the floor, patient was oriented to name, date, and US
+president, but not location. He was unable to name months
+backwards.
+.
+Review of Systems: not obtainable due to patient's mental status
+
+Past Medical History:
+ONCOLOGIC HISTORY:
+# Stage [**Doctor First Name 690**] T4aN2cM0 squamous cell carcinoma of the tongue:
+diagnosed in [**2177-12-10**]. Started on radiation and
+chemotherapy with cisplatin on [**2178-2-12**].
+.
+OTHER MEDICAL HISTORY:
+HTN
+DM2
+Hyperlipidemia
+BPH
+
+Social History:
+Quit smoking in [**2155**] after 20 pack-years. Rare alcohol. used to
+work in the gun business then in a sporting goods store. Has 5
+children, 15 grandchildren, and 2 great-grandchildren.
+
+Family History:
+Mother had a [**Last Name **] problem. Father had alcoholism. Son had a
+kidney transplant. One [**Last Name (un) **] died of lung cancer. A maternal
+uncle had leukemia, and another maternal uncle had lung cancer.
+
+Physical Exam:
+VS: T 99.8, BP 160/70, HR 102, RR 16, 95%RA
+GEN: Elderly man sleeping in bed but easily arousable, in NAD
+HEENT: EOMI, sclera anicteric, conjunctivae clear
+NECK: Supple
+CV: Regular, slightly tachycardic, normal S1, S2. No m/r/g.
+CHEST: Resp unlabored, no accessory muscle use. CTAB, no
+crackles, wheezes or rhonchi.
+ABD: Soft, NT, ND, no HSM, bowel sounds present
+MSK: normal muscle tone and bulk
+EXT: No c/c/e, 2+ DP/PT bilaterally
+SKIN: No rash, warm skin
+NEURO: oriented to name, date, US president but not location,
+unable to name months backwards. CN II-XII intact, 5/5 strength
+throughout, intact sensation to light touch
+
+Pertinent Results:
+[**2178-3-25**] 01:12PM   GLUCOSE-202* UREA N-22* CREAT-0.8 SODIUM-117*
+POTASSIUM-3.7 CHLORIDE-77* TOTAL CO2-31 ANION GAP-13
+[**2178-3-25**] 01:12PM   WBC-2.3* RBC-2.36* HGB-8.1* HCT-22.0*# MCV-93
+MCH-34.4* MCHC-37.0* RDW-15.4
+[**2178-3-25**] 01:12PM   NEUTS-66 BANDS-2 LYMPHS-11* MONOS-18* EOS-3
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2178-3-25**] 01:12PM   PLT SMR-NORMAL PLT COUNT-194
+[**2178-3-25**] 01:12PM   PT-12.9 PTT-24.2 INR(PT)-1.1
+[**2178-3-27**] 06:28PM BLOOD Type-ART pO2-86 pCO2-71* pH-7.31*
+calTCO2-37* Base XS-5
+
+IMAGING:
+Head CT [**2178-3-25**]:
+1. No acute intracranial process. No evidence of intracranial
+hemorrhage.
+2. Small vessel ischemic disease. Prominent sulci and
+ventricles, most likely age-related involutionary changes.
+3. Sinus disease, as detailed above.
+
+CXR [**2178-3-25**]:
+1. Left lower lobe opacity could be atelectasis; however, cannot
+exclude
+superinfection.
+2. Possible bilateral small pleural effusions.
+3. Cardiac silhouette top normal.
+
+CTA chest [**2178-3-27**]: (prelim)
+1. No PE or acute aortic pathology.
+2. Moderate-to-large bilateral pleural effusions, with subtotal
+atelectasis of the lower lobes.
+3. No PNA.
+4. Mild septal thickening compatible with mild pulmonary edema.
+
+CXR [**2178-3-27**]: (prelim)
+Bilateral moderate sized pleural effusions. No pneumothorax.
+Pulmonary edema, cardiomegaly. Bibasal atelectasis. Findings
+similar to earlier CT chest.
+
+Brief Hospital Course:
+83-year-old man with squamous cell carcinoma of the tongue,
+ongoing chemoradiation, presents with altered mental status.
+
+1. Hypoxic respiratory failure: Patient had been in sinus
+tachycardia to ~120 since admission despite 2L IVF and 2 units
+pRBC. Given this and his 2L O2 requirement, he went for CTA
+chest, which showed no PE, but large bilateral pleural effusions
+with atelectasis. He was agitated since the CTA, and around 6pm,
+he looked cyanotic and had a desaturation to 60% on 2L, improved
+to 93% on NRB. He was given 20mg lasix IV with brisk urine
+output, as well as 0.5mg IV haloperidol and 10mg IV hydralazine
+(BP ~180/90) and transferred to the ICU. Stat CXR showed diffuse
+pulmonary edema, and with his concurrent hypertension, he was
+started on a nitroglycerin drip. His BP improved and overshot
+transiently down to 70/30, but rapidly improved to ~130s/80s
+with cessation of drip. His O2 sats remained in the 90s on
+high-flow oxygen mask. He was sent for CT head given his altered
+mental status and possibly new anisocoria. While being
+transported, he developed bradycardia down to 20, desaturation,
+and apnea requiring bag ventilation. On evaluation, there were
+no palpable pulses and no obtainable blood pressure. Given his
+confirmed DNR status, he was not resuscitated and expired.
+Post-mortem exam was declined.
+
+2. Altered mental status: Cause not entirely clear, but possible
+contribution from opioids at home, as well as hyponatremia. He
+was also treated with levofloxacin for a possible pneumonia,
+given left basilar opacity, mild hypoxia (93% RA), low grade
+temps (99.7) and cough. When the patient became agitated as
+noted in the events described above, he was treated with 0.5mg
+IV haloperidol prn (total 1.5mg given) with good effect. CT head
+with no acute process on admission and was planned to be
+repeated given anisocoria, but aborted given above events.
+
+3. Hyponatremia: Treated with IV fluids with improvement from
+117 to 127.
+
+4. Tongue cancer: On cisplatin and radiation, with radiation
+received during this admission.
+
+5. Anemia: Hct 22 on admission. Transfused 2 units PRBCs with
+improvement to 30.7.
+
+Medications on Admission:
+terazosin 5 mg [**Hospital1 **]
+omeprazole 20 mg daily
+morphine 10 mg oral solution q3h prn pain
+ondansetron prn
+prochlorperazine prn
+lorazepam 1 mg q8h prn anxiety/insomnia
+metformin 500 mg [**Hospital1 **]
+glipizide 10 mg [**Hospital1 **]
+aspirin 325 mg daily
+
+Discharge Medications:
+Expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Expired
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+
+Completed by:[**2178-3-28**]

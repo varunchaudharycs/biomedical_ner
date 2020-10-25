@@ -1,0 +1,201 @@
+T1	Form 10010 10015	cream
+R1	Form-Drug Arg1:T1 Arg2:T126
+T2	Drug 10018 10030	Multivitamin
+T3	Frequency 10031 10036	daily
+R2	Frequency-Drug Arg1:T3 Arg2:T2
+T4	Drug 10039 10045	Zyrtec
+T5	Strength 10046 10050	10mg
+R3	Strength-Drug Arg1:T5 Arg2:T4
+T6	Frequency 10051 10054	qAM
+R4	Frequency-Drug Arg1:T6 Arg2:T4
+T7	Drug 10057 10068	Hydroxyzine
+T8	Strength 10069 10073	50mg
+R5	Strength-Drug Arg1:T8 Arg2:T7
+T9	Drug 10093 10104	Fluconazole
+T10	Strength 10105 10110	150mg
+R6	Strength-Drug Arg1:T10 Arg2:T9
+T11	Frequency 10111 10116	daily
+R7	Frequency-Drug Arg1:T11 Arg2:T9
+T12	Drug 10119 10130	Risperidone
+T13	Strength 10131 10134	5mg
+R8	Strength-Drug Arg1:T13 Arg2:T12
+T14	Drug 10154 10165	Benztropine
+T15	Strength 10166 10169	1mg
+R9	Strength-Drug Arg1:T15 Arg2:T14
+T16	Frequency 10170 10173	TID
+R10	Frequency-Drug Arg1:T16 Arg2:T14
+T17	Drug 10176 10183	Inderal
+T18	Strength 10184 10188	30mg
+R11	Strength-Drug Arg1:T18 Arg2:T17
+T19	Frequency 10189 10192	TID
+R12	Frequency-Drug Arg1:T19 Arg2:T17
+T20	Drug 10195 10201	Ambien
+T21	Strength 10202 10205	5mg
+R13	Strength-Drug Arg1:T21 Arg2:T20
+T22	Frequency 10206 10209	qHS
+R14	Frequency-Drug Arg1:T22 Arg2:T20
+T23	Drug 10239 10244	Luvox
+T24	Drug 10315 10333	miconazole nitrate
+T26	Form 10338 10344	Powder
+R16	Form-Drug Arg1:T26 Arg2:T24
+T27	Dosage 10350 10357	One (1)
+R17	Dosage-Drug Arg1:T27 Arg2:T24
+T28	Form 10358 10362	Appl
+R18	Form-Drug Arg1:T28 Arg2:T24
+T29	Route 10363 10370	Topical
+R19	Route-Drug Arg1:T29 Arg2:T24
+T30	Frequency 10389 10402	2 times a day
+R20	Frequency-Drug Arg1:T30 Arg2:T24
+T31	Reason 10418 10434	fungal infection
+R21	Reason-Drug Arg1:T31 Arg2:T24
+T32	Drug 10484 10495	terbinafine
+T34	Form 10500 10505	Cream
+R23	Form-Drug Arg1:T34 Arg2:T32
+T35	Dosage 10511 10518	One (1)
+R24	Dosage-Drug Arg1:T35 Arg2:T32
+T36	Form 10519 10523	Appl
+R25	Form-Drug Arg1:T36 Arg2:T32
+T37	Route 10524 10531	Topical
+R26	Route-Drug Arg1:T37 Arg2:T32
+T38	Frequency 10550 10557;10558 10563	2 times a day
+R27	Frequency-Drug Arg1:T38 Arg2:T32
+T39	Reason 10578 10582	rash
+R28	Reason-Drug Arg1:T39 Arg2:T32
+T40	Drug 10664 10675	propranolol
+T41	Strength 10676 10681	10 mg
+R29	Strength-Drug Arg1:T41 Arg2:T40
+T42	Form 10682 10688	Tablet
+R30	Form-Drug Arg1:T42 Arg2:T40
+T43	Dosage 10694 10703	Three (3)
+R31	Dosage-Drug Arg1:T43 Arg2:T40
+T44	Form 10704 10710	Tablet
+R32	Form-Drug Arg1:T44 Arg2:T40
+T45	Route 10711 10713	PO
+R33	Route-Drug Arg1:T45 Arg2:T40
+T46	Frequency 10714 10717	TID
+R34	Frequency-Drug Arg1:T46 Arg2:T40
+T47	Drug 10738 10753	docusate sodium
+T48	Strength 10754 10760	100 mg
+R35	Strength-Drug Arg1:T48 Arg2:T47
+T49	Form 10761 10768	Capsule
+R36	Form-Drug Arg1:T49 Arg2:T47
+T50	Dosage 10774 10781	One (1)
+R37	Dosage-Drug Arg1:T50 Arg2:T47
+T51	Form 10782 10789	Capsule
+R38	Form-Drug Arg1:T51 Arg2:T47
+T52	Route 10790 10792	PO
+R39	Route-Drug Arg1:T52 Arg2:T47
+T53	Frequency 10793 10796	BID
+R40	Frequency-Drug Arg1:T53 Arg2:T47
+T54	Reason 10827 10839	constipation
+R41	Reason-Drug Arg1:T54 Arg2:T47
+T55	Drug 10877 10882	senna
+T56	Strength 10883 10889	8.6 mg
+R42	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 10890 10896	Tablet
+R43	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 10902 10909	One (1)
+R44	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 10910 10916	Tablet
+R45	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 10917 10919	PO
+R46	Route-Drug Arg1:T60 Arg2:T55
+T61	Frequency 10920 10923	BID
+R47	Frequency-Drug Arg1:T61 Arg2:T55
+T62	Reason 10954 10966	constipation
+R48	Reason-Drug Arg1:T62 Arg2:T55
+T63	Drug 11003 11012	bisacodyl
+T64	Strength 11013 11018	10 mg
+R49	Strength-Drug Arg1:T64 Arg2:T63
+T65	Form 11019 11030	Suppository
+R50	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 11036 11043	One (1)
+R51	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 11044 11055	Suppository
+R52	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 11056 11062	Rectal
+R53	Route-Drug Arg1:T68 Arg2:T63
+T69	Frequency 11063 11068	DAILY
+R54	Frequency-Drug Arg1:T69 Arg2:T63
+T70	Reason 11091 11103	constipation
+R55	Reason-Drug Arg1:T70 Arg2:T63
+T71	Drug 11112 11118	colace
+T72	Drug 11123 11128	senna
+T73	Drug 11186 11203	Risperidone M-Tab
+T74	Strength 11204 11208	1 mg
+R56	Strength-Drug Arg1:T74 Arg2:T73
+T75	Form 11209 11231	Tablet, Rapid Dissolve
+R57	Form-Drug Arg1:T75 Arg2:T73
+T76	Dosage 11237 11245	Five (5)
+R58	Dosage-Drug Arg1:T76 Arg2:T73
+T77	Form 11246 11268	Tablet, Rapid Dissolve
+R59	Form-Drug Arg1:T77 Arg2:T73
+T78	Route 11269 11271	PO
+R60	Route-Drug Arg1:T78 Arg2:T73
+T79	Frequency 11272 11275	BID
+R61	Frequency-Drug Arg1:T79 Arg2:T73
+T80	Strength 11309 11312	5mg
+R62	Strength-Drug Arg1:T80 Arg2:T73
+T81	Form 11313 11317	tabs
+R63	Form-Drug Arg1:T81 Arg2:T73
+T82	ADE 11708 11728	low body temperature
+R64	ADE-Drug Arg1:T82 Arg2:T83
+T83	Drug 11800 11825	antipsychotic medications
+T84	Drug 11941 11964	psychiatric medications
+T85	ADE 11974 11986;11987 11996	some urinary retention
+T86	Reason 1223 1227	rash
+R65	Reason-Drug Arg1:T86 Arg2:T87
+T87	Drug 1302 1313	Fluconazole
+T88	Drug 166 172	Ativan
+T89	Strength 1743 1747	20mg
+R66	Strength-Drug Arg1:T89 Arg2:T92
+T90	Route 1748 1750	PO
+R67	Route-Drug Arg1:T90 Arg2:T92
+T91	Drug 175 181	Keflex
+T92	Drug 1751 1757	Haldol
+T93	Dosage 1804 1805	2
+R68	Dosage-Drug Arg1:T93 Arg2:T95
+T94	Form 1806 1812	liters
+R69	Form-Drug Arg1:T94 Arg2:T95
+T95	Drug 1821 1823	NS
+T100	Dosage 6449 6450;6451 6457	2 liters
+T102	Drug 6468 6474	saline
+T103	ADE 7219 7236	Poor urine output
+R70	ADE-Drug Arg1:T103 Arg2:T104
+T104	Drug 7389 7405	anticholinergics
+T105	Drug 7435 7449	antipsychotics
+T106	Drug 7689 7695	Cystex
+T107	Frequency 7696 7699	tid
+R71	Frequency-Drug Arg1:T107 Arg2:T106
+T108	Drug 7820 7834	antipsychotics
+T109	Drug 7846 7862	anticholinergics
+T110	Drug 7887 7895	Cogentin
+T111	ADE 7999 8016	urinary retention
+R72	ADE-Drug Arg1:T111 Arg2:T109
+T112	Reason 8451 8455	Rash
+R73	Reason-Drug Arg1:T112 Arg2:T113
+T113	Drug 8555 8566	fluconazole
+T114	Route 8617 8624	topical
+R74	Route-Drug Arg1:T114 Arg2:T115
+T115	Drug 8625 8636	terbinafine
+T116	Drug 8859 8868	risperdal
+T117	Strength 8873 8876	5mg
+R75	Strength-Drug Arg1:T117 Arg2:T116
+T118	Route 8877 8879	po
+R76	Route-Drug Arg1:T118 Arg2:T116
+T119	Frequency 8880 8883	bid
+R77	Frequency-Drug Arg1:T119 Arg2:T116
+T120	Drug 9015 9023	clozaril
+T121	Drug 9201 9210	risperdal
+T122	Reason 9277 9291	anti-psychotic
+R78	Reason-Drug Arg1:T122 Arg2:T121
+T123	ADE 9429 9445	Thrombocytopenia
+R79	ADE-Drug Arg1:T123 Arg2:T124
+R80	ADE-Drug Arg1:T123 Arg2:T125
+T124	Drug 9491 9514	psychiatric medications
+T125	Drug 9518 9529	fluconazole
+T126	Drug 9993 10000	Minerin
+R81	Dosage-Drug Arg1:T100 Arg2:T102	
+R82	ADE-Drug Arg1:T111 Arg2:T110	
+T25	Drug 12017 12043;12044 12072	medications which required intermittent catheterization
+R15	ADE-Drug Arg1:T85 Arg2:T25	

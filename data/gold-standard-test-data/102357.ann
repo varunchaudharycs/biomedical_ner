@@ -1,0 +1,290 @@
+T1	Drug 1281 1283	o2
+T2	Frequency 1284 1290	3h/day
+R1	Frequency-Drug Arg1:T2 Arg2:T1
+T3	Drug 1541 1545	nebs
+T5	Drug 1550 1560	solumedrol
+T7	Drug 1573 1581	levoquin
+T9	Reason 1602 1619	copd exacerbation
+R4	Reason-Drug Arg1:T9 Arg2:T5
+R5	Reason-Drug Arg1:T9 Arg2:T7
+R6	Reason-Drug Arg1:T9 Arg2:T3
+T10	Reason 2657 2661	COPD
+R7	Reason-Drug Arg1:T10 Arg2:T12
+T11	Frequency 2669 2672	prn
+R8	Frequency-Drug Arg1:T11 Arg2:T12
+T12	Drug 2678 2680	o2
+T13	Reason 360 364	COPD
+R9	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 374 376	o2
+T16	Reason 5351 5355	COPD
+R11	Reason-Drug Arg1:T16 Arg2:T17
+R12	Reason-Drug Arg1:T16 Arg2:T19
+T17	Drug 5365 5367	o2
+T18	Frequency 5374 5385	2-3h qdaily
+R13	Frequency-Drug Arg1:T18 Arg2:T19
+R14	Frequency-Drug Arg1:T18 Arg2:T17
+T19	Drug 5394 5396	o2
+T21	ADE 5724 5727	AMS
+R15	ADE-Drug Arg1:T21 Arg2:T23
+T22	ADE 5736 5745;5746 5762	decreased respiratory rate
+R16	ADE-Drug Arg1:T22 Arg2:T23
+T23	Drug 5828 5837	methadone
+T24	ADE 5838 5846	overdose
+R17	ADE-Drug Arg1:T24 Arg2:T23
+T25	Strength 5861 5865	30mg
+R18	Strength-Drug Arg1:T25 Arg2:T23
+T26	Strength 5895 5899	15mg
+R19	Strength-Drug Arg1:T26 Arg2:T23
+T27	Strength 5934 5938	10mg
+R20	Strength-Drug Arg1:T27 Arg2:T23
+T28	Strength 5956 5959	5mg
+R21	Strength-Drug Arg1:T28 Arg2:T23
+T30	Drug 6091 6097	narcan
+T31	Route 6098 6101	gtt
+R22	Route-Drug Arg1:T31 Arg2:T30
+T32	Reason 6126 6144	respiratory status
+R23	Reason-Drug Arg1:T32 Arg2:T30
+T33	Drug 6151 6157	narcan
+T34	Route 6158 6161	gtt
+R24	Route-Drug Arg1:T34 Arg2:T33
+T35	Drug 6252 6260	fentanyl
+T36	Dosage 6261 6268	boluses
+R25	Dosage-Drug Arg1:T36 Arg2:T35
+T37	Drug 6273 6279	ativan
+T38	Reason 6310 6320	withdrawal
+R26	Reason-Drug Arg1:T38 Arg2:T35
+R27	Reason-Drug Arg1:T38 Arg2:T37
+T39	Reason 6335 6343;6344 6356	restless leg syndrome
+R28	Reason-Drug Arg1:T39 Arg2:T37
+R29	Reason-Drug Arg1:T39 Arg2:T35
+T40	Drug 6377 6387	Solumedrol
+T41	Strength 6388 6393	125mg
+R30	Strength-Drug Arg1:T41 Arg2:T40
+T43	Frequency 6397 6402	q6hrs
+R32	Frequency-Drug Arg1:T43 Arg2:T40
+T44	Duration 6424 6430	2 days
+R33	Duration-Drug Arg1:T44 Arg2:T40
+T45	Drug 6453 6463	prednisone
+T46	Drug 6488 6500	azithromycin
+T47	Drug 6530 6539	methadone
+T48	Strength 6554 6558	15mg
+R34	Strength-Drug Arg1:T48 Arg2:T47
+T49	Route 6559 6561	PO
+R35	Route-Drug Arg1:T49 Arg2:T47
+T50	Frequency 6562 6565	BID
+R36	Frequency-Drug Arg1:T50 Arg2:T47
+T52	Dosage 6577 6579	2L
+R38	Dosage-Drug Arg1:T52 Arg2:T54
+T54	Drug 6580 6586	oxygen
+T55	Drug 6609 6615	oxygen
+T56	Reason 6629 6633;6634 6646	goal O2 sat 88-92
+R40	Reason-Drug Arg1:T56 Arg2:T54
+T57	Drug 6847 6856	albuterol
+T58	Form 6857 6860	MDI
+R42	Form-Drug Arg1:T58 Arg2:T57
+T59	Reason 6910 6940	Acute on Chronic Renal Failure
+R43	Reason-Drug Arg1:T59 Arg2:T62
+R44	Reason-Drug Arg1:T59 Arg2:T61
+R45	Reason-Drug Arg1:T59 Arg2:T60
+T60	Drug 7021 7031	Tamsulosin
+T61	Drug 7036 7047	Finasteride
+T62	Drug 7049 7054	lasix
+T63	ADE 7059 7080	Restless Leg syndrome
+R46	ADE-Drug Arg1:T63 Arg2:T65
+T64	ADE 7128 7137	overdosed
+R47	ADE-Drug Arg1:T64 Arg2:T65
+T65	Drug 7145 7154	methadone
+T66	Reason 7161 7174	mental status
+R48	Reason-Drug Arg1:T66 Arg2:T67
+T67	Drug 7190 7196	narcan
+T68	Route 7197 7200	gtt
+R49	Route-Drug Arg1:T68 Arg2:T67
+T69	Frequency 7216 7219	prn
+R50	Frequency-Drug Arg1:T69 Arg2:T70
+T70	Drug 7220 7228	fentanyl
+T71	Drug 7289 7298	methadone
+T72	Strength 7299 7303	15mg
+R51	Strength-Drug Arg1:T72 Arg2:T71
+T73	Route 7304 7306	PO
+R52	Route-Drug Arg1:T73 Arg2:T71
+T74	Frequency 7307 7310	BID
+R53	Frequency-Drug Arg1:T74 Arg2:T71
+T75	Drug 7937 7942	lasix
+T76	Strength 7943 7947	40mg
+R54	Strength-Drug Arg1:T76 Arg2:T75
+T77	Frequency 7948 7954	qdaily
+R55	Frequency-Drug Arg1:T77 Arg2:T75
+T78	Drug 7955 7963	atrovent
+T79	Frequency 7964 7967	tid
+R56	Frequency-Drug Arg1:T79 Arg2:T78
+T80	Drug 7968 7977	methadone
+T81	Strength 7978 7983	15 mg
+R57	Strength-Drug Arg1:T81 Arg2:T80
+T82	Drug 8001 8007	flomax
+T83	Strength 8008 8013	0.4mg
+R58	Strength-Drug Arg1:T83 Arg2:T82
+T84	Frequency 8014 8020	qdaily
+R59	Frequency-Drug Arg1:T84 Arg2:T82
+T85	Drug 8021 8032	finasteride
+T86	Strength 8033 8036	5mg
+R60	Strength-Drug Arg1:T86 Arg2:T85
+T87	Frequency 8037 8043	qdaily
+R61	Frequency-Drug Arg1:T87 Arg2:T85
+T88	Drug 8044 8051	ocuvite
+T89	Dosage 8052 8064	150-30-6-150
+R62	Dosage-Drug Arg1:T89 Arg2:T88
+T90	Form 8065 8068	cap
+R63	Form-Drug Arg1:T90 Arg2:T88
+T91	Frequency 8069 8075	qdaily
+R64	Frequency-Drug Arg1:T91 Arg2:T88
+T92	Drug 8076 8083	vit b12
+T93	Strength 8084 8091	1000mcg
+R65	Strength-Drug Arg1:T93 Arg2:T92
+T94	Drug 8109 8131	cranberry-vit c -vit E
+T95	Strength 8132 8142	140 -100-3
+R66	Strength-Drug Arg1:T95 Arg2:T94
+T96	Form 8144 8147	cap
+R67	Form-Drug Arg1:T96 Arg2:T94
+T97	Frequency 8148 8151	tid
+R68	Frequency-Drug Arg1:T97 Arg2:T94
+T98	Drug 8180 8191	Finasteride
+T99	Strength 8192 8196	5 mg
+R69	Strength-Drug Arg1:T99 Arg2:T98
+T100	Form 8197 8203	Tablet
+R70	Form-Drug Arg1:T100 Arg2:T98
+T102	Dosage 8209 8216	One (1)
+R72	Dosage-Drug Arg1:T102 Arg2:T98
+T103	Form 8217 8223	Tablet
+R73	Form-Drug Arg1:T103 Arg2:T98
+T104	Route 8224 8226	PO
+R74	Route-Drug Arg1:T104 Arg2:T98
+T106	Frequency 8227 8240	DAILY (Daily)
+R76	Frequency-Drug Arg1:T106 Arg2:T98
+T107	Drug 8246 8255	Methadone
+T108	Strength 8256 8261	10 mg
+R77	Strength-Drug Arg1:T108 Arg2:T107
+T109	Form 8262 8268	Tablet
+R78	Form-Drug Arg1:T109 Arg2:T107
+T110	Dosage 8274 8288	one and a half
+R79	Dosage-Drug Arg1:T110 Arg2:T107
+T111	Form 8289 8295	Tablet
+R80	Form-Drug Arg1:T111 Arg2:T107
+T112	Route 8296 8298	PO
+R81	Route-Drug Arg1:T112 Arg2:T107
+T113	Frequency 8299 8306;8307 8310	twice a day
+R82	Frequency-Drug Arg1:T113 Arg2:T107
+T115	Strength 8415 8420	10 mg
+R84	Strength-Drug Arg1:T115 Arg2:T107
+T116	Form 8421 8428	tablets
+R85	Form-Drug Arg1:T116 Arg2:T107
+T117	Strength 8447 8452	15 mg
+R86	Strength-Drug Arg1:T117 Arg2:T107
+T118	Frequency 8463 8474	twice a day
+R87	Frequency-Drug Arg1:T118 Arg2:T107
+T119	Drug 8479 8489	Tamsulosin
+T120	Strength 8490 8496	0.4 mg
+R88	Strength-Drug Arg1:T120 Arg2:T119
+T122	Form 8497 8525	Capsule, Sust. Release 24 hr
+R90	Form-Drug Arg1:T122 Arg2:T119
+T123	Dosage 8531 8534;8535 8538	One (1)
+R91	Dosage-Drug Arg1:T123 Arg2:T119
+T124	Form 8539 8567	Capsule, Sust. Release 24 hr
+R92	Form-Drug Arg1:T124 Arg2:T119
+T125	Route 8568 8570	PO
+R93	Route-Drug Arg1:T125 Arg2:T119
+T126	Frequency 8571 8573;8574 8586	HS (at bedtime)
+R94	Frequency-Drug Arg1:T126 Arg2:T119
+T127	Drug 8591 8600	Albuterol
+T128	Strength 8601 8617	90 mcg/Actuation
+R95	Strength-Drug Arg1:T128 Arg2:T127
+T129	Form 8618 8625	Aerosol
+R96	Form-Drug Arg1:T129 Arg2:T127
+T131	Dosage 8631 8638	Two (2)
+R98	Dosage-Drug Arg1:T131 Arg2:T127
+T133	Route 8639 8643;8644 8654	puff Inhalation
+R100	Route-Drug Arg1:T133 Arg2:T127
+T135	Frequency 8655 8684	every six (6) hours as needed
+R102	Frequency-Drug Arg1:T135 Arg2:T127
+T136	Reason 8689 8708	shortness of breath
+R103	Reason-Drug Arg1:T136 Arg2:T127
+T137	Reason 8712 8720	wheezing
+R104	Reason-Drug Arg1:T137 Arg2:T127
+T138	Drug 8748 8756	Atrovent
+T139	Strength 8761 8777	17 mcg/Actuation
+R105	Strength-Drug Arg1:T139 Arg2:T138
+T140	Form 8778 8785	Aerosol
+R106	Form-Drug Arg1:T140 Arg2:T138
+T141	Dosage 8791 8794	1-2
+R107	Dosage-Drug Arg1:T141 Arg2:T138
+T142	Form 8795 8800	puffs
+R108	Form-Drug Arg1:T142 Arg2:T138
+T143	Route 8801 8811	Inhalation
+R109	Route-Drug Arg1:T143 Arg2:T138
+T144	Frequency 8812 8829	three times a day
+R110	Frequency-Drug Arg1:T144 Arg2:T138
+T145	Drug 8936 8950	Cyanocobalamin
+T146	Strength 8951 8958	500 mcg
+R111	Strength-Drug Arg1:T146 Arg2:T145
+R112	Strength-Drug Arg1:T146 Arg2:T154
+T147	Form 8959 8965	Tablet
+R113	Form-Drug Arg1:T147 Arg2:T145
+R114	Form-Drug Arg1:T147 Arg2:T154
+T149	Dosage 8971 8978	Two (2)
+R117	Dosage-Drug Arg1:T149 Arg2:T145
+T150	Form 8979 8985	Tablet
+R118	Form-Drug Arg1:T150 Arg2:T145
+R119	Form-Drug Arg1:T150 Arg2:T154
+T151	Route 8986 8988	PO
+R120	Route-Drug Arg1:T151 Arg2:T145
+R121	Route-Drug Arg1:T151 Arg2:T154
+T153	Frequency 8989 8995;8996 9008	BID (2 times a day)
+R124	Frequency-Drug Arg1:T153 Arg2:T145
+T154	Drug 9043 9054	vitamin B12
+T155	Drug 9080 9085	Lasix
+T156	Strength 9086 9091	40 mg
+R125	Strength-Drug Arg1:T156 Arg2:T155
+T157	Form 9092 9098	Tablet
+R126	Form-Drug Arg1:T157 Arg2:T155
+T159	Dosage 9104 9111	One (1)
+R128	Dosage-Drug Arg1:T159 Arg2:T155
+T160	Form 9112 9118	Tablet
+R129	Form-Drug Arg1:T160 Arg2:T155
+T161	Route 9119 9121	PO
+R130	Route-Drug Arg1:T161 Arg2:T155
+T162	Frequency 9122 9132	once a day
+R131	Frequency-Drug Arg1:T162 Arg2:T155
+T163	Drug 9137 9144	Ocuvite
+T164	Strength 9145 9171	150-30-6-150 mg-unit-mg-mg
+R132	Strength-Drug Arg1:T164 Arg2:T163
+T165	Form 9172 9179	Capsule
+R133	Form-Drug Arg1:T165 Arg2:T163
+T167	Dosage 9185 9192	One (1)
+R135	Dosage-Drug Arg1:T167 Arg2:T163
+T168	Form 9193 9200	Capsule
+R136	Form-Drug Arg1:T168 Arg2:T163
+T169	Route 9201 9203	PO
+R137	Route-Drug Arg1:T169 Arg2:T163
+T170	Frequency 9204 9209	daily
+R138	Frequency-Drug Arg1:T170 Arg2:T163
+T171	Drug 9694 9703	methadone
+T172	Strength 9714 9719	15 mg
+R139	Strength-Drug Arg1:T172 Arg2:T171
+T174	Frequency 9720 9731	twice daily
+R141	Frequency-Drug Arg1:T174 Arg2:T171
+T176	Drug 9764 9773	albuterol
+T177	Form 9774 9781	inhaler
+R142	Form-Drug Arg1:T177 Arg2:T176
+T15	Frequency 383 394	2-3h qdaily
+R10	Frequency-Drug Arg1:T15 Arg2:T14	
+T6	Form 5939 5943	tabs
+R37	Form-Drug Arg1:T6 Arg2:T23	
+R39	Reason-Drug Arg1:T56 Arg2:T55	
+R41	Frequency-Drug Arg1:T153 Arg2:T154	
+R71	Dosage-Drug Arg1:T149 Arg2:T154	
+T4	Route 1547 1549	IV
+R2	Route-Drug Arg1:T4 Arg2:T5	
+T8	Route 1582 1584	IV
+R3	Route-Drug Arg1:T8 Arg2:T7	
+T20	Route 6394 6396	IV
+R31	Route-Drug Arg1:T20 Arg2:T40	
+T29	Drug 3123 3125	O2

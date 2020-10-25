@@ -1,0 +1,330 @@
+Admission Date:  [**2120-12-13**]              Discharge Date:   [**2121-1-4**]
+
+
+Service: MEDICINE
+
+Allergies:
+Benzodiazepines / Heparin Agents
+
+Attending:[**First Name3 (LF) 348**]
+Chief Complaint:
+respiratory distress, hypotension
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+Swan-ganz catheter placement
+Blood component transfusions
+
+
+History of Present Illness:
+Pt is an 88 yo male h/o CAD, MI, AAA (s/p repair, no leak)
+recent AICD for syncopal episode NOS ([**11-11**]), severe
+cardiomyopathy EF 10%, who originally presented to OSH with
+epigastric pain found to be hypotensive there to 60s systolic.
+He was then intubated for hypoxic respiratory failure with ABG
+7.26/52/41 (was DNR/DNI). He was transferred to the [**Hospital1 **] CCU. A
+CTA was done to rule out AAA and did not show any leak but
+aneurysm of 6.5 cm and stable.
+.
+Pt was treated for his shock which was of unclear etiology. He
+was started on Zosyn and Vancomycin on [**2120-12-13**] and vancomycin
+was d/cd as sputum from [**2120-12-14**] grew GNR not further speciated.
+There was not found to be any other source of infection. In the
+CCU, pressors were weaned off [**2120-12-17**]. Pt was started on
+steroids on [**2120-12-14**] for inappropriate cortisol stimulation test
+though it appears not drawn correctly.
+.
+Called by floor team today as pt with "[**10-15**]" abdominal pain
+that was sharp and radiated to his back x 10 minutes. Their exam
+revealed pain out of proportion to it and concern was for
+mesenteric ischemia. Lactate on a VBG was noted to be up to 2.4
+but repeat with ABG is 1.7. Pt says that he vomited x 1 today,
+did not notice the color. +mild sob. +dry cough that started
+today. +abdominal pain [**9-15**] when I saw pt.
+
+
+Past Medical History:
+CAD s/p CABG
+PAF
+AAA (s/p repair)
+severe cardiomyopathy-EF 10%
+s/p AICD for sick sinus syndrome([**11-11**])
+s/p biV pacer
+HTN
+GERD
+hypercholesterolemia
+PVD s/p iliac stent placement bilaterally
+h/o DVT/PE in past
+
+
+Social History:
+wife in [**Name (NI) **], former smoker
+
+Family History:
+non-contributory
+
+Physical Exam:
+ T: 97 (r); BP: 106/70; HR: 88; RR: 22; O2 98 2L
+Gen: Sitting up in bed tachypnic speaking in full sentences
+HEENT: EOMI; sclera anicteric; OP clear
+Neck: No LAD. JVD not appreciated at 80 degrees
+CV: Irregularly irregular, S1S2. I-II/VI systolic murmur at LUSB
+and apex
+Lungs: Good air flow. Crackles at left base. No change to
+percussion
+Abd: NABS. Soft, ND. Mild tenderness to deep palpation in
+epigastric area. No rebound or guarding
+Back: No spinal, paraspinal, CVA tenderness
+Ext: No edema. DP 2+
+Neuro: CN II-XII tested and intact. "[**12-19**]" "[**2110**]". Knew
+he was at a hospital, though not which one.
+
+
+Pertinent Results:
+CTA [**2120-12-13**]-IMPRESSION:
+1.  No evidence for aortic dissection or pulmonary embolus.
+2.  6.5-cm infrarenal abdominal aortic aneurysm with evidence of
+graft repair distally.  No evidence of aneurysm rupture or leak.
+
+3.  Pulmonary vascular congestion, intra-abdominal ascites,
+periportal edema, and anasarca suggest congestive heart failure
+versus volume overload or both.
+4.  Cardiomegaly.
+5.  Bibasilar subsegmental atelectasis with small bilateral
+pleural effusions.
+.
+Echo [**2120-12-13**]-The left atrium is elongated. The right atrium is
+moderately dilated. No atrial septal defect is seen by 2D or
+color Doppler. Left ventricular wall thicknesses are normal. The
+left ventricular cavity is moderately dilated. There is severe
+global left ventricular hypokinesis, EF 10-15%. No masses or
+thrombi are seen in the left ventricle. There is no ventricular
+septal defect. The right ventricular cavity is mildly dilated.
+There is mild global right ventricular free wall hypokinesis.
+The ascending aorta is mildly dilated. The mitral valve leaflets
+are mildly thickened. There is no mitral valve prolapse. Mild to
+moderate ([**1-8**]+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. Moderate [2+] tricuspid
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+.
+CXR AP (not official read)- enlarged heart s/p sternotomy wires.
+There are b/l pleural effusions. ? left retrocardiac opacity.
+.
+CTA wet read from radiology: SMA is patent. [**Female First Name (un) 899**] cant see [**2-8**]
+graft. No post-ischemic changes. Free fluid in abdomen and
+anasarca, all unchanged. No change from prior.
+
+
+Brief Hospital Course:
+In Brief, the patient is an 88 year old man with severe ischemic
+cardiomyopathy s/p BiV-ICD placement, atrial flutter, CAD,
+chronic kidney disease who presented with hypoxic respiratory
+failure and shock which was stablized.  His course was further
+complicated by acute abdomial pain, psoas muscle hematoma, upper
+GI bleed, acute on chronic renal failure, heparin induced
+thrombocytopenia with upper extremity DVT, intermittent hypoxia,
+and urinary retention.
+.
+
+1) Shock - Patient intially presented in shock requiring
+vasopressors.  Cardiac index was normal with decreased SVR which
+were not consistent with cardiogenic shock. The likely cause of
+was distributive/septic shock of unclear source of infection.
+He completed a full course of empiric antibiotics.  He completed
+7 days of hydrocortisone/fludrocort for sub-optimal response to
+ACTH.  BP stablized by time of discharge.
+.
+2) Respiratory Failure: The patient initially presented in
+hypoxic respiratory failure likely secondary to CHF,
+hypoventilation and decreased mental status.  He was intubated
+prior to transfer to [**Hospital1 18**].  He was weaned from the ventilator
+successfully.  He did have intermittent hypoxia largely
+secondary to pulmonary edema from inadequate diuresis.  He was
+stabilized on standing twice daily lasix. He was started on
+BiPaP at night for hypoventilation.
+.
+3) Abdominal pain - During the hospital stay he developed acute
+severe epigastric pain.  He was transfered to the MICU for
+concern for mesenteric ischemia.  An abominal CTA was negative
+for this.  A surgery consult was obtained and recommended no
+surgical intervention.  The pain resolved without specific
+intervention. He was subsequently found to have an psoas muscle
+hematoma and required several blood transfusions with
+appropriate response in his hematocrit.
+
+4) Cardiovascular:
+a. CAD- history of MI s/p CABG. will continue ASA, simvastatin,
+beta-blocker.
+.
+b. Pump- Severe ischemic cardiomyopathy with EF 10-15% s/p
+BiV-ICD placement. No evidence of cardiogenic shock upon initial
+presenation as C.I. was normal.  Medically managed CHF with
+ACEi, beta-blocker, digoxin, spironolactone, furosemide.
+.
+c. rhythm- [**Hospital1 **]-V paced with underlying rhythm is atrial
+flutter/fibrillation. Started on amiodarone for maintenance of
+sinus rhythm to maximize likelihood of atrial kick. Also,
+amiodarone to decrease in-appropriate shocks from ICD.
+
+5) Upper GI bleed - The patient did develop guaiac positive
+stools in the setting of anticoagulation for the atrial
+fibrillation. The hematocrit drop was largely due to the psoas
+hematoma as above.  The patient refused EGD.  If the patient
+develops recurrent melenotic stools he could be referred to GI
+for endoscopy.  He will continue on a PPI.
+.
+6)Acute on Chronic Renal failure - Initial creatinine down from
+admission to peak 2.5 this was likely from pre-renal secondary
+to shock state; no evidence of ATN. By time of discharge, the
+creatinine had resolved to baseline.
+.
+7) Anemia-  In addition the the acute blood loss anemia as
+described above.  The patient has a chronic microcytic anemia.
+Iron studies were consistent with anemia of chronic disease
+(labs drawn before blood transfusions were given).  Also with
+regard to the significant microcytosis and his Italian
+extraction, hemoglobin electrophoresis was performed to evaluate
+for thallasemia.  These results were pending at time of
+discharge.
+.
+8) Thrombocytopenia - HIT type II. PF4 positive on [**2120-12-27**],
+Platelets stable at around 70K with subsequent recovery to
+greater than 150K. He did have a left upper extremity venous
+clot although the developement of this was after his platelets
+had stabilized.  Started argatroban on [**2120-12-27**] with transition
+to coumadin.  He continued on argatroban until his INR on
+combined anti-coagulation was >4. At which time he was
+maintained on coumadin alone.
+.
+9) Urinary retention: - The patient has no prior history of
+urinary retention, nocturia, frequency or related BPH symptoms.
+During one attempt at removing the foley catheter he had
+decreased urine output with a large volume detected on bladder
+scan.  The foley was replaced.  He was started on finasteride,
+not wanting to use an alpha-blocker that would likely cause
+hypotension when added to his extensive cardiac regimen.  The
+catheter was left in at discharge.  This should be removed in
+[**2-9**] days followed by confirmation that the patient can urinate.
+.
+10) Code Status: DNR/DNI confirmed with patient and HCP.
+.
+11) Dispo: the patient was discharged to rehab
+
+
+Medications on Admission:
+Hydrocortisone Na 50 mg IV q6
+RISS
+Ipratropium MDI prn
+Tylenol prn
+Albuterol prn
+Lactulose 30 mg po q8 prn
+Pantoprazole 40 mg po q24 hr
+Amiodarone 200 mg po qday
+ASA 81 mg po qday
+Colace 100 mg [**Hospital1 **]
+Senna [**Hospital1 **]
+Fludrocortisone 0.05 mg po qday
+Simvastatin 40 mg po qday
+Heparin gtt
+Zosyn 2.25 mg IV q6
+
+
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+6. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every
+8 hours) as needed: to maintain at least 1BM per day.
+7. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+(Every Other Day).
+8. Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+9. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for sleep.
+10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+11. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): hold for sbp <95.
+13. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb
+Inhalation Q4H (every 4 hours) as needed for wheezing, dyspnea.
+
+14. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+15. Warfarin 5 mg Tablet Sig: One (1) Tablet PO at bedtime:
+titrate to INR goal [**2-9**].
+16. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+17. Compazine 5 mg Tablet Sig: One (1) Tablet PO every eight (8)
+hours as needed for nausea.
+18. Outpatient Lab Work
+Please draw PT/INR daily for 3 days and thereafter per protocol
+for INR goal [**2-9**]
+19. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig:
+15-30 MLs PO QID (4 times a day) as needed.
+20. BiPaP
+BiPAP with mask at night 10cmH2O PS, 5 cmH2O PEEP. Titrate FIO2
+to keep O2sat >95%
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+Primary:
+Septic Shock
+Hypoxic respiratory failure
+
+Secondary:
+Heparin induced thrombocytopenia
+Acute blood loss anemia from Psoas muscle hematoma
+Urinary retention
+Upper extremity venous clot
+Ischemic cardiomyopathy
+Atrial fibrillation/ Atrial flutter
+Congestive heart failure - systolic, compensated
+Microcytic Anemia
+
+
+Discharge Condition:
+good. stable vital signs. tolerating oral medications and
+nutrition. ambulating with minimal assist.
+
+
+Discharge Instructions:
+You have been evaluated for respiratory distress, and very low
+blood blood pressure.  These resolved with time, antibiotics,
+and close management of your chronic heart disease.  Your course
+was complicated by a bleed into a hip muscle, a reaction to a
+medication called heparin, and difficulty urinating.  These were
+all stablized over the course of the hospital stay.
+
+Please take the medications as prescribed.
+
+Please make and attend your recommended follow-up appointments.
+
+If you develop any concerning symptom particularly chest pain,
+shortness of breath, bloody or tarry stools please seek medical
+attention.
+
+Followup Instructions:
+Please contact your primary doctor Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 58623**] at
+[**Telephone/Fax (1) 58624**] to be seen within the next 1-2 weeks.
+
+In the meantime you will be evaluated by the physicians at the
+rehab facility.
+
+
+

@@ -1,0 +1,326 @@
+Admission Date:  [**2117-10-6**]              Discharge Date:   [**2117-10-9**]
+
+Date of Birth:  [**2058-12-19**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Iodine; Iodine Containing
+
+Attending:[**First Name3 (LF) 12**]
+Chief Complaint:
+Fever
+
+Major Surgical or Invasive Procedure:
+Portacath removal ([**2117-10-7**])
+
+History of Present Illness:
+This is a 58 year-old male with a history of pancreatic cancer
+diagnosed [**11-5**] s/p whipple [**11-5**] who presents with fever to
+102.8. Patient had a similar admission in [**8-6**] here for similar
+reasons. Both times, the fever started shortly after port
+access. During his admission in [**Month (only) **], no positive blood
+cultures, negative urine cx, negative cxr, negative echo. Was
+diagnosed with supraventricular tacchycardia and was given
+adenosine and then lopressor to take at home. He was treated
+with vanc and ceftriaxone and then ciprofloxacin and improved.
+He usually feels ill about 48 hours after port access for
+chemotherapy but it is unclear if this is the chemotherapy or
+infection.  The port was placed at [**Hospital1 112**] in [**Month (only) **]. On Monday,
+he had his port accessed for labs and he began to feel like he
+was "coming down with a cold" on tuesday afternoon. He went to
+work today and around noon felt weak, developed abdominal pain
+radiating to his left shoulder, one episode of vomiting and low
+grade temp to 99. He went to the ED where his temp rose to 102.9
+and he experienced rigors. He denies headache, meningismus, cp,
+sob, cough, change in abd pain from baseline, diarrhea, change
+in bowel habits, dysuria, rash, joint pain, hematochezia or
+melena. No sick contacts. Traveled to [**State **] this weekend for
+a conference but was only in hotels/airport. No hiking or
+outdoor activities. Of note, his labs on monday for tumor lysis,
+lfts were normal and crit was 34 per patient.
+.
+In the ED, vs were: 99.4 111 117/70 16 96% RA initially. Mild
+epigastric tenderness. Guaic negative stool. Prostate exam
+normal. UA negative. He received 4 liters IVF. CXR negative. HR
+130s. EKG showed sinus tacchycardia. Received lovenox for ? PE
+since he couldnt get CTA because of contrast allergy.  Temp rose
+to 102.8, gave tylenol. Received vanc and levaquin. Shortly
+after receiving the abx, his lips swelled and he developed
+hives. He received benadryl and pepcid and this resolved. He has
+received those antibiotics multiple times in the past and has
+never had a reaction. Of note, per wife, the vanco was given
+slowly so red man syndrome less likely.
+.
+In the ICU, initial vs were: 99.6 103 125/78 90 20 93% RA.
+Patient reported feeling better. Denied ha, dizziness, cp, palp,
+sob, cough, abd pain, nausea, etc.
+.
+ROS: see hpi
+
+
+Past Medical History:
+Past Oncologic History:
+ - developed painless jaundice in [**11-5**]
+- diagnosed with pancreatic adenocarcinoma
+- underwent Whipple in [**11-5**] at [**Hospital1 2025**] -> had clear margins, but ?
+of 2 positive lymph nodes
+- complicated by intra-abdominal hemorrhage, hematoma/abscess
+formation and sepsis which required multiple drainages
+- treated with gemcitabine
+- then 5FU continuous infusion, XRT (6 weeks) and low dose
+gemcitabine
+- XRT completed in [**5-6**]
+- last dose of gemcitabine was the second week in [**Month (only) 462**]
+(receives this with decadron)
+.
+Other PAST MEDICAL HISTORY:
+- SVT
+- restless leg syndrome
+- BPH s/p TURP in end [**6-6**] -> had urinary obstruction/hydro
+prior
+- HTN
+
+
+Social History:
+Dr. [**Known lastname 94286**] is a faculty member here who specializes in HIV
+vaccine research. He is married and his wife is also on faculty
+here (neurology). No tobacco, etoh, drug use. Recent travel to
+[**State **] without outdoor activities. No recent sick contacts.
+
+Family History:
+Father had CABG in his 60s, died of CAD at age [**Age over 90 **]
+No family history of DM, lung disease, kidney disease
+No family history of bleeding, clotting, cancer
+
+
+Physical Exam:
+Tmax: 37.7 ??????C (99.8 ??????F)
+Tcurrent: 36.8 ??????C (98.2 ??????F)
+HR: 100 (100 - 115) bpm
+BP: 138/88(100) {122/77(87) - 138/88(100)} mmHg
+RR: 17 (17 - 23) insp/min
+SpO2: 93%
+Heart rhythm: SR (Sinus Rhythm)
+Height: 63 Inch
+
+GEN: Well-appearing, thin, no acute distress
+HEENT: NCAT, EOMI, PERRL, sclera anicteric, no epistaxis or
+rhinorrhea, MM dry, OP Clear, no thrush or oral lesions
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline, no meningismus
+COR: tacchy, RR, no M/G/R, normal S1 S2, radial pulses +2
+PULM: Lungs dullness at the R lung base, no W/R/R
+ABD: Soft, mild tenderness in epigastrium, ND, +BS, no HSM, no
+masses, no rebound or guarding, well-healed scar from whipple
+EXT: No C/C/E, no palpable cords
+NEURO: alert, oriented to person, place, and time. CN II ?????? XII
+grossly intact. Moves all 4 extremities. Strength 5/5 in upper
+and lower extremities. Patellar DTR +1.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+
+BACK: no spinal tenderness
+
+
+Pertinent Results:
+.
+[**2117-10-8**] MRI Abdomen
+FINDINGS: The patient is status post Whipple with expected
+postoperative
+anatomy and anastomoses. There is expected pneumobilia. In
+addition, there
+is mild intrahepatic biliary ductal dilation, preferentially
+within the left system, and also involving the posterior right
+biliary duct which arises from the left system, an anatomic
+variant. The pre-contrast study demonstrates even more prominent
+left ductal dilation. There are equivocal areas of stenosis in
+the peripheral left system without evidence of central stenosis,
+although the evaluation of stenosis is limited by the presence
+of pneumobilia. In the left lobe of the liver, there is subtle
+hyperemia in the arterial phase without evidence of abnormality
+in signal on the T2-weighted images suggestive of edema. No
+enhancing liver lesions are identified. The gallbladder is
+surgically absent. Nodularity of the right adrenal gland is
+stable compared to the preoperative study. The left adrenal
+gland and spleen appear unremarkable. The pancreatic parenchyma
+enhances homogeneously. The pancreatic duct is not dilated. The
+kidneys enhance and excrete contrast symmetrically without
+hydronephrosis. There are bilateral nonenhancing renal cysts.
+There is mild perinephric fluid bilaterally, right greater than
+left. There is mild thickening of the right lateral conal fascia
+which is probably postoperative. Small foci of blooming artifact
+on the gradient-echo sequences within the mesentery near the
+area of surgery are likely related to hemosiderin and
+postoperative change. No evidence of new mass or lymphadenopathy
+is appreciated. The signal within the bone marrow appeared to be
+normal limits. The lung bases demonstrate small bilateral
+pleural effusions and associated atelectasis, right greater than
+left.
+IMPRESSION:
+1. Subtle hyperemia in the left lobe of the liver without
+evidence of edema, fluid collection, or central biliary
+stenosis. Equivocal stenosis in the periphery of the left
+biliary system is difficult to evaluate given the presence of
+pneumobilia. Findings could represent subclinical cholangitis,
+given biliary anastomoses.
+2. Bilateral small pleural effusions, right greater than left,
+with
+associated atelectasis.
+3. Stable nodularity in the right adrenal gland, unchanged from
+preoperative study.
+
+
+[**2117-10-6**] 11:37PM   GLUCOSE-125* UREA N-16 CREAT-1.2 SODIUM-140
+POTASSIUM-4.6 CHLORIDE-113* TOTAL CO2-17* ANION GAP-15
+[**2117-10-6**] 11:37PM   CALCIUM-7.7* PHOSPHATE-3.2 MAGNESIUM-1.4*
+[**2117-10-6**] 11:37PM   TSH-2.4
+[**2117-10-6**] 11:37PM   WBC-12.2*# RBC-3.37* HGB-10.6* HCT-31.9*
+MCV-95 MCH-31.5 MCHC-33.3 RDW-14.1
+[**2117-10-6**] 11:37PM   NEUTS-73* BANDS-22* LYMPHS-3* MONOS-2 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2117-10-6**] 11:37PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+
+MACROCYT-1+ MICROCYT-1+ POLYCHROM-OCCASIONAL OVALOCYT-1+
+SCHISTOCY-OCCASIONAL
+[**2117-10-6**] 11:37PM   PLT COUNT-197
+[**2117-10-6**] 06:12PM   COMMENTS-GREEN TOP
+[**2117-10-6**] 06:12PM   LACTATE-1.6
+[**2117-10-6**] 02:40PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.015
+[**2117-10-6**] 02:40PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+[**2117-10-6**] 02:40PM URINE  RBC-0-2 WBC-0-2 BACTERIA-OCC YEAST-NONE
+EPI-<1
+[**2117-10-6**] 01:53PM   COMMENTS-GREEN TOP
+[**2117-10-6**] 01:53PM   LACTATE-3.1*
+[**2117-10-6**] 01:40PM   GLUCOSE-144* UREA N-23* CREAT-1.5* SODIUM-137
+POTASSIUM-4.8 CHLORIDE-101 TOTAL CO2-27 ANION GAP-14
+[**2117-10-6**] 01:40PM   estGFR-Using this
+[**2117-10-6**] 01:40PM   ALT(SGPT)-57* AST(SGOT)-98* ALK PHOS-173* TOT
+BILI-0.7
+[**2117-10-6**] 01:40PM   LIPASE-10
+[**2117-10-6**] 01:40PM   ALBUMIN-4.3
+[**2117-10-6**] 01:40PM   WBC-7.4# RBC-3.89*# HGB-12.5*# HCT-36.9*#
+MCV-95 MCH-32.2* MCHC-33.9 RDW-14.1
+[**2117-10-6**] 01:40PM   NEUTS-93.6* LYMPHS-3.5* MONOS-0.6* EOS-2.2
+BASOS-0.1
+[**2117-10-6**] 01:40PM   PLT COUNT-254
+
+Brief Hospital Course:
+58 year-old male with a history of pancreatic cancer who
+presents with fever and tachycardia.
+
+# Fever: Patient with fever to 102 and leukocytosis. This is
+most likely an infectious in etiology. The differential includes
+portacath infection given recent manipulation and timing of the
+onset.  The port was last accessed on monday. Blood cultures
+drawn peripherally but not from port. The patient also report
+abdominal pain and has h/o abdominal abscess, but patient has
+had pain at baseline. CXR today showed haziness in R lower base
+concerning for early pna vs pulmonary edema.   UA negative
+making pna and UTI unlikely.  Pt has elevated liver enzymes that
+were normal on monday per patient. Could be elevated in setting
+of sepsis. No change in bowel habit, no signs of menigitis, no
+murmur on exam to suggest endocarditis. Tick borne disease
+unlikely as pt does not have any pets and does not do outdoor
+activities at all. No new drugs to suggest drug fever. Empiric
+broad spectrum antibiotics for possible line
+infection/intrabdominal process: linezolid, cefepime and flagyl
+given possible allergy to vanc and levaquin? MRI of abdomen was
+performed and found no intrabdominal abscess but subclinic
+cholangisit. ID was consulted and thought it was ok to discharge
+him on PO Augmetin for one week to follow up with primary
+providers.
+.
+# Tacchycardia: Patient's HR was consistently 110-120s here.
+Patient's ekg was c/w sinus tacchycardia. He is mildly fluid
+responsive. This could be due to sepsis as above.  Pt high risk
+for PE given onc hx, but no other signs of PE. Not anemic,
+anxious or in pain. His BB was held.
+.
+# H/O SVT, currently sinus tacchycardia on ekg. Held metoprolol
+given patient is febrile and may be peri-septic. Held BB at
+discharge per patient request.
+.
+# ARF: likely prerenal in setting of possible sepsis
+.
+# Transaminitis: likely related to volume depletion and sepsis.
+Since lfts were normal 2 days ago, liver abscess unlikely. Tbili
+normal. Trended down.
+.
+# Anemia: crit at baseline to slightly higher. He is most likely
+hemoconcentrated.
+.
+# Pancreatic cancer: defer to primary onc team
+.
+# Restless leg: cont mirapex
+.
+# HTN: hold lopressor
+.
+# GERD: cont prilosec
+.
+# General Care:  replete lytes prn, IVF boluses prn MAP < 65,
+npo given possible port removal in am, Access : portacath , one
+[**Last Name (LF) **], [**First Name3 (LF) **] place another [**First Name3 (LF) **], PPx: prilosec, sub q heparin, bowel
+regimen, Code:  Full- confirmed, Discharged in good condition.
+Comm:  wife is Dr. [**Last Name (STitle) **] [**Numeric Identifier 94287**] pager.
+
+Medications on Admission:
+Mirapex 0.125 mg qhs
+Prilosec 20 mg qhs
+Lopressor 12.5mg PO BID
+pancrease 2-3 tabs with meals
+
+
+Discharge Medications:
+1. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+2. Amylase-Lipase-Protease 20,000-4,500- 25,000 unit Capsule,
+Delayed Release(E.C.) Sig: Two (2) Cap PO TID W/MEALS (3 TIMES A
+DAY WITH MEALS).
+3. Pramipexole 0.125 mg Tablet Sig: One (1) Tablet PO qhs ().
+4. Augmentin XR 1,000-62.5 mg Tablet Sustained Release 12 hr
+Sig: One (1) Tablet Sustained Release 12 hr PO twice a day for 7
+days.
+Disp:*14 Tablet Sustained Release 12 hr(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Sepsis from Port infection
+.
+Secondary Diagnosis:
+Pancreatic Cancer
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted with fevers a couple of days after having your
+port accessed.  Because of the concern of sepsis, you were
+admitted to ICU were you were given broad spectrum antibiotics.
+An MRI of your abdomen was peformed which ruled out a fluid
+collection.  You were seen by the ID specialists who feel it is
+safe to send you home on oral antibiotics.
+.
+Your medication regimen remains the same except for we started
+you on Augmentin XR twice a day for 7 days.
+.
+Please follow up with Dr. [**First Name (STitle) **], your oncologist.
+.
+If you develope any of the following, chest pain, shortness of
+breath, palpatations, worsening of you abdominal pain, worsening
+diarrhea, fevers or chills, or nausea and vomiting, please call
+your doctor or go to your local emergency room.
+
+Followup Instructions:
+Please follow up with Dr. [**First Name (STitle) **], your oncologist and Dr. [**Last Name (STitle) 2093**]
+your primary care doctor.
+
+
+
+Completed by:[**2117-10-9**]

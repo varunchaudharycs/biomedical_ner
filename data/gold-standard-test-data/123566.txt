@@ -1,0 +1,189 @@
+Admission Date:  [**2125-10-10**]              Discharge Date:   [**2125-12-21**]
+
+Date of Birth:  [**2047-4-26**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Adhesive Tape
+
+Attending:[**First Name3 (LF) 4679**]
+Chief Complaint:
+Esophageal cancer
+
+Major Surgical or Invasive Procedure:
+[**2125-10-10**]
+1. [**First Name9 (NamePattern2) 12351**] [**Doctor Last Name **] esophagectomy.
+2. Buttressing of intrathoracic anastomosis with thymic fat pad.
+3. Laparoscopic jejunostomy.
+4. Therapeutic bronchoscopy.
+5. Esophagogastroduodenoscopy.
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 78 year-old male who's recent endoscopic mucosal
+resection revealed intramucosal adenocarcinoma that was invading
+into the lamina propria and was focally present at the
+cauterized margin.  He is being admitted for minimal invasive
+esophagectomy with Laparoscopic jejunostomy.
+
+
+Past Medical History:
+GERD
+Sleep apnea on CPAP
+Arthritis
+Diverticulosis
+Prostate CA s/p surgery [**2116**]
+Back pain/surgies x 3 over 25 years
+Appendectomy
+Cholecystectomy
+
+
+Social History:
+Widower lives alone, Tobacco: quit 40 years ago
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: Tc 99.1 , 111/74 ( off pressors since AM), 88, A/c
+mode(intubated)
+HEENT: PERRL, EOMI, sclerae anicteric, neck supple, MMM, no
+ulcers/lesions/thrush . NG tube, small amount of brown
+fluid(sunction mode)
+CV: Distant S1/S2 , no murmurs,
+PULM: Decreased BS BL, rhonchi diffuse
+Chest tube right lower hemithorax and incision site. Appears
+clean. No d/c
+GI: Distended Abd, hypoactive sounds, not rigid. Endoscopy
+incision clean. (4)Scrotal edema
+EXT: warm and well perfused, 2+ DP pulses palpable bilaterally
+LYMPH: no cervical, axillary, or inguinal lymphadenopathy
+SKIN: no rashes, no jaundice .
+
+
+Pertinent Results:
+CT chest/abd/pelvis [**2125-11-2**]:
+CONCLUSION:
+1. Relatively large rim-enhancing collection in the right thorax
+wall
+adjacent to the thoracotomy site.
+2. No clear sign of ongoing leak.
+
+CT Chest [**2125-11-13**]:
+IMPRESSION:
+1. Stable appearance of periesophageal fluid following stent
+placement.
+Drains remain within the pleural space, with no interval
+increase in
+periesophageal fluid. No periesophageal abscess. Adjacent
+compressive
+atelectasis.
+2. Interval near resolution of left pleural effusion.
+3. Multifocal atelectasis.
+4. Exam not optimized for assessment of tracheomalacia.
+5. Colonic diverticulosis without diverticulitis.
+
+CT Chest/Abd/Pelvis [**2125-12-6**]:
+1. Slightly decreased intrathoracic fluid collection with
+decreased passive
+atelectasis.
+2. Resolution of extrathoracic fluid collection.
+3. No additional source found to explain the patient's spiking
+fevers.
+4. Endotracheal tube 3.5 cm above the carina. NG tube with the
+distal tip in
+a subdiaphragmatic position within the stomach. Jejunostomy tube
+in the
+appropriate place with contrast opacifying bowel distal to the
+tip of this
+tube.
+
+Pathology [**2125-10-10**]:
+1.  Lymph node, level 7 (A-B):Fragments of lymph node, no
+carcinoma seen.
+2.  Esophagus and stomach, esophagogastrectomy (C-X):Focal
+intramucosal adenocarcinoma, See Synoptic Report.
+3.  Gastric donut (Y):No carcinoma seen.
+4.  Esophageal donut (Z):No carcinoma seen.
+5.  Stomach, gastric fundus (AA):No carcinoma seen.
+
+Echo [**2125-12-7**]:
+The left atrium is mildly dilated. Left ventricular wall
+thickness, cavity size, and global systolic function are normal
+(LVEF>55%). Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets are mildly thickened (?#). There is no aortic valve
+stenosis. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is
+seen. The estimated pulmonary artery systolic pressure is
+normal. There is no pericardial effusion.
+
+IMPRESSION: Grossly preserved biventricular systolic function.
+Mild mitral regurgitation. Limited study.
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 78 year-old male admitted following successful
+[**First Name9 (NamePattern2) 12351**] [**Doctor Last Name **] esophagectomy, Buttressing of intrathoracic
+anastomosis with thymic fat pad Laparoscopic jejunostomy,
+Therapeutic bronchoscopy, Esophagogastroduodenoscopy.  He was
+transferred to the SICU intubated and sedated, NGT, right chest
+tube, JP drain and Epidural for pain. He was extubated on POD1,
+placed on 3L NC and humidified face tent with oxygen saturations
+> 90%.  His oxygen requirement increased requiring aggressive
+pulmonary toilet, nebs, and chest PT.  Initially he was
+hypovolemic, fluid challenge was given with a good response.
+Once his respiratory status improved he transferred to the floor
+on [**2125-10-15**]. On POD 6 ([**10-16**]) barium swallow negative for leak
+and diet advanced to clears which were well tolerated. On POD 8
+([**10-18**]), pt experienced acute R sided CP and RUQ abd pain,
+hypoxia, and diaphoresis. CXR demonstrated ptx. DART placed with
+bilious drainage, EGD showed necrosis at anastomotic site. Pt
+returned to OR for debridement gastric conduit and repair POD 9
+([**10-19**]) and admitted to TSICU postoperatively with CTx3, JPx2. Pt
+underwent EGD POD 14 ([**10-24**]) with healthy-appearing anastomosis.
+On POD 19 ([**10-29**]) pt undersent percutaneous tracheostomy
+placement. Pt noted to have persistent JP drainage. On POD 30
+([**11-9**]), pt underwent esophageal stenting and NGT was
+discontinued. JP output transiently decreased but subsequently
+increased after stent placement. On POD 46 ([**11-25**]) pt underwent
+EGD which demonstrated good stent position and endoscopically
+placed NGT.  He continued to have respiratory distress requiring
+mechanical ventilation, with tachypnea and agitation with any
+withdrawal of sedation.  His hospital course remained stable
+until [**2125-12-18**], requiring sedation and mechanical ventilation.
+On [**2125-12-19**], the family requested no further interventions, and
+that he be allowed to pass if he began to worsen.  On [**2125-12-21**],
+with the family at bedside, his ventilation was turned off, and
+he expired at 11:30am.
+
+Medications on Admission:
+allopurinol 300 mg daily, amlodipine 10 mg daily, pravastatin,
+terazosin 10 mg qhs, omeprazole 40 mg, ranitidine, tamsulosin
+0.4 mg qhs, finasteride 5 mg daijly, percocet, aspirin 81 mg
+daily, CPAP.
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Esophageal cancer.
+
+
+Discharge Condition:
+Expired
+
+
+Discharge Instructions:
+None
+
+Followup Instructions:
+None
+
+
+Completed by:[**2125-12-21**]

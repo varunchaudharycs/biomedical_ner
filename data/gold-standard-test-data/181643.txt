@@ -1,0 +1,394 @@
+Admission Date:  [**2132-8-3**]              Discharge Date:   [**2132-8-7**]
+
+Date of Birth:  [**2065-10-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Atenolol / Ms Contin
+
+Attending:[**First Name3 (LF) 1253**]
+Chief Complaint:
+COPD exacerbation
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname 13621**] is a 66-year-old smoker with a history of COPD, recent
+DVT now off coumadin, AAA, and multiple admissions for pneumonia
+who presented with dyspnea and is transferred to the [**Hospital Unit Name 153**] for
+management of COPD exacerbation requiring bipap.
+
+He has been hospitalized multiple times for COPD exacerbation
+and pneumonia requiring ICU admission and intubation on a single
+occasion in [**2131-9-23**], and most recently was discharged in [**Month (only) **]
+[**2131**] to rehab and has been home for a few weeks.  At baseline he
+is unable to walk a few steps without getting short of breath
+and he is not on supplemental O2 at home.  He was in his usual
+state of health when he developed worsening of his chronic,
+productive cough of white sputum, worsening dyspnea, and
+tachypnea last night.  His symptoms progressed and he activated
+EMS.  Per report, O2 sat on room air upon their arrival was 81%.
+ Of note, he was diagnosed with a right segmental PE and LLE DVT
+in [**2131-12-24**] and was on warfarin until [**2132-5-22**] when it was
+discontinued because of concerns of medication adherence.
+
+In the ED initial vital signs were 97.5 116 158/94 28 95%O2.
+His exam was notable for minimal air sounds and mild wheezes,
+and he was intermittently tachypneic to the high 30s, with
+tachycardia to the 130s.  A CXR demonstrated left sided
+infiltrate, which was confirmed on a chest CTA that was negative
+for PE but demonstrated multifocal pneumonia.  He was placed on
+cpap and given nebs, solumedrol 125 mg iv x1, ceftriaxone, and
+levofloxacin.
+
+Review of Systems:
+(+) Per HPI
+(-) Denies fever, chest pain, nausea, vomiting, diarrhea, and
+rash.
+
+Past Medical History:
+- Right segmental PE and LLE DVT in [**12/2131**], on Coumadin
+- COPD, admission to [**Hospital1 2177**] with COPD exacerbation last winter, not
+
+on home O2.
+- AAA
+- HTN
+- Hyperlipidemia
+- Gout
+- Osteoporosis, history of L1 burst fracture on chronic opioids
+for pain relief, l3 compresion fracture
+
+
+Social History:
+Home: lives alone, son very involved, visits daily. EtOH: 4
+beers per day. Drugs: Denies. Tobacco: currently smoking 4
+cigarrettes daily, trying to cut back and has >80 PPY history
+
+Family History:
+No history of CAD.  No history of clotting disorder.
+
+Physical Exam:
+GEN: NAD, cachectic, anxious
+VS:  113 118/68 26 100% cpap 10/5 off
+HEENT: MMM, no OP lesions, JVP not distended
+CV: RR, NL S1S2 no S3S4 MRG
+PULM: decreased BS b/l
+ABD: BS+, soft, NTND, no masses or HSM
+LIMBS: No LE edema, no tremors or asterixis, no clubbing
+SKIN: No rashes or skin breakdown
+NEURO: CNII-XII nonfocal, strength 5/5 of the upper and lower
+extremities
+
+On Discharge:
+Tm: 97.7 T:97.7 BP:123/85 P:89 R:18 O2:96%RA (95-97 RA)
+General: Alert, oriented, no acute distress. Cachectic
+appearing.
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Minimal air entry. Inspiratory wheezes bilaterally.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema. LEs are wasted.
+
+
+Pertinent Results:
+Leukocytosis on admission eventually trended down: (On
+admission)
+[**2132-8-3**] 03:10AM   WBC-30.6*# RBC-5.22 HGB-15.4 HCT-47.6# MCV-91
+MCH-29.6 MCHC-32.4 RDW-14.2
+NEUTS-89* BANDS-2 LYMPHS-3* MONOS-5 EOS-0 BASOS-0 ATYPS-0
+METAS-1* MYELOS-0
+
+(-)UA on admission
+BCx had NGTD upon discharge.
+
+[**2132-8-3**] CXR
+IMPRESSION: Interval development of left mid lung hazy opacity ,
+concerning for pneumonia.
+
+[**2132-8-4**] Chest X ray
+IMPRESSION: Unchanged left mid lung field opacity concerning for
+pneumonia.
+
+[**2132-8-3**] CTA
+CT CHEST WITH AND WITHOUT CONTRAST:
+There is no pulmonary embolism. The pulmonary arterial
+vasculature is patent to the segmental level. The aorta
+demonstrates no acute pathology. The remaining great mediastinal
+vessels are unremarkable. The heart is normal in size without
+pericardial effusions. Moderate coronary calcifications are
+again noted. Small mediastinal lymph nodes are not
+pathologically enlarged, compatible with the underlying
+pneumonia. There is no definitive hilar or axillary
+lymphadenopathy.
+Again noted are severe emphysematous changes of the lung
+parenchyma, with
+upper lobe predominance and also parasagittal bulla in the
+anterior lungs.  There is interval increase of honeycombing
+opacity in the left upper lobe, with persistent left lower lobe
+consolidation, compatible with worsening infectious process in
+the left lung. The right lung base opacification from prior
+pneumonia appears to decrease in size. There is no pneumothorax
+or pleural effusion. The central tracheobronchial tree remains
+patent.
+The study is not designed for subdiaphragmatic diagnosis. An
+abdominal aortic aneurysm is not adequately assessed in the
+current study, measuring up to 30 mm in diameter (image 3:127).
+BONE WINDOW: Multilevel degenerative changes are mild to
+moderate.
+Left-lateral spinal fusion rod is unchanged in position.
+Mild-to-moderate
+loss of vertebral heights are again noted. There are no
+suspicious lytic or sclerotic lesions.
+IMPRESSION:
+1. Interval worsening of left-sided multifocal pneumonia.
+Near-resolution of right lower lobe pneumonia.
+2. No PE or acute aortic dissection. Incidental note of an
+abdominal aortic aneurysm.
+3. Unchanged severe centrilobular emphysema.
+
+Lower extremity ultrasound [**2132-8-6**]:
+FINDINGS: There is normal compressibility, color Doppler and
+pulse-wave
+Doppler waveforms of the left common femoral vein, popliteal
+vein, posterior tibial and peroneal veins. There is
+non-occlusive thrombus in the superficial femoral vein on the
+left. Overall, this represents partial resorption of clot seen
+on the prior exam [**2131-12-30**]. There is normal
+compressibility, color Doppler and pulse-wave Doppler of the
+right common femoral, superficial femoral, popliteal veins.
+There is thrombus seen within the duplicated posterior tibial
+veins. The right peroneal vein was not seen.
+IMPRESSION:
+1. Partially resorbed clot in the left popliteal vein with
+persistent
+thrombus in the left superficial femoral vein.
+2. New thrombus in the right posterior tibial veins.
+
+
+Brief Hospital Course:
+66 yo male with hx of severe COPD, recent DVT now off coumadin,
+AAA, and multiple admissions for COPD exacerbations and PNA, p/w
+COPD exacerbation and found to have multifocal PNA on CT.
+Patient was admitted with shortness of breath, treated with nebs
+in the ER, and ultimately required bipap. Patient was
+transferred to the ICU, where he was weaned off Bipap and
+eventually tolerating O2 via NC. He was started on Solumedrol
+and Levaquin/Ceftriaxone. Patient was transferred to the floor
+on O2 via NC and converted to PO Prednisone. We also stopped the
+ceftriaxone and continued the levaquin. Patient eventually was
+tolerating RA and was discharged home with VNA services.
+
+Problem [**Name (NI) **]:
+1. COPD Exacerbation: Patient started on ceftriaxone, levaquin,
+and IV solumedrol on admission and required bipap. He was
+quickly weaned off bipap and continued on abx and steroids. He
+rapidly improved clinically and was saturating well on RA upon
+discharge. He was discharged and instructed to take 50 mg
+Prednisone daily x 3 days, and taper by 10 every three days
+thereafter.
+
+2. Multifocal PNA: Patient had leukocytosis on admission and
+found to have evidence of multifocal PNA on CT. He was started
+on Levaquin and Ceftriaxone. Blood cultures were negative as was
+legionella antigen. The leukocytosis quickly resolved over the
+hospitalization and the ceftriaxone was discharged once patient
+was transferred to general medicine floor. Patient was
+discharged after completing a 5 day course of his levaquin.
+
+3. Cavitary Lung Lesion: Seemed to have decreased based on CT
+done on admission. Patient was intructed to follow up with
+pulmonologist and PCP. [**Name10 (NameIs) **] was read as negative.
+
+4.  DVT: Patient received duplex ultrasound that demonstrated
+resolving clot in Left superficial femoral. New thrombus found
+in posteriar tibial. Patient was kept on prophylaxsis heparin
+dosing.
+
+5. Hyperglycemia: Patient was on insulin sliding scale secondary
+to steroid use. Patient was also started on basal NPH when he
+received his dose of steroids. He was instructed to use the NPH
+at home, starting with 12 units, when he takes his steroid dose
+every morning. He was instructed to check his glucose via
+glucometer to make sure sugars were stable. He was instructed to
+contact PCP with results so that he can taper his daily insulin
+shot to prevent hypoglycemia.
+
+6. Hyperlipidemia: Stable on atorvastatin.
+
+7. Hypertension: Stable. No medications were required.
+
+8. Osteoporosis: Patient continued on Vitamin D.
+
+Patient remained DNR, but not DNI during this hospitalization.
+Patient was also advised to stop smoking. He was given scripts
+for nicotine patches and gum.
+
+Medications on Admission:
+ALBUTEROL SULFATE - 0.63 mg/3 mL Solution for Nebulization - [**11-24**]
+Solution(s) inhaled every 4-6 hours as needed for shortness of
+breath or wheezing
+ALBUTEROL SULFATE - 90 mcg HFA Aerosol Inhaler - 2 puffs inh 4
+times a day prn
+ALLOPURINOL - 300 mg Tablet - 0.5 (One half) Tablet(s) by mouth
+once a day
+ATORVASTATIN [LIPITOR] - 10 mg Tablet - 1 Tablet(s) by mouth
+daily
+CODEINE-GUAIFENESIN - 100 mg-10 mg/5 mL Liquid - [**3-31**] mL by
+mouth every six (6) hours as needed for cough
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 250 mcg-50 mcg/Dose
+Disk with Device - 1 puff(s) inhaled twice a day rinse after use
+OXYCODONE-ACETAMINOPHEN - 5 mg-325 mg Tablet - 1 to 2 Tablet(s)
+by mouth four times a day as needed for pain
+RANITIDINE HCL - 150 mg Tablet - 1 Tablet(s) by mouth twice a
+day
+RISEDRONATE [ACTONEL] - 35 mg Tablet - 1 Tablet(s) by mouth
+weekly with full glass of water
+TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule,
+w/Inhalation Device - contents of one capsule by inhaler once
+daily
+TRAZODONE - 50 mg Tablet - 0.5 (One half) Tablet(s) by mouth qhs
+DOCUSATE SODIUM - 100 mg Capsule - 2 Capsule(s) by mouth once a
+day
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] - 400 unit Capsule - 2
+(Two) Capsule(s) by mouth once a day (total of 800 units)
+FERROUS SULFATE - 325 mg (65 mg Iron) Tablet - 1 Tablet(s) by
+mouth once a day
+FOOD SUPPLEMENT, LACTOSE-FREE [ENSURE] -   Liquid - 1 can by
+mouth tid with each meal
+NICOTINE - 21 mg/24 hour Patch 24 hr - apply to skin daily
+SENNA - 8.6 mg Capsule - 1 Capsule(s) by mouth at bedtime as
+needed
+
+
+Discharge Medications:
+1. NPH Insulin Human Recomb 100 unit/mL (3 mL) Insulin Pen Sig:
+One (1) 12 Units Subcutaneous QAM.
+Disp:*1 Pens* Refills:*0*
+2. Lancets     Misc Sig: One (1) lancet Miscellaneous four times
+a day for 2 weeks.
+Disp:*1 Box of Lancets* Refills:*0*
+3. Blood Glucose Monitor Kit     Kit Sig: One (1)  Miscellaneous
+four times a day: Please dispense glucometer and testing strips.
+Disp:*1 Kit* Refills:*0*
+4. Albuterol Sulfate 0.63 mg/3 mL Solution for Nebulization Sig:
+[**11-24**] solutions Inhalation every 4-6 hours as needed for shortness
+of breath or wheezing.
+5. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) puffs Inhalation four times a day as needed for
+shortness of breath or wheezing.
+6. Allopurinol 300 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+7. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Codeine-Guaifenesin 10-100 mg/5 mL Liquid Sig: [**3-31**] ml PO
+every six (6) hours as needed for cough.
+9. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) puff Inhalation twice a day.
+10. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every six (6) hours as needed for pain.
+11. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+12. Risedronate 35 mg Tablet Sig: One (1) Tablet PO once a week.
+
+13. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) capsule Inhalation once a day.
+14. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).
+15. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO once
+a day.
+16. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+17. Ensure     Liquid Sig: One (1) can PO three times a day.
+18. Nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) patch
+Transdermal once a day: Please take off before going to bed.
+Disp:*30 patch* Refills:*0*
+19. Senna 8.6 mg Capsule Sig: One (1) Tablet PO at bedtime as
+needed for Constipation.
+20. Nicotine (Polacrilex) 2 mg Gum Sig: One (1) piece of gum
+Buccal Q1-2 Hours.
+Disp:*48 Gum Pieces* Refills:*0*
+21. Prednisone 10 mg Tablet Sig: Five (5) Tablet PO once a day:
+Please take 5 tabs each day for 3 days ([**8-8**] - [**8-10**]) then take 4
+tabs each day for 3 days ([**Date range (1) **]) then take 3 tabs each day
+for 3 days ([**Date range (1) 4215**]) then take 2 tabs each day for 3 days
+([**Date range (1) 17341**]) then take 1 tab each day for 3 days ([**Date range (1) 17342**]).
+Disp:*45 Tablet(s)* Refills:*0*
+22. Ergocalciferol (Vitamin D2) 400 unit Tablet Sig: Two (2)
+Tablet PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Primary Diagnosis:
+1. COPD Exacerbation
+2. Multifocal Pneumonia
+
+Secondary Diagnoses:
+- Lower extremity deep vein thrombosis
+- Abdominal aortic aneurysm
+- Hypertension
+- Hyperlipidemia
+- Gout
+- Osteoporosis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You came to the hospital because you were very short of breath.
+You were found to have pneumonia and a COPD flare.  You were
+admitted to the intensive care unit and given IV steroids and
+antibiotics as well as started on a breathing machine called
+Bipap.  Your breathing improved and you were discharged home in
+good condition.
+
+Medications Added This Admission:
+1. Prednisone 50 mg.
+Please take 50 mg for 3 more days, then take 40 mg for 3 more
+days, then take 30 mg for 3 days, then 20 mg for 3 days, then 10
+mg for 3 days.
+2. NPH Insulin - 12 units
+Please take 12 units of insulin when you take your prednisone
+and check your glucose in the morning, before meals, and before
+going to bed. If sugars are below 100 or you feel
+lightheaded/dizzy/palpitations/sweating please notify your
+primary care physician immediately and do not take anymore
+insulin. You will need to talk to your primary care doctor to
+decide when to stop this medication
+3. Nicotine patch and Nicotine gum
+
+Please stop smoking. Smoking will only worsen your other chronic
+medical issues. You have been provided with a prescription for
+smoking cessation aids and we strongly encourage you to use
+them.
+
+Followup Instructions:
+You have the following scheduled appointments:
+
+Primary care Nurse Practitioner:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], [**MD Number(3) 1240**]:[**Telephone/Fax (1) 250**]
+Tuesday, [**2132-8-12**]:00 am
+[**Location (un) **] [**Hospital Ward Name 23**] building, North Suite
+
+Pulmonologist:
+Provider: [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]
+Tuesday, [**8-26**] at 10 am (please arrive at 9:40 for your
+breathing tests)
+[**Hospital Ward Name 23**] building [**Location (un) 436**]
+
+
+

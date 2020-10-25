@@ -1,0 +1,727 @@
+Admission Date:  [**2179-3-31**]              Discharge Date:   [**2179-4-12**]
+
+Date of Birth:  [**2106-5-17**]             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 78**]
+Chief Complaint:
+Headache and instability plus anorexia s/p
+surgery.
+
+
+Major Surgical or Invasive Procedure:
+Left sided craniotomy with evacuation SDH
+
+
+History of Present Illness:
+73 year old male who was admitted 1 week ago and received a burr
+hole drainage of a left sided SDH. Once discharged, he continued
+having headaches with the
+same features as intial presentation. In addition, he had
+difficulty ambulating (see exam below) although he has had no
+falls. Today, his wife was concerned because he had remained
+unsteady, with loss of apetite and continued having headaches.
+She [**Last Name (un) 4662**] [**Last Name (un) **] to [**Hospital3 60696**] Center where a CT scan showed
+a chronic SDH with a relevant midline shift (12 mm) and greater
+volume than in the past. He was transferred to [**Hospital1 18**].
+
+
+Past Medical History:
+Seasonal allergies.
+He has on colonoscopy had diverticuli in [**2174**].
+He did have a right total knee replacement in [**2174**].
+Raynaud's phenomenon.
+He does have 50% carotid blockage on ultrasound in [**2172**].
+Recent exercise stress test in which he was only able to perform
+5 minutes of exercise stopping with a maximal heart rate of 132
+with dyspnea and a maximal blood pressure of 210/78. No EKG
+changes with exercise.
+Emphysema
+
+Social History:
+Social Hx: cigarette smoking but stopped smoking 10 years ago.
+He used to work in electronic repair. He is married and lives
+with his wife. [**Name (NI) **] does not smoke at present and uses alcohol
+infrequently. There is a history of mom[**Name (NI) 12823**] blindness
+occurring after being stung with wasps in the past but there is
+no allergic history. There is no history of allergy to drugs.
+
+
+Family History:
+FH:
+His father died prematurely of throat cancer. His father's
+family died in their 70s. His mother died at age [**Age over 90 **] with a
+stroke at age [**Age over 90 **]. She did have Alzheimer's disease and carotid
+vascular disease. He has lost a brother and a sister to
+trauma.He has a brother and sister who are alive with no history
+of
+stroke and no history of coronary disease. He works presently in
+delicatessen.
+
+Physical Exam:
+VS: 134/ 74, 70 bpm, RR 12 SO2 100% RA. GCS 15.
+
+Gen: Lying in bed, NAD.
+HEENT: NC/AT, moist oral mucosa
+Neck: supple, no carotid or vertebral bruit
+Back: No point tenderness or erythema
+CV: Nl S1 and S2, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+Abd: Soft, nontender, non-distended. No masses or megalies.
+Percussion within normal limits. +BS.
+Ext: no edema, no DVT data. Pulses ++ and symmetric.
+
+Neurologic examination:
+No meningismus. No photophobia.
+
+MS:
+General: alert, awake, normal affect
+Orientation: oriented to person, place, date, situation
+Attention: 20 to 1 backwards +. Follows simple/complex commands.
+
+However digit span backwards is impaired.
+Speech/Language: fluent w/o paraphasic errors; comprehension,
+repetition, naming: normal. Prosody: normal.
+Memory: Registers [**3-2**] and Recalls [**3-2**] when given choices at 5
+min
+Praxis/ agnosia: Able to brush teeth. No field cuts.
+
+CN:
+I: not tested
+II,III: VFF to confrontation, PERRL 3mm to 2mm in the LEFT and
+4
+to 2 mm on the RIGHT to direct and consensual light, fundus w/o
+papilledema.
+III,IV,VI: EOMI, no ptosis. No nystagmus
+V: sensation intact V1-V3 to LT
+VII: Facial strength intact/symmetrical
+VIII: hears finger rub bilaterally
+IX,X: palate elevates symmetrically, uvula midline
+[**Doctor First Name 81**]: SCM/trapezeii [**5-4**] bilaterally
+XII: tongue protrudes midline.
+
+
+Rinne: R ear: AC>BC, LEFT ear AC> BC
+[**Doctor Last Name 15716**]: central.
+
+Motor:
+Normal bulk.
+Tone: mildly increased on the RIGHT hemibody.
+No tremor, no asterixis or myoclonus. No pronator drift:
+
+Delt;C5 bic:C6 Tri:C7 Wr ext:C6 Fing ext:C7
+Left 5 5 5 5 5
+Right 5 5 5 5 5
+
+IP: Quad: Hamst: Dorsiflex: [**Last Name (un) 938**]:Pl.flex
+Left 5 5 5 5 5
+Right 5- 5 5- 5 5-
+
+Deep tendon Reflexes:
+
+Bicip:C5 Tric:C7 Brachial:C6 Patellar:L4 Toes:
+Right 2 2 2 2 Indifferent
+Left 1 1 1 1 DOWNGOING
+
+Sensation: Intact to light touch, vibration, and temperature.
+Propioception: normal.
+
+Coordination:
+*Finger-nose-finger mild dysmetria on the LEFT
+*Rapid Arm Movements normal.
+*Fine finger tapping: normal
+*Heal to shin: normal.
+
+
+Unable to perform heel to toe.
+
+Regular gait: narrow based, hemiparetic features, normal arm
+swing, cadence
+normal, stride normal. Turns are normal.
+
+Trunk is not in flexion.
+
+ON DISCHARGE :
+Pt neurologically intact without focal deficit
+Incision clean and dry and sutures and staples have been
+removed.
+
+
+Pertinent Results:
+[**2179-4-1**] 10:34AM BLOOD WBC-7.7 RBC-4.59* Hgb-14.9 Hct-41.8
+MCV-91 MCH-32.4* MCHC-35.6* RDW-13.3 Plt Ct-297
+[**2179-3-31**] 07:30PM BLOOD Neuts-73.3* Lymphs-15.7* Monos-8.6
+Eos-2.0 Baso-0.4
+[**2179-4-1**] 10:34AM BLOOD Plt Ct-297
+[**2179-3-31**] 07:30PM BLOOD Glucose-94 UreaN-19 Creat-1.0 Na-138
+K-4.7 Cl-105 HCO3-21* AnGap-17
+[**2179-4-1**] 05:53AM BLOOD Phenyto-7.9*
+[**2179-4-1**] 05:53AM BLOOD Albumin-3.5
+[**Hospital1 69**]
+[**Location (un) 86**], [**Telephone/Fax (1) 15701**]
+
+Pathology Examination
+
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 80676**],[**Known firstname **]       [**2106-5-17**]    72 Male      [**Numeric Identifier 80677**] [**Numeric Identifier 80678**]
+
+Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]
+[**Last Name (NamePattern1) 2093**] Description by:   DR. [**Last Name (STitle) **]. [**Doctor Last Name **]/dif
+
+
+
+SPECIMEN SUBMITTED: Subdural Membrane.
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2179-4-1**] [**2179-4-2**] [**2179-4-6**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/ttl
+
+DIAGNOSIS:
+
+Subdural membrane, excision:
+
+Dense fibrous tissue with calcifications consistent with dura
+with hemorrhage, hemosiderin laden macrophages, chronic
+inflammation, and granulation tissue consistent with subdural
+hematoma.
+
+Clinical:  Subdural hematoma.
+Gross:
+
+The specimen is received fresh labeled with the patient's name,
+"[**Known lastname 80675**], [**Known firstname **]", the medical record number and "subdural
+membrane." It consists of a fragment of pink-tan soft tissue
+with glistening surfaces measuring 2.0 x 0.3 x 0.1 cm. The
+specimen is entirely submitted in A.
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 80679**] M  72  [**2106-5-17**]
+
+Cardiology Report ECG Study Date of [**2179-4-1**]  10:30:38 AM
+
+
+Sinus rhythm
+Normal ECG
+Since previous tracing of [**2179-3-24**], no significant change
+
+
+Read by: [**Last Name (LF) **],[**First Name3 (LF) 177**] W.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+62 138 80 416/419 46 -17 45
+
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 80679**] M  72  [**2106-5-17**]
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2179-4-1**] 4:29
+AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) 742**] NSURG SICU-A [**2179-4-1**] 4:29 AM
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 80680**]
+Reason: preop
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   72 year old man with chronic SDH
+REASON FOR THIS EXAMINATION:
+   preop
+
+
+
+Final Report
+INDICATION: 72-year-old man, preoperative evaluation. Chronic
+subdural
+hematoma.
+
+COMPARISON: [**2179-3-24**].
+
+SINGLE UPRIGHT VIEW OF THE CHEST AT 5:00 A.M: The extreme
+costophrenic angles
+are excluded from the exam. However, the lungs are well expanded
+and clear
+without consolidation, evidence of pleural effusion, or
+pneumothorax. Tiny
+pleural effusions cannot be excluded. There is no cardiomegaly.
+The hilar
+and mediastinal contours are within normal limits. Pulmonary
+vascularity is
+normal. Soft tissue and bony structures are unremarkable.
+
+IMPRESSION: No acute cardiopulmonary abnormality.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**First Name (STitle) 2671**] [**Doctor Last Name **]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3891**]
+Approved: FRI [**2179-4-2**] 9:55 AM
+
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 80679**] M  72  [**2106-5-17**]
+
+Radiology Report CT HEAD W/O CONTRAST Study Date of [**2179-4-1**]
+7:26 AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) 742**] NSURG SICU-A [**2179-4-1**] 7:26 AM
+CT HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) 80681**]
+Reason: clinical f/u
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   72 year old man with chronic SDH and midline shift (chronic)
+s/p burr hole
+   drain 1 week ago. Mild UMN weakness and spasticity in RIGTH
+inferior extremity
+REASON FOR THIS EXAMINATION:
+   clinical f/u
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Provisional Findings Impression: [**First Name9 (NamePattern2) 80682**] [**Doctor First Name **] [**2179-4-1**] 9:54 AM
+Compared to prior exam from [**2179-3-25**], there is increased
+size of left
+cerebral convexity subdural hematoma and mass effect with
+worsening rightward
+shift of normally midline structures.
+
+
+Final Report
+INDICATION: 72-year-old male with chronic subdural hematoma and
+midline
+shift. Patient with mild upper motor neuron weakness and
+spasticity in the
+right inferior extremity.
+
+NON-CONTRAST HEAD CT: Compared to prior exam from [**2179-3-25**], there is
+increased size of left cerebral convexity subdural hematoma
+although with
+overall decreased density. There is increased mass effect onto
+the subjacent
+brain with increased rightward shift of normally midline
+structures (13 mm).
+There is impending left uncal herniation. There is no
+hydrocephalus, or
+evidence of major vascular territorial infarct. The [**Doctor Last Name 352**]-white
+matter
+differentiation is preserved. The visualized paranasal sinuses
+and mastoid
+air cells are normally aerated. New left calvarial burr holes
+are again
+noted.
+
+IMPRESSION: Compared to prior exam from [**2179-3-25**], there is
+increased
+size of left cerebral convexity subdural hematoma and mass
+effect with
+worsening rightward shift of normally midline structures.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**First Name8 (NamePattern2) **] [**Name (STitle) 7410**]
+DR. [**First Name (STitle) 3905**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3906**]
+Approved: [**Doctor First Name **] [**2179-4-1**] 12:35 PM
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 80679**] M  72  [**2106-5-17**]
+
+Radiology Report CT HEAD W/O CONTRAST Study Date of [**2179-4-5**]
+6:24 PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG FA11 [**2179-4-5**] 6:24 PM
+CT HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) 80683**]
+Reason: assess for any residual blood
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   72 year old man with subdural hematoma
+REASON FOR THIS EXAMINATION:
+   assess for any residual blood
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Provisional Findings Impression: DMFj MON [**2179-4-5**] 8:19 PM
+Persistent left cerebral convexity subdural hematoma with areas
+of increased
+density suggestive of ongoing bleeding. Persistent shift of
+normally midline
+structures to the right of 6 mm. Close followup recommended.
+
+
+Final Report
+STUDY: CT of the head without contrast.
+
+HISTORY: 72-year-old male with subdural hematoma. Assess for
+residual blood.
+
+COMPARISONS: CT [**2179-4-2**].
+
+TECHNIQUE: MDCT axial images of the head were obtained.
+
+FINDINGS: There has been interval removal of an intracranial
+catheter. The
+patient is status post left frontal craniotomy. A mixed
+attenuation
+collection overlies primarily the left frontoparietal convexity.
+There are
+areas of increased attenuation within this collection, which
+suggest ongoing
+bleeding. Several areas of pneumocephalus are compatible with
+recent
+craniotomy. The total diameter of this collection measures
+approximately 11
+mm, which is slightly larger compared to the previous
+measurements of 8 mm
+allowing for slight differences in technique. There is
+persistence of
+adjacent sulcal enfacement, particularly notable superiorly
+within the frontal
+lobe. There is shift of normally midline structures to the right
+of
+approximately 6 mm, which is probably unchanged compared to the
+previous shift
+of 5 mm. The visualized paranasal sinuses and mastoid air cells
+appear
+grossly clear. Multiple staples and subcutaneous emphysema are
+noted along
+the subcutaneous tissues overlying the left frontal bone and
+site of
+craniotomy.
+
+IMPRESSION: Persistence of left extra-axial collection status
+post catheter
+removal with several areas of increased density suggestive of
+ongoing
+hemorrhage. Persistent shift of normally midline structures to
+the right of
+approximately 6 mm. Continued close followup is advised.
+
+
+The study and the report were reviewed by the staff radiologist.
+
+
+DR. [**First Name (STitle) 2618**] [**Doctor Last Name **]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 7415**]
+Approved: TUE [**2179-4-6**] 9:31 AM
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 80679**] M  72  [**2106-5-17**]
+
+Neurophysiology Report EEG Study Date of [**2179-4-6**]
+
+
+
+OBJECT: R/O SEIZURE.
+
+
+REFERRING DOCTOR: DR. [**First Name (STitle) 742**] [**Name (STitle) **]
+
+
+FINDINGS:
+ABNORMALITY #1: There is diffuse mixed theta/delta frequency
+slowing
+seen broadly across the left hemisphere.
+BACKGROUND: Showed generally a low voltage fast activity across
+the
+right hemisphere. The posterior predominant rhythm on the left
+reached
+an 8 Hz maximum.
+HYPERVENTILATION: Could not be performed.
+INTERMITTENT PHOTIC STIMULATION: Produced no activation of the
+record.
+SLEEP: The patient progressed from wakefulness to drowsiness but
+did
+not achieve stage II sleep.
+CARDIAC MONITOR: Showed a generally regular rhythm with an
+average rate
+of 60 bpm.
+IMPRESSION: This is an abnormal routine EEG in the waking and
+drowsy
+states due to persistent left hemisphere mixed slow wave
+activity
+indicative of an area of broad subcortical dysfunction in this
+region.
+There are no epileptiform features noted.
+
+
+INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) **] L.
+
+(09-0955J)
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 80679**] M  72  [**2106-5-17**]
+
+Radiology Report MRA NECK W&W/O CONTRAST Study Date of [**2179-4-7**]
+8:30 PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG FA11 [**2179-4-7**] 8:30 PM
+MR HEAD W & W/O CONTRAST; MRA NECK W&W/O CONTRAST; MRA BRAIN W/O
+CONTRAST   Clip # [**Clip Number (Radiology) 80684**]
+Reason: evaluate for vascular abnormalities
+Contrast: MAGNEVIST Amt: 17
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   72 year old man with new onset dysarthria several days after
+crani for sdh
+REASON FOR THIS EXAMINATION:
+   evaluate for vascular abnormalities
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Wet Read: [**First Name9 (NamePattern2) 80685**] [**Doctor First Name **] [**2179-4-8**] 11:16 AM
+Noa cute infarction; unchanged left SDH with mass effect on the
+cerebral
+hemisphere on the elft.
+Patent major itnra and extra cranial arteries without focal flow
+limiting
+stenosis, occlusion or aneurysm more than 3 mm within the
+resolution of MRA.
+
+
+
+Final Report
+INDICATION: 72-year-old man with new-onset dysarthria several
+days after
+craniotomy for SDH, to evaluate for vascular abnormalities.
+
+COMPARISON: CT of the head done on [**2179-4-6**].
+
+TECHNIQUE: Multiplanar T1- and T2-weighted imaging of the head
+was performed
+without and with IV contrast. 3D TOF MR angiogram of the head,
+contrast-
+enhanced MR angiogram of the neck were performed, MIP
+reformations of the
+arteries were obtained.
+
+FINDINGS:
+
+MRI OF THE HEAD: The left-sided convexity based subdural
+hematoma is again
+visualized, with small amount of air and mild displacement of
+the cerebral
+parenchyma. There is also edema of the left cerebral hemisphere,
+with
+decrease in the size of the cerebral sulci, the overall
+appearance not
+significantly changed compared to the prior CT study done on
+[**2179-4-6**], allowing
+for the differences in the modalities. There are multiple small
+FLAIR
+hyperintense foci noted in the cerebral white matter on both
+sides, in the
+frontal and the parietal lobes, periventricular and subcortical
+in location.
+There are no areas of restricted diffusion in the brain
+parenchyma. The
+visualized portions of the paranasal sinuses are clear. Small
+areas of
+increased signal intensity are noted in the left mastoid air
+cells from
+mucosal thickening/fluid.
+
+3D TOF MR ANGIOGRAM OF THE HEAD: The left vertebral artery is
+dominant. The
+right posterior cerebral artery and the P1 and P2 segments are
+slightly
+tortuous with tortuous course of the junction of the P1 and P2
+segments. The
+P1 segment on the left side is not visualized, with a fetal PCA
+pattern. The
+A1 segment of the left anterior cerebral artery is slightly
+small in caliber
+and likely hypoplastic. The anterior communicating artery is
+faintly
+visualized.
+
+No areas of abnormal enhancement are noted in the brain
+parenchyma.
+Enhancement of the meninges, likely relates to the recent
+surgery in the
+subdural hematoma on the left side. The tip of the basilar
+artery is slightly
+prominent related to the infundibula at the origins of the
+branch vessels.
+
+MR ANGIOGRAM OF THE NECK: The origins of the arch vessels are
+patent. There
+is common origin of the brachiocephalic trunk and the left
+common carotid
+artery, representing bovine arch variant. There is mild
+narrowing, at the
+origin of the left vertebral artery, which may relate to
+tortuosity or
+stenosis. However, there is no flow limitation distally. The
+right vertebral
+artery is small in caliber diffusely likely related to mild
+hypoplasia with
+the left being dominant, the narrowing is more prominent at the
+origin and v4
+segment ; however, there is no flow limitation. The common
+carotid arteries
+are patent, as well as the cervical internal carotid arteries
+without focal
+flow- limiting stenosis, occlusion, or aneurysm. There is a
+short segment of
+mild- moderate stenosis in the left common carotid artery, seen
+only on the
+MIPS and not on the source images and hecne is of doubtful
+significance- no
+flow limitation distally. (series 106, im 6; series 108, im 5)
+
+The delayed phase images are not obtained on the MR angiogram.
+
+IMPRESSION:
+
+1. No acute infarction.
+
+2. Small-to-moderate size left-sided subdural hematoma, with
+small amount of
+air, and mass effect on the left cerebral hemisphere, with
+edema, unchanged
+compared to the most recent CT head study done on [**2179-4-6**].
+
+3. Patent major intra- and extra-cranial arteries, without focal
+flow-
+limiting stenosis, occlusion, or aneurysm within the limitations
+of MR
+angiogram. Please see the additional details above.
+
+4. Narrowing at the origin of the left vertebral artery,
+question tortuosity,
+or stenosis, no flow limitation distally; ? stenosis in the left
+common
+carotid artery- seen only on MIPS but not on source images; no
+flow
+limitation distally.
+
+
+
+DR. [**First Name (STitle) 10627**] PERI
+Approved: [**Doctor First Name **] [**2179-4-8**] 10:18 PM
+
+  Imaging Lab
+
+EEG [**2179-4-10**] No final read at present - verbal report = NORMAL
+CT brain [**2179-4-12**] Final report pending
+
+Brief Hospital Course:
+Mr [**Known lastname 80675**] was admitted to the SICU for close observation and
+prepared for a left sided cranitomy for evacuation of subdural
+hematoma. On [**4-1**] he underwent a craniotomy.  Post operatively he
+was monitored for 24 hours in the SICU his exam improved with no
+drift or weakness. On his first post operative day he was
+transferred to the surgical floor. He was tolerating a regular
+diet, PT eval stated pt was safe to go home. However family was
+uncomfortable taking pt home and was requesting rehab. During
+evaluation for re-hab on POD 5 he then developed severe
+dysarthria. Repeat head CT was unchanged and MRI/MRA of brain
+and neck were negative for stroke. His EEG was also negative.
+Over the next few days his speech/word finding improved. He did
+wax and wane with periods of aphasia and normal speech. There
+was concern for seizure so a 24hr EEG was done and shows normal
+activity.  CT scan on day of discharge [**2179-4-12**] = stable.
+Staples and sutures were removed from crani site.  Site without
+erythema. Plan is for discharge home today with [**Name (NI) 269**] - pt and
+family agree with this plan.  His exam remains non-focal.
+
+Medications on Admission:
+Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule
+PO TID (3 times a day).
+Simvastatin Oral
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+4. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+TID (3 times a day) as needed.
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain: do not drive while on
+this medication .
+Disp:*30 Tablet(s)* Refills:*0*
+6. Phenytoin Sodium Extended 100 mg Capsule Sig: Two (2) Capsule
+PO BID (2 times a day): do not stop this medication on your own
+.
+Disp:*120 Capsule(s)* Refills:*2*
+7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO BID (2 times a day): do not take at the same
+time as taking your dilantin .
+8. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+9. Outpatient Lab Work
+dilantin level
+albumin level
+[**2179-4-20**] please fax results to patients primary care physicians
+office
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 932**] Area [**Location (un) 269**]
+
+Discharge Diagnosis:
+Left sided subdural hematoma
+
+
+Discharge Condition:
+Neurologically stable/ improved
+
+
+Discharge Instructions:
+??????	Have a friend/family member check your incision daily for
+signs of infection.
+??????	Take your pain medicine as prescribed.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	You may wash your hair
+??????	Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace)
+while taking narcotic pain medication.
+??????	Do not take any anti-inflammatory medicines such as Motrin,
+Aspirin, Advil, and Ibuprofen etc. for 2 weeks.
+??????	Make sure to continue to use your incentive spirometer while
+at home, unless you have been instructed not to.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING
+
+??????	New onset of tremors or seizures.
+??????	Any confusion or change in mental status.
+??????	Any numbness, tingling, weakness in your extremities.
+??????	Pain or headache that is continually increasing, or not
+relieved by pain medication.
+??????	Any signs of infection at the wound site: redness, swelling,
+tenderness, or drainage.
+??????	Fever greater than or equal to 101?????? F.
+
+Followup Instructions:
+Please call to schedule a follow up appointment with Dr [**First Name (STitle) **]
+to be seen in 4 weeks at [**Telephone/Fax (1) **] /
+You will need a head CT without contrast at that time
+
+
+
+Completed by:[**2179-4-12**]

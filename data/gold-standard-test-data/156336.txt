@@ -1,0 +1,470 @@
+Admission Date:  [**2107-9-25**]              Discharge Date:   [**2107-9-30**]
+
+Date of Birth:  [**2027-2-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 99**]
+Chief Complaint:
+Hypotension
+
+
+Major Surgical or Invasive Procedure:
+On pressor support
+Central line placement
+PICC line placement
+Post-pyloric feeding tube placement
+Transfusion of packed RBC
+
+
+History of Present Illness:
+80 yo male with hx of schizophrenia, dementia was admitted to
+MICU from [**Hospital1 18**] ED after being found to be septic. Patient was
+being transported to [**Hospital1 336**]/[**Hospital1 **] for evaluation of vomiting x
+few days (2 or 4 days, depending on whose report you read). He
+was only responsive to verbal stimuli per EMS notes. and per
+evaluation from the ambulance, his BP was 70/30, RR 30s and HR
+60s. Of note, patient has been having poor appetite x 4 days.
+KUB was apparently negative for obstruction.
+.
+From his RN home, he was noted to have:
+- Cr of 2.9 BUN of 65 on [**2107-9-24**] and digoxin level of 1.5
+- INR of 1.07 on [**2107-9-24**] and Pt of 11.6
+.
+In the ED:
+He was alert and following commands. Initially BP responded to
+fluids and was in the 110s, then dropped to 67/59 - started on
+dopamine.
+He was also initially bradycardic to the 40s-50s (but then 110s
+for unclear reasons). Dopamine was titrated to 10mcg/kg/min and
+then was placed on levophed at 0.5mcg/kg/min and then titrated
+up to 3mcg/kg/min. On arrival to the floor, he was on only
+Levophed at 3mcg/kg/min.
+- increased pulmonary congestion and BiPAP was applied.
+- received 7L NS in ED
+- got Levo/Flagyl/Vanco
+.
+Access: A L groin was attempted. Then a R IJ was attempted -
+which led to guidewire getting stuck in the IVC filter. This was
+removed by Vascular Surgery. Finally, a R femoral line was
+placed.
+
+
+Past Medical History:
+CAD
+CHF
+PVD
+Dementia
+Schizophrenia
+CRI
+Cardiac Dysrhythmias
+
+
+Social History:
+Lives at long-term care facility.  Sister, [**Name (NI) **] [**Name (NI) 976**], is
+his [**Name (NI) 5993**].
+
+Family History:
+Non-contributory
+
+Physical Exam:
+T:99.4  BP:109/62  P:112   RR:28   O2 sats:95% BiPAP
+Gen: Elderly man with nonsensical speech
+HEENT:
+CV: +s1+s2 Quiet heart sounds. No murmurs appreciated.
+Resp: Mild crackles and decreased sounds at lung bases.
+Abd: Soft NT ND
+Skin: Warm. Perfused.
+Ext: RLE with cellulitis from area below knee to above the ankle
+with area of increased erythema around R medial malleolus.
+- + DP and PT pulses B/L - need doppler to identify.
+Neuro: Patient moving extremities x 4
+.
+EKG: Tachycardia w/ RBBB
+
+Pertinent Results:
+Labs on admission:
+[**2107-9-25**] 08:59PM BLOOD WBC-17.0* RBC-3.77* Hgb-11.8* Hct-35.4*
+MCV-94 MCH-31.3 MCHC-33.3 RDW-15.9* Plt Ct-180
+[**2107-9-25**] 08:59PM BLOOD Neuts-76* Bands-4 Lymphs-6* Monos-5
+Eos-6* Baso-3* Atyps-0 Metas-0 Myelos-0
+[**2107-9-25**] 08:59PM BLOOD PT-16.8* PTT-27.4 INR(PT)-1.6*
+[**2107-9-26**] 02:05AM BLOOD Fibrino-477*
+[**2107-9-26**] 02:05AM BLOOD D-Dimer-2929*
+[**2107-9-25**] 08:59PM BLOOD Glucose-117* UreaN-81* Creat-5.6* Na-151*
+K-4.3 Cl-108 HCO3-25 AnGap-22*
+[**2107-9-25**] 08:59PM BLOOD CK(CPK)-124
+[**2107-9-25**] 08:59PM BLOOD CK-MB-3
+[**2107-9-25**] 08:59PM BLOOD cTropnT-0.67*
+[**2107-9-25**] 08:59PM BLOOD Calcium-9.1 Phos-4.0 Mg-3.6*
+[**2107-9-26**] 03:47AM BLOOD Cortsol-27.4*
+[**2107-9-25**] 11:25PM BLOOD Digoxin-1.3
+[**2107-9-25**] 11:40PM BLOOD Type-[**Last Name (un) **] pO2-140* pCO2-45 pH-7.28*
+calTCO2-22 Base XS--5
+[**2107-9-25**] 09:00PM BLOOD Lactate-4.3*
+.
+Pertinent labs during hospital course:
+[**2107-9-26**] 08:14AM BLOOD CK(CPK)-372*
+[**2107-9-26**] 04:00PM BLOOD CK(CPK)-357*
+[**2107-9-27**] 06:00AM BLOOD CK(CPK)-242*
+[**2107-9-26**] 08:14AM BLOOD CK-MB-14* MB Indx-3.8 cTropnT-1.22*
+[**2107-9-26**] 04:00PM BLOOD CK-MB-11* MB Indx-3.1 cTropnT-0.90*
+[**2107-9-27**] 06:00AM BLOOD CK-MB-6 cTropnT-0.57*
+[**2107-9-28**] 08:40AM BLOOD calTIBC-156* VitB12-1080* Folate-13.8
+Ferritn-543* TRF-120*
+[**2107-9-26**] 01:15PM BLOOD Triglyc-125 HDL-28 CHOL/HD-3.9 LDLcalc-55
+[**2107-9-25**] 11:40PM BLOOD Glucose-113* Lactate-2.9* Na-149* K-4.0
+Cl-118*
+[**2107-9-26**] 08:24AM BLOOD Lactate-1.3
+.
+Labs on discharge:
+[**2107-9-30**] 02:57AM BLOOD WBC-8.5 RBC-3.54* Hgb-10.6* Hct-32.3*
+MCV-91 MCH-30.0 MCHC-32.9 RDW-15.8* Plt Ct-203
+[**2107-9-30**] 02:57AM BLOOD Neuts-71.6* Lymphs-16.1* Monos-3.7
+Eos-8.0* Baso-0.6
+[**2107-9-30**] 02:57AM BLOOD PT-13.9* PTT-29.8 INR(PT)-1.2*
+[**2107-9-30**] 02:57AM BLOOD Glucose-125* UreaN-14 Creat-1.1 Na-138
+K-3.7 Cl-109* HCO3-19* AnGap-14
+[**2107-9-28**] 04:12AM BLOOD ALT-13 AST-27 AlkPhos-82 TotBili-0.4
+[**2107-9-30**] 02:57AM BLOOD Calcium-8.3* Phos-2.1* Mg-1.7
+.
+Microbiology:
+[**2107-9-25**] Blood cx: 2/2 bottles coag neg staph
+[**2107-9-25**] Urine cx:  mixed flora, contaminant
+[**2107-9-26**] Blood cx:  NGTD
+[**2107-9-26**] Urine legionella:  negative
+[**2107-9-27**] Blood cx:  NGTD
+[**2107-9-27**] Sputum cx:  oropharyngeal flora
+[**2107-9-27**] Catheter tip cx:  Multimicrobial bacteria
+[**2107-9-28**] Blood cx:  NGTD
+[**2107-9-28**] Urine cx:  Negative
+[**2107-9-29**] Urine cx:  Negative
+.
+Imaging:
+[**2107-9-25**] CXR:
+CHEST, SINGLE VIEW: No prior for comparison.  Lung volumes are
+low.  The
+cardiac shadow is slightly enlarged.  Aorta is ectatic.
+Considerable right lung volume loss with collapse of right lower
+lobe and partial atelectasis right middle lobe with questionable
+cut-off of bronchus intermedius. Although possibly due to
+secretions, an obstructing neoplastic mass should be considered.
+Initial further evaluation with PA and lateral CXR is
+recommended. If persistent, contrast-enhanced CT would be
+recommended.
+.
+[**2107-9-26**] ECHOCARDIOGRAM:
+Conclusions:
+The left atrium is moderately dilated. Normal left ventricular
+wall
+thicknesses and cavity size. There is moderate regional left
+ventricular
+systolic dysfunction with akinesis of the distal half of the
+inferior, septal, and anterior walls. The remaining segments are
+mildly hypokinetic. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets are moderately
+thickened. There is moderate to severe aortic valve stenosis.
+Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild to moderate ([**12-13**]+) mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial  effusion.
+IMPRESSION: Normal left ventricular cavity size with extensive
+regional
+dysfunction c/w multivessel coronary disease. Moderate to severe
+aortic valve stenosis. Mild aortic regurgitation. Pulmonary
+artery systolic hypertension.
+Based on [**2097**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate a moderate risk (prophylaxis
+recommended). Clinical decisions regarding the need for
+prophylaxis should be based on clinical and echocardiographic
+data.
+.
+[**2107-9-26**] Bilateral lower extremity ultrasound:
+IMPRESSION:
+1.  Right deep venous thrombosis of indeterminate age (old clot
+per radiology)
+2.  No evidence of deep venous thrombosis involving the left
+lowerextremity.
+.
+[**2107-9-27**] CXR:
+CONCLUSION:  Short-interval improvement in the aeration of the
+right lower
+lung field, with some residual opacities present in the right
+infrahilar
+region.
+.
+[**2107-9-30**] PICC line placement.
+.
+[**2107-9-30**] nasogastric tube placement.
+
+
+Brief Hospital Course:
+Patient is an 80 year old male with history of CAD, CHF,
+dementia, schizophrenia, chronic renal insufficiency, cardiac
+dysrythmia who was admitted for sepsis.
+.
+1. Septic shock/infectious disease issues: Patient presented
+from his nursing home with hypotension, leukocytosis, acute on
+chronic renal failure, indicating sepsis.  Initial studies
+demonstrated CXR with right lower lobe pneumonia, and u/a that
+was positive.  Patient also with some cellulitis in left lower
+extremity.  Therefore, intially thought source of sepsis was
+pneumonia vs UTI vs cellulitis.  Cortisol stimulation test was
+negative, ruling out adrenal insufficiency on admission.  The
+patient was fluid rescusitated and initially started on levaphed
+for pressor support.  He was maintained on vancomycin and zosyn
+for broad spectrum antibiotics coverage.
+Shortly after admission, patient had improved blood pressure and
+levaphed pressor was weaned off.  Blood cultures from admission
+grew coag negative staph, 2/2 bottles, likely source of this
+infection being his left lower extremity cellulitis.  Therefore
+he was maintained on vancomycin to complete a 14 day course.
+Wound care nursing was also consulted and dressing changes were
+applied per their recommendations.
+For his pneumonia, sputum culture did not grow any bacteria.
+Urine legionella antigen was negative.  Therefore patient was
+empirically treated with vancomycin to complete a 14 day course,
+as above, and zosyn, which was converted to levofloxacin on
+discharge, for gram negative coverage to complete a 7 day
+course.
+For his presumed UTI, the patient had 2 positive U/A's during
+the hospital course, with negative urine cultures.  The 3rd u/a
+prior to discharge was negative, with a corresponding negative
+culture.
+Therefore, upon discharge, patient had a very stable blood
+pressure, stable oxygenation off of oxygen, and was discharged
+on vancomycin to complete a 14 day course and levofloxacin to
+complete a 7 day course (started with zosyn).  He had a PICC
+line placed prior to discharge.
+.
+2. Cardiac:
+A. Ischemia:  Patient has a history of coronary artery disease.
+On presentation, EKG demonstrated right bundle branch block
+(last EKG in our system is from [**2092**] that demonstrates no RBBB -
+however, obtained outside hospital records that does show RBBB,
+so not new).  On admission, cardiac enzymes were elevated.
+Cardiology was therefore consulted.  Patient was thought to be
+having a demand ischemic event, and therefore was started on
+heparin drip to complete 48 hours per cardiology
+recommendations.  His outpatient aspirin dose was increased from
+81mg to 325mg daily.  He initially could not be on beta blocker
+therapy given his hypotensive sepsis.  Upon resolution of his
+hypotension, his outpatient lopressor was re-started and
+titrated up to his outpatient dose of 50mg [**Hospital1 **].  His CK peaked
+at 372, and cardiac enzymes trended down throughout remainder of
+hospital course.  No plans for cardiac catheterization given the
+nature of his MI in setting of sepsis, and his co-morbid
+conditions.
+B. Rhythm:  Patient had a known history of some cardiac
+dysrhythmia, but unknown type.  During hospital course, patient
+was noted to have strange rhythm on telemetry and EKG.  The
+electrophysiologist cardiologists were curbsided, and believed
+the patient's rhythm to be due to wenkebach rhythm.  They
+recommended no further intervention and believed that the
+patient's outpatient digoxin could be discontinued.  Otherwise
+patient was maintained on lipitor, as above.
+C. Pump:  Patient has a history of CHF, and was on lisinopril
+and lasix and digoxin as and outpatient.  All of these
+medications were held on admission due to the patient's renal
+failure and sepsis.  ECHO on admission demonstrated diffuse
+disease, EF 20-25%, mod-severe aortic stenosis, mild aortic
+regurgitation, mild-mod mitral regurgiation.  Upon resolution of
+the patient's sepsis/hypotension, his lisinopril was restarted.
+Digoxin and lasix were not restarted.  Spironolactone was
+initiated given the patient's heart failure and low EF.  He
+remained euvolemic during remainder of hospital course.
+.
+3. Acute on chronic renal failure:  Patient with a history of
+chronic renal insufficiency with baseline creatnine thought to
+be 2.0.  On day of admission, Cr was elevated at 2.9 and quickly
+rose to peak of 5.6.  Patient was fluid rescusitated and Cr
+dropped throughout admission and was down to 1.1 at time of
+discharge.
+During hospital course, the patient's lisinopril, lasix, and
+digoxin were held due to the patient's renal failure.  Only his
+lisinopril was restarted, as above.  His antibiotics were
+renally dosed and adjusted throughout hospital course.
+.
+4. Anemia:  Patient had a hematocrit of low 30's on admission,
+trended down to low of 26 during hospital course.  Iron studies
+were consistent with anemia of chronic disease.  Patient was
+transfused 1 unit of pRBC for Hct of 26, given his history of
+CAD, and Hct bumped appropriately to 29, and remained stable
+during remainder of .  ? baseline.  Hct increased to 29 w/ 1
+unit pRBC.  Plan to:
+- will f/u iron studies
+- guaiac all stools
+- tfs to keep hct > 28
+- moniter
+.
+5. Facial eccymoses and erythema: Patient had noted left sided
+peri-orbital facial erythema and eccymoses on exam on [**9-27**].
+Radiology and opthalmology were contact[**Name (NI) **] as this was thought
+possibley secondary to peri-orbital cellulitis.  MRI scan was
+initially considered for futher evaluation.  However,
+opthalmology evaluated the patient and thought it was unlikely
+to be peri-orbital cellulitis, and therefore no imaging was
+necessary.  This exam finding was thought likely secondary to
+the heparin drip that the patient was on for his cardiac issues,
+and continued to improve throughout remainder of hospital course
+once heparin was discontinued.
+.
+6. Guidewire caught on IVC filter:  Patient had a right IJ
+guidewire get caught in his IVC filter during his ED course.
+This was removed by vascular surgery.  Patient was given 1U PRBC
+in ED for fear of bleed.  Hematocrit remained stable.  Nothing
+further was done.
+.
+7. Mental status:  Patient was somnolent on admission, likely
+secondary to his infectious status.  He returned quickly to his
+baseline mental status that included being awake, alert,
+pleasant, responsive, oriented only x 1 to person.  He was
+written for zyprexa 5mg PRN for agitation, but did not receive
+any during hospital course.
+.
+8. Peripheral vascular disease:  Patient had dopplerable pulses
+on this admission.
+.
+9. Coagulopathy: Patient on coumadin as outpatient for
+dysrhythmias and lower extremity DVT.  Coumadin was initially
+held given the patient's poor clinical condition.  It was
+restarted during hospital course, and he was discharged on his
+outpatient dose of 1mg qhs, with a subtherapeutic INR.  It
+should be addressed with his outpatient primary care physician
+whether or not to continue his coumadin, given his fall risk and
+his risk vs benefit ratio.
+.
+10.  Hypernatremia:  Patient was quite hypernatremic during
+hospital course, with sodium of 151 on admission.  This was
+thought likely a hypovolemic hypernatremia.  His hypernatremia
+improved slightly with initial fluid rescusitation.  The patient
+then proceded to get free water boluses per his NG tube, which
+continued to control his hypernatremia.
+.
+11.  Nutrition:  Patient underwent speech and swallow evaluation
+early in hospital course which he failed.  Therefore he had an
+NG tube placed and received tube feeds and medications per his
+NG tube.  Upon improved alertness, patient underwent a repeat
+bedside speech and swallow evaluation, which he also failed.
+Following this, patient lost his NG tube.  He therefore had an
+IR placed post-pyloric feeding tube to continue his tube feeds
+and medications.  He was discharged with this tube in place with
+plans for a repeat speech and swallow upon improvement at rehab.
+ If he fails this, the issue of PEG tube placement should be
+brought up with his [**Name (NI) 5993**], his sister [**Name (NI) **] [**Name (NI) 976**].
+.
+12.  Prophylaxis:  Patient was initially maintained on heparin
+drip for his non ST elevation MI for DVT prophylaxis, which was
+changed to subcutaneous heparin after 48 hours.  He was also
+re-started on his coumadin as above.  He was also maintained on
+a PPI.
+.
+13. Access:  PICC line was placed prior to discharge.
+.
+14. Code: DNR/DNI - per nursing home records and confirmed by
+[**Name (NI) 5993**], his sister.
+.
+15. Contacts: [**Name (NI) **] [**Name (NI) 976**] (sister and [**Name2 (NI) 5993**]) ([**Telephone/Fax (1) 94072**], Nursing home [**First Name4 (NamePattern1) 3504**] [**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 69555**], PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]
+([**Telephone/Fax (1) 68737**].
+
+Medications on Admission:
+Meds:
+- coumadin : 1mg PO QD
+- lopressor: 50mg PO BID
+- zyprexa: 5mg QHS
+- vicodin: 5/500: 1 tab PO QD 1 hour prior to dressing change
+- lanoxin-digoxin : 1 tab PO QD
+- omeprazole: 1 tab PO BID
+- MVI
+- Lasix : 40mg QD
+- Lisinopril: 5mg PO QD
+- ASA : 81mg QD
+- Vitamin C
+- MOM: PRN
+- Dulcolax: PRN
+- Fleet Enema : PRN
+- Maalox: PRN
+- Tylenol: PRN
+-Robitussin : PRN
+- duonebs PRN
+- cepacol lozenges
+
+
+Discharge Medications:
+1. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO QHS (once a day (at bedtime)) as needed.
+2. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed.
+4. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+5. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Erythromycin 5 mg/g Ointment Sig: One (1) aplication
+Ophthalmic  QID (4 times a day) for 4 days.
+7. Artificial Tear with Lanolin 0.1-0.1 % Ointment Sig: One (1)
+Appl Ophthalmic  PRN (as needed).
+8. Warfarin 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Please adjust dose to achieve INR of 2.
+9. Metoprolol Tartrate 25 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day): Please hold for SBP < 100, HR < 60.
+10. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Please hold for SBP < 100.
+11. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+14. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig:
+Thirty (30) mg PO DAILY (Daily): Per nasogastric tube.
+15. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+16. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 2 days.
+17. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+gram Intravenous  Q 24H (Every 24 Hours) for 9 days.
+18. PICC line care
+PICC line care per protocol
+19. PICC line care
+Please flush PICC line per protocol
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 105**] - [**Location (un) 86**]
+
+Discharge Diagnosis:
+Sepsis
+Urinary tract infection
+Pneumonia
+Coag negative staph bacteremia
+Wenkebach cardiac dysrrhythmia
+Non ST elevation myocardial infarction
+acute renal failure
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+Please contact physician if develop worsening cough, chest
+pain/pressure, shortness of breath, fever, low blood pressure,
+any other questions/concerns.
+.
+Please take medications as directed.
+.
+Please follow up with physician as directed.
+
+Followup Instructions:
+Please follow up with primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] in the
+next 1-2 weeks.  Can contact him at ([**Telephone/Fax (1) 68737**].
+
+
+

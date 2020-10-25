@@ -1,0 +1,274 @@
+Admission Date:  [**2190-9-26**]              Discharge Date:   [**2190-9-28**]
+
+Date of Birth:  [**2121-12-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1115**]
+Chief Complaint:
+Fatigue, weakness, and dizziness.
+
+Major Surgical or Invasive Procedure:
+Esophagogastroduodenoscopy
+Blood transfusion
+
+History of Present Illness:
+68 year old male with BPH, CAD (IMI [**2185**] w/ BMS to RCA) who
+presented with fatigue, lightheadedness and shortness of breath.
+He first began feeling fatigued two days ago. The day before
+admission, he was weak in the morning, feeling short of breath
+and lightheaded while walking up stairs. That day he also noted
+thick tarry stool. At 5AM this morning sat down on the tiolet to
+urinate around felt lightheaded, flushed, and chills. Called
+911. Felt similar to when had stents placed in [**2185**] except then
+had chest pain. This time he reports no chest pain, pressure, or
+tightness. He denied any shortness of breath at rest. He denies
+abdominal pain or diarrhea. Denies focal weakness or tingling.
+The patient has been taking ibuprofen and naproxen in addition
+to his prescribed ASA 325mg, increased recently after completing
+a bike trip in [**Month (only) 216**].
+Found by EMS pale, cool, diaphoretic. Orthostatics with SBP
+seated 102 -> 92 when standing with increased symptoms. More
+pale and diaphoretic. EKG in field reported as unremarkable.
+150cc NS given en route.
+In the ED, initial VS were: 96.8 63 95/70 18 98% 2L
+Crit 46.6->36.3, BUN/Cr 62/0.9
+Rectal exam showed dark black stool, Guaiac pos. Troponin <0.01,
+EKG sinus rhythm, rate 65, nl axis, non-specific st-t changes,
+consistent w/ prior from [**7-/2189**]
+unchanged.
+BPs 80s-100s, baseline BPs are 110-120s.
+NG lavage was negative no withdrawal of clots or red return with
+350cc fluids.
+He was given 1L IVF, two peripheral IV's were placed, type and
+cross sent, and was started on protonix gtt.
+On arrival to the MICU, the patient still feels lightheaded when
+stands to use bathroom but otherwise feels like his regular
+self. Denies SOB, chest pain/pressure/tightness.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+
+Past Medical History:
+CAD: MI [**2185**], cath with 2 vessel disease and stent placement
+Stress MIBI in [**2-/2187**] showed EF of 53% with small inferobasal
+infarct.
+Hyperlipidemia
+Sacral Osteomyelitis
+BPH s/p TURP
+Inguinal hernia repair [**1-21**]
+Colonoscopy [**2189**]:
+Polyp in the proximal ascending colon (polypectomy)
+Polyp in the transverse colon (polypectomy)
+Tattoo in the transverse colon from previous polypectomy
+Otherwise normal colonoscopy to cecum
+
+
+Social History:
+married, lives with wife
++ ETOH, denies Tobacco, recreational drug use
+
+
+Family History:
+Father deceased from "old age" in his 90's, mother deceased 60
+years ago from rheumatic fever.  One brother, healthy.  [**Name2 (NI) **] known
+family history of sudden death or premature cardiac disease.
+
+Physical Exam:
+Admission physical exam
+Vitals: T:98.2 65 114/70 13 97%RA
+General: Alert, oriented, no acute distress
+HEENT: MMM, oropharynx clear,
+Neck: JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+DISCHARGE PHYSICAL EXAM:
+VS: 98.5 77 121/76 15 98% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: grossly intact
+
+
+Pertinent Results:
+[**2190-9-26**] 07:20AM BLOOD WBC-6.9 RBC-3.68*# Hgb-11.9*# Hct-36.3*#
+MCV-99* MCH-32.4* MCHC-32.8 RDW-12.4 Plt Ct-207
+[**2190-9-26**] 07:20AM BLOOD Neuts-69.7 Lymphs-21.4 Monos-6.9 Eos-1.5
+Baso-0.6
+[**2190-9-26**] 07:20AM BLOOD Plt Ct-207
+[**2190-9-26**] 07:20AM BLOOD Glucose-99 UreaN-62* Creat-0.9 Na-143
+K-4.4 Cl-110* HCO3-25 AnGap-12
+[**2190-9-26**] 07:20AM BLOOD ALT-18 AST-18 LD(LDH)-117 AlkPhos-46
+TotBili-0.3
+[**2190-9-26**] 05:43PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2190-9-26**] 10:44PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2190-9-27**] 03:05AM BLOOD CK-MB-3 cTropnT-<0.01
+[**2190-9-27**] 03:05AM BLOOD Calcium-8.3* Phos-2.4* Mg-2.1
+[**2190-9-26**] 08:30AM BLOOD Lactate-2.0
+
+Studies
+CXR [**2190-9-26**]
+FINDINGS:  The lungs are clear.  Cardiomediastinal silhouette
+and hilar
+contours are unremarkable.  No effusion or pneumothorax.  Aorta
+is tortuous.
+
+IMPRESSION:  No evidence of acute cardiopulmonary process.
+
+EGD
+Impression: Mucosa suggestive of short segment Barrett's
+esophagus. Normal mucosa in the duodenum. Ulcers in the antrum.
+Otherwise normal EGD to third part of the duodenum.
+
+Micro:
+None
+
+DISCHARGE LABS
+
+[**2190-9-28**] 08:20AM BLOOD WBC-5.2 RBC-3.72* Hgb-12.0* Hct-35.6*
+MCV-96 MCH-32.3* MCHC-33.7 RDW-13.8 Plt Ct-180
+[**2190-9-27**] 03:05AM BLOOD WBC-6.8 RBC-3.70* Hgb-11.9* Hct-35.3*
+MCV-95 MCH-32.1* MCHC-33.7 RDW-13.9 Plt Ct-172
+
+Brief Hospital Course:
+68yoM with history of CAD s/p IMI in [**2185**] with BMS to RCA and
+BPH presenting with dizziness/LH and low Hct, found to have GI
+Bleed with antral ulcers.
+
+# GI Bleed: The patient presented with melena, with low Hct and
+orthostasis. The patient had a history of active NSAID use, and
+also uses Etoh socially. He was admitted to the MICU. He got 2
+units PRBCs without Hct response to the first unit, but with
+good Hct response to the second unit. EGD showed non-bleeding
+antral ulcers and possible Barretts esophanus. The patient was
+stable with no further Hct drop, so he was transfered to the
+floor.  He was counseled to avoid all NSAIDs indefinently,
+unless told otherwise by GI in the future. GI saw the patient in
+house and will follow outpatient, with repeat EGD in [**6-18**] weeks
+to eval for healing of antral ulcers and possible esophagus
+biopsy. H pylori blood test was sent and was pending at time of
+discharge.
+
+# CAD: s/p BMS placement in [**2185**]. No active signs of ischemia
+now, Troponins negative, EKG unchanged, no chest pain. Dizziness
+and diaphoresis likely [**2-11**] anemia from acute blood loss from GI
+bleed, and does not represent anginal equivalent at this time.
+ASA 325 was initially held on admission for acute GI bleed. On
+discussion with outpatient cardiologist, it was decided to
+decrease ASA to 81 daily. ASA was restarted the morning of
+discharge since it was felt that the patient was not actively
+bleeding.
+
+# HTN
+- cont metoprolol, DCed lisinopril per outpatient cardiologist
+since BP well controlled without it and has normal LV function.
+
+# HLD
+- cont atorvastatin
+
+# BPH: no active issues
+
+# PPX: pneumatic boots, bowel regimen
+
+# CODE STATUS: Full, confirmed
+
+# CONTACT: Wife [**Name (NI) 107117**] [**Name (NI) 107118**] home [**Telephone/Fax (1) 107119**] cell
+[**Telephone/Fax (1) 107120**]
+
+Transitional issues
+- F/U H pylori, which was pending at time of DC.
+
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientwebOMR.
+1. Lisinopril 5 mg PO DAILY
+2. Metoprolol Succinate XL 25 mg PO DAILY
+3. Atorvastatin 40 mg PO DAILY
+4. Aspirin 325 mg PO DAILY
+
+
+Discharge Medications:
+1. Atorvastatin 40 mg PO DAILY
+2. Aspirin 81 mg PO DAILY
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet
+Refills:*0
+3. Metoprolol Succinate XL 25 mg PO DAILY
+4. Omeprazole 40 mg PO BID
+RX *omeprazole 40 mg 1 capsule(s) by mouth twice a day Disp #*60
+Capsule Refills:*0
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Peptic Ulcer Disease
+Upper GI bleed
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted to the hospital because you were feeling
+lightheaded and had were not feeling well. Your symptoms were
+explained by a bleed in your stomach. The gastroenterologists
+performed an endoscopy which showed an ulcer in your stomach.
+This is likely related to the ibuprofen and naproxen use. It is
+very important that you avoid such medications in the future.
+You will need a follow up endoscopy in [**6-18**] weeks.
+
+Also, at discharge there is a lab test (which tests if there is
+bacteria in your stomach causing the ulcers) that is still
+pending. We will arrive for someone to contact you with the
+results.
+
+Followup Instructions:
+Please be sure to keep the following appointments:
+
+Name: [**Last Name (LF) 2539**], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Location: [**Hospital1 **] HOSPITAL - [**Location (un) **]
+Address: [**Street Address(2) **], [**Location (un) **],[**Numeric Identifier 3002**]
+Phone: [**Telephone/Fax (1) 49151**]
+* Appointment Thursday [**2190-10-7**] 2:30pm*
+
+Gastroenterology: will call you with an appointment. If you
+don't hear from their office by Friday, please call
+[**Telephone/Fax (1) 463**].
+
+Department: CARDIAC SERVICES
+When: MONDAY [**2191-8-15**] at 12:40 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1523**], MD [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+

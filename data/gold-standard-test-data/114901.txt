@@ -1,0 +1,392 @@
+Admission Date:  [**2156-12-20**]              Discharge Date:   [**2156-12-23**]
+
+Date of Birth:  [**2108-3-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+All allergies / adverse drug reactions previously recorded have
+been deleted
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+Hypoxemia.
+
+Major Surgical or Invasive Procedure:
+Thoracentesis.
+
+History of Present Illness:
+Mr. [**Known lastname 88321**] is a 48 year old gentleman with a PMH significant
+for HCV cirrhosis and a recent admission for a traumatic fall
+with multiple IPH requiring bolt placement, multiple orthopedic
+fractures s/p surgeries, trach/PEG with hospital course
+complicated by Serratia pneumonia treated with pip/tazo now
+admitted for hypoxemia. The patient was admitted to [**Hospital1 18**] from
+[**Date range (1) 88322**] after a 30 foot fall from height with multiple IPH
+s/p intracranial bolt placement for elevated ICP, multiple
+orthopedic fractures requiring surgical intervention,
+splenectomy, and trach/PEG. He was noted to develop a VAP that
+speciated as pan-sensitive Serratia and he completed a course of
+pip/tazo, and also had a right-sided pneumothorax requiring
+chest tube placement. Per report, the patient was noted at rehab
+to have been progressively hypoxemic over the past 2 days with a
+outpatient CXR concerning for right-sided pneumonia. He did not
+have increased sputum production or fevers. He was then sent to
+the [**Hospital1 18**] ED for further evaluation.
+
+In the [**Hospital1 18**] ED, initial VS 98.1 62 92/54 18 95% 40% FM. CXR
+notable for right-sided complete opacification, for which the
+patient received vanco and pip/tazo. He was placed on volume
+cycled assist control, and was sent for a CT chest to rule out
+diaphragmatic rupture. While at CT, he received 5 haldol iv and
+2 iv ativan for agitation, after which he was arousable to
+stimulation. He was then transferred to the [**Hospital Unit Name 153**] for further
+management.
+
+Currently, the patient is on mechanical ventilation, minimally
+responsive to verbal stimuli.
+
+ROS: Limited given somnolence.
+
+Past Medical History:
+Admitted [**Date range (1) 88323**] for 30 foot fall from roof. Multiple
+IPH(multiple intraparenchymal petechial, hemorrhages at
+[**Doctor Last Name 352**]-white matter junction, as well as involving the right mid
+brain, consistent with diffuse axonal injury), facial fractures,
+bilateral arm fractures as well as right knee fracture.
+Underwent splenectomy, multiple orthopedic surgeries.
+- Surgeries [**11-18**] -> ex-lap with splenectomy
+- Bolt placed on [**11-19**]
+- Trach/PEG on [**11-24**]
+- Facial ORIF on [**12-1**]
+- IVC filter placed [**12-7**]
+- HCAP treated with vanco and pip/tazo, speciated as
+pan-sensitive Serratia.
+- No evidence of seizure activity during admission, EEG
+demonstrating encephalopathy. Arousable to voice and stimulation
+with opening of eyes and localization to voice. Intermitently
+follows commands.
+- Discharged on 35% trach collar.
+- Received all appropriate vaccinations
+
+Social History:
+Worked as a roofer. Drinks 6-12 pack of beer daily, quit smoking
+recently.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+VS: 97.5 62 97/66 14 95% AC 550x14, 5, 50%.
+Gen: Vented.
+HEENT: Pupils 2->1 mm bilaterally. Sclerae anicteric. MM dry.
+CV: Nl S1+S2
+Pulm: Bronchial breath sounds on right, rhonchorous on left
+anteriorly.
+Abd: Midline incision healing, no signs of surrounding erythema.
+G-tube in place. +bs.
+Ext: Right arm, right knee/RLE, LLE in braces. No c/c/e.
+Neuro: Opens eyes to verbal stimuli, not following commands.
+
+Pertinent Results:
+Labs at Admission:
+
+[**2156-12-20**] 03:30PM BLOOD WBC-15.8* RBC-3.46* Hgb-11.4* Hct-35.7*
+MCV-103* MCH-33.0* MCHC-32.0 RDW-15.8* Plt Ct-278
+[**2156-12-20**] 03:30PM BLOOD Neuts-56.4 Lymphs-28.2 Monos-5.9 Eos-8.6*
+Baso-0.9
+[**2156-12-20**] 03:30PM BLOOD PT-13.4 PTT-35.9* INR(PT)-1.1
+[**2156-12-20**] 03:30PM BLOOD Glucose-93 UreaN-17 Creat-0.6 Na-132*
+K-7.8* Cl-100 HCO3-26 AnGap-14
+[**2156-12-20**] 03:30PM BLOOD ALT-51* AST-139* LD(LDH)-646*
+AlkPhos-174* TotBili-0.4
+[**2156-12-20**] 10:16PM BLOOD Calcium-8.6 Phos-3.9 Mg-2.0
+[**2156-12-20**] 03:30PM BLOOD Albumin-2.7*
+[**2156-12-20**] 10:16PM BLOOD VitB12-1546* Folate-GREATER TH
+[**2156-12-20**] 03:40PM BLOOD Glucose-92 Lactate-1.3 Na-134* K-7.7*
+Cl-96* calHCO3-30
+[**2156-12-20**] 09:57PM BLOOD Lactate-1.2
+
+Labs at Discharge:
+
+[**2156-12-23**] 06:04AM BLOOD WBC-14.3* RBC-3.66* Hgb-11.7* Hct-37.6*
+MCV-103* MCH-32.1* MCHC-31.3 RDW-15.0 Plt Ct-316
+[**2156-12-23**] 06:04AM BLOOD Neuts-51.9 Lymphs-29.0 Monos-8.5 Eos-9.8*
+Baso-0.8
+[**2156-12-23**] 06:04AM BLOOD Glucose-122* UreaN-11 Creat-0.7 Na-141
+K-4.1 Cl-104 HCO3-29 AnGap-12
+[**2156-12-22**] 04:40AM BLOOD ALT-53* AST-100* LD(LDH)-242 AlkPhos-198*
+TotBili-0.5
+[**2156-12-23**] 06:04AM BLOOD Calcium-8.9 Phos-2.7# Mg-2.0
+
+Pleural Fluid Analysis:
+
+[**2156-12-21**] 5:37 pm PLEURAL FLUID
+
+   GRAM STAIN (Final [**2156-12-21**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Preliminary):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+
+   ACID FAST SMEAR (Final [**2156-12-22**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+
+   ACID FAST CULTURE (Preliminary):
+
+PLEURAL ANALYSIS WBC RBC Polys Lymphs Monos Eos Meso Macro
+[**2156-12-21**] 17:37    850* [**Numeric Identifier 3652**]* 21* 17* 3* 56* 2* 1*
+
+PLEURAL CHEMISTRY TotProt Glucose LD(LDH) Cholest Triglyc
+[**2156-12-21**] 17:37    4.6 82 272 61 39
+
+OTHER BODY FLUID  pH
+[**2156-12-21**] 18:04  7.39
+
+Pleural Fluid:
+
+  NEGATIVE FOR MALIGNANT CELLS.
+
+  Mesothelial cells, histiocytes, lymphocytes, and
+  neutrophils.
+
+Imaging Studies:
+
+Chest CT without contrast ([**2156-12-20**]):
+1. No evidence of diaphragmatic hernia.
+2. Large right and moderate left simple pleural effusions.
+Consolidation and volume loss in the lower lobes bilaterally,
+right greater than left, may represent atelectasis however,
+aspiration or superimposed infection cannot entirely be
+excluded.
+3. Healing rib and clavicle fractures, as described above.
+4. No pneumothorax.
+
+Chest x-ray ([**2156-12-21**]): In comparison with the earlier study of
+this date, there has been removal of a substantial amount of
+right pleural effusion with a small residual. No evidence of
+pneumothorax. Tracheostomy tube remains in place and there is
+again evidence of volume loss at the left base.
+
+Transthoracic echocardiogram ([**2156-12-21**]: The left atrium and
+right atrium are normal in cavity size. There is mild symmetric
+left ventricular hypertrophy with normal cavity size and global
+systolic function (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. Right ventricular chamber size and free wall motion
+are normal. The aortic root is mildly dilated at the sinus
+level. The ascending aorta is mildly dilated. The aortic valve
+appears bicuspid with mildly thickened leaflets, eccentric
+closure point and fused right and left raphe. A gradient could
+not be assessed, but there does not appear to be significant
+aortic valve stenosis. No aortic regurgitation is seen. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. The estimated pulmonary artery systolic pressure
+is normal. There is an anterior space which most likely
+represents a prominent fat pad.
+IMPRESSION: Probable bicuspid aortic valve with fused right/left
+raphe and no significant stenosis or regurgitation. Dilated
+ascending aorta. Mild symmetric left ventricular hypertrophy
+with preserved global biventricular systolic function. If there
+is a clinical suspicion for an aortic dissection - a thoracic
+CT/MRI or TEE are suggested.
+
+Brief Hospital Course:
+Mr. [**Known lastname 88321**] is a 48 year old gentleman with a PMH significant
+for HCV cirrhosis and a recent admission for a traumatic fall
+with multiple IPH requiring bolt placement, multiple orthopedic
+fractures s/p surgeries, trach/PEG with hospital course
+complicated by Serratia pneumonia treated with pip/tazo now
+admitted for hypoxemia.
+
+# Hypoxemia/leukocytosis: CTAP demonstrates a new right-sided
+pleural effusion with RLL collapse and volume loss throughout
+right side. Compressive atelectasis was considered, although
+could not rule out HCAP. With regard to new pleural effusion,
+LFTs were largely unchanged from prior, making hepatic
+hydrothorax unlikely. This may be a parapneumonic effusion with
+underlying pneumonia, or could also be from new heart failure.
+Would also consider chylothorax given history of trauma. The
+patient underwent thoracentesis on the first hospital day and
+1.2 liters of exudative fluid were removed from the right
+pleural space. Cultures from the fluid came back negative, and
+the antibiotics were stopped. Trauma surgery was consulted who
+felt that the pleural fluid might be secondary to trauma. They
+recommended for repeat imaging in [**2-4**] days to see if the fluid
+was reaccumulating. Also, they recommended for repeat imaging if
+the patient develops any new respiratory symptoms.
+Interestingly, the fluid from the thoracentesis had an
+eosinophilic predominance (56% eosinophils). At the same time,
+the patient was noted to have a peripheral blood eosinophilia.
+This was all felt to be secondary to Depakote, which had been
+recently started. The divalproex was therefore stopped.
+
+Notably, after the thoracentesis, the patient's respiratory
+status improved markedly and he was able to be weaned back to
+the trach mask. With regard to work-up for other causes of
+pleural effusion, a transthoracic echocardiogram did not show
+any cardiac dysfunction, and infectious studies, as above, all
+returned negative. Cytologic analysis showed no malignant cells.
+Antibiotics were stopped after the first hospital day.
+
+Due to the calficifications noted on CT scan, a tuberculin skin
+test was placed to the right forearm on [**12-22**]. This should be
+interpreted on [**12-24**] or [**12-25**]. The spot of the PPD placement is
+marked with a bandaid.
+
+# Mental status: His mental status remained at baseline, per
+family members and rehab facility notes. He was agitated and
+minimally interactive. He required prn doses of Haldol and
+Ativan for agitation. With regard to the history of traumatic
+brain injury, neurosurgery was consulted during this admission
+and did not feel there was any need for intervention. Head CT
+was deferred. He was continued on Keppra for seizure
+prophylaxis. Divalproex, as above, was stopped due to peripheral
+blood and pleural fluid eosinophilia.
+
+# Anemia: Hematocrit was 35.8 on admission, baseline during last
+admission 27-33 with macrocytosis. His hematocrit remained
+stable.
+
+# Orthopedics: Orthopedics was contact[**Name (NI) **] during this admission.
+Follow-up plans are outlined in the discharge orders.
+
+# HCV cirrhosis: LFTs were at baseline.
+
+# Depression: Continue home psychotropic regimen.
+
+# Ulcerative colitis: Not currently treated.
+
+# Nutrition: pnt recieved TF's FEN: TF.
+.
+# PPx: recieved Heparin SQ.
+.
+# Access: Double lumen PICC in LAC; this was removed during the
+admission as patient was no longer needing antibiotics or
+continuous intravenous medicines.
+.
+# Code: Confirmed FULL [**Telephone/Fax (1) 88324**].
+.
+# Contact: [**Name (NI) **] [**Name (NI) 88325**] (Sister).
+# Dispo: ICU level of care, transferred back to rehab after the
+thoracentesis and improvement in respiratory status.
+
+Medications on Admission:
+Albuterol nebs
+Dulcolax
+Chlorhexidine QID
+citalopram 20 mg qam
+Clonidine 0.1 mg Q12H.
+Clotrimazole topical tid
+divalproex sprinkles 250 Q8H
+Erythromycin eye ointment QID
+Famotidine 20 mg [**Hospital1 **]
+Ferrous sulfate 300 mg QAM
+Folate
+Heparin SQ
+Levetiracetam 1000 mg Q12H
+Methadone 5 mg Q8H
+MVI
+Quetiapine 25 mg QAM, 50 mg QPM
+Thiamine
+Trazodone 50 mg qhs
+APAP prn
+Ativan 0.5 mg prn
+quetiapine 25 mg Q6H prn
+
+Discharge Medications:
+1. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation. Tablet, Delayed Release (E.C.)(s)
+2. senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for Constipation.
+3. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+4. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Four (4) Puff Inhalation Q6H (every 6 hours) as needed for
+wheezing.
+5. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. levetiracetam 100 mg/mL Solution Sig: Ten (10)  PO BID (2
+times a day): 1000 mg PO BID.
+8. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain or fever.
+10. quetiapine 25 mg Tablet Sig: Two (2) Tablet PO QHS (once a
+day (at bedtime)).
+11. quetiapine 25 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)).
+12. quetiapine 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for Agitation.
+13. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+14. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+15. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for anxiety or agitaiton.
+16. methadone 5 mg Tablet Sig: One (1) Tablet PO every eight (8)
+hours: Hold for sedation/ RR<10.
+17. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]
+
+Discharge Diagnosis:
+Primary:
+Drug induced pulmonary infusion
+
+Secondary:
+Traumatic brain injury secondary to mechanical fall
+Mutliple skeletal fractures secondary to mechanical fall
+Hepatitis C Virus Cirrhosis
+Depression
+Alcoholic Cirrhosis with history of withdrawal
+Ulcerative colitis
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted to the hospital due to worsening shortness of
+breath.  You came to the hospital and had a chest xray which
+showed an accumulation of fluid around the right lung.  The
+fluid around your lung was drained, and your shortness of breath
+improved.  We felt the fluid accumulation was due to the new
+medication you started called "Depakaote".  As a result, we
+discontinued this medication.
+You should follow up with your psychiatrist to make sure your
+medications are appropriately controlling your agitation.
+
+CHANGES TO YOUR MEDICATIONS:
+DEPAKOTE---> STOP TAKING THIS MEDICATION
+
+
+Followup Instructions:
+Please follow up at the [**Hospital1 18**] orthopedic hand clinic within 2
+weeks by Tuesday [**2157-1-4**].  Please call to confimr
+appointment.
+
+Hand Clinic - Dr. [**First Name8 (NamePattern2) 951**] [**Last Name (NamePattern1) **]
+Department: Orthopedics
+Location: [**Hospital Ward Name 23**] 2
+[**Hospital1 18**] Phone: ([**Telephone/Fax (1) 32269**]
+
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2437**] MD [**MD Number(1) 2438**]
+
+Completed by:[**2156-12-23**]

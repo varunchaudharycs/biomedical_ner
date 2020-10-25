@@ -1,0 +1,228 @@
+Admission Date:  [**2153-1-20**]              Discharge Date:   [**2153-2-19**]
+
+Date of Birth:  [**2084-11-24**]             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+Heparin Agents / Motrin
+
+Attending:[**First Name3 (LF) 1835**]
+Chief Complaint:
+shoulder pain
+
+Major Surgical or Invasive Procedure:
+S/P ACD
+S/P POSTERIOR CERVICAL RECONSTRUCTION
+
+
+History of Present Illness:
+68 M PMH thyroid ca with mets to bone and liver, history of
+intrathecal narcotics requirement, who p/w increased pain.  The
+pain is located in the L shoulder scapular to humoral region,
+with no obvious radation, and was [**2156-9-14**] in severity.  He also
+describes other chronic pains, including leg and some chest pain
+with heavy coughing, but these have been stable.  He was seen by
+Dr. [**Last Name (STitle) 19**] on [**1-16**], where he was also noted to have some L sided
+weakness, and was sent for an MRI to evaluate for metastatic
+disease, which as noted below showed no new changes.  He was
+attempting to increase his decadron as indicated by Dr. [**Last Name (STitle) 19**],
+when he couldn't handle the pain this AM, and came to the ED.
+He has also described some diffuse paresthesias of both
+fingertips, although primarily on the L--no apparent pattern.
+Otherwise, he denies focal weakness, numbness, incontinence of
+stool or urine, urinary retention, HA, as well as any F/C/NS,
+LH, appetite changes, SOB, N/V, or abdominal pain. He has a
+chronic cough [**3-9**] radiation, and also noted poor fluid intake
+over the past few days, although no apparent reason.  He
+requires a walker to ambulate, but notes no change over the past
+few days.
+.
+In the ED, given dilaudid 4mg IV x 2, with pain that was not
+completely revolved, but "tolerable."
+
+
+Past Medical History:
+Thyroid ca s/p thyroidectomy [**2147**], with mets to bone and liver
+-s/p implanted epidural narcotics on prior admission; hx of
+infected Port-A-Cath system
+S/p carboplatin [**1-9**]
+S/p cyperknife to T1 [**7-10**]
+Clear cell ca of L kidney s/p L nephrectomy [**6-6**]
+S/p appy
+
+
+Social History:
+History of smoking cigarettes, 1 pack-per-day, for 10
+years--stopped in [**2126**].  Occasional alcohol, 1-2 drinks per
+week. He does not use any illicit drugs.
+
+Family History:
+His mother died of tuberculosis at age 36 in [**2085**].  His father
+died at age 73 from coronary artery disease.
+His brother died of smoking-related lung cancer.  His sister and
+his children are healthy.
+
+
+Physical Exam:
+Vitals: T 98.8
+        BP 150/91
+        HR 93
+        R 20
+        Sat 97% RA
+*
+PE: G: NAD, WN, WD
+    HEENT: Clear OP, MMM
+    Neck: Supple, No LAD, No JVD
+    Lungs: BS BL, No W/R/C
+    Cardiac: RR, NL rate. NL S1S2. No murmurs
+    Abd: Soft, NT, ND. NL BS.  No HSM.
+    Ext: No edema. 2+ DP pulses BL.
+    Neuro: A&Ox3. Appropriate. CN 2-12 grossly intact. Preserved
+sensation throughout. Strength UE [**6-9**] R, 4/5 L throughout--no
+pattern and pt denies pain limiting, [**6-9**] BL LE. 2+ reflexes,
+equal BL. Ungoing toes BL. Past-pointing on L UE, NL on R.
+
+
+Pertinent Results:
+MR [**Name13 (STitle) 2853**] [**2153-1-17**]:   There is no change from [**2152-2-12**].  There is
+metastatic disease at C7-T1 and T2 with collapse of T1 and
+resultant kyphosis.  There is stable epidural disease.  There
+have been posterior laminectomies and there is no spinal cord
+compression, although there is probably some myelomalacia and
+atrophy at the level of the surgery, unchanged.
+*
+L Shoulder/humerus Plain film: Read pending; no obvious
+fracture, ? metastatic involvement.
+.
+CXR [**1-22**]: Patchy opacities most prominent in the right lower
+lobe, worrisome for pneumonia.
+.
+CT spine [**1-23**]: Progression of the lytic osseous and epidural
+metastases, with progressed malalignment. Fracture through the
+T2 pedicle screws bilaterally
+.
+CTA [**1-23**]: 1) Right lower and right middle lobe air space
+consolidation consistent with pneumonia. There appears to be
+narrowing of the bronchus intermedius.
+2) Left lower lobe atelectasis and patchy multifocal bilateral
+generalized foci of air space disease most likely reflecting
+consolidations though metastases are not excluded.
+3) Progression of osseous vertebral and hepatic metastasis.
+4) No evidence of PE.
+5) Possible cervical instability.
+.
+Bone scan [**1-23**]:  1) No abnormal uptake in the left upper
+extremity. 2) Uptakecorresponding to known metastases in the
+sternum, cervical spine as above. The new uptake in the left
+11th and 12th rib ends likely post-traumatic.
+
+Brief Hospital Course:
+68M thyroid ca to bone + liver p/w increased pain L shoulder/
+humerus.  Pt was admitted to the Medicine service and treated
+for the following problems:
+.
+# pneumonia: Patient had altered MS and low grade fevers [**1-22**]
+and CXR performed which suggested pna. Started on levo/flagyl
+with concern for aspiration. [**1-23**], patient had new hypoxia and
+hemoptysis. Hematocrit has remained stable. CTA negative for PE
+but did confirm significant pneumonia.  No fevers since starting
+levo/flagyl.
+.
+#L shoulder/humerus pain: Evaluated by radiation oncology who
+felt that risks of radiation in setting of multiple prior
+episodes was quite high especially given instability.
+Neurosurgery consulted for cervical spine.  His pain was
+initially difficult to control, but was ultimately dramatically
+improved when he was changed to a dilaudid PCA--he did not have
+relief from fentanyl patch, likely b/c of soft tissue wasting
+and future efforts at long acting medications should be PO.
+.
+#thyroid ca, metastatic disease:  progressive in spine and
+likely contributing to current complaints.  Levothyroxine was
+continued. consider neupogen. Will d/w attending Oncologist
+.
+# thrush: The patient was admitted with thrush which was
+succesfully treated with nystatin S&S.
+
+Neurosurgery team asked to eval this pt on [**2153-1-23**]  and was
+transferred to our service for spinal deformity which was noted
+on upper level of images (CT chest) to r/o PE.  CT of cervical
+thoracic spine was obtained and results of T1 collapse noted.
+Pts family, at that time wanted to continue care with prior
+Neurosurgeon/Dr. [**Last Name (STitle) 1327**].  This was communicated to this
+neurosurgery team.  Some short time later the family wished
+against transfer out to Dr.[**Name (NI) 1334**] care and decided that they
+would want surgery to correct spinal deformity/kyphosis here.
+The pt was placed in [**Last Name (un) 20482**] Halo traction at 30lbs of traction.
+This was in attempt to reduce kyphotic deformity for
+pre-operative optimization.  A CT scan of the spine was obtained
+in traction and good reduction of the deformity was noted.  The
+pt was then medically optimized and pre-op'd and taken to the OR
+on [**2153-2-8**] for C7 T1 T2 corpectomies/ anterior approach. There
+was a lot of bleeding during the initial anterior approach / the
+case lasting approximately 7 hours.  It was decided that the pt
+would remain intubated and return to the OR on the 5th (the next
+day for continuation of the case.  The second portion of the
+case was completed that day (the 5th).  Thoracic surgery
+assisted because of mediastinal mass / we needed sternotomy to
+control bleeding and complete ant. approach. The total EBL was
+7.5 liters with the pt being given 22 units of PRBC's.  He had a
+chest tube placed on the left side intraoperatively.  This was
+removed on approx 1/7/7.  Postoperatively he was started on
+Fondiparinox on [**2-13**] as he is HIT positive. On [**2153-2-14**] he had a
+peg tube place. His postoperative  head CT and spine CT's were
+stable.  His neurological status postoperatively was stable. All
+extremeties are antigravity and his mentation is intact.  His
+course complicated by intermittent low HCT's for which he was
+transfused.  Temps as high as 102.+ for which he was started on
+Zosyn. On [**2153-2-16**] his left upper extremity was noted to be
+swollen and son[**Name (NI) **] noted LUE DVT.  On the 14th, the halo ring
+that was initially placed for use of cervical traction and for
+potential halo vest placement was removed.  He remains in a
+cervical collar and had been OOB to chair.  The patient required
+prolonged ventilation he had difficulty clearing his secretions.
+ His family was offered a trach but they felt the patient had a
+difficult post operative course and was suffering they did not
+want to the patient to under go further procedures.  The patient
+had made his wishes clear to his family not to be dependent or
+on a ventilator for a prolonged period.  After a long discussion
+with the family and Dr [**Last Name (STitle) **] they decided to extubate the
+patient and see if he could tolerate being extubated, he quickly
+passed away in a few minutes with his family at his side.
+
+Medications on Admission:
+gabapentin 300/300/900,
+hydromorphone 4-8 mg Q8H PRN,
+tizanidine 2mg t.i.d.,
+fentanyl patch 75 mcg per hour every three days,
+lidoderm patch 50, 3 patches a day
+lorazepam 0.5mg Q4-6H PRN
+levothyroxine 0.125 qd
+protonix 40 qd
+folic acid
+decadron 2mg [**Hospital1 **] (incr to 4mg in AM today)
+
+Discharge Medications:
+N/A
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+cervical spine harware failure
+s/p cervical spine stabilization
+metestatic disease
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+
+Completed by:[**2153-2-19**]

@@ -1,0 +1,179 @@
+T1	Drug 8897 8903	zofran
+T2	Drug 9410 9420	Lisinopril
+T3	Drug 10180 10189	Lorazepam
+T4	Strength 10190 10194	1 mg
+T5	Route 10222 10224	PO
+T6	Drug 8886 8895	compazine
+T7	Drug 8905 8911	ativan
+T9	Drug 9866 9879	Levetiracetam
+T10	Strength 9880 9888	1,000 mg
+T11	Route 9916 9918	PO
+T12	Drug 10511 10519	Percocet
+T13	Frequency 10559 10562;10563 10566	q6h prn
+T14	Route 10556 10558	PO
+T16	Drug 11733 11741	Prilosec
+T17	Drug 9819 9828	albuterol
+T18	Drug 8798 8809	hydralazine
+T19	Drug 9311 9322	hydralazine
+T20	Drug 11104 11114	lisinopril
+T21	Drug 10084 10094	Lisinopril
+T22	Strength 10095 10099	5 mg
+T23	Route 10127 10129	PO
+T24	Drug 9573 9582	albuterol
+T25	Drug 9830 9838	percocet
+T26	Drug 11198 11207	lorazepam
+T27	Drug 11560 11566	Keppra
+T28	Drug 11756 11762	Pepcid
+T29	Drug 9967 9980	Dexamethasone
+T30	Strength 9981 9985	6 mg
+T31	Duration 10036 10047	for 20 days
+T32	Route 10013 10015	PO
+T33	Strength 8748 8752	6 mg
+T34	Frequency 8753 8755;8756 8761	q6 hours
+T36	Drug 8734 8747	dexamethasone
+T37	Drug 10294 10301	Tylenol
+T38	Strength 10302 10308	325 mg
+T39	Form 10329 10335	Tablet
+T40	Route 10336 10338	PO
+T41	Drug 11743 11751	Protonix
+T42	Drug 8766 8772	keppra
+T43	Strength 8773 8779	1000mg
+T44	Frequency 8780 8783;8784 8789	q12 hours
+T47	Reason 8854 8868	nausea control
+T48	Reason 10250 10257	anxiety
+T49	Reason 10374 10379	fever
+T50	Reason 10487 10506	shortness of breath
+T51	Reason 10567 10571	pain
+T52	Reason 11119 11138	high blood pressure
+T53	Reason 11231 11238	anxiety
+T54	Reason 8814 8836	blood pressure control
+T55	Drug 8913 8922	phenergen
+T56	Reason 9242 9254	Hypertension
+T57	Reason 9510 9516	Asthma
+T58	Drug 9632 9640	steroids
+T59	Dosage 9622 9631	high dose
+T60	ADE 9589 9602	Hyperglycemia
+T61	Form 9889 9895	Tablet
+T62	Dosage 9901 9908	One (1)
+T63	Form 9909 9915	Tablet
+T64	Frequency 9919 9926;9927 9930	twice a day
+T65	Form 9986 9992	Tablet
+T66	Form 10006 10012	Tablet
+T67	Dosage 9998 10005	One (1)
+T68	Frequency 10016 10028;10029 10035	Q6H (every 6 hours)
+T69	Form 10100 10106	Tablet
+T70	Dosage 10112 10119	One (1)
+T71	Form 10120 10126	Tablet
+T72	Frequency 10130 10143	DAILY (Daily)
+T73	Form 10195 10201	Tablet
+T74	Dosage 10207 10214	One (1)
+T75	Form 10215 10221	Tablet
+T76	Frequency 10225 10238;10239 10245	at bedtime as needed
+T77	Form 10309 10315	Tablet
+T78	Dosage 10321 10328	Two (2)
+T79	Frequency 10339 10353;10354 10369	every four (4) hours as needed
+T80	Reason 10383 10387	pain
+T81	Drug 10392 10401	Albuterol
+T82	Strength 10402 10418	90 mcg/Actuation
+T83	Form 10419 10426	Aerosol
+T84	Dosage 10432 10435	1-2
+T85	Form 10436 10441	Puffs
+T86	Route 10442 10452	Inhalation
+T87	Frequency 10453 10482	Q4H (every 4 hours) as needed
+T88	Strength 10520 10528	5-325 mg
+T89	Form 10529 10535	Tablet
+T90	Dosage 10541 10548	One (1)
+T91	Form 10549 10555	Tablet
+T92	Reason 11571 11583	anti-seizure
+T93	Drug 11650 11657	steroid
+T94	Reason 11708 11731	to protect your stomach
+T95	Drug 11840 11847	steroid
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Route-Drug Arg1:T5 Arg2:T3
+R3	Strength-Drug Arg1:T10 Arg2:T9
+R4	Route-Drug Arg1:T11 Arg2:T9
+R5	Frequency-Drug Arg1:T13 Arg2:T12
+R6	Route-Drug Arg1:T14 Arg2:T12
+R7	Strength-Drug Arg1:T22 Arg2:T21
+R8	Route-Drug Arg1:T23 Arg2:T21
+R9	Strength-Drug Arg1:T30 Arg2:T29
+R10	Duration-Drug Arg1:T31 Arg2:T29
+R11	Route-Drug Arg1:T32 Arg2:T29
+R12	Strength-Drug Arg1:T33 Arg2:T36
+R13	Frequency-Drug Arg1:T34 Arg2:T36
+R15	Strength-Drug Arg1:T38 Arg2:T37
+R16	Form-Drug Arg1:T39 Arg2:T37
+R17	Route-Drug Arg1:T40 Arg2:T37
+R18	Strength-Drug Arg1:T43 Arg2:T42
+R19	Frequency-Drug Arg1:T44 Arg2:T42
+R22	Reason-Drug Arg1:T54 Arg2:T18
+R23	Reason-Drug Arg1:T47 Arg2:T7
+R24	Reason-Drug Arg1:T47 Arg2:T6
+R25	Reason-Drug Arg1:T47 Arg2:T1
+R26	Reason-Drug Arg1:T47 Arg2:T55
+R28	Reason-Drug Arg1:T56 Arg2:T2
+R29	Reason-Drug Arg1:T56 Arg2:T19
+R30	Reason-Drug Arg1:T57 Arg2:T24
+R31	ADE-Drug Arg1:T60 Arg2:T58
+R32	Dosage-Drug Arg1:T59 Arg2:T58
+R33	Frequency-Drug Arg1:T64 Arg2:T9
+R34	Form-Drug Arg1:T63 Arg2:T9
+R35	Dosage-Drug Arg1:T62 Arg2:T9
+R36	Form-Drug Arg1:T61 Arg2:T9
+R37	Frequency-Drug Arg1:T68 Arg2:T29
+R38	Form-Drug Arg1:T66 Arg2:T29
+R39	Dosage-Drug Arg1:T67 Arg2:T29
+R40	Form-Drug Arg1:T65 Arg2:T29
+R41	Frequency-Drug Arg1:T72 Arg2:T21
+R42	Form-Drug Arg1:T71 Arg2:T21
+R43	Dosage-Drug Arg1:T70 Arg2:T21
+R44	Form-Drug Arg1:T69 Arg2:T21
+R45	Frequency-Drug Arg1:T76 Arg2:T3
+R46	Reason-Drug Arg1:T48 Arg2:T3
+R47	Form-Drug Arg1:T75 Arg2:T3
+R48	Dosage-Drug Arg1:T74 Arg2:T3
+R49	Form-Drug Arg1:T73 Arg2:T3
+R50	Reason-Drug Arg1:T80 Arg2:T37
+R51	Reason-Drug Arg1:T49 Arg2:T37
+R52	Frequency-Drug Arg1:T79 Arg2:T37
+R53	Dosage-Drug Arg1:T78 Arg2:T37
+R54	Form-Drug Arg1:T77 Arg2:T37
+R55	Reason-Drug Arg1:T50 Arg2:T81
+R56	Frequency-Drug Arg1:T87 Arg2:T81
+R57	Route-Drug Arg1:T86 Arg2:T81
+R58	Form-Drug Arg1:T83 Arg2:T81
+R59	Form-Drug Arg1:T85 Arg2:T81
+R60	Dosage-Drug Arg1:T84 Arg2:T81
+R61	Strength-Drug Arg1:T82 Arg2:T81
+R62	Reason-Drug Arg1:T51 Arg2:T12
+R63	Form-Drug Arg1:T91 Arg2:T12
+R64	Form-Drug Arg1:T89 Arg2:T12
+R65	Dosage-Drug Arg1:T90 Arg2:T12
+R66	Strength-Drug Arg1:T88 Arg2:T12
+R67	Reason-Drug Arg1:T52 Arg2:T20
+R68	Reason-Drug Arg1:T53 Arg2:T26
+R69	Reason-Drug Arg1:T92 Arg2:T27
+R70	Reason-Drug Arg1:T94 Arg2:T16
+R71	Reason-Drug Arg1:T94 Arg2:T41
+R72	Reason-Drug Arg1:T94 Arg2:T28
+T97	Drug 8042 8049	steroid
+T98	Dosage 8032 8041	High dose
+T100	Frequency 8923 8926	PRN
+T101	Frequency 9569 9572	prn
+T102	Frequency 11208 11226	at night as needed
+T103	ADE 11796 11803;11804 11814	stomach irritation
+R74	Dosage-Drug Arg1:T98 Arg2:T97
+R75	Frequency-Drug Arg1:T100 Arg2:T55	
+R76	Frequency-Drug Arg1:T101 Arg2:T24	
+R77	Frequency-Drug Arg1:T102 Arg2:T26	
+R78	ADE-Drug Arg1:T103 Arg2:T93	
+T8	Route 8731 8733	IV
+T15	Route 8795 8797	IV
+T35	Route 8763 8765	IV
+R14	Route-Drug Arg1:T35 Arg2:T42	
+R20	Route-Drug Arg1:T8 Arg2:T36	
+R21	Route-Drug Arg1:T15 Arg2:T18	
+T45	Route 9308 9310	IV
+R27	Route-Drug Arg1:T45 Arg2:T19	
+T104	Reason 8092 8107	vasogenic edema
+R80	Reason-Drug Arg1:T104 Arg2:T97	

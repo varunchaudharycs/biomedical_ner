@@ -1,0 +1,256 @@
+Admission Date:  [**2156-1-8**]              Discharge Date:   [**2156-1-16**]
+
+Date of Birth:  [**2090-3-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2485**]
+Chief Complaint:
+dehydration and ? pneumonia
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 65 year old man with atrial fibrillation and
+hypothyroidism, who was diagnosed with squamous cell CA of the
+tongue in [**2153**], s/p chemo and radiation. Recently, he has biopsy
+proven mets in the sternum and T3-T7. He presented to clinic on
+[**2156-1-8**] for evaluation and he was found to be hypoxic and
+dehydrated. He notes that approximately 3 weeks ago he presented
+to his doctor [**First Name (Titles) 151**] [**Last Name (Titles) 7186**] of breath and was diagnosed with
+pneumonia and given a Z-pack. He improved after that but then
+again felt worse and was given another Z-pack. In the last week
+he has felt progressively short of breath and has been staying
+on the couch. He denies fever, but says he has sweats on most
+days. Also denies cough, occasional chest pain, some swelling in
+his ankles, no blurry vision, confusion. Also, he over the past
+6 months he has had progressive poor appetite he has lost some
+weight. Otherwise, he complains of xerostomia and difficulty in
+swallowing.
+
+Past Medical History:
+- Squamous cell CA of the tongue:  dx [**3-16**]; stage 3-4; started
+cisplatin and radiation therapy on [**2154-5-27**]
+- CAD:  s/p CABG 2 vessels in [**2143**] and [**2146**]; NSTEMI in [**3-15**] s/p
+cardiac catheterization.
+- CHF:  echo [**11-14**] w/ moderate regional left LV systolic
+dysfunction with near akinesis of the basal inferior and
+inferolateral walls, LVEF 35%, 1+ MR.
+- Atrial fibrillation: s/p DCCV in [**11-13**] w/ subsequent reversion
+to AF.
+- ICD:  placed [**12-17**]
+- Hypertension
+- Hyperlipidemia
+- Depression
+
+
+Social History:
+He is a retired salesman who lives with his long-term partner
+named [**Name (NI) **] for 30 years. He has no children. He smoked greater
+than 30 years but quit recently. No alcohol or IV drug use.
+
+
+Family History:
+Mother with h/o CAD.
+
+Physical Exam:
+T: 97.6 BP: 129/78 RR: 24 HR: 76 02:96% on 2L
+Gen: Cachectic male, NAD
+HEENT: anicteric, EOMI, PERRL, dry mucosa with breakdown of the
+mucosa.
+Neck: left sided fullness, palpaple fibrosis.
+CV: RRR
+Pulm: Diffuse expiratory wheezing, bilateral crackles at the
+bases.
+Abd: soft, non tender, BS +.
+Ext: 1+ non-pitting edema.
+Neuro: Alert and oriented x3, CN 2-12 intact, strength 5/5
+bilateral and symmetric lower and upper extremities.
+
+Pertinent Results:
+On Admission:
+[**2156-1-8**] 03:35PM BLOOD WBC-18.5*# RBC-4.90 Hgb-11.5* Hct-35.9*
+MCV-73* MCH-23.4* MCHC-32.0 RDW-15.3 Plt Ct-501*
+[**2156-1-8**] 03:35PM BLOOD PT-22.1* PTT-28.6 INR(PT)-2.1*
+[**2156-1-8**] 03:35PM BLOOD Glucose-82 UreaN-15 Creat-0.5 Na-138
+K-4.4 Cl-99 HCO3-31 AnGap-12
+[**2156-1-8**] 03:35PM BLOOD proBNP-3557*
+[**2156-1-8**] 03:35PM BLOOD Albumin-3.3* Calcium-9.0 Phos-3.6 Mg-2.2
+
+On Day of Demise:
+[**2156-1-16**] 04:05AM BLOOD WBC-14.8* RBC-3.75* Hgb-9.0* Hct-28.9*
+MCV-77* MCH-24.0* MCHC-31.1 RDW-15.5 Plt Ct-405
+[**2156-1-16**] 04:05AM BLOOD PT-42.3* PTT-30.2 INR(PT)-4.6*
+[**2156-1-16**] 04:05AM BLOOD Glucose-108* UreaN-11 Creat-0.4* Na-145
+K-3.5 Cl-105 HCO3-37* AnGap-7*
+[**2156-1-16**] 04:05AM BLOOD ALT-15 AST-24 LD(LDH)-319* AlkPhos-155*
+TotBili-0.CT
+
+Imaging:
+----------
+CT Chest [**2156-1-9**]:
+IMPRESSION:
+1. Multifocal bilateral air space opacities most consistent with
+acute
+infection.
+2. New moderate left pleural effusion.
+3. Increase in size of several mediastinal lymph nodes may
+rleate to
+infection, though attention is recommended on follow-up.
+Attention should also be again paid to the unchnanged right
+lower lobe nodule.
+4. Progression of thoracic spine osseous metastases.
+
+CT Head [**2156-1-15**]:
+IMPRESSION: No evidence of hemorrhage, mass effect, midline
+shift or other
+acute abnormalities. No evidence of enhancing brain lesions. No
+significant
+change on the pre-contrast images compared to [**2154-8-5**].
+
+CXR [**2156-1-16**]:
+Since yesterday, all tubes and catheters are in unchanged
+position.
+Right upper lobe opacity persists, likely due to aspiration.
+Left lower lobe opacity increased, could be due to worsening
+atelectasis or superimposed aspiration. Left pleural effusion
+also increased. There is no other overallchange.
+
+Micro and Path:
+------------------
+Legionella Urinary antigen [**2156-1-11**]: Negative
+
+BAL [**2156-1-12**]:
+GRAM STAIN (Final [**2156-1-12**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2156-1-14**]):    NO GROWTH, <1000
+CFU/ml.
+
+   LEGIONELLA CULTURE (Final [**2156-1-19**]):    NO LEGIONELLA
+ISOLATED.
+
+   POTASSIUM HYDROXIDE PREPARATION (Final [**2156-1-13**]):
+      Test cancelled by laboratory.
+      PATIENT CREDITED.
+      This is a low yield procedure based on our in-house
+studies.
+      if pulmonary Histoplasmosis, Coccidioidomycosis,
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected,
+contact the
+      Microbiology Laboratory (7-2306).
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2156-1-13**]):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+
+   FUNGAL CULTURE (Final [**2156-1-25**]):    NO FUNGUS ISOLATED.
+
+   NOCARDIA CULTURE (Final [**2156-2-1**]):    NO NOCARDIA ISOLATED.
+
+   ACID FAST SMEAR (Final [**2156-1-13**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+Pleural fluid ([**2156-1-13**]):
+GRAM STAIN (Final [**2156-1-13**]):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+
+Brief Hospital Course:
+65 year old male with squamous cell CA of tongue, with recurrent
+disease and evidence of metastases and recent spread to spine
+who presented with worsnening dyspnea on exertion and weight
+loss.
+
+The patient's chief reason for presenting to the ICU was
+multifactorial hypoxia due to his COPD, CHF, pleural effusion
+and probable aspiration pneumonia/pneumonitis.  On presentation
+he was started on levofloxacin for aspiration pneumonia.
+Nevertheless he continued to have worsening of his dyspnea and
+sputum production and during the day of [**2156-1-11**] he was noted to
+be increasingly hypoxic and his oxygen saturations were dropping
+to the 80's on 6L NC.  He was switched to 100% NRB and
+maintained sats in the 90's on that but appeared to be tiring
+and was transferred to the ICU on [**2156-1-11**].  At that point a blood
+gas revealed profound respiratory acidosis and he was then
+intubated for ventilatory failure.  The patient has treated with
+vancomycin, cefepime, metronidazole for aspiration/HAP and was
+gently diuresed.  No microbiologic diagnosis of the patient's
+pneumonia was ever made and despite BAL no organisms were ever
+isolated.  On [**2156-1-13**] a thoracentesis was performed to evaluate
+for complicated effusion and this showed sterile inflammatory
+fluid consistent with parapneumonic effusion.  The patient did
+improve somewhat allowing some weaning of ventilatory settings
+and acutally self extubated on [**2156-1-14**].  Unfortunately, after
+extubation mental status remained poor and the patient became
+progressively more hypercarbic requiring reintubation on [**2156-1-15**].
+ On the morning of [**2156-1-16**] NIF was checked and was less than 30
+suggesting generalized muscle weakness and high likelihood of
+ventilatory failure if extubated.  With this information, and
+given the patient had been reluctant to undergo chemotherapy in
+the first place and had expressed a desire to not be permanently
+sustained on artificial means, his husband and family decided to
+terminally extubate the patient and make him comfortable.  He
+was extubated on the evening of [**2156-1-16**] and gradually became more
+hypoxic before expiring of respiratory failure.  His husband
+declined autopsy.
+
+
+Medications on Admission:
+# Maalox/Diphenhydramine/Lidocaine 15-30 mL PO 15 MINUTES BEFORE
+MEALS AS NEEDED FOR MOUTH PAIN
+# Metoprolol Succinate XL 200 mg PO DAILY Please hold for SBP
+<100 or HR <60 Order date: [**1-8**] @ 1421
+# Albuterol 0.083% inhaled Q4H:PRN [**Month/Year (2) 7186**] of breath
+# Omeprazole 20 mg PO DAILY
+# Amiodarone 200 mg PO DAILY
+# OxycoDONE (Immediate Release) 10 mg PO Q3H:PRN
+# Digoxin 0.25 mg PO DAILY
+# Furosemide 20 mg PO BID
+# Simvastatin 40 mg PO DAILY
+# Heparin 5000 UNIT SC TID
+# Venlafaxine 200 mg PO QAM
+# Venlafaxine 100 mg PO QPM
+# Isosorbide Dinitrate 10 mg PO TID
+# Warfarin 7.5 mg PO DAYS (MO,TH) Warfarin 5 mg PO DAYS
+([**Doctor First Name **],TU,WE,FR,SA)
+# Levothyroxine Sodium 50 mcg Order date: [**1-8**] @ 1602
+# Lisinopril 20 mg PO
+
+Discharge Medications:
+Patient expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Squamous Cell cancer of the head and neck with T-spine
+involvement
+Acute Systolic heart failure
+Deconditioning
+Dehydration
+Aspiration pneumonia
+Hypertension
+CAD s/p CABGx2
+Atrial Fibrillation
+
+
+Discharge Condition:
+Patient expired
+
+

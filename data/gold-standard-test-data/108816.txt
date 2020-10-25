@@ -1,0 +1,181 @@
+Admission Date:  [**2122-10-21**]              Discharge Date:   [**2122-10-22**]
+
+Date of Birth:  [**2092-9-22**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Aspirin
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Shortness of Breath
+Asthma Attack
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+30 yo woman with severe asthma since childhood required multiple
+intubations (>10x, with last one in [**7-28**]) was admitted due to
+another episode of asthma attack. Pt reported that she has been
+maintained on prednisone 20mg po qod since [**7-29**], she is
+followed by Dr. [**Last Name (STitle) 50575**] of pulmonary and her most recent PFT
+([**2122-10-4**]) showed worsening dz (FEV1/FVC=45(56% pred). Pt
+reported that around 11pm last night she had an asthma attack(
+she has on avg 3 attacks per wk). She feels this was
+precipitated by here walking between the heat of her home and
+the cold outside mult times.  She took nebs and went to bed at
+1am and woke up at 6am wheezing, nebs didn't help, called EMS.
+She them collapsed and doesnot remember anything until she woke
+up in the ED.
+By report of the family and ambulance, the pt given CPR by
+brother when she stopped breathing.  The EMS gave her O2, nebs
+a, and .3 sc epi which brought her sats to 95%.  In the ED
+(arrived ~7am) she was given solumedrol 125mg x 1, heliox mask
+vent at 10L, and cont nebs to maintain sats.  Her symptoms
+slowly improved as the morning progressed.  By the time she
+arrived at the ICU (12pm) she no longer required nebs to
+maintain sats or avoid SOB.
+
+In the past, pt had been on high dose steroid for [**1-27**] yrs (~80
+mg prednisone daily then decadron 4mg daily) which ended [**2-26**]
+due to pt developed cushingnoid syndrome. After her last
+hospitalization [**7-29**], her outpt pulmonogist started her on
+prednisone 20 mg qod.
+
+
+Past Medical History:
+Asthma
+eczema
+Fe Def Anemia
+Nasal Polyps
+
+Social History:
+No ETOH, No Tob, No drugs.
+Married, lives with huband and brother
+[**Name (NI) **] Health student at BU
+
+Family History:
+Distant relatives have DM, asthma
+
+Physical Exam:
+Admission exam:
+T 98.8 P 99 RR 11 BP 129/86 O2  91 on 10L heliox
+Gen - A+Ox3, [**Last Name (un) 1425**] young woman, spleaking in full sentances,
+no accessory muscles when breathing,
+HEENT: EOMI, PERRL, OP clear, no icterus, moon face
+Neck: supple, posterior hump, acanthosis nigricans, no LAD
+Cor: RRR no m/r/g
+Chest: diffuse expiratory wheezes, no rales, no ronchi
+Abd: obese with striae, NT/ND, +BS, no HSM
+Ext: nl bulk and tone, +2 DP bilat, thickened toenails b/l, no
+c/c/e
+
+Pertinent Results:
+[**2122-10-21**] 07:10AM   GLUCOSE-192* UREA N-11 CREAT-1.0 SODIUM-140
+POTASSIUM-4.7 CHLORIDE-100 TOTAL CO2-28 ANION GAP-17
+[**2122-10-21**] 07:10AM   ALT(SGPT)-16 AST(SGOT)-15 CK(CPK)-103 ALK
+PHOS-136* AMYLASE-107* TOT BILI-0.3
+[**2122-10-21**] 07:10AM   cTropnT-<0.01
+[**2122-10-21**] 07:10AM   CK-MB-3
+[**2122-10-21**] 07:10AM   ALBUMIN-3.7 CALCIUM-8.8 PHOSPHATE-6.8*#
+MAGNESIUM-2.2
+[**2122-10-21**] 07:10AM   WBC-20.1* RBC-4.85 HGB-14.1 HCT-43.0 MCV-89
+MCH-29.0 MCHC-32.7 RDW-14.9
+[**2122-10-21**] 07:10AM   NEUTS-52.7 LYMPHS-32.8 MONOS-2.9 EOS-10.6*
+BASOS-1.0
+[**2122-10-21**] 07:10AM   PLT COUNT-372
+[**2122-10-21**] 07:10AM   PT-13.8* PTT-26.9 INR(PT)-1.2
+
+CXR - no CHF< or focal consolidation
+
+PFT [**2122-10-4**] (after albuterol)
+FVC 2.10 / 71% pred
+FEV1 0.94 / 40% pred
+Fev1/FVC 45 / 56% pred
+imp: marked obstructive vent def
+since [**7-29**] FVC decreased 17%, FEV1 decreased 27%)
+
+
+Brief Hospital Course:
+30 yo F with a hx of severe asthma who presents with an attack.
+
+1) Asthma - The patient is now recovering from her asthma
+attack.  She is no longer requiring freq nebs and was able to
+avoid intubation.
+Home asthma meds including theophylline, montelukast,
+fluticasone, salumedrol, and were continued.  Also the patient
+was given 125 methylprednisolone q8h. She remained stable
+overnight without any SOB.  Pt placed on insulin SS w/ steroids.
+ In the morning of the day after abmission the pt was felt
+stable to go home with pulm follow-up.  She was switched to a
+prednisone taper starting at 60mg qday and going to 30mg qday.
+Also she will be started on protonix to avoid GERD which may
+exacerbate her asthma.  As an outpt she should be worked up for
+OSA
+
+2) FEN - house diet
+
+3) Access - PIV
+
+4) Comm - with pt
+
+Full Code
+
+Medications on Admission:
+Theophylline 300mg SR [**Hospital1 **]
+Montelukast 10mg qday
+Albuterol 1-2 puffs q4h
+Fluticasone 2 puffs [**Hospital1 **]
+salmeterol 1 puff qday
+albuterol nebs [**Hospital1 **]
+prednisone 20mg qod
+
+Discharge Medications:
+1. Montelukast Sodium 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Theophylline 300 mg Capsule, Sust. Release 12HR Sig: One (1)
+Capsule, Sust. Release 12HR PO BID (2 times a day). Capsule,
+Sust. Release 12HR(s)
+3. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation [**Hospital1 **] (2 times a day).
+4. Salmeterol Xinafoate 50 mcg/Dose Disk with Device Sig: One
+(1) Disk with Device Inhalation Q12H (every 12 hours).
+5. Ipratropium Bromide 0.02 % Solution Sig: Five Hundred (500)
+mcg Inhalation every six (6) hours as needed for shortness of
+breath or wheezing.
+Disp:*60 vials* Refills:*6*
+6. Prednisone 20 mg Tablet Sig: see comments Tablet PO once a
+day: Take 3 tabs a day for 2 days.  Then take 2 tabs a day for 2
+days.  Then take 1 and a half tablets a day until your
+appointment with Dr. [**Last Name (STitle) **].
+Disp:*30 Tablet(s)* Refills:*2*
+7. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Asthma Exacerbation
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+PLease [**Name8 (MD) 138**] MD or return to hospital if you have another attack
+that is not responsive to your nebulizers.
+
+Followup Instructions:
+Primary Care: Please follow up with your PCP or NP as soon as
+you are discharged.  At the time please mention your prolonged
+steroid use and possible questions regarding diabetes care.
+
+Pulmonary: Please f/u with Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 5091**]
+Thursday [**2122-10-29**] 2:30pm
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

@@ -1,0 +1,289 @@
+T1	Drug 165 176	Penicillins
+T2	Drug 179 186	Codeine
+T3	Drug 189 195	Haldol
+T4	Dosage 4735 4738	one
+T5	Form 4739 4743	unit
+T6	Drug 4744 4749	pRBCs
+T7	Drug 5562 5568	Haldol
+T8	Reason 5573 5582	agitation
+R1	Reason-Drug Arg1:T8 Arg2:T7
+T9	ADE 5605 5610	fever
+R2	ADE-Drug Arg1:T9 Arg2:T7
+T10	ADE 5635 5665	Neuroleptic Malignant Syndrome
+R3	ADE-Drug Arg1:T10 Arg2:T7
+T11	Reason 5818 5834	bipolar disorder
+R4	Reason-Drug Arg1:T11 Arg2:T12
+R5	Reason-Drug Arg1:T11 Arg2:T13
+T12	Drug 5851 5858	lithium
+T13	Drug 5895 5902	Lithium
+T14	Reason 6616 6620	pain
+R6	Reason-Drug Arg1:T14 Arg2:T15
+T15	Drug 6676 6685	narcotics
+T16	Drug 6705 6714	Methadone
+T17	Strength 6715 6720	10 mg
+R7	Strength-Drug Arg1:T17 Arg2:T16
+T18	Reason 6752 6762	acute pain
+R8	Reason-Drug Arg1:T18 Arg2:T16
+T19	Drug 6792 6800	Dilaudid
+T20	Route 6801 6803	po
+R9	Route-Drug Arg1:T20 Arg2:T19
+T21	Frequency 6804 6807	prn
+R10	Frequency-Drug Arg1:T21 Arg2:T19
+T22	Reason 6812 6829	breakthrough pain
+R11	Reason-Drug Arg1:T22 Arg2:T19
+T23	Drug 6962 6969	Lithium
+T24	Drug 6970 6978	Percocet
+T25	Drug 7006 7015	Lidocaine
+T27	Form 7034 7059	Adhesive Patch, Medicated
+R13	Form-Drug Arg1:T27 Arg2:T25
+T28	Dosage 7065 7072	One (1)
+R14	Dosage-Drug Arg1:T28 Arg2:T25
+T29	Form 7073 7098	Adhesive Patch, Medicated
+R15	Form-Drug Arg1:T29 Arg2:T25
+T30	Route 7099 7106	Topical
+R16	Route-Drug Arg1:T30 Arg2:T25
+T31	Frequency 7107 7112	DAILY
+R17	Frequency-Drug Arg1:T31 Arg2:T25
+T32	Reason 7135 7139	pain
+R18	Reason-Drug Arg1:T32 Arg2:T25
+T33	Drug 7156 7171	Docusate Sodium
+T34	Strength 7172 7178	100 mg
+R19	Strength-Drug Arg1:T34 Arg2:T33
+T35	Form 7179 7186	Capsule
+R20	Form-Drug Arg1:T35 Arg2:T33
+T36	Dosage 7192 7199	One (1)
+R21	Dosage-Drug Arg1:T36 Arg2:T33
+T37	Form 7200 7207	Capsule
+R22	Form-Drug Arg1:T37 Arg2:T33
+T38	Route 7208 7210	PO
+R23	Route-Drug Arg1:T38 Arg2:T33
+T39	Frequency 7211 7214	BID
+R24	Frequency-Drug Arg1:T39 Arg2:T33
+T40	Drug 7235 7240	Senna
+T41	Strength 7241 7247	8.6 mg
+R25	Strength-Drug Arg1:T41 Arg2:T40
+T42	Form 7248 7254	Tablet
+R26	Form-Drug Arg1:T42 Arg2:T40
+T43	Dosage 7260 7267	Two (2)
+R27	Dosage-Drug Arg1:T43 Arg2:T40
+T44	Form 7268 7274	Tablet
+R28	Form-Drug Arg1:T44 Arg2:T40
+T45	Route 7275 7277	PO
+R29	Route-Drug Arg1:T45 Arg2:T40
+T46	Frequency 7278 7280	HS
+R30	Frequency-Drug Arg1:T46 Arg2:T40
+T47	Drug 7298 7317	Magnesium Hydroxide
+T48	Strength 7318 7329	400 mg/5 mL
+R31	Strength-Drug Arg1:T48 Arg2:T47
+T49	Form 7330 7340	Suspension
+R32	Form-Drug Arg1:T49 Arg2:T47
+T50	Dosage 7346 7357	Thirty (30)
+R33	Dosage-Drug Arg1:T50 Arg2:T47
+T51	Form 7358 7360	ML
+R34	Form-Drug Arg1:T51 Arg2:T47
+T52	Route 7361 7363	PO
+R35	Route-Drug Arg1:T52 Arg2:T47
+T53	Frequency 7364 7393	Q6H (every 6 hours) as needed
+R36	Frequency-Drug Arg1:T53 Arg2:T47
+T54	Reason 7398 7410	constipation
+R37	Reason-Drug Arg1:T54 Arg2:T47
+T55	Drug 7415 7424	Bisacodyl
+T56	Strength 7425 7429	5 mg
+R38	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 7430 7460	Tablet, Delayed Release (E.C.)
+R39	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 7466 7473	Two (2)
+R40	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 7474 7504	Tablet, Delayed Release (E.C.)
+R41	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 7505 7507	PO
+R42	Route-Drug Arg1:T60 Arg2:T55
+T61	Frequency 7508 7513	DAILY
+R43	Frequency-Drug Arg1:T61 Arg2:T55
+T62	Reason 7536 7548	constipation
+R44	Reason-Drug Arg1:T62 Arg2:T55
+T63	Drug 7553 7572	Silver Sulfadiazine
+T65	Form 7577 7582	Cream
+R46	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 7588 7595	One (1)
+R47	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 7596 7600	Appl
+R48	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 7601 7608	Topical
+R49	Route-Drug Arg1:T68 Arg2:T63
+T69	Frequency 7609 7614	DAILY
+R50	Frequency-Drug Arg1:T69 Arg2:T63
+T70	Drug 7663 7675	Multivitamin
+T71	Form 7680 7686	Tablet
+R51	Form-Drug Arg1:T71 Arg2:T70
+T72	Dosage 7692 7699	One (1)
+R52	Dosage-Drug Arg1:T72 Arg2:T70
+T73	Form 7700 7706	Tablet
+R53	Form-Drug Arg1:T73 Arg2:T70
+T74	Route 7707 7709	PO
+R54	Route-Drug Arg1:T74 Arg2:T70
+T75	Frequency 7710 7715	DAILY
+R55	Frequency-Drug Arg1:T75 Arg2:T70
+T76	Drug 7729 7741	Thiamine HCl
+T77	Strength 7742 7748	100 mg
+R56	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 7749 7755	Tablet
+R57	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 7761 7768	One (1)
+R58	Dosage-Drug Arg1:T79 Arg2:T76
+T80	Form 7769 7775	Tablet
+R59	Form-Drug Arg1:T80 Arg2:T76
+T81	Route 7776 7778	PO
+R60	Route-Drug Arg1:T81 Arg2:T76
+T82	Frequency 7779 7784	DAILY
+R61	Frequency-Drug Arg1:T82 Arg2:T76
+T83	Drug 7797 7807	Folic Acid
+T84	Strength 7808 7812	1 mg
+R62	Strength-Drug Arg1:T84 Arg2:T83
+T85	Form 7813 7819	Tablet
+R63	Form-Drug Arg1:T85 Arg2:T83
+T86	Dosage 7825 7832	One (1)
+R64	Dosage-Drug Arg1:T86 Arg2:T83
+T87	Form 7833 7839	Tablet
+R65	Form-Drug Arg1:T87 Arg2:T83
+T88	Route 7840 7842	PO
+R66	Route-Drug Arg1:T88 Arg2:T83
+T89	Frequency 7843 7848	DAILY
+R67	Frequency-Drug Arg1:T89 Arg2:T83
+T90	Drug 7863 7876	Acetaminophen
+T91	Strength 7877 7883	325 mg
+R68	Strength-Drug Arg1:T91 Arg2:T90
+T92	Form 7884 7890	Tablet
+R69	Form-Drug Arg1:T92 Arg2:T90
+T93	Dosage 7896 7903	Two (2)
+R70	Dosage-Drug Arg1:T93 Arg2:T90
+T94	Form 7904 7910	Tablet
+R71	Form-Drug Arg1:T94 Arg2:T90
+T95	Route 7911 7913	PO
+R72	Route-Drug Arg1:T95 Arg2:T90
+T96	Reason 7951 7964	fever or pain
+R73	Reason-Drug Arg1:T96 Arg2:T90
+T97	Drug 7970 7987	Heparin (Porcine)
+T98	Strength 7988 8001	5,000 unit/mL
+R74	Strength-Drug Arg1:T98 Arg2:T97
+T99	Form 8002 8010	Solution
+R75	Form-Drug Arg1:T99 Arg2:T97
+T100	Dosage 8016 8023	One (1)
+R76	Dosage-Drug Arg1:T100 Arg2:T97
+T101	Form 8024 8026	ML
+R77	Form-Drug Arg1:T101 Arg2:T97
+T102	Route 8027 8036	Injection
+R78	Route-Drug Arg1:T102 Arg2:T97
+T103	Frequency 8037 8040;8042 8055	TID 3 times a day
+R79	Frequency-Drug Arg1:T103 Arg2:T97
+T104	Drug 8062 8071	Methadone
+T105	Strength 8072 8077	10 mg
+R80	Strength-Drug Arg1:T105 Arg2:T104
+T106	Form 8078 8084	Tablet
+R81	Form-Drug Arg1:T106 Arg2:T104
+T107	Dosage 8090 8097	One (1)
+R82	Dosage-Drug Arg1:T107 Arg2:T104
+T108	Form 8098 8104	Tablet
+R83	Form-Drug Arg1:T108 Arg2:T104
+T109	Route 8105 8107	PO
+R84	Route-Drug Arg1:T109 Arg2:T104
+T110	Frequency 8108 8111	BID
+R85	Frequency-Drug Arg1:T110 Arg2:T104
+T111	Reason 8133 8145	pain control
+R86	Reason-Drug Arg1:T111 Arg2:T104
+T112	Drug 8151 8163	Perphenazine
+T113	Strength 8164 8168	2 mg
+R87	Strength-Drug Arg1:T113 Arg2:T112
+T114	Form 8169 8175	Tablet
+R88	Form-Drug Arg1:T114 Arg2:T112
+T115	Dosage 8181 8188	Two (2)
+R89	Dosage-Drug Arg1:T115 Arg2:T112
+T116	Form 8189 8195	Tablet
+R90	Form-Drug Arg1:T116 Arg2:T112
+T117	Route 8196 8198	PO
+R91	Route-Drug Arg1:T117 Arg2:T112
+T118	Frequency 8199 8202	BID
+R92	Frequency-Drug Arg1:T118 Arg2:T112
+T119	Drug 8241 8258	Lithium Carbonate
+T120	Strength 8259 8265	300 mg
+R93	Strength-Drug Arg1:T120 Arg2:T119
+T121	Form 8266 8273	Capsule
+R94	Form-Drug Arg1:T121 Arg2:T119
+T122	Dosage 8279 8286	One (1)
+R95	Dosage-Drug Arg1:T122 Arg2:T119
+T123	Form 8287 8294	Capsule
+R96	Form-Drug Arg1:T123 Arg2:T119
+T124	Route 8295 8297	PO
+R97	Route-Drug Arg1:T124 Arg2:T119
+T125	Frequency 8298 8303	DAILY
+R98	Frequency-Drug Arg1:T125 Arg2:T119
+T126	Drug 8317 8334	Lithium Carbonate
+T127	Strength 8335 8341	300 mg
+R99	Strength-Drug Arg1:T127 Arg2:T126
+T128	Form 8342 8349	Capsule
+R100	Form-Drug Arg1:T128 Arg2:T126
+T129	Dosage 8355 8362	Two (2)
+R101	Dosage-Drug Arg1:T129 Arg2:T126
+T130	Form 8363 8370	Capsule
+R102	Form-Drug Arg1:T130 Arg2:T126
+T131	Route 8371 8373	PO
+R103	Route-Drug Arg1:T131 Arg2:T126
+T132	Frequency 8374 8376	HS
+R104	Frequency-Drug Arg1:T132 Arg2:T126
+T133	Drug 8412 8421	Amiloride
+T134	Strength 8422 8426	5 mg
+R105	Strength-Drug Arg1:T134 Arg2:T133
+T135	Form 8427 8433	Tablet
+R106	Form-Drug Arg1:T135 Arg2:T133
+T136	Dosage 8439 8446	One (1)
+R107	Dosage-Drug Arg1:T136 Arg2:T133
+T137	Form 8447 8453	Tablet
+R108	Form-Drug Arg1:T137 Arg2:T133
+T138	Route 8454 8456	PO
+R109	Route-Drug Arg1:T138 Arg2:T133
+T139	Frequency 8457 8462	DAILY
+R110	Frequency-Drug Arg1:T139 Arg2:T133
+T140	Drug 8500 8507	Lithium
+T141	Drug 8518 8531	Hydromorphone
+T142	Strength 8532 8536	4 mg
+R111	Strength-Drug Arg1:T142 Arg2:T141
+T143	Form 8537 8543	Tablet
+R112	Form-Drug Arg1:T143 Arg2:T141
+T144	Dosage 8549 8550	1
+R113	Dosage-Drug Arg1:T144 Arg2:T141
+T145	Form 8567 8573	Tablet
+R114	Form-Drug Arg1:T145 Arg2:T141
+T146	Route 8574 8576	PO
+R115	Route-Drug Arg1:T146 Arg2:T141
+T147	Frequency 8577 8580;8581 8606	Q3H (every 3 hours) as needed
+R116	Frequency-Drug Arg1:T147 Arg2:T141
+T148	Reason 8611 8615	pain
+R117	Reason-Drug Arg1:T148 Arg2:T141
+T149	Drug 8621 8640	Metoprolol Tartrate
+T150	Strength 8641 8646	25 mg
+R118	Strength-Drug Arg1:T150 Arg2:T149
+T151	Form 8647 8653	Tablet
+R119	Form-Drug Arg1:T151 Arg2:T149
+T152	Dosage 8659 8666	One (1)
+R120	Dosage-Drug Arg1:T152 Arg2:T149
+T153	Form 8667 8673	Tablet
+R121	Form-Drug Arg1:T153 Arg2:T149
+T154	Route 8674 8676	PO
+R122	Route-Drug Arg1:T154 Arg2:T149
+T155	Frequency 8677 8680	BID
+R123	Frequency-Drug Arg1:T155 Arg2:T149
+T156	Drug 8702 8719	Magnesium Citrate
+T157	Form 8724 8732	Solution
+R124	Form-Drug Arg1:T157 Arg2:T156
+T158	Dosage 8738 8757	Three Hundred (300)
+R125	Dosage-Drug Arg1:T158 Arg2:T156
+T159	Form 8758 8760	ML
+R126	Form-Drug Arg1:T159 Arg2:T156
+T160	Route 8761 8763	PO
+R127	Route-Drug Arg1:T160 Arg2:T156
+T161	Frequency 8764 8784	once a day as needed
+R128	Frequency-Drug Arg1:T161 Arg2:T156
+T162	Reason 8789 8801	constipation
+R129	Reason-Drug Arg1:T162 Arg2:T156
+R130	Form-Drug Arg1:T5 Arg2:T6	
+R131	Dosage-Drug Arg1:T4 Arg2:T6	

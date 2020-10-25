@@ -1,0 +1,30 @@
+Name:  [**Known lastname 7045**],[**Known firstname 1715**]                  Unit No:   [**Numeric Identifier 7046**]
+
+Admission Date:  [**2112-10-23**]              Discharge Date:   [**2112-11-25**]
+
+Date of Birth:  [**2045-8-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 7047**]
+Addendum:
+Mrs[**Known lastname 7048**] blood pressure was consistently in the range of
+90-100 systolic and did not require anti-hypertensive
+medications.
+.
+Mrs.[**Known lastname 7049**] prescription for Megace was inadvertantly omitted
+from her discharge planning. A prescription for this was called
+in to her local pharmacy.
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Hospice of the Good [**Doctor Last Name 5548**]
+
+                             [**First Name11 (Name Pattern1) 499**] [**Last Name (NamePattern4) 7050**] MD [**MD Number(1) 7051**]
+
+Completed by:[**2112-11-25**]

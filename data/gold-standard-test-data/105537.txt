@@ -1,0 +1,373 @@
+Admission Date:  [**2118-10-30**]              Discharge Date:   [**2118-11-25**]
+
+Date of Birth:  [**2072-7-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3507**]
+Chief Complaint:
+Fever, pancytopenia, RUQ pain.
+
+Major Surgical or Invasive Procedure:
+Bone Marrow Biopsy
+ERCP with CBD stent placement
+Central Line/HD Line placement
+Intubation
+Lumbar Puncture
+Bronchoscopy
+
+History of Present Illness:
+HPI:  46 yo M with h/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2905**] [**Last Name (un) **] s/p thymectomy on Imuran
+who initially presented to his PCP [**Name Initial (PRE) 151**] T103 and dry cough
+treated with Amoxicillin and Augmentin without improvement.  He
+was then admitted to an OSH on [**2118-10-25**] for pancytopenia (WBC
+2.6, 18% bands, plt 104) and elevated LFTS c/w cholestasis.  He
+was treated with Azythromycin and Atovaquone for suspected tick
+borne illness.  He had a positive monospot test.  Hepatitis
+serologies were negative.
+.
+Patient was admitted to the surgical service at [**Hospital1 18**] on
+[**2118-10-30**] for persisitent fever and an elevated direct Tbili
+thought to be secondary to cholangitis.  He was started on
+Unasyn.  He underwent an ERCP on [**10-31**] which did not show
+biliary tract obstruction, however, a CBD stent was placed.  He
+was transfused 1 Unit of PRBC's, 3 bags of FFP, and 3 bags of
+plts.
+.
+Prior to the ERCP he developed repsiratory distress and was
+intubated.  CXR revealed bilateral patchy pulmonary infiltrates.
+ He became hemodynamically unstable and he was started on Norepi
+gtt.  ID was consulted and Ceftriaxone/ Doxycyclin were added;
+Zosyn was d/c'ed.  He spiked a temp to 105.3.  He was transfered
+to the MICU on [**10-31**] for further managament.
+
+
+Past Medical History:
+- Myasthenia [**Last Name (un) 2902**] for 19 years s/p thymectomy [**2103**]
+- Migraines
+- Prednisone induced osteoporosis
+- Low back Pain
+
+Social History:
+Has a girlfriend.  [**Name (NI) **] a 14 yo son who recently had a cold.
+Lives with girlfirend and step children.  Smokes and drinks EtOH
+occassionally.  No hx of IVDU.  Lives in [**Location 4310**] near a swamp.
+Breakheart reservation is 2 miles away.  No hx of tick bites.
+
+Family History:
+Mother has HTN.
+
+Physical Exam:
+Upon transfer to [**Hospital Unit Name 153**]:
+Tm 102.2  Tc 97.6  BP 175/92 (108-175/52-92)  HR 89 (71-111)
+PS 5/0 FiO2 35% Vt 850 (700-850) RR 16; ABG 7.44/33/173/23
+Fentanyl 125; Off Midaz since [**11-6**]
+Gen:  Sedated/intubated, appears comfortable on ventilator,
+occasional hiccups
+HEENT:  ET tube in place,  Eyes with lubricant, PERRL, pupils
+pinpoint
+CV: distant heart sounds. No murmurs appreciated.
+Resp: anteriorly - crackles throughout
+Abd: Soft, distended, decreased BM, unable to appreciate HSM
+Skin: Warm. Well Perfused.
+Ext:  hyperreflexic, Spastic, 5 beats of myoclonus, Toes
+upgoing, strong DP/PT pulses
+Access:  Right IJ triple lumen placed [**11-6**], Left IJ temp
+dialysis cath placed [**11-3**] by IR
+
+Pertinent Results:
+Liver US [**10-30**]:
+1.  Marked gallbladder wall edema with an effaced, non-distended
+gallbladder lumen is noted, without intrahepatic biliary ductal
+dilatation. There is minimal pericholecystic fluid.
+2.  Dilatation of the proximal CBD.
+3.  Prominent periportal lymphadenopathy, nonspecific.
+.
+CxR [**10-31**]: New perihilar pulmonary edema and bilateral pleural
+effusions.
+.
+ERCP [**10-31**]:
+Ccannulation of the common bile duct.  Cholangiogram
+demonstrates a normal caliber of the common bile duct and
+intrahepatic ducts.  The cystic duct is also filled with
+contrast, partially opacifying the gallbladder.  No strictures
+or filling defects are identified.  Following cholangiogram,
+there is placement of a plastic stent within the common bile
+duct.
+.
+CT Chest/Abd/Pelvis [**10-31**]:
+1.  Multifocal pulmonary opacities, which could represent an
+infectious process.
+2.  Bilateral axillary and right hilar lymphadenopathy, all
+could be related to the underlying infectious process.
+3.  Moderate bilateral pleural effusions.
+4.  Although there is ascites, fluid within the lesser sac and
+adjacent to the pancreatic head raises the suspicion of
+pancreatitis.
+5.  Splenomegaly.
+6.  Periportal lymphadenopathy.
+.
+Echo [**11-1**]:  No evidence of endocarditis. Normal global and
+regional
+biventricular systolic function. Mild mitral regurgitation.
+.
+Immunophenotyping [**11-2**]:  Pending
+.
+Bronchial washings [**11-2**]: NEGATIVE FOR MALIGNANT CELLS.
+Pulmonary macrophages.  No viral cytopathic changes or
+microorganisms seen.
+.
+R LENI [**11-6**]: No evidence of right lower extremity DVT.
+.
+CXR [**11-7**]:  Pulmonary edema, now mild, has improved
+substantially since [**11-5**].  A relatively rapid onset
+between [**10-30**] and 16 and pace of improvement suggests the
+diagnosis is cardiogenic rather than noncardiac edema.  Heart is
+normal size.  There is no mediastinal or pulmonary vascular
+engorgement.  Lungs are clear aside from bands of atelectasis.
+Other pleural surfaces are normal except for mild thickening
+associated with fractures of left ribs at least the fifth, which
+may have developed between [**11-2**] and 21. Tip of the right
+jugular line projects over the junction of the brachiocephalic
+veins and a left internal jugular line ends in the upper SVC.
+.
+CT abd/pelvis [**11-7**]:
+1. Slightly increased amount of intraabdominal simple free
+fluid.
+2. Interval placement of CBD stent with collapsed, edematous
+gallbladder.
+3. Pancreas appears similar to previous exam.
+.
+CT Head [**11-7**]:
+1. No acute intracranial hemorrhage or mass effect.
+2. Interval opacification of multiple mastoid air cells.
+.
+
+[**2118-10-30**] 09:46PM BLOOD HCV Ab-NEGATIVE
+[**2118-10-31**] 10:21PM BLOOD HIV Ab-NEGATIVE
+[**2118-10-30**] 09:46PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE IgM
+HAV-NEGATIVE
+[**2118-11-21**] 06:30AM BLOOD TSH-2.9
+[**2118-10-31**] 10:21PM BLOOD calTIBC-156* VitB12-1420* Folate-14.4
+Hapto-65 Ferritn-6065* TRF-120*
+[**2118-11-5**] 02:36AM BLOOD Lipase-760*
+[**2118-11-23**] 06:25AM BLOOD Lipase-242*
+[**2118-10-30**] 01:20PM BLOOD ALT-81* AST-240* AlkPhos-294*
+Amylase-147* TotBili-8.9* DirBili-7.4* IndBili-1.5
+[**2118-11-1**] 11:35PM BLOOD ALT-90* AST-361* LD(LDH)-665*
+CK(CPK)-725* AlkPhos-217* Amylase-203* TotBili-7.5*
+[**2118-11-24**] 06:20AM BLOOD ALT-85* AST-21 AlkPhos-136* TotBili-1.7*
+[**2118-10-30**] 01:20PM BLOOD UreaN-16 Creat-1.0 Na-131* K-4.1 Cl-98
+HCO3-24 AnGap-13
+[**2118-11-4**] 06:30PM BLOOD Glucose-111* UreaN-88* Creat-7.1* Na-130*
+K-4.9 Cl-98 HCO3-18* AnGap-19
+[**2118-11-25**] 07:40AM BLOOD Glucose-87 UreaN-30* Creat-1.1 Na-138
+K-3.8 Cl-105 HCO3-25 AnGap-12
+[**2118-11-2**] 03:23AM BLOOD  WBC-3.5* Lymph-17* Abs [**Last Name (un) **]-595 CD3%-97
+Abs CD3-580 CD4%-89 Abs CD4-532 CD8%-8.5 Abs CD8-51*
+CD4/CD8-9.9*
+[**2118-11-25**] 07:40AM BLOOD Gran Ct-70*
+[**2118-10-30**] 01:20PM BLOOD WBC-2.0* RBC-3.50* Hgb-11.5* Hct-33.5*
+MCV-96 MCH-32.8* MCHC-34.3 RDW-15.6*
+[**2118-11-25**] 07:40AM BLOOD WBC-0.4* RBC-2.72* Hgb-8.1* Hct-22.6*
+MCV-83 MCH-29.9 MCHC-35.9* RDW-14.7 Plt Ct-81*#
+[**2118-11-17**] 02:14PM CEREBROSPINAL FLUID (CSF) WBC-2 RBC-0 Polys-0
+Lymphs-87 Monos-13
+[**2118-11-1**] 11:34PM CEREBROSPINAL FLUID (CSF) WBC-13 RBC-3* Polys-0
+Lymphs-95 Monos-0 Macroph-5
+[**2118-11-1**] 11:34PM CEREBROSPINAL FLUID (CSF) WBC-13 RBC-32*
+Polys-0 Lymphs-67 Monos-0 Macroph-33
+[**2118-11-17**] 02:13PM CEREBROSPINAL FLUID (CSF) TotProt-34 Glucose-61
+[**2118-11-1**] 11:34PM CEREBROSPINAL FLUID (CSF) TotProt-19 Glucose-63
+.
+BM Bx
+ERYTHROID-DOMINANT MARROW WITH INCREASED HEMOPHAGOCYTIC
+HISTIOCYTES, DECREASED CELLULAR DENSITY, AND INCREASED
+BACKGROUND EOSINOPHILIC CELL DEBRIS, CONSISTENT WITH
+HEMOPHAGOCYTIC SYNDROME (HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS
+
+Brief Hospital Course:
+Hospital Course:
+.
+# Fever/Pancytopenia/ID/Hemophagocytic Lymphohistiocytosis: Pt
+had been afebrile since [**11-4**] and all ABX d/c'ed on [**11-6**],
+however, Vanco/Ceftaz were restarted on [**11-7**] for Tm of 102.2.
+Concern was for VAP given increased respiratory secretions vs
+recurrent pancreatitis with pseudocyst as pancreas enzymes were
+rising after recently having restarted TF.  CT Abd/pelvis was
+without evidence of worsening radiographic pancreatitis.  Other
+sources considered included line infections (Right IJ recently
+replaced in same site) or C. diff given prolonged ABX course.
+.
+Extensive prior infectious workup had revealed a positive EBV
+IgM, EBV PCR, and EBV PCR in CSF.  Given pancyotpenia,
+splenomegaly, and EBV infection Heme/Onc and ID were considered
+the diagnosis of Hemophagocytic Lymphohistiocytosis, which was
+confirmed by repeat bone marrow biopsy (first biopsy
+unremarkable).  Pt was begun on etoposode, IVIG and decadron on
+~[**11-7**].  His pancytopenia was also treated with epogen and
+neupogen.
+.
+Per HEME, HLH likely triggered by underlying EBV infection.
+While there was evidence of EBV in the CSF; because of normal
+Protein no need for IT-MTX.  The patient was started on a
+steroid taper (currently on 10 mg Decadron) and will need 8
+weeks total of Etoposide.  Renal failure, pancreatic
+abnormalities, and elevated LFTs all thought to be d/t
+underlying HLH.  In addition, ID consults did not recommend
+treating EBV viremia with anti-virals.
+.
+On [**11-9**], pt was noted to have EBSL klebsiella in a sputum and
+BAL sample, and was begun on meropenem for 14 day course. He
+continued to develop low grade temperature (100.0-100.6), which
+were attributed to his HLH, IVIG, and CVVHD.
+.
+#  Respiratory Failure: Pt intubated on [**2118-10-30**] for impending
+respiratory distress at time of his ERCP.  Upon admission to the
+[**Hospital Unit Name 153**] on [**11-7**], his respiratory mechanics had improved
+considerably, and he was oxygenating and ventilating well on PS
+5/0.  Initially unable to extubate secondary to altered mental
+status and increased secretions.  Pt was often desyncrhonous on
+vent secondary to hiccups when sedation weaned.  As mental
+status improved gradually, pt was extubated on [**11-10**].   His
+respiratory status continued to improve slowly, despite +BAL for
+EBSL klebsiella and total body fluid overload, and on [**11-14**] pt
+was sat'ing >95% on RA.
+.
+# Mental Status - pt presented to [**Hospital1 18**] alert & oriented,
+however his mental status subsequently declined.  After
+intubation on [**10-30**], pt remained largely sedated until just
+prior to admission to the [**Hospital Unit Name 153**] on [**11-7**].  Attempts to wean
+sedation were limited by hiccups which resulted in dysynchrony
+the mechanical ventilation, breif neuro exam at time of [**Hospital Unit Name 153**]
+admission with sedation weaned revealed pt responsive only to
+deep painful stimulus (sternal rub),  pupils minimally reactive
+to light bilaterally, gag was present, with slow corneal reflex.
+ +hyperreflexia, though tone was flacid, and 5-10 beat clonus of
+both feet was noted which initially worsened to 20 beat clonus
+on [**11-11**] before slowly improving.
+.
+Was seen by the neurology/psychiatry services given his new
+neurological findings and h/o myasthenia [**Last Name (un) 2902**] (which
+predominantly was ocular per pt's family).  EEG was obtained
+which showed diffuse slowing, but no focus of seizure activity.
+CT head on [**11-7**] unremarkable. Over the course of his first week
+in the [**Name (NI) 153**], pt's mental status improved dramatically,
+presumably with chemotherapy.  By [**11-14**] pt was alert, pleasantly
+conversive, and following all commands.  His imuran for
+myasthenia [**Last Name (un) 2902**] has been held since admission.  Neuro also
+noted proximal weakness of his arms, which improved during his
+hospital course.  Per Neruo, he should hold Imuran until he
+follows up with Neuro as an outpatient.
+.
+# Renal - pt without h/o CRI, developed ARF likely secondary to
+ATN from hypotension and underlying HLH on [**11-1**].  Pt was
+started on CVVHD at that time for volume overload [**2-17**] anuria,
+however, UOP gradually improved, and on [**11-15**] pt was
+discontinued from HD.  Creatinine normal on discharge.
+.
+# Cholestasis/hepatitis/pancreatitis - pt presented to [**Hospital1 18**]
+from OSH with RUQ pain, fever, and elevated LFTs (Tbil 7's), for
+which he underwent ERCP with CBD stent on [**11-2**].  LFTs have
+since trended down, though amylase/lipase (peak in 1000s) were
+starting to plateau at 500s on [**11-14**].  CT abdomen showed
+pancreatic fluid collection, but not psuedocyst or necrosis.  On
+[**11-13**] pt denied abdominal pain, and was hungry, thus was
+transitioned from TPN to TF cautiously, as prior attempt to
+restart tube feeds was limited by bump in amylase/lipase.  On
+[**11-14**], pt was tolerating TF without difficulty, in addition to
+sips of clear liquids, thus he was advanced to a regular diet
+after a speech & consult was obtained. On the floor, he
+tolerated his diet without other clinical s/sx of pancreatitis.
+.
+Psych:  thought the patient had a mild encephalopathy that was
+slowly resolving.  Recommeded Haldol/Seroquel for sleep;
+however, this made the patient feel strage.  Given resolution of
+MS changes, ok for patient to receive ambien at rehab prn.
+.
+HTN: kept on Lopressor 100 mg TID with excellent results.
+
+Medications on Admission:
+Imuran, Imitrex, Amoxicillin, Augmentin, Atovaquone, Azithromax
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day).
+Disp:*180 Tablet(s)* Refills:*2*
+2. Meropenem 500 mg Recon Soln Sig: Five Hundred (500) mg
+Intravenous  every eight (8) hours: please continue until ANC
+>500.
+Disp:*qs mg* Refills:*2*
+3. Dexamethasone 4 mg Tablet Sig: 2.5 Tablets PO once a day:
+Please give 10 mg PO daily until [**12-5**]; then begin 5 mg po
+daily.
+Disp:*qs Tablet(s)* Refills:*2*
+4. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed for fever.
+Disp:*qs Tablet(s)* Refills:*0*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day: while on
+steroids.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID
+(3 times a day) as needed.
+Disp:*qs qs* Refills:*0*
+7. Nystatin 100,000 unit/g Cream Sig: One (1) Appl Topical  [**Hospital1 **]
+(2 times a day).
+Disp:*qs qs* Refills:*2*
+8. Ambien 5 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO once a day:
+Please continue until ANC >500.
+.
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis:
+1.  Hemophagocytic lymphohistiocytosis
+2.  Acute Renal Failure, resolved
+3.  Elevated LFTs secondary to Obstruction/HLH
+4.  Elevated amylase/lipase, likely secondary to HLH
+5.  Myasthenia [**Last Name (un) **], stable
+6.  Hospital Acquired PNA (Klebsiella)
+7.  Pancytopenia/Febrile Neutropenia
+8.  Sepsis
+9.  Respiratory Failure
+10. Hypertension
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please contact Dr.[**Name (NI) 3588**] office or your PCP should you
+develop any fevers, chills, sweats, abodminal pain, nausea,
+vomiting, or any other complaints.
+
+Please make an appointment to see your outpatient Neurologist as
+soon as possible.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 5026**], MD Phone:[**Telephone/Fax (1) 3237**]
+Date/Time:[**2118-11-30**] 11:00
+
+Provider: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2118-11-30**] 11:00
+
+Someone from the Gastroenterology Team will be calling you at
+Rehab regarding pulling the stent from your liver.
+
+Please f/u with your neurologist as an outpt.
+
+

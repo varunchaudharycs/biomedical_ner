@@ -1,0 +1,191 @@
+T1	Drug 5632 5641	lactulose
+T2	Drug 2950 2959	Aldactone
+T3	Drug 520 525	Lasix
+T4	Drug 3820 3829	midodrine
+T5	Drug 1169 1177	Protonix
+T6	Strength 1178 1183	40 mg
+T7	Frequency 1184 1188;1189 1196	once per day
+T8	Drug 6918 6928	vancomycin
+T9	Drug 3011 3021	Kayexalate
+T10	Drug 5358 5367	lactulose
+T11	Drug 7830 7840	vancomycin
+T12	Drug 6426 6438	levofloxacin
+T13	Drug 6562 6573	doxycycline
+T14	Duration 6521 6531	of 10 days
+T15	Drug 1059 1068	Aldactone
+T16	Strength 1069 1074	50 mg
+T17	Drug 8357 8367	Vancomycin
+T18	Strength 8368 8374	1 gram
+T19	Route 8375 8388	intravenously
+T20	Drug 1320 1327	CODEINE
+T21	Drug 1244 1253	Oxycodone
+T22	Strength 1254 1258	2 mg
+T23	Drug 1202 1211;1212 1217	Magnesium oxide
+T24	Strength 1218 1224	800 mg
+T25	Frequency 1225 1230;1231 1238	twice per day
+T26	Drug 6575 6581	Keflex
+T27	Drug 3890 3902	tetracycline
+T28	Drug 1080 1085	Lasix
+T29	Strength 1086 1091	20 mg
+T30	Drug 6587 6599	levofloxacin
+T31	Drug 4157 4168	doxycycline
+T32	Drug 8256 8265	Lactulose
+T33	Dosage 8266 8268;8269 8271	30 mL
+T34	Frequency 8281 8292;8293 8300	three times per day
+T35	Route 8272 8280	by mouth
+T36	Drug 7362 7371	lactulose
+T37	Drug 1097 1103	Flagyl
+T38	Strength 1104 1110	250 mg
+T39	Frequency 1111 1122;1123 1130	three times per day
+T40	Drug 4684 4694	octreotide
+T41	Drug 6093 6103	vancomycin
+T42	Drug 465 470	Lasix
+T43	Drug 8147 8157;8158 8165	Miconazole nitrate
+T44	Form 8166 8172	powder
+T45	Drug 3163 3174	doxycycline
+T46	Drug 4699 4708	midodrine
+T47	Drug 3805 3815	octreotide
+T48	Drug 478 487	Aldactone
+T49	Drug 8230 8238	Protonix
+T50	Strength 8239 8244	40 mg
+T51	Drug 6374 6384	vancomycin
+T52	Drug 5864 5874	vancomycin
+T53	Drug 8428 8438	vancomycin
+T54	Drug 1136 1143	Quinine
+T55	Strength 1144 1150	325 mg
+T56	Frequency 1151 1155;1156 1163	once per day
+T57	Drug 8104 8114	vancomycin
+T58	Drug 7795 7805	vancomycin
+T59	Drug 2936 2941	Lasix
+T60	Drug 7675 7684	Aldactone
+T61	Strength 7685 7690	50 mg
+T62	Drug 4198 4204	Keflex
+T63	Drug 533 542	Aldactone
+T65	Reason 5670 5695	staphylococcal bacteremia
+T67	Strength 471 473	40
+T68	Strength 488 491	100
+T69	Strength 526 528	20
+T70	Strength 543 545	50
+T71	ADE 550 558;559 570	elevated creatinines
+T72	Strength 1262 1266	4 mg
+T73	Frequency 1267 1276	as needed
+T74	ADE 2904 2929	acute renal insufficiency
+T75	Reason 2976 2988	hyperkalemia
+T76	Reason 3184 3202;3203 3213	presumed preseptal cellulitis
+T77	Reason 3755 3775	hepatorenal syndrome
+T78	ADE 3859 3884	acute renal insufficiency
+T79	Dosage 4398 4405	2 units
+T80	Drug 4409 4431	packed red blood cells
+T81	Reason 4438 4441;4442 4452	low hematocrit
+T82	Drug 4736 4743	albumin
+T83	Strength 4744 4752	25 grams
+T84	Route 4753 4766	intravenously
+T85	Frequency 4767 4779	once per day
+T86	Reason 4984 4998	encephalopathy
+T87	Reason 5603 5616	mental status
+T88	Duration 6072 6089	four to six weeks
+T89	Reason 5883 5904	high-grade bacteremia
+T90	Reason 6447 6467	preseptal cellulitis
+T91	Reason 6479 6499	preseptal cellulitis
+T92	Route 6906 6917	intravenous
+T94	Reason 7154 7190	candidal infection of his groin area
+T95	Drug 7222 7245	anti-fungal medications
+T96	Duration 7774 7791	four to six weeks
+T97	Reason 8033 8088;8089 8099	Methicillin-resistant coagulase-negative staphylococcal bacteremia
+T98	Frequency 8181 8203;8204 8210	three times per day as needed
+T99	Reason 8214 8224	groin rash
+T100	Frequency 8245 8251	q.12h.
+T101	Frequency 8389 8395	q.12h.
+T102	Duration 8397 8411;8412 8421	for a total of six weeks
+R1	Strength-Drug Arg1:T6 Arg2:T5
+R2	Frequency-Drug Arg1:T7 Arg2:T5
+R3	Duration-Drug Arg1:T14 Arg2:T13
+R4	Strength-Drug Arg1:T16 Arg2:T15
+R5	Strength-Drug Arg1:T18 Arg2:T17
+R6	Route-Drug Arg1:T19 Arg2:T17
+R7	Strength-Drug Arg1:T22 Arg2:T21
+R8	Strength-Drug Arg1:T24 Arg2:T23
+R9	Frequency-Drug Arg1:T25 Arg2:T23
+R10	Strength-Drug Arg1:T29 Arg2:T28
+R11	Dosage-Drug Arg1:T33 Arg2:T32
+R12	Frequency-Drug Arg1:T34 Arg2:T32
+R13	Route-Drug Arg1:T35 Arg2:T32
+R14	Strength-Drug Arg1:T38 Arg2:T37
+R15	Frequency-Drug Arg1:T39 Arg2:T37
+R16	Form-Drug Arg1:T44 Arg2:T43
+R17	Strength-Drug Arg1:T50 Arg2:T49
+R18	Strength-Drug Arg1:T55 Arg2:T54
+R19	Frequency-Drug Arg1:T56 Arg2:T54
+R20	Strength-Drug Arg1:T61 Arg2:T60
+R21	Strength-Drug Arg1:T68 Arg2:T48
+R22	Strength-Drug Arg1:T67 Arg2:T42
+R23	Strength-Drug Arg1:T69 Arg2:T3
+R24	Strength-Drug Arg1:T70 Arg2:T63
+R25	ADE-Drug Arg1:T71 Arg2:T63
+R26	Frequency-Drug Arg1:T73 Arg2:T21
+R27	Strength-Drug Arg1:T72 Arg2:T21
+R28	Reason-Drug Arg1:T75 Arg2:T9
+R29	Reason-Drug Arg1:T76 Arg2:T45
+R30	Reason-Drug Arg1:T77 Arg2:T47
+R31	Reason-Drug Arg1:T77 Arg2:T4
+R32	ADE-Drug Arg1:T78 Arg2:T27
+R33	Dosage-Drug Arg1:T79 Arg2:T80
+R34	Reason-Drug Arg1:T81 Arg2:T80
+R35	Frequency-Drug Arg1:T85 Arg2:T82
+R36	Route-Drug Arg1:T84 Arg2:T82
+R37	Strength-Drug Arg1:T83 Arg2:T82
+R38	Reason-Drug Arg1:T86 Arg2:T10
+R39	Reason-Drug Arg1:T87 Arg2:T1
+R40	Reason-Drug Arg1:T65 Arg2:T52
+R41	Duration-Drug Arg1:T88 Arg2:T41
+R42	Reason-Drug Arg1:T90 Arg2:T12
+R43	Duration-Drug Arg1:T14 Arg2:T26
+R44	Duration-Drug Arg1:T14 Arg2:T30
+R45	Reason-Drug Arg1:T91 Arg2:T26
+R46	Reason-Drug Arg1:T91 Arg2:T13
+R47	Reason-Drug Arg1:T91 Arg2:T30
+R48	Route-Drug Arg1:T92 Arg2:T8
+R50	Reason-Drug Arg1:T94 Arg2:T95
+R51	Duration-Drug Arg1:T96 Arg2:T58
+R52	Reason-Drug Arg1:T97 Arg2:T57
+R53	Reason-Drug Arg1:T99 Arg2:T43
+R54	Frequency-Drug Arg1:T98 Arg2:T43
+R55	Frequency-Drug Arg1:T100 Arg2:T49
+R56	Duration-Drug Arg1:T102 Arg2:T17
+T103	Drug 409 418	diuretics
+T104	ADE 1342 1364	gastrointestinal upset
+T105	Drug 3470 3478	diuresis
+T106	ADE 3416 3441	acute renal insufficiency
+T107	Reason 4122 4140	orbital cellulitis
+T108	ADE 4633 4661	creatinine continued to rise
+T110	Drug 5112 5118	lavage
+T111	Route 5100 5111	nasogastric
+T112	Reason 5150 5177	occult-blood positive stool
+T113	Drug 5196 5202	lavage
+T114	Route 5184 5195	nasogastric
+T115	Drug 5307 5316	sedatives
+T116	Drug 6535 6546	antibiotics
+T117	Drug 6802 6811	diuretics
+T118	Route 6851 6872	central catheter line
+T119	Drug 7625 7634	diuretics
+T120	ADE 1307 1316	allergies
+T121	Reason 4045 4070	mild preseptal cellulitis
+T122	Route 7214 7221	topical
+T123	ADE 7400 7408	diarrhea
+R57	ADE-Drug Arg1:T106 Arg2:T105
+R58	Route-Drug Arg1:T111 Arg2:T110
+R59	Reason-Drug Arg1:T112 Arg2:T110
+R60	Route-Drug Arg1:T114 Arg2:T113
+R49	ADE-Drug Arg1:T120 Arg2:T20	
+R61	ADE-Drug Arg1:T104 Arg2:T20	
+R62	ADE-Drug Arg1:T74 Arg2:T59	
+R63	ADE-Drug Arg1:T74 Arg2:T2	
+R64	Reason-Drug Arg1:T107 Arg2:T62	
+R65	Reason-Drug Arg1:T121 Arg2:T62	
+R66	ADE-Drug Arg1:T108 Arg2:T40	
+R67	ADE-Drug Arg1:T108 Arg2:T46	
+R68	Reason-Drug Arg1:T89 Arg2:T52	
+R69	Route-Drug Arg1:T118 Arg2:T8	
+R70	Route-Drug Arg1:T122 Arg2:T95	
+R71	ADE-Drug Arg1:T123 Arg2:T36	
+R72	Frequency-Drug Arg1:T101 Arg2:T17	

@@ -1,0 +1,128 @@
+T1	Strength 5904 5910	250 mg
+T2	Form 5931 5937	Tablet
+T3	Route 5938 5940	PO
+T4	Drug 5889 5902;5902 5903	Chlorothiazid e
+T5	Drug 4459 4467	fentanyl
+T6	Drug 6020 6029	Glipizide
+T7	Strength 6030 6034	5 mg
+T8	Form 6055 6061	Tablet
+T9	Route 6062 6064	PO
+T10	Drug 7109 7116	Tylenol
+T11	Drug 6485 6493	Losartan
+T12	Drug 5959 5968	Metformin
+T13	Strength 5969 5975	500 mg
+T14	Form 5992 5998	Tablet
+T15	Dosage 5988 5991	0.5
+T16	Route 5999 6001	PO
+T17	Drug 5021 5029	Atenolol
+T18	Drug 5644 5650	Diuril
+T19	Drug 5247 5255	Losartan
+T20	Drug 5009 5019	amlodipine
+T21	Drug 6931 6938	Aspirin
+T22	Drug 6420 6429	enalapril
+T23	Drug 4885 4894	lopressor
+T24	Drug 6870 6877	Aspirin
+T25	Strength 6878 6883	325mg
+T26	Frequency 6901 6905;6906 6911	once daily
+T27	Drug 5656 5665	Enalapril
+T28	Drug 5788 5796	Losartan
+T29	Strength 5797 5802	50 mg
+T30	Route 5830 5832	PO
+T31	Drug 4511 4518	insulin
+T32	Drug 6407 6415	Atenolol
+T33	Drug 5671 5680	Metformin
+T34	Drug 5608 5618	Amlodipine
+T35	Drug 5035 5044	enalapril
+T36	Drug 5725 5732	Aspirin
+T37	Strength 5733 5739	325 mg
+T38	Form 5760 5766	Tablet
+T39	Route 5767 5769	PO
+T40	Drug 4648 4661	nitroglycerin
+T41	Drug 5686 5695	Glipizide
+T42	Drug 6395 6405	Amlodipine
+T43	Drug 5631 5639	Atenolol
+T44	Reason 4477 4481;4482 4489	pain control
+T45	Reason 4537 4542;4543 4559	tight glycemic control
+T46	Route 4468 4472	drip
+T47	Dosage 4519 4532	sliding scale
+T48	Route 4662 4666	drip
+T49	Reason 4862 4864	BP
+T50	Reason 5218 5243	blood pressure management
+T51	Strength 5619 5620	5
+T52	Strength 5626 5629	325
+T53	Drug 5622 5625	ASA
+T54	Strength 5640 5642	50
+T55	Strength 5651 5654	250
+T56	Strength 5666 5668	20
+T57	Strength 5681 5684	250
+T58	Strength 5696 5697	5
+T59	Form 5740 5746	Tablet
+T60	Dosage 5752 5759	One (1)
+T61	Frequency 5770 5783	DAILY (Daily)
+T62	Form 5803 5809	Tablet
+T63	Dosage 5815 5822	One (1)
+T64	Form 5823 5829	Tablet
+T65	Frequency 5833 5847;5848 5852	BID (2 times a day)
+T66	Form 5911 5917	Tablet
+T67	Dosage 5923 5930	One (1)
+T68	Frequency 5941 5946;5947 5954	DAILY (Daily)
+T69	Form 5976 5982	Tablet
+T70	Frequency 6002 6015	DAILY (Daily)
+T71	Form 6035 6041	Tablet
+T72	Dosage 6047 6054	One (1)
+T73	Frequency 6065 6078	DAILY (Daily)
+T74	Form 6885 6899	enteric coated
+T75	Reason 7156 7189	post procedure pain or discomfort
+R1	Strength-Drug Arg1:T1 Arg2:T4
+R2	Form-Drug Arg1:T2 Arg2:T4
+R3	Route-Drug Arg1:T3 Arg2:T4
+R4	Strength-Drug Arg1:T7 Arg2:T6
+R5	Form-Drug Arg1:T8 Arg2:T6
+R6	Route-Drug Arg1:T9 Arg2:T6
+R7	Strength-Drug Arg1:T13 Arg2:T12
+R8	Form-Drug Arg1:T14 Arg2:T12
+R9	Dosage-Drug Arg1:T15 Arg2:T12
+R10	Route-Drug Arg1:T16 Arg2:T12
+R11	Strength-Drug Arg1:T25 Arg2:T24
+R12	Frequency-Drug Arg1:T26 Arg2:T24
+R13	Strength-Drug Arg1:T29 Arg2:T28
+R14	Route-Drug Arg1:T30 Arg2:T28
+R15	Strength-Drug Arg1:T37 Arg2:T36
+R16	Form-Drug Arg1:T38 Arg2:T36
+R17	Route-Drug Arg1:T39 Arg2:T36
+R18	Route-Drug Arg1:T46 Arg2:T5
+R19	Reason-Drug Arg1:T44 Arg2:T5
+R20	Reason-Drug Arg1:T45 Arg2:T31
+R21	Dosage-Drug Arg1:T47 Arg2:T31
+R22	Route-Drug Arg1:T48 Arg2:T40
+R23	Reason-Drug Arg1:T49 Arg2:T23
+R24	Reason-Drug Arg1:T50 Arg2:T19
+R25	Strength-Drug Arg1:T58 Arg2:T41
+R26	Strength-Drug Arg1:T57 Arg2:T33
+R27	Strength-Drug Arg1:T56 Arg2:T27
+R28	Strength-Drug Arg1:T55 Arg2:T18
+R29	Strength-Drug Arg1:T54 Arg2:T43
+R30	Strength-Drug Arg1:T52 Arg2:T53
+R31	Strength-Drug Arg1:T51 Arg2:T34
+R32	Frequency-Drug Arg1:T61 Arg2:T36
+R33	Dosage-Drug Arg1:T60 Arg2:T36
+R34	Form-Drug Arg1:T59 Arg2:T36
+R35	Frequency-Drug Arg1:T65 Arg2:T28
+R36	Form-Drug Arg1:T64 Arg2:T28
+R37	Dosage-Drug Arg1:T63 Arg2:T28
+R38	Form-Drug Arg1:T62 Arg2:T28
+R39	Frequency-Drug Arg1:T68 Arg2:T4
+R40	Dosage-Drug Arg1:T67 Arg2:T4
+R41	Form-Drug Arg1:T66 Arg2:T4
+R42	Frequency-Drug Arg1:T70 Arg2:T12
+R43	Form-Drug Arg1:T69 Arg2:T12
+R44	Frequency-Drug Arg1:T73 Arg2:T6
+R45	Dosage-Drug Arg1:T72 Arg2:T6
+R46	Form-Drug Arg1:T71 Arg2:T6
+R47	Form-Drug Arg1:T74 Arg2:T24
+R48	Reason-Drug Arg1:T75 Arg2:T10
+T77	ADE 6305 6316	bradycardic
+T78	Drug 7131 7147	pain medications
+T79	Drug 7915 7930	pain medication
+T80	Drug 7887 7892;7893 7901	stool softener
+R51	ADE-Drug Arg1:T77 Arg2:T32	

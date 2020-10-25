@@ -1,0 +1,244 @@
+Admission Date:  [**2134-8-12**]              Discharge Date:   [**2134-8-19**]
+
+Date of Birth:  [**2053-11-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+s/p fall- SAH, L acetabular fx, L2+L3 transverse process
+fractures, question of T and L spine compression fractures
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+80 year-old man with history of CAD s/p IMI, afib s/p pacemaker
+on coumadin, COPD, laryngeal CA, who was admitted to the TICU
+with SAH after a fall, and is now transferred to the MICU for
+management of respiratory failure. Briefly, he had a mechanical
+fall on [**2134-8-12**] and subsequently sustained a SAH, transverse
+process fracture at L2/L3, a compression fracture of
+T3/T12/L1/L4, and a left acetabular fracture. His SAH and
+fractures were thought to be non-operable per neurosurgery and
+ortho, respectively. His course in the TICU was also remarkable
+for respiratory distress and ?new hypoxia on the day after
+admission (he was 98%2L on the day of admission per review of
+the notes), for which he was placed on a face mask, started on
+solumedrol, nebs, and azithromycin empirically for a presumed
+COPD exacerbation. This was weaned down to 2L NC on the day
+prior to transfer and he was satting 98%ra on the morning of
+transfer with a plan to go to rehab today.
+.
+Per report, later this morning around 11 a.m., he was found to
+be dyspneic, lethargic and breathing at a rate of 40. He was
+placed on a nonrebreather and had O2 satts in the 70s, HR 100s
+(afib), SBP 110. ABG was 7.37/47/98/28. He was thought to have
+aspirated vs flash pulmonary edema and given lasix 40 mg IV x 1
+with good UOP. Of note, his family has been updated and he
+agrees to BiPAP but would want to be comfortable if this fails
+(after many conversations with patient and family).
+.
+His hospital course has also been remarkable for delerium
+thought to be secondary to sundowning and narcotics, with
+geriatrics consulted.
+
+Past Medical History:
+AAA repair 4 years earlier
+Thyroidectomy 3 years earlier
+Advanced COPD
+AFib treated with coumadin
+CAD and pacemaker placement
+
+Social History:
+Lives at home with son.  [**Name (NI) **] current alcohol or tobacco use.
+
+Family History:
+Unknown
+
+Physical Exam:
+Vitals: T: BP: P: R: 18 O2:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2134-8-12**] 06:05AM BLOOD WBC-17.9*# RBC-5.01# Hgb-14.6# Hct-44.8#
+MCV-89 MCH-29.1 MCHC-32.6 RDW-14.1 Plt Ct-200
+[**2134-8-12**] 06:05AM BLOOD Neuts-93.8* Lymphs-3.5* Monos-2.5 Eos-0.1
+Baso-0.1
+[**2134-8-12**] 06:05AM BLOOD PT-32.5* PTT-35.3* INR(PT)-3.3*
+[**2134-8-12**] 06:05AM BLOOD Glucose-150* UreaN-24* Creat-1.8* Na-137
+K-4.8 Cl-102 HCO3-25 AnGap-15
+[**2134-8-12**] 06:05AM BLOOD CK(CPK)-88
+[**2134-8-12**] 06:05AM BLOOD CK-MB-NotDone
+[**2134-8-12**] 06:05AM BLOOD cTropnT-<0.01
+[**2134-8-12**] 09:01AM BLOOD Calcium-8.9 Phos-3.5 Mg-2.0
+[**2134-8-12**] 06:05AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2134-8-12**] 04:14PM BLOOD Type-ART pO2-43* pCO2-35 pH-7.44
+calTCO2-25 Base XS-0
+[**2134-8-12**] 06:17AM BLOOD Lactate-1.6
+[**2134-8-12**] 04:14PM BLOOD freeCa-1.12
+.
+.
+PERTINENT STUDIES:
+.
+CT Chest ([**8-12**]):1. Multiple thoracolumbar compression deformities
+as described above.  2. Right transverse process fracture of L3
+and L4.  3. Emphysema and multiple pulmonary nodules, one of
+which is not included in the field of view of the prior
+examination, measuring 4 mm. Given risk
+factors, a 12-month followup is recommended.  4. Multiple
+hepatic cysts.  5. Bilateral renal cysts
+
+CT Head ([**8-12**]):There is asymmetric dense appearance of the right
+side of the tentorium and
+lateral to it indicating a possible suddural hemorrhage
+associated.  Close f/u to assess the stability of the above
+findings is recommended.
+
+CT C-Spine ([**8-12**]):There is asymmetry in the size of the disc
+space at C4/5, wider anteriorly.
+(series 400b, im 19). Though this can relate to DJD and disc
+bulge, ligamentous injury needs to be excluded given the history
+of trauma and no prior studies. MR c spine can be performed for
+the same.
+
+LENI ([**8-18**]):  LLE: partially occluded clot in greater saphenous,
+unchanged from prior; superficial femoral vein proximal
+thrombus. Possible thrombus . RLE: interval development of
+partially occlusive clot in greater saphenous at junction of
+common femoral.
+
+CT Head ([**8-18**]):  1. No evidence of new hemorrhage  2. Stable
+appearance of bilateral subdural hemorrhage layering along the
+tentorium cerebelli. Interval resolution of subarachnoid
+hemorrhage seen in the interpeduncular cistern.  3. Chronic
+small vessel ischemic changes.
+4. Prominent ventricles and sulci, unchanged.
+
+TTE ([**8-18**]):  Mild symmetric left ventricular hypertrophy with
+preserved global and regional biventricular systolic function.
+Moderate pulmonary hypertension.
+
+
+Brief Hospital Course:
+Patient was admitted to T/SICU from ER for management of his
+injuries s/p mechanical fall, which included SAH, L acetabular
+fracture, L2L3 transverse process fractures, and thoracolumbar
+compression injuries.  Orthopaedics and Neurosurgery were
+consulted for these injuries.  Orthopaedics recommended
+non-operative management of L hip fracture. Patient was to be
+touch-down weight-bearing for 6 weeks and to follow-up in the
+[**Hospital 13308**] clinic after this course of time.  Neurosurgery
+recommended normalization of his INR and repeat imaging of his
+head in 6hours and 24 hours.  No intervention was recommended
+for vertebral fractures.  His repeat head CTs revealed no
+change.
+
+Patient had unstable respiratory status while in the ICU, which
+was felt to be d/t COPD flair.  He was treated with steroids,
+CPAP or BiPAP, and Azithromycin.   He experienced some delirium
+and sundowning in the unit and geriatrics was consulted and
+recommended afternoon haldol rather than standing doses and
+tylenol with breakthrough oxycodone rather than morphine
+standing.
+
+On HD4 patient had discussion with team regaring desire to be
+DNR/DNI and desire for care not to be escalated.  Patient was
+weaned to 2L NC and transferred to floor.  Physical therapy and
+occupational therapy evaluated the patient and hospice care was
+consulted.  Patient had a speech and swallow consult.  1:1
+supervision with crushed/pureed foods was recommended.
+
+On HD5 patient became increasingly tachypneic and was
+transferred back to the T/SICU for BiPAP.  The decision was made
+to transfer patient from surgical intensive care unit to medical
+intensive care unit.
+
+During his MICU stay, the patient was placed on Bipap for
+hypoxic respiratory failure.  He was placed empirically on
+antibiotics and was given IV steroids for a possible COPD
+exacerbation.  He remained dyspneic with labored work of
+breathing while on Bipap. LENIs were performed, which showed a
+new DVT in his lower extremity.  He was thus placed on a heparin
+drip.  He went into AFib with RVR and was started on a diltiazem
+drip.  He developed increased work of breathing in the setting
+of AFib with RVR and eventually expired from cardiopulmonary
+arrest.
+
+
+Medications on Admission:
+Nitropatch 0.2 mg per hour
+folic acid 1 mg per day
+Toprol-XL 12.5 mg per day
+Protonix 40 mg per day
+Coumadin 2mg per day
+Mirtazapine
+Levoxyl 50 mcg per day
+Testosterone
+Vytorin 20/10,
+Albuterol inhaler
+Combivent inhaler
+Fluticasone inhaler
+Calcium/vit B-12
+
+Discharge Medications:
+1. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: [**1-8**] Tablet,
+Sublinguals Sublingual PRN (as needed) as needed for chest pain.
+
+2. Cyanocobalamin 100 mcg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+3. Azithromycin 250 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours) for 1 days.
+Disp:*2 Tablet(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Milk of Magnesia 800 mg/5 mL Suspension Sig: Thirty (30) ML's
+PO twice a day as needed for constipation.
+6. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every [**4-12**]
+hours as needed for pain.
+8. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO at bedtime as
+needed for constipation.
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+s/p Fall
+Subarachnoid hemorrhage
+Transverse process fractures L2,3
+Compression fracture T3,12; L1,4
+Left acetabular fracture
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+
+Completed by:[**2134-11-29**]

@@ -1,0 +1,523 @@
+Admission Date:  [**2165-4-21**]              Discharge Date:   [**2165-5-22**]
+
+Date of Birth:  [**2110-4-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 348**]
+Chief Complaint:
+Acute Renal Failure
+
+Major Surgical or Invasive Procedure:
+[**2165-4-21**] Intubation
+[**2165-4-21**] Right IJ line placement
+[**2165-4-24**] IR-guided lumbar puncture
+[**2165-4-25**] TEE
+[**2165-4-20**] Intubation
+[**2165-4-23**] Attempted bedside lumbar puncture
+[**2165-4-24**] IR-guided lumbar puncture
+[**2165-4-26**] Hemodialysis line placement and hemodialysis initiation
+[**2165-4-30**] Nasogastric tube placement
+[**2165-4-30**] Extubation
+[**2165-5-2**] IR-guided hemodialysis tunneled catheter placement
+[**2165-5-6**] lumbar puncture
+[**2165-5-13**] tunnelled HD cath placed
+[**2165-5-15**] tunnelled HD cath placed
+
+
+History of Present Illness:
+55 y.o. male with PMHx of DM, HTN, CAD s/p IMI with 3 stents to
+RCA and recently diagnosed RCC who is transferred from [**Hospital **]for ongoing work-up of acute renal failure and change in
+mental status.
+.
+Patient was admitted to [**Hospital3 7571**]Hospital on [**2165-4-16**] for
+chest and abdominal pain. He ruled out for an MI with cardiac
+biomarkers and was felt to be constipated as was illustrated on
+CT and thought to be due to chronic narcotic use for lower back
+pain and right hip pain (awaiting hip replacement). His
+constipation was treated aggressively with medications and
+disimpaction with minimal effect. On day 4 of his
+hospitalization, he was febrile to 104 with a leukocytosis to 14
+and was pan-cultured while Vancomycin and Zosyn were started
+empirically with specific concern for a PIV infection suggested
+by surrounding erythema and edema. Blood cultures later grew
+GPCs in [**2-23**] bottles and chronic foot ulcers were swabbed and
+reportedly grew staph aureus with pending sensitivities. Zosyn
+was thus discontinued. In the setting of infection, patient
+became delirious, noted to be attempting to grab things from the
+air and talking to people in the room. Of note, patient was
+continued on narcotics, reportedly at the wife's insistence
+given concern for narcotic withdrawal. Neurology was consulted
+and recommended a head CT which was unremarkable, leaving them
+to conclude that the mental status was toxic/metabolic in the
+setting of infection and narcotic use. He was started on
+Ceftriaxone 2 grams daily for CNS coverage though no LP was
+performed. On day 5, patient was noted to develop acute renal
+failure with a creatinine of 3, up from 1.3 and was also anuric.
+CKs were checked to evaluate renal failure from rhabdomyolysis
+and were not likely contributing at a level of 361. He was
+transferred to [**Hospital1 18**] for concern of his renal failure
+progressing to the point of needing HD, since [**Hospital3 77641**]
+no HD facilities.
+.
+Upon arrival, patient was noted to vomit and had reportedly
+vomited in route to [**Hospital1 18**]. He additionally started experiencing
+low-amplitude, rhythmic clonus of his hands and legs, became
+transiently hypoxic and was not verbally responsive. There was
+concern for seizing and patient was urgently intubated to
+protect his airway. Discussion with the patient's wife, [**Name8 (MD) **] RN,
+revealed that the patient has never had a seizure disorder and
+does not drink alcohol. Additionally, he had a CT scan with
+contrast at [**Hospital1 2025**] 3 days prior to his admission to [**Hospital3 **]as a part of his RCC work-up and the wife expressed concern for
+contrast-induced nephropathy. Patient was then ordered for a
+stat head CT given the mental status and neurology was consulted
+for further assistance with management.
+
+Past Medical History:
+CAD s/p IMI in '[**60**] with stents in RCA
+DM
+HTN
+Morbid Obesity
+OA - awaiting right hip replacement
+Gout
+
+Social History:
+Per wife, no alcohol.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Vitals: T: 98.5, BP: 139/110, P: 117, R: 16 O2: 93% AC
+600/14/100%/5
+General: Awake, but not able to follow commands, responding with
+one word sentences, occasionally not responsive to sternal rub,
+noted to have fasiculations of tongue and low-amplitude clonus
+of hands and legs bilaterally
+HEENT: NC/AT; PERRLA, EOMI; OP with dry mucous membranes
+Neck: Obese neck, unable to appreciate JVD
+Lungs: CTAB
+CV: S1, S2 nl, no m/r/g appreciated
+Abdomen: Markedly distended and tympanic to percussion, bowel
+sounds not appreciated
+Ext: No c/c/e; Left foot with 2 stage 3 ulcers without
+surrounding cellulitis and amputation of 2 toes
+Neuro: Patient largely unable to cooperate. Downgoing toes
+bilaterally
+
+Pertinent Results:
+Discharge Labs:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2165-5-22**] 05:07AM    8.6 2.76* 7.6* 23.1* 84 27.6 32.9 16.4*
+368
+
+PT PTT Plt Smr Plt Ct INR(PT)
+[**2165-5-22**] 05:07AM          368
+Source: Line-picc
+[**2165-5-22**] 05:07AM    14.7* 26.0     1.3*
+
+ESR
+[**2165-5-14**] 06:30AM    150*
+Source: Line-PICC
+HEMOLYTIC WORKUP Ret Aut
+[**2165-5-16**] 05:33AM    4.9*
+
+Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2165-5-22**] 05:07AM    79 26* 2.2* 140 4.0 100 28 16
+Calcium Phos Mg UricAcd Iron
+[**2165-5-22**] 05:07AM          9.0 3.9 1.7
+Source: Line-picc
+HEMATOLOGIC calTIBC VitB12 Folate Hapto Ferritn TRF
+[**2165-5-6**] 05:25AM    156* 587 9.4 336* 981* 120*
+PITUITARY TSH
+[**2165-4-21**] 07:47PM    4.0
+ADDED [**Doctor Last Name **] AT 2040 ON [**2165-4-21**]
+  THYROID PTH
+[**2165-5-21**] 07:30AM    26
+[**2165-5-21**] 06:30AM    41
+Source: Line-PICC
+  IMMUNOLOGY CRP
+[**2165-5-14**] 06:30AM    112.5*1
+
+[**2165-4-21**] through discharge -> no growth in blood cultures
+[**2165-5-21**] cath tip swab -> no growth
+
+For complete blood culture results, please call [**Telephone/Fax (1) 2756**] and
+ask for microbiology.
+
+[**2165-4-21**] CXR: ET tube tip at the thoracic inlet is approximately
+45 mm from the carina, standard position. Lung volumes are low
+and there are several areas of plate-like atelectasis. Heart
+size borderline enlarged. Pleural effusion, if any, is minimal.
+No pneumothorax.
+
+[**2165-4-21**] Abd XR: Diffuse colonic dilatation without air within
+the rectum. This may represent ileus. Close followup is
+recommended.
+
+[**2165-4-21**] Left foot XR: The patient is status post partial
+amputation of the first through fifth metatarsals and resection
+of multiple phalanges. Portions of the 1st distal phalanx, the
+toe of the second (?) digit, and the fifth toe are present.
+There is a focus of air overlying the surgical bed of the first
+ray, representing either air within an area of ulceration or
+subcutaneous emphysema. There is relative lucency of the
+adjoining portion of the first metatarsal bony remnant
+suspicious for osteomyelitis.
+Correlation with any previous (outside) radiographs and history
+of recent
+debridement is recommended for full assessment. The posterior
+calcaneus is obscured by overlying material and not fully
+evaluated on this examination.
+
+[**2165-4-22**] CT head: No intracranial hemorrhage or edema.
+
+[**2165-4-22**] EEG: This is an abnormal portable EEG recording due to
+the pattern of widespread alpha range activity alternating with
+relative suppression of the background without reactivity which
+is suggestive of an alpha coma pattern. This abnormality
+suggests a severe encephalopathy. Medications and metabolic
+disturbances may be causes but this pattern can also be seen in
+post-anoxic patients. There were no lateralized or epileptiform
+features seen and no electrographic seizures were seen in this
+recording.
+
+[**2165-4-22**] Renal U/S: No evidence of hydronephrosis.
+
+[**2165-4-22**] TTE: Suboptimal image quality. Mild symmetric left
+ventricular hypertrophy with mild cavity enlargement and
+preserved global  biventricular systolic function.
+
+[**2165-4-25**] TEE: No intracardiac mass or vegetations. No significant
+valvular regurgitation. Complex, mobile atheroma in descending
+aorta, simple atheroma in the aortic arch.
+
+[**2165-4-25**] MRI/MRV Head w/o Contrast: IMPRESSION:
+1. No evidence of acute infarction.
+2. Patent major dural venous sinuses. Decreased signal in the
+posterior part of the superior sagittal sinus, including the
+torcular herophili and the right sigmoid sinus, likely relates
+to slow flow rather than thrombosis given the lack of increased
+signal on the sagittal T1-weighted sequences. If there is
+continued concern based on the clinical presentation, CTA and
+CTV, if serum creatinine level is appropriate or a followup MR
+venogram can be considered.
+
+[**2165-4-30**] CT SPINE: IMPRESSION:
+Limited study due to patient habitus and motion, and non-
+myelographic technique, with:
+1. No definite epidural or subdural abscess collection seen in
+the thoracolumabr spine.
+2. Apparent hyperdense focus in the ventral epidural space at
+the T2 level, most likely artifactual.
+If this remains of clinical concern, follow-up CT study,
+dedicated CT-
+myelography or MRI, when feasible, might be helpful for further
+evaluation. N.B. The patient successfully underwent MRI of the
+brain (at this institution) as recently as [**2165-4-25**].
+3. No fracture or malalignment.
+4. Mild spondylosis of the thoracolumbar spine, with no canal
+compromise.
+5. Small bilateral pleural effusions and moderate bibasilar
+consolidations; differential diagnosis includes atelectasis,
+aspiration and bacterial pneumonia.
+
+[**2165-5-2**] Renal U/S: IMPRESSION: No hydronephrosis and no
+perinephric collections seen in this very limited mobile renal
+ultrasound study.
+
+[**2165-5-9**]
+IMPRESSION:
+
+1. Definite abnormal focus of tracer accumulation in the left
+foot correlating
+with known sites of ulceration/infection.
+
+2. Indeterminate foci in the right proximal thigh medially or
+scrotum and the
+soft-tissues of the left knee medially, for which clinical
+correlation is
+needed.
+
+3. Possible nasal infection or ethmoid sinusitis.
+
+[**2165-5-13**] EEG:
+IMPRESSION: This is an abnormal routine EEG due to a slow and
+poorly
+modulated background indicative of a mild to moderate
+encephalopathy.
+Medications, metabolic disturbances, and infections are among
+the most
+common causes. There were no areas of prominent focal slowing
+although
+encephalopathies can obscure focal findings. There were no
+epileptiform
+discharges noted.
+
+
+
+Brief Hospital Course:
+55 year old male had prolonged hospital course complicated by
+multiple infections, mental status changes, and renal failure
+who requires long term antibiotic therapy.
+
+# Sepsis/Meningitis:  He was transferred from [**Location (un) **] in the
+setting of high-grade MSSA bacterimia and mental status changes,
+and intubated on arrival because of question seizures and
+concern for airway protection.  Before speciation returned, he
+was initially managed with vancomycin and zosyn, and then
+switched to nafcillin given MSSA.  He also required pressors
+intermittently on the day after presenting but this was
+ultimately thought to represent a low-baseline blood pressure,
+and pressors were subsequently discontinued, with MAPs that
+remained greater than 65.  The source of his infection was
+unclear but thought to be secondary to left foot ulcers, which
+also grew MSSA.  This was evaluated by podiatry and vascular,
+and he was found to have osteomyelitis of the first toe, and
+would possibly need L BKA for definitive treatment. There was
+also concern for encephalopathy given his worsening mental
+status prior to and after transfer, and neurology was consulted.
+ An LP was initially deferred because of the unlikelihood of him
+developing meningitis during his hospitalization at [**Location (un) **], as
+he did not initially present with symptoms suggestive of this
+condition.  However, it was later performed and was consistent
+with bacterial meningitis, and antibiotics were changed to
+vancomycin, ceftriaxone, and acyclovir.  ACV and CTX were then
+discontinued as CSF culture returned negative and other cultures
+continued to be MSSA.  He was extubated after 10 days and
+tolerate this well.  Vancomycin was continued following transfer
+to floor.  A thorough work up for source of infection, including
+LP and left foot imaging, did not yield a source.  As patient
+continued to improve clinically, the decision was made to treat
+empirically with vancomycin until [**6-5**], dosing during HD.
+
+# Altered mental status: After extubation, patient was
+delirious, not responding to commands, and with jerking motions
+of his head.  An MRI/MRV was negative for structural abnormality
+on [**2165-4-25**], after EEG showed possible alpha-coma waves.  His
+mental status cleared after 4 days extubation suggesting ICU
+narcosis.  He began to follow commands on [**2165-5-4**].  Following
+transfer to floor, fentanyl patch was discontinued in favor of
+morphine PO.  The patient's mental status continued to improve
+without further intervention.  At time of discharge, patient was
+oriented to time, person, and place.
+
+# ? hypodense region in TT2 area of spinal cord:  Intial concern
+was for abscess with cord compression as patient was febrile
+with MSSA infection and not moving his lower extremities for
+several days pre-extubation [**2165-4-30**].  Neurosurgery was consulted
+and recommended CT myelogram or MRI to better define this
+lesion.  Dr. [**Last Name (STitle) **] (radiology) stated CT myelogram was not
+indicated and suggested MRI.  Mr. [**Known lastname 77642**] was unable to fit in
+the MRI scanner far enough to scan his spine so he was watched
+clinically and improved. Consider f/u MRI in open MRI scanner as
+an outpatient.
+
+# Respiratory failure:  He was intubated shortly after ariving
+at [**Hospital1 18**] because of concern for airway protection in the setting
+of question seizures, as he had low-amplitude clonic movements
+of his hands and legs. His vent settings were weaned and plan
+for extubation on [**5-1**] was moved up after he bit through the
+tubing to inflate the cuff.  He was extubated after 9 days and
+his respiratory status continue to improve.  EEG obtained showed
+no epileptiform activity.  Patient had stable respiratory for
+the duration of his hospitalization following extubation.
+
+# Acute Renal Failure: His creatinine began rising prior to
+transfer from a baseline of 1.3, and he developed oliguric renal
+failure.  Renal was consulted and their analysis of his urine
+was consistent with ATN secondary to sepsis, though there was no
+clear documentation of hypotension from the OSH.  He had to be
+started on HD ([**2165-4-26**]) for volume overload and hyperkalemia. At
+that point his creatinine was 9.8. He continued on HD and
+eventually a temporary dialysis catheter was placed (on [**5-2**])and
+the femoral HD catheter was pulled. His urine output improved,
+although his need for HD continued.  The patient had another
+dialysis catheter placed on [**5-15**] for HD, with subsequent
+self-removal secondary to agitation.  A tunnelled catheter HD
+line was placed on [**2165-5-17**] for resumption of HD.  The patient
+continued receiving HD 3 times weekly on the floor, and pt's
+creatinine was 2.2 at time of discharge.  The patient will
+continue HD following discharge and will be followed by the
+nephrology service.
+
+# Hypertension: After septic picture resolved, patient was
+hypertensive to 200s/80s.  His losartan was held for renal
+protection in hopes that his renal function would recover.  He
+was started on metoprolol and hydralizine with better control.
+Pt's HTN was managed well on the floor following ICU transfer
+with the current medication regimen at discharge.
+
+# L foot ulcer: Likely seeding to blood causing sepsis. ESR and
+CRP very high and will monitor with Abx treatment for
+osteomyelitis.
+- Podiatry and vascular surgery were consulted and stated they
+would defer amputation and await stabilization/abx treatment of
+patient prior to surgery.
+- no intervention was pursued, as patient improved clinically on
+floor on vancomycin
+- pt will have ID follow up on [**6-5**]
+
+# Right hip OA: significant source of pain and had required
+large doses of narcotics prior to admission.  Per family, the
+plan was to replace his hip, but he was battling recurrent
+infections from L toe delaying this.  Morphine PO with scheduled
+tylenol proved an effective regimen for his pain.
+
+# Large bowel obstruction:  A KUB demonstrated a distended
+transverse colon concerning for ileus in the setting of large
+narcotic use for R hip pain.  General surgery was consulted and
+felt that it was improving and did not require surgical
+intervention. He eventually began stooling again after PO narcan
+was started and with an aggressive bowel regimen.  Following
+transfer to floor, constipation resolved with bowel regimen and
+change in opiate use.
+
+# CAD s/p IMI: Ruled out for MI at OSH and was continued on
+ASA/plavix.  He was not on a beta blocker or statin at home for
+unclear reasons.
+
+# DM:  Managed initially with an insulin drip because of
+elevated finger sticks and converted to a sliding scale.  [**Last Name (un) **]
+consulted and placed patient on a basal bolus regimen with good
+control at time of discharge.  This regimen will be continued at
+rehab.
+
+# Renal Cell Carcinoma: Is seen at [**Hospital1 2025**].  Per family, he was
+recently diagnosed ~2 cm mass, CT torso without mets.  He was
+scheduled for cryoablation prior to this hospitalization.
+
+# Gout:  Renally-dosed Allopurinol and then d/c'd given renal
+failure.
+
+# Communication: [**Name (NI) **] wife, [**Name (NI) **] [**Telephone/Fax (1) 77643**] - cell
+
+# Patient was made DNR, but okay to re-intubate for respiratory
+failure post-extubation.
+
+Medications on Admission:
+Medications on Transfer:
+Allopurinol
+Aspirin
+Plavix
+Colchicine
+Lasix
+Indomethacin
+Insulin
+Cozaar
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: Two (2)  PO BID (2
+times a day).
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+4. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical Q24H (every 24 hours).
+
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+6. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+7. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+8. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+9. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day).
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+11. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours).
+12. Morphine 15 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4
+hours) as needed for pain.
+13. line care
+Heparin Flush (5000 Units/mL) 4000-[**Numeric Identifier 2249**] UNIT DWELL PRN line
+flush Dialysis Catheter (Tunneled 2-Lumen): DIALYSIS NURSE ONLY:
+Withdraw 4 mL prior to flushing with 10 mL NS followed by
+Heparin as above according to volume per lumen.
+14. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)
+gram Intravenous as directed for 2 weeks: to be administered
+after each dialysis session three times weekly, until [**6-5**].
+
+15. Insulin Glargine 100 unit/mL Solution Sig: Forty Eight (48)
+units Subcutaneous once a day.
+16. Humalog 100 unit/mL Solution Sig: as directed  Subcutaneous
+QACHS: please see attached sliding scale.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis:
+Primary
+- MSSA baceremia
+- MSSA LLE osteomyelitis
+- Ileus
+- MRSA pneumonia
+- MRSA meningitis
+- Altered mental status
+- Acute renal failure
+- Osteoarthritis awaiting R hip replacement
+Secondary
+- Coronary artery disease
+- Diabetes mellitus
+- Hypertension
+- Morbid obesity
+- Gout
+
+
+Discharge Condition:
+Hemodynamically stable, afebrile, non-ambulatory, able to
+tolerate PO
+
+
+Discharge Instructions:
+You were transferred from another hospital for management of
+your acute kidney failure in the setting of a high-grade blood
+infection with a bacteria called MSSA, thought to be introduced
+from our infected left foot ulcer. You were intubated in the ICU
+in order to protect your airways due to concern for seizure. You
+also had an ileus thought to be precipitated by high doses of
+narcotics; this has now resolved. You were initiated on
+hemodialysis for your renal failure with improvement. Your ICU
+course here was further complicated by MRSA bacteral meningitis
+and pneumonia, for which you were treated with antibtioics. You
+were able to be weaned off your ventilator.  You were
+transferred from the ICU to the floor.  Your medical problems
+contributed to confusion, which improved with time.  Your kidney
+function declined from your medical issues, and you were started
+on dialysis for support.  When you left the hospital, you still
+required dialysis, but your kidney function has improved
+greatly.  Your chronic hip pain is being treated well with
+medication.  You are being dischaged to a rehab center, where
+they will focus on getting you stronger as you continue to
+recover from your long hospitalization.
+
+There were multiple changes made to your medication, your rehab
+providers will be responsible for your new regimen.
+
+Please take all medications as prescribed.
+
+Call your doctor or 911 if you develop chest pain, difficulty
+breathing, fevers >101, dizziness, bleeding, or any other
+concerning symptoms.
+
+
+Followup Instructions:
+Please call your PCP, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 6955**], on discharge from
+Rehab to schedule follow-up. His office number is [**Telephone/Fax (1) 22629**].
+
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 111**], [**Name Initial (NameIs) **].D. Phone: [**Telephone/Fax (1) 457**]
+Date/Time:[**2165-6-5**] 1:30
+
+
+

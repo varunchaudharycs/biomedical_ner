@@ -1,0 +1,289 @@
+T1	Drug 10079 10089	antibiotic
+T2	Drug 10154 10164	antibiotic
+T3	Duration 10180 10187	10 days
+R1	Duration-Drug Arg1:T3 Arg2:T2
+T4	Drug 10252 10260	Ceflexin
+T5	Reason 10289 10309	local skin infection
+R2	Reason-Drug Arg1:T5 Arg2:T4
+T6	Drug 10336 10346	Acebutalol
+T7	Drug 10350 10362	beta blocker
+T8	Drug 10386 10396	metoprolol
+T9	Drug 10418 10426	coumadin
+T10	Drug 10430 10437	Lovenox
+T11	Drug 10546 10555	Cartia XT
+T12	Drug 10560 10570	metoprolol
+T13	ADE 1617 1628	bradycardia
+R3	ADE-Drug Arg1:T13 Arg2:T14
+R4	ADE-Drug Arg1:T13 Arg2:T15
+T14	Drug 1645 1655	metoprolol
+T15	Drug 1660 1668	cardizem
+T16	Drug 1903 1912	lopressor
+T17	Drug 1914 1922	cardizem
+T18	Drug 1927 1937	dofetilide
+T19	Strength 2110 2113	2 g
+R5	Strength-Drug Arg1:T19 Arg2:T20
+T20	Drug 2114 2121;2122 2131	Calcium gluconate
+T21	Dosage 2136 2138	1L
+R6	Dosage-Drug Arg1:T21 Arg2:T22
+T22	Drug 2139 2142	IVF
+T23	Reason 2576 2595	Atrial fibrillation
+R7	Reason-Drug Arg1:T23 Arg2:T24
+T24	Drug 2617 2625	coumadin
+T25	Reason 414 416	AF
+R8	Reason-Drug Arg1:T25 Arg2:T26
+T26	Drug 420 428	coumadin
+T27	Drug 5504 5514	dofetilide
+T28	Drug 5516 5519	CCB
+T29	Drug 5524 5536	beta blocker
+T30	ADE 5555 5565	presyncope
+R9	ADE-Drug Arg1:T30 Arg2:T29
+R10	ADE-Drug Arg1:T30 Arg2:T28
+R11	ADE-Drug Arg1:T30 Arg2:T27
+T31	ADE 5570 5581	bradycardia
+R12	ADE-Drug Arg1:T31 Arg2:T27
+R13	ADE-Drug Arg1:T31 Arg2:T28
+R14	ADE-Drug Arg1:T31 Arg2:T29
+T32	Drug 5620 5624	dilt
+T33	Drug 5629 5639	metoprolol
+T34	Drug 563 566	CCB
+T35	Drug 5647 5657	dofetilide
+T36	Drug 5662 5672	acebutolol
+T37	Drug 568 578	metoprolol
+T38	Drug 583 593	dofetilide
+T39	Drug 6541 6551	Dofetelide
+T40	Drug 6553 6561	Cardizem
+T41	Drug 6566 6576	Metoprolol
+T42	ADE 6641 6658	sinus bradycardia
+R15	ADE-Drug Arg1:T42 Arg2:T39
+R16	ADE-Drug Arg1:T42 Arg2:T41
+R17	ADE-Drug Arg1:T42 Arg2:T40
+T43	Drug 6741 6749	Cardizem
+T44	Drug 6754 6764	metoprolol
+T45	Drug 6803 6813	acebutolol
+T46	Drug 6818 6828	dofetilide
+T47	Reason 6833 6856	rate and rhythm control
+R18	Reason-Drug Arg1:T47 Arg2:T45
+R19	Reason-Drug Arg1:T47 Arg2:T46
+T48	Drug 6882 6890	coumadin
+T49	Drug 6896 6903	lovenox
+T50	Reason 7218 7228	Cellulitis
+R20	Reason-Drug Arg1:T50 Arg2:T51
+T51	Drug 7349 7359	cephalexin
+T52	Duration 7372 7378	10 day
+R21	Duration-Drug Arg1:T52 Arg2:T51
+T53	Drug 7686 7690	iron
+T54	Drug 7708 7711	B12
+T55	Reason 7747 7751	GERD
+R22	Reason-Drug Arg1:T55 Arg2:T56
+T56	Drug 7763 7766	ppi
+T57	Drug 7828 7831	ppi
+T58	Drug 8026 8036	Dofetilide
+T59	Strength 8037 8044	500 mcg
+R23	Strength-Drug Arg1:T59 Arg2:T58
+T60	Route 8045 8047	PO
+R24	Route-Drug Arg1:T60 Arg2:T58
+T61	Frequency 8048 8052	Q12H
+R25	Frequency-Drug Arg1:T61 Arg2:T58
+T62	Drug 8053 8075	Fluticasone-Salmeterol
+T63	Strength 8076 8091	250-50 mcg/Dose
+R26	Strength-Drug Arg1:T63 Arg2:T62
+T64	Form 8092 8108	Disk with Device
+R27	Form-Drug Arg1:T64 Arg2:T62
+T65	Drug 8126 8137	Fluticasone
+T66	Strength 8138 8154	50 mcg/Actuation
+R28	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 8155 8160	Spray
+R29	Form-Drug Arg1:T67 Arg2:T65
+T68	Frequency 8161 8166	daily
+R30	Frequency-Drug Arg1:T68 Arg2:T65
+T69	Drug 8167 8179	Pantoprazole
+T70	Strength 8180 8185	40 mg
+R31	Strength-Drug Arg1:T70 Arg2:T69
+T71	Form 8186 8192	Tablet
+R32	Form-Drug Arg1:T71 Arg2:T69
+T72	Route 8193 8195	PO
+R33	Route-Drug Arg1:T72 Arg2:T69
+T73	Frequency 8196 8200	Q24H
+R34	Frequency-Drug Arg1:T73 Arg2:T69
+T74	Drug 8201 8216	Ferrous Sulfate
+T75	Strength 8217 8223	325 mg
+R35	Strength-Drug Arg1:T75 Arg2:T74
+T76	Frequency 8224 8229	daily
+R36	Frequency-Drug Arg1:T76 Arg2:T74
+T77	Drug 8230 8244	Cyanocobalamin
+T78	Strength 8245 8252	100 mcg
+R37	Strength-Drug Arg1:T78 Arg2:T77
+T79	Form 8253 8259	Tablet
+R38	Form-Drug Arg1:T79 Arg2:T77
+T80	Dosage 8260 8261	5
+R39	Dosage-Drug Arg1:T80 Arg2:T77
+T81	Form 8262 8268	Tablet
+R40	Form-Drug Arg1:T81 Arg2:T77
+T82	Route 8269 8271	PO
+R41	Route-Drug Arg1:T82 Arg2:T77
+T83	Frequency 8272 8277	DAILY
+R42	Frequency-Drug Arg1:T83 Arg2:T77
+T84	Drug 8278 8286	Warfarin
+T85	Strength 8287 8291	1 mg
+R43	Strength-Drug Arg1:T85 Arg2:T84
+T86	Form 8292 8298	Tablet
+R44	Form-Drug Arg1:T86 Arg2:T84
+T87	Route 8299 8301	PO
+R45	Route-Drug Arg1:T87 Arg2:T84
+T88	Frequency 8307 8319	Daily at 4PM
+R46	Frequency-Drug Arg1:T88 Arg2:T84
+T89	Drug 8320 8339	Metoprolol Tartrate
+T90	Strength 8340 8345	50 mg
+R47	Strength-Drug Arg1:T90 Arg2:T89
+T91	Form 8346 8352	Tablet
+R48	Form-Drug Arg1:T91 Arg2:T89
+T92	Route 8353 8355	PO
+R49	Route-Drug Arg1:T92 Arg2:T89
+T93	Frequency 8356 8359	BID
+R50	Frequency-Drug Arg1:T93 Arg2:T89
+T94	Drug 8360 8371	Cardizem CD
+T95	Strength 8372 8378	120 mg
+R51	Strength-Drug Arg1:T95 Arg2:T94
+T96	Dosage 8379 8380	1
+R52	Dosage-Drug Arg1:T96 Arg2:T94
+T97	Form 8381 8388	capsule
+R53	Form-Drug Arg1:T97 Arg2:T94
+T98	Frequency 8389 8394	daily
+R54	Frequency-Drug Arg1:T98 Arg2:T94
+T99	Drug 8395 8402	Lovenox
+T100	Strength 8403 8415	80 mg/0.8 mL
+R55	Strength-Drug Arg1:T100 Arg2:T99
+T101	Drug 8444 8459	Ferrous Sulfate
+T102	Strength 8460 8466	325 mg
+R56	Strength-Drug Arg1:T102 Arg2:T101
+T103	Form 8480 8486	Tablet
+R57	Form-Drug Arg1:T103 Arg2:T101
+T104	Dosage 8492 8499	One (1)
+R58	Dosage-Drug Arg1:T104 Arg2:T101
+T105	Form 8500 8506	Tablet
+R59	Form-Drug Arg1:T105 Arg2:T101
+T106	Route 8507 8509	PO
+R60	Route-Drug Arg1:T106 Arg2:T101
+T107	Frequency 8510 8515	DAILY
+R61	Frequency-Drug Arg1:T107 Arg2:T101
+T108	Drug 8528 8543	Docusate Sodium
+T109	Strength 8544 8550	100 mg
+R62	Strength-Drug Arg1:T109 Arg2:T108
+T110	Form 8551 8558	Capsule
+R63	Form-Drug Arg1:T110 Arg2:T108
+T111	Dosage 8564 8571	One (1)
+R64	Dosage-Drug Arg1:T111 Arg2:T108
+T112	Form 8572 8579	Capsule
+R65	Form-Drug Arg1:T112 Arg2:T108
+T113	Route 8580 8582	PO
+R66	Route-Drug Arg1:T113 Arg2:T108
+T114	Frequency 8583 8586	BID
+R67	Frequency-Drug Arg1:T114 Arg2:T108
+T115	Drug 8607 8629	Fluticasone-Salmeterol
+T116	Strength 8630 8645	250-50 mcg/Dose
+R68	Strength-Drug Arg1:T116 Arg2:T115
+T117	Form 8646 8662	Disk with Device
+R69	Form-Drug Arg1:T117 Arg2:T115
+T118	Dosage 8668 8675	One (1)
+R70	Dosage-Drug Arg1:T118 Arg2:T115
+T119	Form 8676 8692	Disk with Device
+T120	Route 8693 8703	Inhalation
+R71	Route-Drug Arg1:T120 Arg2:T115
+T121	Frequency 8722 8735	2 times a day
+R72	Frequency-Drug Arg1:T121 Arg2:T115
+T122	Drug 8741 8752	Fluticasone
+T123	Strength 8753 8775	50 mcg/Actuation Spray
+R73	Strength-Drug Arg1:T123 Arg2:T122
+T124	Form 8777 8787	Suspension
+R74	Form-Drug Arg1:T124 Arg2:T122
+T125	Dosage 8793 8800	One (1)
+R75	Dosage-Drug Arg1:T125 Arg2:T122
+T126	Form 8801 8806	Spray
+R76	Form-Drug Arg1:T126 Arg2:T122
+T127	Route 8807 8812	Nasal
+R77	Route-Drug Arg1:T127 Arg2:T122
+T128	Frequency 8813 8818	DAILY
+R78	Frequency-Drug Arg1:T128 Arg2:T122
+T129	Drug 8831 8845	Cyanocobalamin
+T130	Strength 8846 8853	100 mcg
+R79	Strength-Drug Arg1:T130 Arg2:T129
+T131	Form 8854 8860	Tablet
+R80	Form-Drug Arg1:T131 Arg2:T129
+T132	Dosage 8866 8873	One (1)
+R81	Dosage-Drug Arg1:T132 Arg2:T129
+T133	Form 8874 8880	Tablet
+R82	Form-Drug Arg1:T133 Arg2:T129
+T134	Route 8881 8883	PO
+R83	Route-Drug Arg1:T134 Arg2:T129
+T135	Frequency 8884 8889	DAILY
+R84	Frequency-Drug Arg1:T135 Arg2:T129
+T136	Drug 8902 8912	Dofetilide
+T137	Strength 8913 8920	500 mcg
+R85	Strength-Drug Arg1:T137 Arg2:T136
+T138	Form 8921 8928	Capsule
+R86	Form-Drug Arg1:T138 Arg2:T136
+T139	Dosage 8934 8941	One (1)
+R87	Dosage-Drug Arg1:T139 Arg2:T136
+T140	Form 8942 8949	Capsule
+R88	Form-Drug Arg1:T140 Arg2:T136
+T141	Route 8950 8952	PO
+R89	Route-Drug Arg1:T141 Arg2:T136
+T142	Frequency 8953 8957	Q12H
+R90	Frequency-Drug Arg1:T142 Arg2:T136
+T143	Drug 8979 8989	Acebutolol
+T144	Strength 8990 8996	200 mg
+R91	Strength-Drug Arg1:T144 Arg2:T143
+T145	Form 8997 9004	Capsule
+R92	Form-Drug Arg1:T145 Arg2:T143
+T146	Dosage 9010 9017	One (1)
+R93	Dosage-Drug Arg1:T146 Arg2:T143
+T147	Form 9018 9025	Capsule
+R94	Form-Drug Arg1:T147 Arg2:T143
+T148	Route 9026 9028	PO
+R95	Route-Drug Arg1:T148 Arg2:T143
+T149	Frequency 9029 9032	BID
+R96	Frequency-Drug Arg1:T149 Arg2:T143
+T150	Drug 9086 9098	Pantoprazole
+T151	Strength 9099 9104	40 mg
+R97	Strength-Drug Arg1:T151 Arg2:T150
+T152	Form 9105 9135	Tablet, Delayed Release (E.C.)
+R98	Form-Drug Arg1:T152 Arg2:T150
+T153	Dosage 9141 9144;9145 9148	One (1)
+R99	Dosage-Drug Arg1:T153 Arg2:T150
+T154	Form 9149 9179	Tablet, Delayed Release (E.C.)
+R100	Form-Drug Arg1:T154 Arg2:T150
+T155	Route 9180 9182	PO
+R101	Route-Drug Arg1:T155 Arg2:T150
+T156	Frequency 9183 9187	Q24H
+R102	Frequency-Drug Arg1:T156 Arg2:T150
+T157	Drug 9209 9219	Cephalexin
+T158	Strength 9220 9226	250 mg
+R103	Strength-Drug Arg1:T158 Arg2:T157
+T159	Form 9227 9234	Capsule
+R104	Form-Drug Arg1:T159 Arg2:T157
+T160	Dosage 9240 9247	One (1)
+R105	Dosage-Drug Arg1:T160 Arg2:T157
+T161	Form 9248 9255	Capsule
+R106	Form-Drug Arg1:T161 Arg2:T157
+T162	Route 9256 9258	PO
+R107	Route-Drug Arg1:T162 Arg2:T157
+T163	Frequency 9259 9270;9271 9276	three times a day
+R108	Frequency-Drug Arg1:T163 Arg2:T157
+T164	Duration 9277 9287	for 8 days
+R109	Duration-Drug Arg1:T164 Arg2:T157
+T165	Drug 9326 9351	Hydrocodone-Acetaminophen
+T166	Strength 9352 9360	5-500 mg
+R110	Strength-Drug Arg1:T166 Arg2:T165
+T167	Form 9361 9367	Tablet
+R111	Form-Drug Arg1:T167 Arg2:T165
+T168	Dosage 9373 9376	1-2
+R112	Dosage-Drug Arg1:T168 Arg2:T165
+T169	Form 9377 9384	Tablets
+R113	Form-Drug Arg1:T169 Arg2:T165
+T170	Route 9385 9387	PO
+R114	Route-Drug Arg1:T170 Arg2:T165
+T171	Frequency 9388 9393	Q4-6H
+R115	Frequency-Drug Arg1:T171 Arg2:T165
+T172	Reason 9411 9415	pain
+R116	Reason-Drug Arg1:T172 Arg2:T165
+R117	Form-Drug Arg1:T119 Arg2:T115	

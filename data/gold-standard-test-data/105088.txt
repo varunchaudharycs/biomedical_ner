@@ -1,0 +1,971 @@
+Admission Date:  [**2146-3-10**]              Discharge Date:   [**2146-4-27**]
+
+Date of Birth:  [**2117-12-8**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Heparin Agents / Dilaudid
+
+Attending:[**First Name3 (LF) 148**]
+Chief Complaint:
+Abdominal pain, tachycardia.
+
+Major Surgical or Invasive Procedure:
+[**2146-3-10**]: Ultrasound-guided pancreatic pseudocyst drainage with
+drain placement.
+.
+[**2146-3-18**]: CT-guided drainage of upper abdominal pseudocyst
+.
+[**2146-4-14**]: Ultrasound-guided fluid aspiration of a left flank
+collection.
+.
+[**2146-4-14**]: Ultrasound-guided placement of left pleural pigtail
+catheter.
+.
+[**2146-4-21**]: Ultrasound-guided left flank fluid collection
+drainage with placement of a 8-French [**Last Name (un) 2823**] pigtail catheter.
+
+
+History of Present Illness:
+Patient is a 28M well-known to the West 2 surgical service. He
+was discharged [**2146-3-9**] after a prolonged hospital course for
+gallstone pancreatitis. This was complicated by DVT,
+respiratory/renal failure requiring mechanical ventillatory
+support and CVVHD, and pancreatic necrosis requiring
+percutaneous drainage. He improved and was discharged yesterday
+to a rehabilitation facility. Today, he returns with tachycardia
+and increased abdominal pain. The patient states that he began
+to experience abdominal pain yesterday afternoon while working
+with PT. He states that this pain is similar to the epigastric
+pain he has experienced all along only worse. He rated this as
+an [**9-6**] though currently [**7-7**]. He states that he was able to eat
+dinner (grilled chicken) without difficulty. He was eating
+breakfast this morning and became nauseated while eating grapes.
+He had several episodes of non-bilious emesis and was brought to
+[**Hospital1 18**] for further care given increased abdominal pain and
+tachycardia.
+
+Past Medical History:
+PMH: Gallstone pancreatitis as above, obesity, congenital
+blindness in right eye, left common iliac DVT .
+
+PSH: Laparoscopic cholecystectomy [**1-5**]
+
+
+Social History:
+Recently married. He lives with his wife and their dog. No kids.
+Works as an investment manager. Never smoker. Rare alcohol.
+Smokes marijuana, denies other drugs.
+
+
+Family History:
+Diverticulosis in both of his parents. DM in grandmother. HTN in
+father. [**Name (NI) **] 2 sisters and one brother.
+
+
+Physical Exam:
+On Admission:
+VS: 99.4 150 136/88 28 100%RA
+General: awake and alert, diaphoretic and sweaty
+CV: Tachycardic
+Lungs: Tachypnic, CTA bilaterally
+Abdomen: Obese, soft, (+) palpable phlegmon in RUQ, (+) diffuse
+tenderness greatest in epigastrium, no rebound/guarding,
+hypoactive BS
+Ext: warm, no edema.
+.
+At Discharge:
+VS: T 99.2  HR 93  BP 106/54  RR 18  SaO2 98% RA
+GEN: Deconditioned in NAD.
+HEENT: Sclerae anicteric. O-P clear.
+NECK: Supple. No [**Doctor First Name **].
+LUNGS: Slightly decreased at bases, otherwise clear.
+COR: RRR
+ABD: Protuberant. (L) LQ abdominal JP drain (into pancreatic
+pseudocyst) patent/intact. (L)flank drain patent/intact. Both
+drains with scant output. Prior sub-umbilical drain site clean,
+healed without drainage. BSx4. Soft/NT/ND.
+EXTREM: WWP; mild LE edema, no cyanosis, clubbing.
+NEURO: A+Ox3. Very deconditioned. Requires assistance with gait.
+
+Pertinent Results:
+On Admission:
+
+[**2146-3-10**] 08:28PM   TYPE-ART PO2-138* PCO2-42 PH-7.55* TOTAL
+CO2-38* BASE XS-13 INTUBATED-NOT INTUBA
+[**2146-3-10**] 08:28PM   freeCa-0.98*
+[**2146-3-10**] 05:10PM OTHER BODY FLUID  AMYLASE-[**Numeric Identifier **]
+[**2146-3-10**] 05:10PM   PT-20.2* INR(PT)-1.9*
+[**2146-3-10**] 02:50PM   WBC-22.5* RBC-3.31*# HGB-8.5*# HCT-28.0*#
+MCV-85 MCH-25.7* MCHC-30.4* RDW-18.2*
+[**2146-3-10**] 02:50PM   PLT COUNT-511*
+[**2146-3-10**] 02:07PM   GLUCOSE-196* UREA N-19 CREAT-1.3* SODIUM-134
+POTASSIUM-3.7 CHLORIDE-93* TOTAL CO2-30 ANION GAP-15
+[**2146-3-10**] 02:07PM   CALCIUM-7.7* PHOSPHATE-6.2* MAGNESIUM-1.5*
+[**2146-3-10**] 01:52PM   PT-22.6* PTT-33.6 INR(PT)-2.1*
+[**2146-3-10**] 07:29AM   WBC-30.7*# RBC-4.67# HGB-11.7*# HCT-39.7*#
+MCV-85 MCH-25.0* MCHC-29.4* RDW-17.4*
+[**2146-3-10**] 07:29AM   NEUTS-89* BANDS-3 LYMPHS-2* MONOS-4 EOS-0
+BASOS-0 ATYPS-0 METAS-2* MYELOS-0
+[**2146-3-10**] 07:29AM   PLT SMR-VERY HIGH PLT COUNT-818*#
+[**2146-3-10**] 05:46AM   GLUCOSE-149* LACTATE-2.5* NA+-136 K+-4.6
+CL--99* TCO2-17*
+.
+Prior to Discharge:
+[**2146-4-27**] PT/INR: 31.9/3.2
+.
+IMAGING:
+[**2146-3-10**] AP CXR: Low lung volumes with LLL consolidation, could
+reflect atelectasis, however, pneumonia cannot be excluded.
+.
+[**2146-3-10**] CTA CHEST W&W/O C&RECONS, ABD/PELVIC CT W/CONTRAST:
+1. Minimal interval increase in size of right upper quadrant
+pancreatic pseudocyst. Interval decrease in size of remaining
+loculated fluid collections.
+2. No pulmonary embolism present. Large bilateral pleural
+effusions with associated compression atelectasis.
+3. Increased amount of abdominal and pelvic free fluid.
+.
+[**2146-3-11**] BILAT LOWER EXT VEINS:
+1. Persistent non-occlusive thrombus in the left common femoral
+vein.
+2. No right lower extremity DVT.
+3. Small right popliteal cyst.
+.
+[**2146-3-15**] CXR:
+Cardiomediastinal silhouette is unchanged as well as there is no
+change in extremely low lung volumes and bilateral pleural
+effusions, left more than right. There is mild prominence of the
+vasculature that appears to be more pronounced than on the prior
+study and might represent some degree of volume overload. The
+right internal jugular line tip appears to be atleast at the
+cavoatrial junction, but also may be present in the proximal
+right atrium.
+.
+[**2146-3-16**] ABD/PELVIC CT W/CONTRAST:
+1. Enlargement of the previously seen fluid collection and
+appearance of the numerous new large collections in the
+peritoneum. The drained collection has significantly decreased
+in size.
+2. Increase in pleural effusions: Left moderate and right
+minimal size, findings are accompanied by compressive
+atelectasis.
+3. Minimal residual of the left common femoral vein and left
+external iliac vein thrombus.
+.
+[**2146-3-17**] AP CXR:
+In comparison with the study of [**3-15**], there is still extremely
+low lung volumes. Hazy opacification at the left base is
+consistent with pleural fluid. Obscuration of the hemidiaphragm
+suggests volume loss in the left lower lobe. The right lung is
+essentially clear and there is no evidence of pulmonary vascular
+congestion. The tip of the right IJ catheter is difficult to see
+but appears to be in the mid-to-lower portion of the SVC.
+.
+1. Markedly decreased size of drained collection anterior to the
+stomach and surroiunding the left hepatic lobe. New extensive
+stranding and fluid within the gastrohepatic ligament and porta
+hepatis, possibly induced by leakage from one of the adjacent
+collections or recurrent pancreatitis. Slight re-accumulation of
+fluid within the previously drained collection in the anterior
+abdomen, now measuring 14.3 x 1.6 x 5.4 cm. Otherwise, overall
+decrease in multiple remaining peritoneal and extraperitoneal
+fluid collections compared to the prior study.
+2. Persistent bile duct dilation likely secondary to
+pancreatitis. Increased attenuation of patent portal vein from
+adjacent new inflammation. Persistent marked attenuation of the
+splenic vein. Smaller splenic infarcts.
+3. Unchanged bilateral pleural effusions and associated
+compressive atelectasis.
+4. Unchanged thrombus within the left external iliac and common
+iliac veins.
+.
+[**2146-3-28**] CXR:
+Stable size of left pleural effusion with associated
+consolidation which likely represents atelectasis but
+superimposed infection cannot be excluded.
+.
+[**2146-4-13**] ABD/PELVI CT W/CONTRAST:
+1. In this patient with known history of necrotizing
+pancreatitis, there is enhancement of the distal body and tail
+of the pancreas with non visualization of the remainder of the
+pancreas. Multiple extensive peripancreatic fluid collections
+have decreased in size since the prior study.
+2. A small fluid collection adjacent to the inferior edge of
+right lobe of liver measuring 4.9 x 3.2 x 2.0 cm, is new since
+the prior study.
+3. Unchanged left femoral vein thrombosis. Infrarenal IVC filter
+in place.
+4. Mild interval improvement in the small-to-moderate left
+pleural effusion.  Compressive atelectasis of the left lower
+lobe is unchanged.
+.
+[**2146-4-15**] CXR:
+Status after withdrawal of a left-sided chest tube. Minimal
+apical and lateral basal pneumothorax without evidence of
+tension. Unchanged minimal atelectasis at the left lung base. No
+other changes. Normal cardiac silhouette.
+.
+[**2146-4-18**] CXR:
+1. Low lung volumes with left basilar subsegmental atelectasis,
+likely related to the recent abdominal surgery and ongoing
+intra-abdominal process.
+2. No appreciable residual left pneumothorax.
+3. Left-sided PICC likely at the junction of that axillary and
+subclavian vein; this may need to be advanced into a more
+central vein, depending on the indication for its use.
+.
+[**2146-4-20**] ABD/PELVIC CT W/O CONTRAST:
+1. Slightly decreased size of dominant central abdominal fluid
+collection with left drain in satisfactory position. Right
+catheter has been removed.
+2. Other fluid collections are little changed [**2146-4-13**].
+3. Resolving left pleural effusion with pleural air secondary to
+left thoracic drain placement and removal. No new peripancreatic
+fluid collection.
+4. Hypodensity of the blood pool relative to the ventricular
+myocardium is suggestive of anemia.
+5. Moderate biliary dilatation likely secondary to CBD
+obstruction by pseudocyst is similar to [**2146-4-13**].
+.
+MICROBIOLOGY:
+FLUID/WOUND CULTURES:
+[**2146-4-21**] 10:15 am FLUID,OTHER      LEFT FLANK ABSCESS.
+
+                            **FINAL REPORT [**2146-4-25**]**
+
+   GRAM STAIN (Final [**2146-4-21**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+
+   FLUID CULTURE (Final [**2146-4-25**]):
+      Due to mixed bacterial types (>=3) an abbreviated workup
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are
+reported if
+      present. Susceptibility will be performed on P.aeruginosa
+and
+      S.aureus if sparse growth or greater..
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+   ANAEROBIC CULTURE (Final [**2146-4-25**]):    NO ANAEROBES ISOLATED.
+
+.
+[**2146-4-16**] 4:30 pm FLUID,OTHER      LEFT JP DRAIN FLUID.
+
+                            **FINAL REPORT [**2146-4-19**]**
+
+   GRAM STAIN (Final [**2146-4-16**]):
+      REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] @ 10PM [**2146-4-16**].
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+
+   FLUID CULTURE (Final [**2146-4-19**]):
+      STAPH AUREUS COAG +.    HEAVY GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS).    MODERATE
+GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+.
+[**2146-4-14**] 9:51 am PERITONEAL FLUID
+
+   GRAM STAIN (Final [**2146-4-14**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      REPORTED BY PHONE TO DR.[**First Name (STitle) **] [**Doctor Last Name **] ON [**2146-4-14**] AT
+03:50 PM.
+
+   FLUID CULTURE (Final [**2146-4-17**]):
+      STAPH AUREUS COAG +.    HEAVY GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+   ANAEROBIC CULTURE (Final [**2146-4-18**]):    NO ANAEROBES ISOLATED.
+
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+   ACID FAST SMEAR (Final [**2146-4-15**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+.
+[**2146-4-14**] 9:57 am PLEURAL FLUID
+
+   GRAM STAIN (Final [**2146-4-14**]):
+      3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (Final [**2146-4-17**]):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Final [**2146-4-20**]):    NO GROWTH.
+
+   ACID FAST SMEAR (Final [**2146-4-15**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+
+   ACID FAST CULTURE (Preliminary):
+.
+[**2146-4-5**] SWAB GRAM STAIN-FINAL; FLUID CULTURE-FINAL; ANAEROBIC
+CULTURE-FINAL:
+ [**2146-4-5**] 3:09 pm SWAB      PSEUDO CYST FLUID.
+
+                            **FINAL REPORT [**2146-4-11**]**
+
+   GRAM STAIN (Final [**2146-4-5**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Final [**2146-4-7**]):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Final [**2146-4-11**]):    NO GROWTH.
+.
+[**2146-3-28**] 9:25 am PERITONEAL FLUID
+
+                            **FINAL REPORT [**2146-4-1**]**
+
+   GRAM STAIN (Final [**2146-3-28**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (Final [**2146-4-1**]):
+      REPORTED BY PHONE TO [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6976**] @ 1:20 PM ON [**2146-3-29**].
+      Due to mixed bacterial types (>=3) an abbreviated workup
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are
+reported if
+      present. Susceptibility will be performed on P.aeruginosa
+and
+      S.aureus if sparse growth or greater..
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+         RARE GROWTH OF THREE COLONIAL MORPHOLOGIES.
+
+   ANAEROBIC CULTURE (Final [**2146-4-1**]):    NO ANAEROBES ISOLATED.
+.
+[**2146-3-23**] 10:43 pm FLUID,OTHER      DRAIN FLUID.
+
+                            **FINAL REPORT [**2146-3-28**]**
+
+   GRAM STAIN (Final [**2146-3-24**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Final [**2146-3-27**]):
+      Due to mixed bacterial types (>=3) an abbreviated workup
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are
+reported if
+      present. Susceptibility will be performed on P.aeruginosa
+and
+      S.aureus if sparse growth or greater..
+
+   ANAEROBIC CULTURE (Final [**2146-3-28**]):    NO ANAEROBES ISOLATED.
+
+.
+[**2146-3-10**] FLUID,OTHER GRAM STAIN-FINAL; WOUND CULTURE-FINAL;
+ANAEROBIC CULTURE-FINAL:
+   GRAM STAIN (Final [**2146-3-10**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+   WOUND CULTURE (Final [**2146-3-13**]):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Final [**2146-3-16**]):    NO GROWTH.
+.
+BLOOD & URINE CULTURES:
+[**2146-4-18**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-4-15**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-4-14**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-4-13**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-4-12**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-28**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-28**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-23**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-23**] URINE CULTURE-FINAL: NO GROWTH.
+[**2146-3-23**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-19**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-19**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-18**] FLUID CULTURE: NO GROWTH - FINAL.
+[**2146-3-17**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-17**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-13**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-13**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-10**] BLOOD CULTURE: NO GROWTH - FINAL.
+[**2146-3-10**] BLOOD CULTURE: NO GROWTH - FINAL.
+.
+RESPIRATORY/OTHER CULTURES:
+[**2146-4-13**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL:
+Upper respiratory contamination.
+[**2146-4-13**] CATHETER TIP-IV WOUND CULTURE-FINAL: NO SIGNIFICANT
+GROWTH.
+[**2146-4-12**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL:
+Upper Respiratory Contamination.
+[**2146-3-10**] MRSA SCREEN MRSA: NEGATIVE.
+
+Brief Hospital Course:
+The patient was re-admitted on [**2146-3-10**] back to the General
+Surgical Service for evaluation and treatment of abdominal pain
+and tachycardia.  Admission abdominal/pelvic CT revealed minimal
+interval increase in size of right upper quadrant pancreatic
+pseudocyst, but decrease in size of remaining loculated fluid
+collections. Large bilateral pleural effusions with associated
+compression atelectasis were noted, as well as increased amount
+of abdominal and pelvic free fluid. He was admitted to the SICU,
+made NPO, started on vigorous IV fluid rescusitation, a foley
+was placed, and he received IV pain medication with good effect.
+He had a very long, and complicated hospital course.
+.
+In the process of repairing his florid necrotizing pancreatitis
+secondary to his history of severe gallstone pancreatitis, he
+ultimately developed recurrent pseudocyts, which have plagued
+him throughtout his hospital stays since [**48**]/[**2145**]. To date, these
+pseudocyts have been managed largely with percutaneous catheter
+drainage of the pseudocysts. Initially, during this admission,
+this was the approach to managing the patient's recurring
+pseudocyts. The patient underwent drainage of pancreatic
+pseudocysts on [**2146-3-10**] and [**2146-3-18**], Ultrasound and CT-guided,
+respectively. However, he developed an accumulating posterior
+retroperitoneal cyst, which continued to progress, and there was
+evidence of a disconnected pancreatic remnant within it. The
+recent drainages of the other satellite lesions have dried them
+up. The main retroperitoneal cyst continued to grow in size, and
+became symptomatic for him. He was unable to eat full meals and
+has a diminished capacity to keep food down, as well as a poor
+appetite. He also repeatedly spiked temperatures.
+.
+Given his history of a left lower extremity acute deep venous
+thrombosis, Vascular Surgery was consulted. In lieu of planned
+surgical intervention on [**2146-4-5**] for treatment of the above
+pseudocyst with adhesions, the patient underwent placement of a
+Bard G2 inferior vena cava filter, which went without
+complication. Then on [**2146-4-5**], the patient underwent external
+drainage of pancreatic pseudocyst and extended adhesiolysis,
+which also went well without complication (see Operative Note).
+After a brief, uneventful stay in the PACU, the patient was
+returned to the floor NPO with an NG tube, on IV fluids and TPN,
+with a foley catheter and two JP drains in place (one in the
+pseudocyst and one in the abdomen to drain ascites), he was
+continued on a Fentanyl patch and was given a Morphine PCA with
+good effect. He was hemodynamically stable.
+.
+NEURO: Upon admission, the patient received IV pain medication
+PRN transitioned to a Morphine PCA with good effect and adequate
+pain control. When tolerating oral intake, he was transitioned
+to oral pain medications. After the surgery on [**2146-4-5**], the
+Chronic Pain Service was consulted. His pain was controlled once
+the Fentanyl dose was increased to 75mcg/72Hr plus the Morphine
+PCA. When again tolerating a diet post-operatively, the PCA was
+discontinued, and he was started on oral pain medication in
+addition to the Fentanyl patch with continued good effect. He
+remained neurologically intact.
+.
+CV: Upon admission, tachycardia responded to vigorous IV fluid
+rescusitation and beta-blockade with Metoprolol 50mg TID.
+Metoprolol was increased to 75mg TID with eventual excellent
+rate and BP control. By discharge, the Metoprolol was decreased
+to 50mg [**Hospital1 **]. The patient remained stable from a cardiovascular
+standpoint; vital signs were routinely monitored.
+.
+PULMONARY: Tachypnea on admission. Chest CTA revealed large
+bilateral pleural effusions with associated compression
+atelectasis. Tachypnea resolved with diuresis with Lasix and
+supplemental oxygen. He was given Albuterol and Atrovent
+nebulizer treatments, good pulmonary toilet and use of the
+incentive spirrometry were encouraged, and the patient received
+chest PT with improvement in overall respiratory status. Able to
+wean off supplemental oxygen. CXR on [**3-17**] revealed still
+extremely low lung volumes. Hazy opacification at the left base
+is consistent with pleural fluid. Obscuration of the
+hemidiaphragm suggests volume loss in the left lower lobe. The
+right lung was essentially clear and there was no evidence of
+pulmonary vascular congestion.
+
+Starting on [**4-12**], he spiked a temperature to 103 PO and his WBC
+increased from 13 to 23,000.  He had a CT abdomen performed
+which demonstrated a left pleural effusion
+on the upper cuts of the abdomen. Thoracic surgery was consulted
+for management of the pleural effusion. On [**2146-4-14**], he underwent
+ultrasound-guided thorocentesis and placement of left pleural
+pigtail catheter. Plural fluid for culture, gram stain,
+cytology, chemistries, and AFB was sent. The pleural pigtail
+catheter was removed on [**4-15**]; post-removal CXR revealed minimal
+apical and lateral basal pneumothorax without evidence of
+tension. Unchanged minimal atelectasis at the left lung base. A
+follow-up CXR on [**2146-4-18**] showed continued low lung volumes with
+left basilar subsegmental atelectasis, likely related to the
+recent abdominal surgery and ongoing intra-abdominal process. No
+appreciable residual left pneumothorax was seen. The patient
+remained stable from a pulmonary standpoitn thereafter.
+Respiratory toilet, incentive spirrometry, and frequent
+ambulation was encouraged.
+.
+GU/FEN: On admission, the patient was made NPO and he received
+vigorous IV fluid rescusitation. A foley catheter was placed.
+Allowed clears on [**3-11**] and [**3-12**], but an NG tube was placed on
+[**3-13**] for increased abdominal distension and emesis resulting
+with 1400mL bilious output. After successful clamp trial
+overnight, the NG tube was discontinued on [**3-15**] in the morning.
+Given persistent problems with tolerating oral intake, a PICC
+was placed, and TPN was started on [**2146-3-14**]. With the decision
+to proceed to surgery, TPN was continued through [**2146-4-12**]. When
+not NPO for procedures, his diet was advanced back to low fat
+regular with good tolerability and intake. When the foley
+catheter was removed after surgery, he was able to void without
+problem. Patient's intake and output were closely monitored, and
+IV fluid was adjusted when necessary. Electrolytes were
+routinely followed, and repleted when necessary.
+.
+GI: Admission liver and pancreatic enzymes were elevated.
+Shortly after admission, the patient underwent ultrasound-guided
+pseudocyst drainage measuring 1.7 liters of fluid with a
+drainage catheter left in place to gravity on [**2146-3-10**]. Liver
+and pancreatic enzymes began trending down. Follow-up
+abdominal/pelvic CT on [**3-16**] demonstrated enlargement of the
+previously seen fluid collection and appearance of the numerous
+new large collections in the peritoneum. The drained collection
+had significantly decreased in size. On [**3-18**], the patient
+returned to Interventional Radiology for drainage of an anterior
+collection, and placement of a new drainage catheter to gravity.
+The previous drain was removed, and upper abdominal pseudocyst
+was succesfully drained with a catheter left in place to
+gravity. Unfortunately, as noted above, he developed an
+accumulating posterior retroperitoneal cyst, which continued to
+progress, and there was evidence of a disconnected pancreatic
+remnant within it. He underwent external drainage of pancreatic
+pseudocyst and extended adhesiolysis as described above. A (L)
+flank drain was left in place. After the surgery, his symptoms
+improved.
+.
+ID: Admission blood cultures were negative. [**3-10**] fluid culture
+had no growth. On [**3-17**] after receiving FFPs, the patient mounted
+a fever with a Tmax 101.5 PO. Blood cultures were negative.
+Fluid cutlure from the [**3-18**] drainage also revealed no growth.
+The patient's white blood count and fever curves were closely
+watched for signs of infection. Admission MRSA screen was
+negative. After the [**2146-4-5**] surgery, cultures from the peritoneal
+fluid on [**4-14**], the (L) JP on [**4-19**], and the flank drain on [**4-21**]
+all grew out MRSA. The patient had been started on empiric IV
+Vancomycin, Ciprofloxacin, and Flagyl when he spiked a
+temperature on [**4-14**]. Fluconazole for empiric coverage after the
+thorocentesis was started on [**4-15**]. Flagyl, Cipro, and
+Fluconazole were discontinued on [**4-16**]. Cipro restarted on [**4-21**].
+Infectious Disease was consulted for discharge antibiotic
+recommendations; their input was greatly appreciated. Cipro was
+discomntinued, and oral Levofloxacin and Flagyl started on [**4-26**]
+with Vancomycin continued. At discharge, the patient was sent
+home on a two week course oral Linezolid, and a total of four
+weeks of oral Levofloxacin and Flagyl.
+.
+ENDOCRINE: The patient's blood sugar was monitored throughout
+his stay when he was on TPN; sliding scale insulin was
+administered accordingly. He did not require exogenous insulin.
+.
+HEMATOLOGY: Upon admission, Coumadin was stopped, and the
+patient received 5 untis of Fresh Frozen Plasma (FFPs) prior to
+fluid collection drainage in Intervention Radiology. On [**3-17**],
+FFPs were again administered in preparation for IR drainage of a
+large anterior abdominal fluid collection, but was stopped after
+the patient experienced severe lower back pain after initiation
+of the second unit of FFP. On [**3-18**], he received a total of 4
+units of FFPs prior to IR drainage of the aforementioned
+collection. Prior to [**2146-4-5**] surgery, the patient received 2
+units of PRBCs for a HCT of 22.2. He did not require any further
+blood products after this date. At discharge, his HCT was 23.7.
+.
+PROPHYLAXIS: History left common iliac DVT and HITs. Repeat
+duplex ultra-sound on admission confirmed persistent
+non-occlusive thrombus in the left common femoral vein; no right
+DVT was seen. Chest CTA did not reveal a PE. On admission,
+Coumadin stopped, and Agatroban started. After the drainage of
+the collection on [**3-10**], Agatroban was stopped, and Coumadin
+restarted. Coumadin also restarted after reversal for second
+collection drainage. After the surgery on [**2146-4-5**], the patient
+was restarted on Argatroban. He was again converted back to
+Coumadin prior to discharge, at which time the INR was
+therapeutic at 3.2 on a Coumadin dose of 2.5mg daily. INR goal
+2.5 with a therapeutic range of [**3-2**].
+.
+MOBILITY: The patient worked with Physical and Occupation
+therapy extensively. By discharge, he was able to ambulate
+independently. He was discharge home with PT and OT services.
+.
+At the time of discharge, the patient was doing well, afebrile
+with stable vital signs.  The patient was tolerating a regular
+diet, ambulating with minimal assistance, voiding without
+assistance, and pain was well controlled.  He was discharged
+home with VNA and PT services. The patient received discharge
+teaching and follow-up instructions with understanding
+verbalized and agreement with the discharge plan.
+
+Medications on Admission:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+2. Senna 8.8 mg/5 mL Syrup Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+3. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**1-29**]
+Drops Ophthalmic PRN (as needed) as needed for dryness.
+4. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID
+(3 times a day) as needed for rash.
+5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for fever.
+6. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H
+(every 8 hours) as needed for constipation.
+7. Methyl Salicylate-Menthol Ointment Sig: One (1) Appl Topical
+[**Hospital1 **] (2 times a day) as needed for back pain.
+8. Propranolol 10 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+9. Methadone 10 mg Tablet Sig: Two (2) Tablet PO twice a day.
+10. Insulin Lispro 100 unit/mL Solution Sig: sliding scale
+sliding scale Subcutaneous ASDIR (AS DIRECTED).
+11. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+12. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed for btp.
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+14. Lorazepam 1 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for anxiety.
+15. Warfarin 5 mg Tablet Sig: One (1) Tablet PO ONCE (Once):
+Adjust dose according to INR. .
+16. Warfarin 1 mg Tablet Sig: One (1) Tablet PO once a day:
+Please adjust daily dose according to INR.
+17. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: Four (4) mg
+Injection Q8H (every 8 hours) as needed for nausea.
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO twice
+a day.
+[**Hospital1 **]:*60 Tablet(s)* Refills:*0*
+2. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation.
+[**Hospital1 **]:*60 Capsule(s)* Refills:*2*
+3. Senna 8.8 mg/5 mL Syrup Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation: Over-the-counter.
+4. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+[**Hospital1 **]:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*11*
+5. Oxycodone 5 mg Tablet Sig: 1-3 Tablets PO every 4-6 hours as
+needed for pain.
+[**Hospital1 **]:*120 Tablet(s)* Refills:*0*
+6. Fentanyl 75 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours) as needed for pain.
+[**Hospital1 **]:*10 Patch 72 hr(s)* Refills:*0*
+7. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+[**Hospital1 **]:*60 Tablet(s)* Refills:*2*
+8. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every six (6)
+hours.
+9. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+[**Hospital1 **]:*30 Tablet(s)* Refills:*2*
+10. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS
+(4 times a day (before meals and at bedtime)).
+[**Hospital1 **]:*120 Tablet(s)* Refills:*0*
+11. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H
+(every 8 hours) for 4 weeks.
+[**Hospital1 **]:*84 Tablet(s)* Refills:*0*
+12. Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 4 weeks.
+[**Hospital1 **]:*28 Tablet(s)* Refills:*0*
+13. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every
+12 hours) for 14 days.
+[**Hospital1 **]:*28 Tablet(s)* Refills:*0*
+14. Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO daily in the
+evening or as directed by PCP.
+[**Name Initial (NameIs) **]:*30 Tablet(s)* Refills:*0*
+15. Warfarin 1 mg Tablet Sig: One (1) Tablet PO As directed by
+PCP: **This Prescription should only be used if advised by your
+PCP.**.
+[**Name Initial (NameIs) **]:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] homecare VNA
+
+Discharge Diagnosis:
+1. Necrotizing gallstone pancreatitis.
+2. Multiple pancreatic pseudocysts.
+3. Non-occlusive thrombus in the left common femoral vein.
+4. Left Pleural effusion
+5. Anemia
+
+
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - requires assistance or aid (walker
+or cane)
+
+
+Discharge Instructions:
+Please resume all regular home medications , unless specifically
+advised not to take a particular medication.  Also, please take
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times
+per day, and drink adequate amounts of fluids.  Avoid lifting
+weights greater than [**6-6**] lbs until you follow-up with your
+surgeon, who will instruct you further regarding activity
+restrictions.
+
+Avoid driving or operating heavy machinery while taking pain
+medications.
+
+Please follow-up with your surgeon and Primary Care Provider
+(PCP) as advised.
+.
+JP Drain Care:
+*Please look at the site every day for signs of infection
+(increased redness or pain, swelling, odor, yellow or bloody
+discharge, warm to touch, fever).
+*Maintain suction of the bulb.
+*Note color, consistency, and amount of fluid in the drain.
+Call the doctor, nurse practitioner, or VNA nurse if the amount
+increases significantly or changes in character.
+*Be sure to empty the drain frequently.  Record the output, if
+instructed to do so.
+*You may shower; wash the area gently with warm, soapy water.
+*Keep the insertion site clean and dry otherwise.
+*Avoid swimming, baths, hot tubs; do not submerge yourself in
+water.
+*Make sure to keep the drain attached securely to your body to
+prevent pulling or dislocation.
+.
+
+General Drain Care:
+
+*Please look at the site every day for signs of infection
+(increased redness or pain, swelling, odor, yellow or bloody
+discharge, warm to touch, fever).
+*If the drain is connected to a collection container, please
+note color, consistency, and amount of fluid in the drain.  Call
+the doctor, nurse practitioner, or VNA nurse if the amount
+increases significantly or changes in character. Be sure to
+empty the drain frequently.  Record the output, if instructed to
+do so.
+*Wash the area gently with warm, soapy water or 1/2 strength
+hydrogen peroxide followed by saline rinse, pat dry, and place a
+drain sponge. Change daily and as needed.
+*Keep the insertion site clean and dry otherwise.
+*Avoid swimming, baths, hot tubs; do not submerge yourself in
+water.
+*Make sure to keep the drain attached securely to your body to
+prevent pulling or dislocation.
+.
+Coumadin (Warfarin):
+
+What is this medicine used for?
+
+This medicine is used to thin the blood so that clots will not
+form.
+
+How does it work?
+
+Warfarin changes the body's clotting system. It thins the blood
+to prevent clots from forming.
+
+What you should contact your healthcare provider [**Name Initial (PRE) **]:
+
+Signs of a life-threatening reaction. These include wheezing;
+chest tightness; fever; itching; bad cough; blue skin color;
+fits; or swelling of face, lips, tongue, or throat, severe
+dizziness or passing out, falls or accidents, especially if you
+hit your head. Talk with healthcare provider even if you feel
+fine, significant change in thinking clearly and logically,
+severe headache, severe back pain, severe belly pain, black,
+tarry, or bloody stools, blood in the urine, nosebleeds,
+coughing up blood, vomiting blood, unusual bruising or bleeding,
+
+severe menstrual bleedin, or rash.
+
+Call your doctor if you are unable to eat for several days, for
+whatever reason. Also call if you have stomach problems,
+vomiting, or diarrhea that lasts more than 1 day. These problems
+
+could affect your Coumadin??????/warfarin dosage.
+
+Coumadin (Warfarin) and diet:
+
+Certain foods and beverages can impair the effect of warfarin.
+For this reason, it's important to pay attention to what you eat
+
+while taking this medication.
+
+Until recently, doctors advised [**Name5 (PTitle) **] taking warfarin to avoid
+foods high in vitamin K. This is because large amounts of
+vitamin K can counteract the benefits of warfarin. However,
+recent research shows that rather than eliminating vitamin K
+from your diet, it is more important to be consistent in your
+dietary vitamin K intake.
+
+These foods contain vitamin K:
+
+Fruits and vegetables, such as: Kiwi, Blueberries, Broccoli,
+Cabbage, [**Location (un) 2831**] sprouts, Green onions, Asparagus, Cauliflower,
+
+Peas, Lettuce, Spinach, Turnip, collard, and mustard greens,
+Parsley, Kale, Endive. Meats, such as: Beef liver, Pork liver.
+Other: Mayonnaise, Margarine, Canola oil, Soybean oil, Vitamins,
+
+Soybeans and Cashews.
+
+Limit alcohol. Alcohol can affect your Coumadin??????/warfarin dosage
+
+but it does not mean you must avoid all alcohol. Serious
+problems can occur with alcohol and Coumadin??????/warfarin when you
+drink more than 2 drinks a day or when you change your usual
+pattern. Binge drinking is not good for you. Be careful on
+special occasions or holidays, and drink only what you usually
+would on any regular day of the week.
+
+Monitoring:
+
+The doctor decides how much Coumadin??????/warfarin you need by
+testing your blood. The test measures how fast your blood is
+clotting and lets the doctor know if your dosage should change.
+If your blood test is too high, you might be at risk for
+bleeding problems. If it is too low, you might be at risk for
+forming clots. Your doctor has decided on a range on the blood
+test that is right for you. The blood test used for monitoring
+is called an INR.
+
+Use of Other medications:
+
+When Coumadin??????/warfarin is taken with other medicines it can
+change the way other medicines work. Other medicines can also
+change the way Coumadin??????/warfarin works. It is very important to
+
+talk with your doctor about all of the other medicines that you
+are taking, including over-the-counter medicines, antibiotics,
+vitamins, or herbal products.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6952**], MD (Hematology).
+Phone:[**Telephone/Fax (1) 3241**] Date/Time:[**2146-5-18**] 2:00. Location: [**Hospital Ward Name 23**] 7,
+[**Hospital Ward Name 516**].
+.
+Provider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2146-5-26**] 2:45.
+Location: [**Hospital Ward Name 23**] 4, [**Hospital Ward Name 516**].
+.
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD (Infectious Disease). Phone:
+([**Telephone/Fax (1) 6732**]. Date/Time: Friday, [**2146-5-27**] at 10:00AM. Location:
+[**Last Name (un) 6752**] GB, [**Last Name (NamePattern1) 439**], [**Hospital1 18**] [**Hospital Ward Name 517**].
+.
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2832**], MD Phone:[**Telephone/Fax (1) 1231**] Date/Time:
+Friday, [**2146-5-27**] at 11:30AM. Location: [**Hospital Ward Name 23**] 3, [**Hospital Ward Name 516**].
+.
+Please call ([**Telephone/Fax (1) 84361**] to arrange a follow-up appointment
+with Dr. [**Last Name (STitle) 84362**] (PCP) in [**3-2**] weeks.
+
+
+
+Completed by:[**2146-4-27**]

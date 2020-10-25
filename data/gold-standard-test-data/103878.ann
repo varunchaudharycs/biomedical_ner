@@ -1,0 +1,63 @@
+T1	Drug 992 1001	vitamin K
+T2	Drug 2369 2378	Lopressor
+T3	Strength 2379 2385	200 mg
+T4	Frequency 2389 2392	BID
+T5	Route 2386 2388	PO
+T6	Drug 960 968	mannitol
+T7	Drug 2436 2444	Coumadin
+T8	Drug 2325 2332	Vytorin
+T9	Strength 2354 2359	25 mg
+T10	Route 2342 2344	PO
+T11	Drug 410 418	coumadin
+T12	Drug 842 850	mannitol
+T13	Drug 1052 1060	coumadin
+T14	Drug 2413 2419	Diovan
+T15	Strength 2420 2426	320 mg
+T16	Route 2427 2429	PO
+T17	Drug 2458 2465	Tylenol
+T18	Route 2476 2478	PO
+T19	Reason 423 426	ICD
+T20	Drug 820 828	cerebryx
+T21	Strength 833 838	50 mg
+T22	Strength 951 953;954 956	50 mg
+T23	Drug 1006 1015	Profiline
+T24	Strength 2333 2341	10-80 mg
+T25	Frequency 2345 2348	QHS
+T26	Drug 2349 2353	HCTZ
+T27	Route 2360 2362	PO
+T28	Frequency 2363 2368	daily
+T29	Drug 2393 2396	KCL
+T30	Strength 2397 2403	20 mEq
+T31	Route 2404 2406	PO
+T32	Frequency 2407 2412	daily
+T33	Frequency 2430 2435	daily
+T34	Strength 2466 2475	80-160 mg
+T35	Reason 2483 2487	pain
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Frequency-Drug Arg1:T4 Arg2:T2
+R3	Route-Drug Arg1:T5 Arg2:T2
+R4	Strength-Drug Arg1:T9 Arg2:T26
+R5	Route-Drug Arg1:T10 Arg2:T8
+R6	Strength-Drug Arg1:T15 Arg2:T14
+R7	Route-Drug Arg1:T16 Arg2:T14
+R8	Route-Drug Arg1:T18 Arg2:T17
+R9	Reason-Drug Arg1:T19 Arg2:T11
+R10	Strength-Drug Arg1:T21 Arg2:T12
+R11	Strength-Drug Arg1:T22 Arg2:T6
+R12	Frequency-Drug Arg1:T25 Arg2:T8
+R13	Strength-Drug Arg1:T24 Arg2:T8
+R14	Reason-Drug Arg1:T35 Arg2:T17
+R15	Strength-Drug Arg1:T34 Arg2:T17
+R16	Frequency-Drug Arg1:T33 Arg2:T14
+R17	Frequency-Drug Arg1:T32 Arg2:T29
+R18	Route-Drug Arg1:T31 Arg2:T29
+R19	Strength-Drug Arg1:T30 Arg2:T29
+R20	Frequency-Drug Arg1:T28 Arg2:T26
+R21	Route-Drug Arg1:T27 Arg2:T26
+T36	Reason 774 777	SDH
+T37	Reason 1043 1046	ICD
+T38	Frequency 2479 2482	PRN
+R22	Reason-Drug Arg1:T36 Arg2:T20	
+R23	Reason-Drug Arg1:T36 Arg2:T12	
+R24	Reason-Drug Arg1:T37 Arg2:T13	
+R25	Frequency-Drug Arg1:T38 Arg2:T17	

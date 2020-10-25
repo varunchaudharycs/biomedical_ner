@@ -1,0 +1,302 @@
+T1	Reason 1296 1299	AML
+R1	Reason-Drug Arg1:T1 Arg2:T2
+R2	Reason-Drug Arg1:T1 Arg2:T3
+R3	Reason-Drug Arg1:T1 Arg2:T4
+T2	Drug 1399 1405	hydrea
+T3	Drug 1410 1417	donazol
+T4	Drug 1474 1485	hydroxyurea
+T5	Reason 3531 3534	AML
+R4	Reason-Drug Arg1:T5 Arg2:T6
+T6	Drug 3584 3595	hydroxyurea
+T7	Reason 4618 4626	headache
+R5	Reason-Drug Arg1:T7 Arg2:T9
+T8	Strength 4684 4687	5mg
+R6	Strength-Drug Arg1:T8 Arg2:T9
+T9	Drug 4691 4700	oxycodone
+T10	Reason 5602 5605	AML
+R7	Reason-Drug Arg1:T10 Arg2:T11
+T11	Drug 5657 5668	hydroxyurea
+T12	Dosage 5835 5838;5839 5843	one unit
+R8	Dosage-Drug Arg1:T12 Arg2:T14
+T14	Drug 5847 5859	packed RBC's
+T15	Frequency 5860 5874;5875 5884	every three to four days
+R10	Frequency-Drug Arg1:T15 Arg2:T14
+T16	Reason 5940 5957	Type two diabetes
+R11	Reason-Drug Arg1:T16 Arg2:T18
+R12	Reason-Drug Arg1:T16 Arg2:T24
+T17	Drug 5965 5975	prednisone
+T18	Drug 6084 6091	Humalog
+T19	Strength 6092 6097	75/25
+R13	Strength-Drug Arg1:T19 Arg2:T18
+T20	Dosage 6103 6111	45 units
+R14	Dosage-Drug Arg1:T20 Arg2:T18
+T21	Frequency 6112 6125	every morning
+R15	Frequency-Drug Arg1:T21 Arg2:T18
+T22	Dosage 6130 6132;6133 6138	25 units
+R16	Dosage-Drug Arg1:T22 Arg2:T18
+T23	Frequency 6139 6147	at night
+R17	Frequency-Drug Arg1:T23 Arg2:T18
+T24	Drug 6209 6224	regular insulin
+T25	Dosage 6225 6238	sliding scale
+R18	Dosage-Drug Arg1:T25 Arg2:T24
+T26	Dosage 6288 6295	2 units
+R19	Dosage-Drug Arg1:T26 Arg2:T27
+T27	Drug 6299 6306;6307 6314	regular insulin
+T28	Dosage 6357 6366	two units
+R20	Dosage-Drug Arg1:T28 Arg2:T29
+T29	Drug 6370 6377	insulin
+T30	Reason 6428 6432	COPD
+R21	Reason-Drug Arg1:T30 Arg2:T31
+T31	Drug 6480 6486	Advair
+T32	Strength 6487 6493	250/50
+R22	Strength-Drug Arg1:T32 Arg2:T31
+T33	Dosage 6495 6498	one
+R23	Dosage-Drug Arg1:T33 Arg2:T31
+T34	Form 6499 6503	puff
+R24	Form-Drug Arg1:T34 Arg2:T31
+T35	Frequency 6504 6515	twice a day
+R25	Frequency-Drug Arg1:T35 Arg2:T31
+T36	Drug 6539 6548	albuterol
+T37	Form 6549 6556	inhaler
+R26	Form-Drug Arg1:T37 Arg2:T36
+T38	Reason 6561 6579	shortness of breat
+R27	Reason-Drug Arg1:T38 Arg2:T36
+T39	Frequency 6679 6684;6685 6690	twice daily
+R28	Frequency-Drug Arg1:T39 Arg2:T40
+T40	Drug 6701 6710	albuterol
+T41	Form 6711 6715	nebs
+R29	Form-Drug Arg1:T41 Arg2:T40
+T42	Drug 6840 6846	Advair
+T43	Drug 6861 6870	albuterol
+T44	Form 6871 6879	inhalers
+R30	Form-Drug Arg1:T44 Arg2:T43
+R31	Form-Drug Arg1:T44 Arg2:T42
+T45	Reason 7148 7157	pneumonia
+R32	Reason-Drug Arg1:T45 Arg2:T46
+T46	Drug 7180 7192	levofloxacin
+T47	Duration 7226 7241	seven more days
+R33	Duration-Drug Arg1:T47 Arg2:T46
+T48	Drug 7245 7256	antibiotics
+T49	Drug 7285 7292	Humalog
+T50	Strength 7293 7298	75/25
+R34	Strength-Drug Arg1:T50 Arg2:T49
+T51	Dosage 7299 7307	40 units
+R35	Dosage-Drug Arg1:T51 Arg2:T49
+T52	Route 7308 7310	sc
+R36	Route-Drug Arg1:T52 Arg2:T49
+T53	Frequency 7311 7326	every AM and PM
+R37	Frequency-Drug Arg1:T53 Arg2:T49
+T54	Drug 7327 7337	Furosemide
+T55	Strength 7338 7342	20mg
+R38	Strength-Drug Arg1:T55 Arg2:T54
+T56	Route 7343 7345	po
+R39	Route-Drug Arg1:T56 Arg2:T54
+T57	Frequency 7346 7351	daily
+R40	Frequency-Drug Arg1:T57 Arg2:T54
+T58	Drug 7352 7358	Advair
+T59	Strength 7359 7365	250/50
+R41	Strength-Drug Arg1:T59 Arg2:T58
+T60	Dosage 7366 7369	one
+R42	Dosage-Drug Arg1:T60 Arg2:T58
+T61	Form 7370 7374	puff
+R43	Form-Drug Arg1:T61 Arg2:T58
+T62	Frequency 7375 7386	twice daily
+R44	Frequency-Drug Arg1:T62 Arg2:T58
+T63	Drug 7387 7398	Hydroxyurea
+T64	Strength 7399 7405	1000mg
+R45	Strength-Drug Arg1:T64 Arg2:T63
+T65	Route 7406 7408	po
+R46	Route-Drug Arg1:T65 Arg2:T63
+T66	Frequency 7409 7419	once daily
+R47	Frequency-Drug Arg1:T66 Arg2:T63
+T67	Drug 7420 7432	Pantoprazole
+T68	Strength 7433 7437	40mg
+R48	Strength-Drug Arg1:T68 Arg2:T67
+T69	Route 7438 7440	po
+R49	Route-Drug Arg1:T69 Arg2:T67
+T70	Frequency 7441 7446	daily
+R50	Frequency-Drug Arg1:T70 Arg2:T67
+T71	Drug 7447 7457	Prednisone
+T72	Strength 7458 7462	15mg
+R51	Strength-Drug Arg1:T72 Arg2:T71
+T73	Route 7463 7465	po
+R52	Route-Drug Arg1:T73 Arg2:T71
+T74	Frequency 7466 7471	daily
+R53	Frequency-Drug Arg1:T74 Arg2:T71
+T75	Drug 7499 7506	Humalog
+T76	Strength 7511 7530	75-25 75-25 unit/mL
+R54	Strength-Drug Arg1:T76 Arg2:T75
+T77	Form 7531 7541	Suspension
+R55	Form-Drug Arg1:T77 Arg2:T75
+T78	Dosage 7547 7557;7558 7568	Forty Five (45) Units
+R56	Dosage-Drug Arg1:T78 Arg2:T75
+T79	Route 7569 7581	Subcutaneous
+R57	Route-Drug Arg1:T79 Arg2:T75
+T80	Frequency 7582 7585	qAM
+R58	Frequency-Drug Arg1:T80 Arg2:T75
+T81	Drug 7590 7607	Albuterol Sulfate
+T82	Strength 7608 7614;7614 7615	0.083  %
+R59	Strength-Drug Arg1:T82 Arg2:T81
+T83	Form 7616 7624	Solution
+R60	Form-Drug Arg1:T83 Arg2:T81
+T84	Dosage 7630 7633;7634 7637	One (1)
+R61	Dosage-Drug Arg1:T84 Arg2:T81
+T86	Frequency 7653 7664	twice a day
+R62	Frequency-Drug Arg1:T86 Arg2:T81
+T87	Drug 7694 7710	Fexofenadine HCl
+T88	Strength 7711 7716	60 mg
+R63	Strength-Drug Arg1:T88 Arg2:T87
+T89	Form 7717 7724	Capsule
+R64	Form-Drug Arg1:T89 Arg2:T87
+T90	Dosage 7730 7733;7734 7737	One (1)
+R65	Dosage-Drug Arg1:T90 Arg2:T87
+T91	Form 7738 7745	Capsule
+R66	Form-Drug Arg1:T91 Arg2:T87
+T92	Route 7746 7748	PO
+R67	Route-Drug Arg1:T92 Arg2:T87
+T93	Frequency 7749 7752	BID
+R68	Frequency-Drug Arg1:T93 Arg2:T87
+T94	Drug 7773 7785	Levofloxacin
+T95	Strength 7786 7792	500 mg
+R69	Strength-Drug Arg1:T95 Arg2:T94
+T96	Form 7793 7799	Tablet
+R70	Form-Drug Arg1:T96 Arg2:T94
+T97	Dosage 7805 7808;7809 7812	One (1)
+R71	Dosage-Drug Arg1:T97 Arg2:T94
+T98	Form 7813 7819	Tablet
+R72	Form-Drug Arg1:T98 Arg2:T94
+T99	Route 7820 7822	PO
+R73	Route-Drug Arg1:T99 Arg2:T94
+T100	Frequency 7823 7827	Q24H
+R74	Frequency-Drug Arg1:T100 Arg2:T94
+T101	Duration 7845 7855	for 7 days
+R75	Duration-Drug Arg1:T101 Arg2:T94
+T102	Drug 7860 7870	Furosemide
+T103	Strength 7871 7876	20 mg
+R76	Strength-Drug Arg1:T103 Arg2:T102
+T104	Form 7877 7883	Tablet
+R77	Form-Drug Arg1:T104 Arg2:T102
+T105	Dosage 7889 7892;7893 7896	One (1)
+R78	Dosage-Drug Arg1:T105 Arg2:T102
+T106	Form 7897 7903	Tablet
+R79	Form-Drug Arg1:T106 Arg2:T102
+T107	Route 7904 7906	PO
+R80	Route-Drug Arg1:T107 Arg2:T102
+T108	Frequency 7907 7912;7913 7920	DAILY (Daily)
+R81	Frequency-Drug Arg1:T108 Arg2:T102
+T109	Drug 7926 7948	Fluticasone-Salmeterol
+T110	Strength 7949 7964	250-50 mcg/Dose
+R82	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 7965 7981	Disk with Device
+R83	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 7987 7990;7991 7994	One (1)
+R84	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Route 7995 8010	Puff Inhalation
+R85	Route-Drug Arg1:T113 Arg2:T109
+T114	Frequency 8029 8042	2 times a day
+R86	Frequency-Drug Arg1:T114 Arg2:T109
+T115	Drug 8048 8059	Hydroxyurea
+T116	Strength 8060 8066	500 mg
+R87	Strength-Drug Arg1:T116 Arg2:T115
+T117	Form 8067 8074	Capsule
+R88	Form-Drug Arg1:T117 Arg2:T115
+T118	Dosage 8080 8083;8084 8087	Two (2)
+R89	Dosage-Drug Arg1:T118 Arg2:T115
+T119	Form 8088 8095	Capsule
+R90	Form-Drug Arg1:T119 Arg2:T115
+T120	Route 8096 8098	PO
+R91	Route-Drug Arg1:T120 Arg2:T115
+T121	Frequency 8099 8104	DAILY
+R92	Frequency-Drug Arg1:T121 Arg2:T115
+T122	Drug 8117 8136	Pantoprazole Sodium
+T123	Strength 8137 8142	40 mg
+R93	Strength-Drug Arg1:T123 Arg2:T122
+T124	Form 8143 8173	Tablet, Delayed Release (E.C.)
+R94	Form-Drug Arg1:T124 Arg2:T122
+T125	Dosage 8179 8182;8183 8186	One (1)
+R95	Dosage-Drug Arg1:T125 Arg2:T122
+T126	Form 8187 8217	Tablet, Delayed Release (E.C.)
+R96	Form-Drug Arg1:T126 Arg2:T122
+T127	Route 8218 8220	PO
+R97	Route-Drug Arg1:T127 Arg2:T122
+T128	Frequency 8221 8225;8226 8242	Q24H (every 24 hours)
+R98	Frequency-Drug Arg1:T128 Arg2:T122
+T129	Drug 8248 8263	Docusate Sodium
+T130	Strength 8264 8270	100 mg
+R99	Strength-Drug Arg1:T130 Arg2:T129
+T131	Form 8271 8278	Capsule
+R100	Form-Drug Arg1:T131 Arg2:T129
+T132	Dosage 8284 8287;8288 8291	One (1)
+R101	Dosage-Drug Arg1:T132 Arg2:T129
+T133	Form 8292 8299	Capsule
+R102	Form-Drug Arg1:T133 Arg2:T129
+T134	Route 8300 8302	PO
+R103	Route-Drug Arg1:T134 Arg2:T129
+T135	Frequency 8303 8306	BID
+R104	Frequency-Drug Arg1:T135 Arg2:T129
+T136	Drug 8328 8341	Oxycodone HCl
+T137	Strength 8342 8346	5 mg
+R105	Strength-Drug Arg1:T137 Arg2:T136
+T138	Form 8347 8353	Tablet
+R106	Form-Drug Arg1:T138 Arg2:T136
+T139	Dosage 8359 8362;8363 8366	One (1)
+R107	Dosage-Drug Arg1:T139 Arg2:T136
+T140	Form 8367 8373	Tablet
+R108	Form-Drug Arg1:T140 Arg2:T136
+T141	Route 8374 8376	PO
+R109	Route-Drug Arg1:T141 Arg2:T136
+T142	Frequency 8377 8382	Q4-6H
+R110	Frequency-Drug Arg1:T142 Arg2:T136
+T143	Drug 8419 8429	Prednisone
+T144	Strength 8430 8435	10 mg
+R111	Strength-Drug Arg1:T144 Arg2:T143
+T145	Form 8436 8442	Tablet
+R112	Form-Drug Arg1:T145 Arg2:T143
+T146	Dosage 8448 8451;8452 8455	One (1)
+R113	Dosage-Drug Arg1:T146 Arg2:T143
+T147	Form 8456 8462	Tablet
+R114	Form-Drug Arg1:T147 Arg2:T143
+T148	Route 8463 8465	PO
+R115	Route-Drug Arg1:T148 Arg2:T143
+T149	Frequency 8466 8471	DAILY
+R116	Frequency-Drug Arg1:T149 Arg2:T143
+T150	Drug 8485 8490	Senna
+T151	Strength 8491 8497	8.6 mg
+R117	Strength-Drug Arg1:T151 Arg2:T150
+T152	Form 8498 8504	Tablet
+R118	Form-Drug Arg1:T152 Arg2:T150
+T153	Dosage 8510 8513;8514 8517	One (1)
+R119	Dosage-Drug Arg1:T153 Arg2:T150
+T154	Form 8518 8524	Tablet
+R120	Form-Drug Arg1:T154 Arg2:T150
+T155	Route 8525 8527	PO
+R121	Route-Drug Arg1:T155 Arg2:T150
+T156	Frequency 8528 8533;8534 8541	DAILY (Daily)
+R122	Frequency-Drug Arg1:T156 Arg2:T150
+T157	Drug 8547 8575	Heparin Lock Flush (Porcine)
+T158	Strength 8576 8587	100 unit/mL
+R123	Strength-Drug Arg1:T158 Arg2:T157
+T159	Form 8588 8595	Syringe
+R124	Form-Drug Arg1:T159 Arg2:T157
+T161	Dosage 8601 8604;8605 8611	Two (2) Ml
+T162	Route 8612 8623	Intravenous
+R125	Route-Drug Arg1:T162 Arg2:T157
+T163	Frequency 8625 8630;8631 8648	DAILY (Daily) as needed
+R126	Frequency-Drug Arg1:T163 Arg2:T157
+T164	Drug 8657 8668	Humalog Mix
+T165	Strength 8669 8688	75-25 75-25 unit/mL
+R127	Strength-Drug Arg1:T165 Arg2:T164
+T166	Form 8689 8699	Suspension
+R128	Form-Drug Arg1:T166 Arg2:T164
+T169	Route 8723 8735	Subcutaneous
+R130	Route-Drug Arg1:T169 Arg2:T164
+T170	Frequency 8736 8739	qPM
+R131	Frequency-Drug Arg1:T170 Arg2:T164
+R132	Duration-Drug Arg1:T47 Arg2:T48	
+T85	Route 7638 7641;7642 7652	Neb Inhalation
+R133	Route-Drug Arg1:T85 Arg2:T81	
+T160	Dosage 8705 8716;8717 8722	Twenty (20) Units
+R129	Dosage-Drug Arg1:T160 Arg2:T164	
+T13	Reason 6581 6589	wheezing
+R9	Reason-Drug Arg1:T13 Arg2:T36	
+R134	Dosage-Drug Arg1:T161 Arg2:T157	

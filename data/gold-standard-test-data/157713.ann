@@ -1,0 +1,243 @@
+T1	Drug 1028 1038	Kayexalate
+T2	Drug 10134 10142	Valtrex.
+T3	Drug 11910 11918	Nystatin
+T4	Strength 11919 11923	5 mg
+T5	Frequency 11933 11943;11944 11961	four times per day as needed
+T6	Route 11924 11932	by mouth
+T7	Drug 11864 11874	Metoprolol
+T8	Strength 11875 11880	25 mg
+T9	Frequency 11890 11895;11896 11903	twice per day
+T10	Route 11881 11889	by mouth
+T11	Drug 10388 10395	Tylenol
+T12	Drug 12182 12197	Ferrous sulfate
+T13	Strength 12198 12204	325 mg
+T14	Frequency 12214 12218;12219 12226	once per day
+T15	Route 12205 12213	by mouth
+T16	Drug 10328 10337	Neurontin
+T17	Drug 10521 10528	BuSpar.
+T18	Drug 2460 2470	Metoprolol
+T19	Strength 2471 2476	50 mg
+T20	Frequency 2486 2491;2492 2499	twice per day
+T21	Route 2477 2485	by mouth
+T22	Drug 2333 2343	Lisinopril
+T23	Strength 2344 2349	10 mg
+T24	Frequency 2359 2363;2364 2371	once per day
+T25	Route 2350 2358	by mouth
+T26	Drug 2590 2598	Prilosec
+T27	Strength 2599 2604	20 mg
+T28	Route 2605 2613	by mouth
+T29	Drug 12324 12334;12335 12363	Isosorbide mononitrate extended release
+T30	Strength 12364 12369	45 mg
+T31	Route 12370 12378	by mouth
+T32	Drug 1061 1069	calcium,
+T33	Drug 12073 12082	Oxycodone
+T34	Strength 12083 12089;12090 12097	2.5 mg to 5 mg
+T35	Route 12098 12106	by mouth
+T36	Drug 2730 2736	BuSpar
+T37	Strength 2737 2741	5 mg
+T38	Frequency 2751 2756;2757 2764	twice per day
+T39	Route 2742 2750	by mouth
+T40	Drug 11820 11828	Protonix
+T41	Strength 11829 11834	40 mg
+T42	Frequency 11844 11849;11850 11857	twice per day
+T43	Route 11835 11843	by mouth
+T44	Drug 1070 1078	insulin,
+T45	Route 6666 6677	intravenous
+T46	Drug 2633 2640	Remeron
+T47	Strength 2641 2646	30 mg
+T48	Route 2647 2655	by mouth
+T49	Drug 7737 7745	Protonix
+T50	Strength 7746 7751	40 mg
+T51	Route 7752 7760	by mouth
+T52	Drug 9274 9283	vitamin K
+T53	Drug 2506 2512	Plavix
+T54	Strength 2513 2518	75 mg
+T55	Frequency 2528 2532;2533 2540	once per day
+T56	Route 2519 2527	by mouth
+T57	Drug 12233 12239	BuSpar
+T58	Strength 12240 12244	5 mg
+T59	Frequency 12254 12259;12260 12267	twice per day
+T60	Route 12245 12253	by mouth
+T61	Drug 2378 2385	Lipitor
+T62	Strength 2386 2391	20 mg
+T63	Frequency 2401 2405;2406 2413	once per day
+T64	Route 2392 2400	by mouth
+T65	Drug 588 594	Motrin
+T66	Strength 11992 11998	300 mg
+T67	Frequency 12008 12013;12014 12021	twice per day
+T68	Route 11999 12007	by mouth
+T69	Drug 11981 11990;11990 11991	Gabapenti n
+T70	Drug 9806 9811	Imdur
+T71	Drug 2261 2269	BACTRIM,
+T72	Drug 2270 2284	CIPROFLOXACIN,
+T73	Drug 12131 12138	Tylenol
+T74	Strength 12139 12146	1000 mg
+T75	Frequency 12156 12167;12168 12175	three times per day
+T76	Route 12147 12155	by mouth
+T77	Drug 8038 8045	Heparin
+T78	Frequency 5875 5880;5881 5888	twice per day
+T79	Strength 12411 12416	20 mg
+T80	Frequency 12426 12430;12431 12438	once per day
+T81	Route 12417 12425	by mouth
+T82	Drug 12398 12409;12409 12410	Atorvastati n
+T83	Drug 2289 2300	AMPICILLIN.
+T84	Strength 12286 12291	30 mg
+T85	Route 12292 12300	by mouth
+T86	Drug 12274 12285	Mirtazapine
+T87	Strength 2555 2561	325 mg
+T88	Frequency 2571 2575;2576 2583	once per day
+T89	Route 2562 2570	by mouth
+T90	Drug 2547 2553;2553 2554	Aspiri n
+T91	Drug 2420 2425	Imdur
+T92	Strength 2426 2431	45 mg
+T93	Frequency 2441 2445;2446 2453	once per day
+T94	Route 2432 2440	by mouth
+T95	Drug 2679 2694	Ferrous sulfate
+T96	Strength 2695 2701	325 mg
+T97	Frequency 2711 2715;2716 2723	once per day
+T98	Route 2702 2710	by mouth
+T99	Drug 12028 12035	Cepacol
+T100	Form 12040 12047	lozenge
+T101	Dosage 12036 12039	one
+T102	Route 12048 12056	by mouth
+T104	Reason 10342 10358	neuropathic pain
+T105	Reason 10400 10412	pain control
+T106	Reason 566 582	zoster infection
+T107	Duration 595 610	times two weeks
+T108	Drug 1083 1087	D-50
+T109	Frequency 2614 2626	once per day
+T110	Frequency 2656 2672	at hour of sleep
+T111	Dosage 5664 5671	2 units
+T112	Drug 5675 5697	packed red blood cells
+T113	Drug 5840 5874	a proton pump inhibitor (Protonix)
+T114	Drug 6678 6684	fluids
+T115	Frequency 7761 7774	twice per day
+T116	Drug 8961 8967	fluids
+T117	Drug 8972 8994	packed red blood cells
+T118	Route 9265 9273	by mouth
+T119	Duration 9309 9326	for two more days
+T120	Drug 9756 9768	beta blocker
+T121	Drug 9798 9804	statin
+T122	Drug 9812 9824	beta blocker
+T123	Drug 9830 9843	ACE inhibitor
+T124	Reason 10095 10101;10102 10111	zoster infection
+T125	Reason 10574 10581	anxiety
+T126	Drug 11018 11041	a proton pump inhibitor
+T127	ADE 11125 11141	thrombocytopenia
+T128	Frequency 12107 12124	q.4-6h. as needed
+T129	Frequency 12301 12317	at hour of sleep
+T130	Frequency 12379 12391	once per day
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Frequency-Drug Arg1:T5 Arg2:T3
+R3	Route-Drug Arg1:T6 Arg2:T3
+R4	Strength-Drug Arg1:T8 Arg2:T7
+R5	Frequency-Drug Arg1:T9 Arg2:T7
+R6	Route-Drug Arg1:T10 Arg2:T7
+R7	Strength-Drug Arg1:T13 Arg2:T12
+R8	Frequency-Drug Arg1:T14 Arg2:T12
+R9	Route-Drug Arg1:T15 Arg2:T12
+R10	Strength-Drug Arg1:T19 Arg2:T18
+R11	Frequency-Drug Arg1:T20 Arg2:T18
+R12	Route-Drug Arg1:T21 Arg2:T18
+R13	Strength-Drug Arg1:T23 Arg2:T22
+R14	Frequency-Drug Arg1:T24 Arg2:T22
+R15	Route-Drug Arg1:T25 Arg2:T22
+R16	Strength-Drug Arg1:T27 Arg2:T26
+R17	Route-Drug Arg1:T28 Arg2:T26
+R18	Strength-Drug Arg1:T30 Arg2:T29
+R19	Route-Drug Arg1:T31 Arg2:T29
+R20	Strength-Drug Arg1:T34 Arg2:T33
+R21	Route-Drug Arg1:T35 Arg2:T33
+R22	Strength-Drug Arg1:T37 Arg2:T36
+R23	Frequency-Drug Arg1:T38 Arg2:T36
+R24	Route-Drug Arg1:T39 Arg2:T36
+R25	Strength-Drug Arg1:T41 Arg2:T40
+R26	Frequency-Drug Arg1:T42 Arg2:T40
+R27	Route-Drug Arg1:T43 Arg2:T40
+R28	Strength-Drug Arg1:T47 Arg2:T46
+R29	Route-Drug Arg1:T48 Arg2:T46
+R30	Strength-Drug Arg1:T50 Arg2:T49
+R31	Route-Drug Arg1:T51 Arg2:T49
+R32	Strength-Drug Arg1:T54 Arg2:T53
+R33	Frequency-Drug Arg1:T55 Arg2:T53
+R34	Route-Drug Arg1:T56 Arg2:T53
+R35	Strength-Drug Arg1:T58 Arg2:T57
+R36	Frequency-Drug Arg1:T59 Arg2:T57
+R37	Route-Drug Arg1:T60 Arg2:T57
+R38	Strength-Drug Arg1:T62 Arg2:T61
+R39	Frequency-Drug Arg1:T63 Arg2:T61
+R40	Route-Drug Arg1:T64 Arg2:T61
+R41	Strength-Drug Arg1:T66 Arg2:T69
+R42	Frequency-Drug Arg1:T67 Arg2:T69
+R43	Route-Drug Arg1:T68 Arg2:T69
+R44	Strength-Drug Arg1:T74 Arg2:T73
+R45	Frequency-Drug Arg1:T75 Arg2:T73
+R46	Route-Drug Arg1:T76 Arg2:T73
+R47	Strength-Drug Arg1:T79 Arg2:T82
+R48	Frequency-Drug Arg1:T80 Arg2:T82
+R49	Route-Drug Arg1:T81 Arg2:T82
+R50	Strength-Drug Arg1:T84 Arg2:T86
+R51	Route-Drug Arg1:T85 Arg2:T86
+R52	Strength-Drug Arg1:T87 Arg2:T90
+R53	Frequency-Drug Arg1:T88 Arg2:T90
+R54	Route-Drug Arg1:T89 Arg2:T90
+R55	Strength-Drug Arg1:T92 Arg2:T91
+R56	Frequency-Drug Arg1:T93 Arg2:T91
+R57	Route-Drug Arg1:T94 Arg2:T91
+R58	Strength-Drug Arg1:T96 Arg2:T95
+R59	Frequency-Drug Arg1:T97 Arg2:T95
+R60	Route-Drug Arg1:T98 Arg2:T95
+R61	Form-Drug Arg1:T100 Arg2:T99
+R62	Dosage-Drug Arg1:T101 Arg2:T99
+R63	Route-Drug Arg1:T102 Arg2:T99
+R64	Reason-Drug Arg1:T106 Arg2:T65
+R65	Duration-Drug Arg1:T107 Arg2:T65
+R66	Frequency-Drug Arg1:T109 Arg2:T26
+R67	Frequency-Drug Arg1:T110 Arg2:T46
+R68	Dosage-Drug Arg1:T111 Arg2:T112
+R69	Frequency-Drug Arg1:T78 Arg2:T113
+R70	Route-Drug Arg1:T45 Arg2:T114
+R71	Frequency-Drug Arg1:T115 Arg2:T49
+R72	Route-Drug Arg1:T118 Arg2:T52
+R73	Duration-Drug Arg1:T119 Arg2:T52
+R74	Reason-Drug Arg1:T124 Arg2:T2
+R75	Reason-Drug Arg1:T104 Arg2:T16
+R76	Reason-Drug Arg1:T105 Arg2:T11
+R77	Reason-Drug Arg1:T125 Arg2:T17
+R78	Frequency-Drug Arg1:T128 Arg2:T33
+R79	Frequency-Drug Arg1:T129 Arg2:T86
+R80	Frequency-Drug Arg1:T130 Arg2:T29
+T131	Drug 7539 7546	aspirin
+T132	Drug 8132 8140	heparin.
+T133	Drug 11079 11086	heparin
+T134	Drug 9454 9461	aspirin
+T135	Drug 9466 9472	Plavix
+T136	Drug 7551 7557	Plavix
+T137	Drug 5493 5499	fluids
+T138	Route 5481 5492	intravenous
+T140	Drug 7824 7859	nonsteroidal antiinflammatory drugs
+T141	ADE 8054 8070	thrombocytopenia
+T142	Dosage 995 996;997 1003	2 liters
+T143	Drug 11109 11116	heparin
+T144	Drug 1007 1013	lavage
+T145	Route 937 953	nasogastric tube
+T146	Reason 1045 1059	potassium of 6
+T148	Reason 4769 4791	gastrointestinal bleed
+T149	Drug 4805 4817;4818 4840	nonsteroidal antiinflammatory drugs
+T150	Duration 4841 4863	for the last two weeks
+T151	Route 5653 5663	transfused
+T152	ADE 8012 8028	THROMBOCYTOPENIA
+T153	Reason 11967 11973	thrush
+T154	Frequency 12057 12066	as needed
+R81	Route-Drug Arg1:T145 Arg2:T144
+R82	Dosage-Drug Arg1:T142 Arg2:T144
+R83	Reason-Drug Arg1:T148 Arg2:T149
+R84	Duration-Drug Arg1:T150 Arg2:T149
+R85	Route-Drug Arg1:T138 Arg2:T137
+R86	Reason-Drug Arg1:T146 Arg2:T1	
+R87	ADE-Drug Arg1:T152 Arg2:T77	
+R88	ADE-Drug Arg1:T141 Arg2:T77	
+R89	ADE-Drug Arg1:T127 Arg2:T143	
+R90	Frequency-Drug Arg1:T154 Arg2:T99	
+R91	Route-Drug Arg1:T151 Arg2:T112	
+R92	Reason-Drug Arg1:T153 Arg2:T3	

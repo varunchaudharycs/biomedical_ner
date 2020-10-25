@@ -1,0 +1,144 @@
+T1	Drug 1004 1013	labatalol
+T2	Route 1014 1017	gtt
+R1	Route-Drug Arg1:T2 Arg2:T1
+T3	Drug 1060 1068	dilaudid
+T4	Drug 1073 1079	zofran
+T5	Drug 1230 1239	labetalol
+T6	Route 1240 1243	gtt
+R2	Route-Drug Arg1:T6 Arg2:T5
+T7	Drug 1554 1559	advil
+T8	Frequency 1560 1575	every other day
+R3	Frequency-Drug Arg1:T8 Arg2:T7
+T9	Duration 1578 1585	1 month
+R4	Duration-Drug Arg1:T9 Arg2:T7
+T10	Route 3376 3378	PO
+T11	ADE 3757 3760	ATN
+R5	ADE-Drug Arg1:T11 Arg2:T12
+T12	Drug 3808 3813	NSAID
+T13	Drug 5373 5382	labetalol
+T14	Drug 5387 5397	amlodipine
+T15	Reason 5591 5603	hypertensive
+R6	Reason-Drug Arg1:T15 Arg2:T16
+T16	Drug 5634 5638	HCTZ
+T17	Drug 5751 5755	ACEI
+T18	Reason 5761 5780	Hypertriglyergiemia
+R7	Reason-Drug Arg1:T18 Arg2:T19
+T19	Drug 5888 5899	simvastatin
+T20	Strength 5900 5904	10mg
+R8	Strength-Drug Arg1:T20 Arg2:T19
+T21	Route 5905 5907	PO
+R9	Route-Drug Arg1:T21 Arg2:T19
+T22	Frequency 5908 5913	daily
+R10	Frequency-Drug Arg1:T22 Arg2:T19
+T23	Drug 6179 6202	Phos-Lo calcium acetate
+T24	Drug 6800 6803	EPO
+T25	Drug 6886 6892	folate
+T26	Drug 7187 7200	Acetaminophen
+T27	Strength 7201 7207	325 mg
+R11	Strength-Drug Arg1:T27 Arg2:T26
+T28	Form 7208 7214	Tablet
+R12	Form-Drug Arg1:T28 Arg2:T26
+T29	Dosage 7220 7223	1-2
+R13	Dosage-Drug Arg1:T29 Arg2:T26
+T30	Form 7224 7231	Tablets
+R14	Form-Drug Arg1:T30 Arg2:T26
+T31	Route 7232 7234	PO
+R15	Route-Drug Arg1:T31 Arg2:T26
+T32	Frequency 7235 7247;7248 7264	Q6H (every 6 hours) as needed
+R16	Frequency-Drug Arg1:T32 Arg2:T26
+T33	Reason 7269 7273	pain
+R17	Reason-Drug Arg1:T33 Arg2:T26
+T34	Drug 7310 7325	Calcium Acetate
+T35	Strength 7326 7332	667 mg
+R18	Strength-Drug Arg1:T35 Arg2:T34
+T36	Form 7333 7340	Capsule
+R19	Form-Drug Arg1:T36 Arg2:T34
+T37	Dosage 7346 7353	Two (2)
+R20	Dosage-Drug Arg1:T37 Arg2:T34
+T38	Form 7354 7361	Capsule
+R21	Form-Drug Arg1:T38 Arg2:T34
+T39	Route 7362 7364	PO
+R22	Route-Drug Arg1:T39 Arg2:T34
+T40	Frequency 7365 7368	TID
+R23	Frequency-Drug Arg1:T40 Arg2:T34
+T41	Drug 7442 7452	Amlodipine
+T42	Strength 7453 7457	5 mg
+R24	Strength-Drug Arg1:T42 Arg2:T41
+T43	Form 7458 7464	Tablet
+R25	Form-Drug Arg1:T43 Arg2:T41
+T44	Dosage 7470 7477	Two (2)
+R26	Dosage-Drug Arg1:T44 Arg2:T41
+T45	Form 7478 7484	Tablet
+R27	Form-Drug Arg1:T45 Arg2:T41
+T46	Route 7485 7487	PO
+R28	Route-Drug Arg1:T46 Arg2:T41
+T47	Frequency 7488 7493	DAILY
+R29	Frequency-Drug Arg1:T47 Arg2:T41
+T48	Drug 7538 7543	Senna
+T49	Strength 7544 7550	8.6 mg
+R30	Strength-Drug Arg1:T49 Arg2:T48
+T50	Form 7551 7557	Tablet
+R31	Form-Drug Arg1:T50 Arg2:T48
+T51	Dosage 7563 7570	One (1)
+R32	Dosage-Drug Arg1:T51 Arg2:T48
+T52	Form 7571 7577	Tablet
+R33	Form-Drug Arg1:T52 Arg2:T48
+T53	Route 7578 7580	PO
+R34	Route-Drug Arg1:T53 Arg2:T48
+T54	Frequency 7581 7584	BID
+R35	Frequency-Drug Arg1:T54 Arg2:T48
+T55	Drug 7637 7652	Docusate Sodium
+T56	Strength 7653 7659	100 mg
+R36	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 7660 7667	Capsule
+R37	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 7673 7680	One (1)
+R38	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 7681 7688	Capsule
+R39	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 7689 7691	PO
+R40	Route-Drug Arg1:T60 Arg2:T55
+T61	Frequency 7692 7695	BID
+R41	Frequency-Drug Arg1:T61 Arg2:T55
+T62	Drug 7749 7758	Labetalol
+T63	Strength 7759 7765	200 mg
+R42	Strength-Drug Arg1:T63 Arg2:T62
+T64	Form 7766 7772	Tablet
+R43	Form-Drug Arg1:T64 Arg2:T62
+T65	Dosage 7778 7787	Three (3)
+R44	Dosage-Drug Arg1:T65 Arg2:T62
+T66	Form 7788 7794	Tablet
+R45	Form-Drug Arg1:T66 Arg2:T62
+T67	Route 7795 7797	PO
+R46	Route-Drug Arg1:T67 Arg2:T62
+T68	Frequency 7798 7801	TID
+R47	Frequency-Drug Arg1:T68 Arg2:T62
+T69	Drug 7855 7865	Folic Acid
+T70	Strength 7866 7870	1 mg
+R48	Strength-Drug Arg1:T70 Arg2:T69
+T71	Form 7871 7877	Tablet
+R49	Form-Drug Arg1:T71 Arg2:T69
+T72	Dosage 7883 7890	One (1)
+R50	Dosage-Drug Arg1:T72 Arg2:T69
+T73	Form 7891 7897	Tablet
+R51	Form-Drug Arg1:T73 Arg2:T69
+T74	Route 7898 7900	PO
+R52	Route-Drug Arg1:T74 Arg2:T69
+T75	Frequency 7901 7911	once a day
+R53	Frequency-Drug Arg1:T75 Arg2:T69
+T76	Drug 7948 7957	Multi-Day
+T77	Form 7962 7968	Tablet
+R54	Form-Drug Arg1:T77 Arg2:T76
+T78	Dosage 7974 7981	One (1)
+R55	Dosage-Drug Arg1:T78 Arg2:T76
+T79	Form 7982 7988	Tablet
+R56	Form-Drug Arg1:T79 Arg2:T76
+T80	Route 7989 7991	PO
+R57	Route-Drug Arg1:T80 Arg2:T76
+T81	Frequency 7992 8002	once a day
+R58	Frequency-Drug Arg1:T81 Arg2:T76
+T82	Drug 8816 8839	Phos-Lo calcium acetate
+T83	Drug 3379 3383	meds
+R59	Route-Drug Arg1:T10 Arg2:T83	
+T84	Reason 3359 3362	HTN
+R60	Reason-Drug Arg1:T84 Arg2:T83	

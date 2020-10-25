@@ -1,0 +1,134 @@
+Admission Date:  [**2178-1-7**]       Discharge Date:
+
+
+Service:  GEN SURGER
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 85 year old
+woman who presents for a right hemicolectomy for resection of
+carcinoma of the cecum.  The patient was initially found to
+be anemic on routine physical examination by her primary care
+physician and further workup included a colonoscopy which
+revealed a mass in the cecum as well as diverticulosis.  The
+mass was biopsied and revealed an adenoma with high grade
+dysplasia.  The patient admits to intermittent melena, no
+bright red blood per rectum.  She has mild constipation, no
+diarrhea, no weight loss, no fevers or chills, no history of
+chest pain, shortness of breath, dizziness, syncope, nausea
+or vomiting.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Breast cancer in the past which was resected and she had
+a left mastectomy in [**2152**], and a right lumpectomy in [**2168**].
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Norvasc 5 mg p.o. q.d.
+2.  Butoptic one to two drops to each eye b.i.d. for
+prevention of glaucoma.
+3.  Trusopt 2% one drop each eye for prevention of glaucoma
+which runs in her family.
+
+SOCIAL HISTORY:  Significant for thirty pack year history of
+tobacco.  She quit fifteen years ago.  Socially ETOH, less
+than two drinks per week.  She lives alone in [**Location (un) 686**].
+
+REVIEW OF SYSTEMS:  On review of systems, she does get short
+of breath upon walking one flight of stairs.  Otherwise, the
+review of systems was noncontributory.
+
+PHYSICAL EXAMINATION:  On physical examination, her
+temperature was 97.8, heart rate 100, blood pressure 128/78,
+respiratory rate 16, and she was saturating 96% in room air.
+She is mildly obese, alert, oriented times three, pleasant in
+no apparent distress.  The pupils are equal, round, and
+reactive to light and accommodation.  Sclera were anicteric.
+Mucous membranes were moist.  No lymphadenopathy.  The neck
+was supple with no carotid bruits.  The lungs were clear to
+auscultation bilaterally.  She had a regular rate and rhythm.
+The abdomen was soft, nontender, protuberant, but
+nondistended, positive bowel sounds.  She had no cyanosis,
+clubbing or edema.  Her pulses were palpable bilaterally.
+
+HOSPITAL COURSE:  The plan was for a right hemicolectomy. The
+patient tolerated the procedure well, however, on transfer to
+the floor from the Post Anesthesia Care Unit, the patient was
+found to be unresponsive and almost apneic.  On workup, she
+was found to be hypercarbic which was presumed to be most
+likely due to narcotics from her epidural.  The epidural was
+immediately capped and an electrocardiogram, chest x-ray were
+done which were essentially within normal limits.  Once the
+epidural was capped, the patient's respiratory rate increased
+to 30 and she was saturating 91% on 50%.  She had bilateral
+crackles at the bases and was tachycardic.
+
+She was brought to the Post Anesthesia Care Unit for more
+frequent and closer monitoring.  Her narcotics and epidural
+were stopped.  The patient was closely monitored and her
+oxygen saturations came up, however, she continued to have
+respiratory difficulty and, on repeat blood gases although
+there was some improvement, she was found to be acidotic and
+still hypercarbic and breathing with difficulty.
+
+Hence, after supportive therapy was maintained for a couple
+of hours, the decision was made to intubate the patient and
+transfer to the Intensive Care Unit.  She was extubated on
+the following day, postoperative day two, tolerated
+extubation well.
+
+She had a slight temperature of 101.7 and remained slightly
+tachycardic but that was her baseline and her oxygen
+saturations remained within normal limits in the mid to low
+90s which was around her baseline.  Her temperature came down
+on its own.  The patient was transferred to the floor on
+postoperative day number two.
+
+On postoperative day number three, the patient did well.
+However, that evening she awoke short of breath, denied any
+chest pain, tingling in her arms, nausea, vomiting or
+dizziness.  She was saturating 94% on four liters.  She did
+have crackles at the bases bilaterally and some rhonchi.  The
+decision was made to give her some Lasix in which case she
+quickly responded and shortness of breath dissipated.
+Another electrocardiogram was done which again was within
+normal limits.
+
+The patient did well the following.  Vital signs were all
+stable.  She was saturating well.  Her nasogastric tube was
+taken out and she was started on sips.  She continued to do
+well.  On postoperative day five, she started to develop some
+burping and had still not passed any flatus.  Her abdomen
+became slightly distended.  She was kept NPO.  However, on
+postoperative day six, she passed large amounts of stool and
+decision was made to start her again on clears.  She
+tolerated clears well.
+
+On postoperative day seven, she was advanced to a soft
+regular diet and was discharged to rehabilitation in stable
+condition.  Her vital signs were all stable.  She was
+afebrile.  A Clostridium difficile had been sent given she
+had multiple loose bowel movements, which is still pending.
+She will follow-up with Dr. [**Last Name (STitle) 957**].
+
+DISCHARGE DIAGNOSIS:  Right hemicolectomy for cecal mass.
+
+MEDICATIONS ON DISCHARGE:
+1.  Trusopt 2% one drop O.U. t.i.d.
+2.  Butoptic one to two drops O.U. t.i.d.
+3.  Norvasc 5 mg p.o. q.d.
+4.  Tylenol #3 one to two tablets p.o. q4-6hours p.r.n. pain.
+5.  Zinc 220 mg p.o. q.d.
+6.  Multivitamin.
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 4007**]
+
+Dictated By:[**Last Name (NamePattern1) 2649**]
+MEDQUIST36
+
+D:  [**2178-1-15**]  10:08
+T:  [**2178-1-15**]  10:19
+JOB#:  [**Job Number 24811**] and [**Numeric Identifier 24812**]

@@ -1,0 +1,125 @@
+T1	Drug 6336 6346	ampicillin
+T2	Drug 7428 7438	miconazole
+T3	Form 7439 7445	powder
+T4	Drug 10604 10609	Lasix
+T5	Drug 2637 2649	indomethacin
+T6	Drug 1550 1555	Lasix
+T7	Drug 7119 7130	clindamycin
+T8	Drug 5971 5994;5995 6002	elemental iron, ferrous sulfate
+T9	Drug 3092 3099	Indocin
+T10	Drug 3413 3421;3422 3429	caffeine citrate
+T11	Drug 6938 6943	Zosyn
+T12	Drug 6683 6693	vancomycin
+T13	Drug 5345 5350	lasix
+T14	Drug 1947 1955;1956 1963	caffeine citrate
+T15	Drug 2087 2095	Caffeine
+T16	Drug 8733 8747	Elemental iron
+T17	Drug 8807 8812	Lasix
+T18	Strength 8813 8819	5.5 mg
+T19	Drug 2156 2161	Lasix
+T20	Drug 2032 2040	caffeine
+T21	Drug 2867 2879	indomethacin
+T22	Drug 7092 7102	vancomycin
+T23	Drug 1592 1597	Lasix
+T24	Drug 7036 7041	Zosyn
+T25	ADE 3349 3365;3366 3377	supraventricular tachycardia
+T26	Reason 7183 7202	gram positive cocci
+T27	Frequency 1598 1625;1626 1632	every Monday, Wednesday and Friday
+T28	Frequency 2162 2189;2190 2196	every Monday, Wednesday and Friday
+T29	Drug 2221 2224	KCl
+T30	Reason 2599 2602	PDA
+T31	Drug 3530 3536	fluids
+T33	Frequency 5171 5176	daily
+T34	Drug 5177 5190	multivitamins
+T35	Dosage 5192 5196	1 ml
+T36	ADE 5279 5319	bilateral calcifications in both kidneys
+T37	Drug 5799 5812	blood product
+T38	Form 5813 5825	transfusions
+T40	Drug 5871 5893	packed red blood cells
+T41	Dosage 6006 6012	0.5 ml
+T42	Route 6013 6015	PO
+T43	Frequency 6016 6021	daily
+T44	Duration 6324 6332	48 hours
+T45	Drug 6351 6361	gentamycin
+T46	Drug 6698 6708	gentamycin
+T47	Duration 6721 6726	7-day
+T48	Drug 6737 6748	antibiotics
+T49	Reason 6627 6644;6645 6655	staph epidermidis bacteremia
+T50	Drug 6792 6803	antibiotics
+T51	Drug 6903 6913	antibiotic
+T52	Reason 6957 6990	medical necrotizing enterocolitis
+T53	Duration 7025 7032	12 days
+T54	Drug 7104 7114	gentamycin
+T55	Duration 7292 7298	7 days
+T56	Drug 7302 7313	antibiotics
+T57	Reason 7389 7406	yeast diaper rash
+T58	Dosage 8748 8754	0.5 ml
+T59	Frequency 8755 8762	per day
+T60	Frequency 8764 8769	Daily
+T61	Drug 8774 8786	multivitamin
+T62	Form 8787 8792	drops
+T63	Dosage 8793 8797	1 ml
+T64	Frequency 8798 8805	per day
+T65	Dosage 8837 8843	0.6 ml
+T66	Frequency 8844 8881;8882 8893	once daily on Mondays, Wednesdays and     Fridays
+T67	ADE 10573 10603	Bilateral renal calcifications
+T68	Drug 9314 9326;9327 9334	pneumococcal vaccine
+T69	Drug 9272 9280;9281 9292	Pediarix     vaccine
+T70	Drug 9360 9367	Synagis
+T71	Drug 9424 9431;9432 9435	Synagis RSV
+R1	Form-Drug Arg1:T3 Arg2:T2
+R2	Strength-Drug Arg1:T18 Arg2:T17
+R3	Frequency-Drug Arg1:T27 Arg2:T23
+R4	Frequency-Drug Arg1:T28 Arg2:T19
+R5	Reason-Drug Arg1:T30 Arg2:T5
+R6	ADE-Drug Arg1:T25 Arg2:T10
+R8	Dosage-Drug Arg1:T35 Arg2:T34
+R9	Frequency-Drug Arg1:T33 Arg2:T34
+R10	ADE-Drug Arg1:T36 Arg2:T13
+R11	Form-Drug Arg1:T38 Arg2:T37
+R13	Frequency-Drug Arg1:T43 Arg2:T8
+R14	Route-Drug Arg1:T42 Arg2:T8
+R15	Dosage-Drug Arg1:T41 Arg2:T8
+R16	Duration-Drug Arg1:T44 Arg2:T1
+R17	Duration-Drug Arg1:T47 Arg2:T48
+R18	Reason-Drug Arg1:T49 Arg2:T12
+R19	Reason-Drug Arg1:T49 Arg2:T46
+R20	Reason-Drug Arg1:T49 Arg2:T48
+R21	Reason-Drug Arg1:T52 Arg2:T11
+R22	Duration-Drug Arg1:T53 Arg2:T24
+R23	Reason-Drug Arg1:T26 Arg2:T22
+R24	Reason-Drug Arg1:T26 Arg2:T54
+R25	Reason-Drug Arg1:T26 Arg2:T7
+R26	Duration-Drug Arg1:T55 Arg2:T56
+R27	Reason-Drug Arg1:T57 Arg2:T2
+R28	Frequency-Drug Arg1:T59 Arg2:T16
+R29	Dosage-Drug Arg1:T58 Arg2:T16
+R30	Frequency-Drug Arg1:T64 Arg2:T61
+R31	Dosage-Drug Arg1:T63 Arg2:T61
+R32	Frequency-Drug Arg1:T60 Arg2:T61
+R33	Form-Drug Arg1:T62 Arg2:T61
+R34	Dosage-Drug Arg1:T65 Arg2:T17
+R35	Frequency-Drug Arg1:T66 Arg2:T17
+R36	ADE-Drug Arg1:T67 Arg2:T4
+T74	Reason 1510 1530	chronic lung disease
+T75	ADE 2065 2085	increased heart rate
+T76	Drug 2669 2681	indomethacin
+T85	Frequency 5197 5204	per day
+T86	Duration 5337 5344	chronic
+T87	Form 5855 5867	transfusions
+T94	Reason 9436 9447	prophylaxis
+T95	Frequency 9468 9475	monthly
+T96	Drug 9516 9525;9526 9538	Influenza immunization
+T98	Frequency 9554 9569;9570 9578	annually in the     fall
+R48	Frequency-Drug Arg1:T98 Arg2:T96
+R49	Reason-Drug Arg1:T74 Arg2:T6	
+R37	Frequency-Drug Arg1:T85 Arg2:T34	
+R38	Duration-Drug Arg1:T86 Arg2:T13	
+R39	Form-Drug Arg1:T87 Arg2:T40	
+R40	Reason-Drug Arg1:T94 Arg2:T71	
+R41	Frequency-Drug Arg1:T95 Arg2:T71	
+T32	Dosage 5853 5854	5
+R7	Dosage-Drug Arg1:T32 Arg2:T40	
+R12	ADE-Drug Arg1:T75 Arg2:T20	
+T39	Route 3527 3529	IV
+R42	Route-Drug Arg1:T39 Arg2:T31	

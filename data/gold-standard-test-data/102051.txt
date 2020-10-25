@@ -1,0 +1,245 @@
+Admission Date:  [**2105-7-27**]              Discharge Date:   [**2105-7-28**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 330**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+Central Venous line (Right IJ)
+Arterial line (Left)
+
+History of Present Illness:
+Mr. [**Known lastname **] is a [**Age over 90 **] year old male with a history of atrial
+fibrillation, systolic heart failure, chronic kidney disease who
+presents from NH with altered mental status.  Per report, pt was
+noted by staff at NH yesterday to be difficult to arouse and
+having labored breathing.  His vitals at the time included BP
+112/57, and O2 sats and temperature were not obtainable due
+likely to hypothermia.  He was sent to the [**Hospital1 18**] ED for further
+revaluation.  Of note, per his daughter, he was recently
+hospitalized ([**2015-7-16**]) from [**Hospital3 **] Hospital with congestive
+heart failure.  During this hospitalization he was noted to have
+deteriorating mental status and delirium, which is why he had
+been discharged to NH.
+In the ED, VS T 92.1 axillary, BP 100/50, HR 50, RR 21 88% 6L
+initially then placed 99% NRB.  He received vancomycin,
+ceftriaxone, and flagyl for aspiration pneumonia.  Also received
+vitamin K IV 10 mg for coagulopathy with INR to 7.2.  With CT
+head negative for acute intracranial process.  Also received 1 L
+IVF total in ED.
+On arrival to MICU, he was noteedd to be bradycardic to HRs to
+30s and hypotensive to SBP 80s with MAPS 50s.  He was given 1 mg
+atropine with HR to 50s.  He was given 500 cc fluid bolus x 2
+and SBP came up to 90s.
+
+Past Medical History:
+Systolic Heart Failure with EF 30%
+Hypertension
+Atrial Fibrillation
+Hypothyrodism
+Chronic kidney disease, stage III
+Dysphagia
+Dementia?
+
+Social History:
+Currently lives in a nursing home.  Has a daughter and son.
+[**Name (NI) 3003**] to being in the nursing home, he lived with his daugther.
+
+Family History:
+NC
+
+Physical Exam:
+VS: HR 46  96/49 RR 18 100% NRB
+GEN: On NRB, difficult to arouse, non-verbal, opens eyes to
+painful stimuli, unable to follow commands
+HEENT: AT, NC,  EOMI, no conjuctival injection, anicteric, MM
+dry, right pupil reactive 3 to 2 mm, left pupil unreactive
+CV: Irreg irreg, nl s1 s2
+PULM: Diffuse crackles anteriorly
+ABD: soft, mild distension, + BS, no HSM
+EXT: cool, b/l lateral malleolus venous stasis ulcers
+NEURO: Unable to assess due to mental status
+
+Pertinent Results:
+[**2105-7-26**] 10:40PM BLOOD WBC-4.8 RBC-3.30* Hgb-10.5* Hct-32.1*
+MCV-98 MCH-32.0 MCHC-32.8 RDW-17.6* Plt Ct-124*
+[**2105-7-27**] 05:10PM BLOOD WBC-5.9 RBC-3.06* Hgb-10.0* Hct-30.5*
+MCV-100* MCH-32.7* MCHC-32.8 RDW-17.2* Plt Ct-100*
+[**2105-7-26**] 10:40PM BLOOD Neuts-85.0* Bands-0 Lymphs-9.2* Monos-4.7
+Eos-0.6 Baso-0.5
+[**2105-7-26**] 10:40PM BLOOD PT-60.4* PTT-67.9* INR(PT)-7.2*
+[**2105-7-27**] 04:49AM BLOOD Fibrino-405* D-Dimer-686*
+[**2105-7-26**] 10:40PM BLOOD Glucose-61* UreaN-50* Creat-2.0* Na-137
+K-4.8 Cl-100 HCO3-27 AnGap-15
+[**2105-7-26**] 10:40PM BLOOD ALT-23 AST-40 CK(CPK)-175* AlkPhos-164*
+TotBili-0.8
+[**2105-7-26**] 10:40PM BLOOD CK-MB-17* MB Indx-9.7* cTropnT-0.12*
+proBNP-5749*
+[**2105-7-27**] 03:32AM BLOOD Albumin-2.8* Calcium-7.5* Phos-4.1 Mg-1.9
+[**2105-7-27**] 03:32AM BLOOD TSH-20*
+[**2105-7-27**] 04:55PM BLOOD T4-5.9 calcTBG-0.82 TUptake-1.22
+T4Index-7.2
+[**2105-7-26**] 11:01PM BLOOD Lactate-1.4
+
+Relevant Imaging:
+
+CT Head
+FINDINGS: There is no intra- or extra-axial hemorrhage, mass
+effect, or shift of normally midline structures. Extensive
+bilateral periventricular as well as subcortical white matter
+hypoattenuation related to chronic
+microangiopathic ischemic changes is evident.
+
+The ventricles and sulci are moderately prominent, appropriate
+for age-
+associated involutionary changes. Bilateral basal ganglia
+calcification and extensive calcification along the tentorium
+and falx cerebri are evident. The osseous and soft tissue
+structures are unremarkable. A nonspecific focus of hyperdense
+focus is noted in the left pre-zygomatic soft tissue. Clinical
+correlation is advised.
+
+IMPRESSION: No acute intracranial process. A small hyperdense
+focus in the
+left pre-zygomatic soft tissue could represent calcification and
+clinical correlation is advised.
+
+ECHO
+The left atrium is moderately dilated. The right atrium is
+markedly dilated. There is mild symmetric left ventricular
+hypertrophy with normal cavity size. There is mild regional left
+ventricular systolic dysfunction with severe hypokinesis of the
+basal half of the inferior and inferolateral walls. The
+remaining segments contract normally (LVEF = 40 %). Right
+ventricular chamber size and free wall motion are normal. The
+ascending aorta is dilated at the sinus level. The descending
+thoracic aorta is mildly dilated. The aortic valve leaflets are
+severely thickened/deformed. Significant aortic stenosis is
+present (not quantified). No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+regional systolic dysfunction c/w CAD. Aortic stenosis. Dilated
+ascending aorta.
+If clinically indicated, a follow-up study to assess aortic
+stenosis is suggested when the patient can be transported to the
+Echo laboratory.
+
+
+Brief Hospital Course:
+[**Age over 90 **] year old male with a history of systolic congestive heart
+failure, atrial fibrillation, who presented with hypoxia,
+hypotension, and hypothermia.
+
+Upon admission to the MICU, agressive therapy was initiated
+keeping a broad differential diagnosis. Patient however
+continued to deteriorate and abruptly became profoundly
+bradycardic, unresponsive to atropine or increasing doses of
+pressors, culminating in asystole; patient was pronounced dead
+at 1:05am on [**2105-7-28**]. Below are the details leading to these
+events, arranged by problem:
+
+1)Hypotension / Hypothermia: On initial presentation on the
+floor SBP 80s, given 500cc fluid bolus x 2 with SBP to 90s.
+Meets SIRS criteria with hypothermia and tachpnea and
+hypotension concerning for sepsis, with pneumonia as the most
+likely source.  Also on differential was hypovolemic hypotension
+for occult blood loss, cardiogenic shock, adrenal insuffiency
+and myxedema coma. Cooling blanket placed on patient upon
+arrival.
+
+Patient was given fluid boluses and central access was obtained.
+Echocardiogram was obtained and revealed mildly depressed
+ejection fraction (40%) with inferolateral wall hypokinesis and
+moderate tricuspid regurgitation. Central venous pressure was
+measured and found to be elvated to 24mmHg, which even in the
+setting of TR was felt to rule out hypovolemia. Patient was
+initiated on Dopamine in hopes of supporting both blood pressure
+and heart rate. Arterial line was placed for accurate assessment
+of arterial pressure. Hematocrit remained stable and pressure
+responded to pressor support.
+
+Patient started on stress dose steroids for possible adrenal
+insufficiency.
+
+2)Hypoxia: With bilateral infiltrates and likely superimposed
+fluid overlaod.  Given recent hospitalization and extent of O2
+requirement, high suspicion for Hospital Acquired Pneumonia
+(HAP) with vancomycin and zosyn. This was later changed to
+Vancomycin and Cefepime. Patients blood gas was concerning for
+hypercarbia, and after re-discussing goals of care with family
+and confirming patient did not want to be intubated, non
+invasive ventillation was initiated. Patient tolerated NIPPV
+well and hypoxia / hypercarbia / respiratory acidosis improved
+until his sudden decompensation.
+
+3)Bradycardia: With baseline bradycardia per history, unclear
+etiology.  On arrival to MICU, bradycardic to HR in 30s, gave 1
+mg atropine with HR to 50s.  All nodal agents were stopped and
+heart rate improved with Dopamine administration.
+
+4)Meningitis: Given patients poor baseline mental status and
+findings of significant nuchal rigidity, concern for meningitis
+was raised. Given patients decompensated status, lumbar puncture
+was not pursued and empiric coverage with Ampicillin for
+listeria, Vancomycin/Cefepime for Staph/Strep were initiated.
+
+5)Hypothyroidism: TSH of 20, difficult to interpret in this
+setting as sick euthyroid may have impacted laboratory results.
+Given decompensated state, endocrine consult was placed and
+thyroid hormone was supplemented intravenously at higher doses
+than per outpatient regimen. Free T3, T4 and Thyroid binding
+protein were ordered but were not available before patient
+decompensated. Per endocrine team recommendations, T3 was not
+given due to concerns for arrythmia and cardiac side effects,
+and given very poor level of evidence for its efficacy.
+
+6)Coagulopathy: INR 7.2 on admission in setting of
+anticoagulation.  Given vitamin K and FFP. DIC labs negative.
+
+7)Chronic kidney disease: With known baseline CKD stage III,
+likely exacerbated in the setting of hypotension.
+
+Medications on Admission:
+Acetaminophen 325 mg PRN
+[**Doctor Last Name **] Milk of Magnesia PRN
+Dulcolax 10 mg Rectal Suppository PRN
+Fleet Enema PRN
+Albuterol INH PRN
+Coumadin 2.5 mg DAILY
+Flomax 0.4 mg DAILY
+Ferrous Sulfate 325 mg DAILY
+Levothyroxine 125 mcg DAILY
+Lasix 20 mg DAILY
+Lisinopril 2.5 mg DAILY
+Magnesium Oxide 400 mg DAILY
+Calcium 500 with Vitamin D DAILY
+Proscar 5 mg DAILY
+Ranitidine 150 mg DAILY
+Zyprexa 2.5 mg [**Hospital1 **]
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Patient expired
+
+Discharge Condition:
+Patient expired
+
+Discharge Instructions:
+Patient expired
+
+Followup Instructions:
+Patient expired
+
+

@@ -1,0 +1,379 @@
+Admission Date:  [**2145-9-7**]              Discharge Date:   [**2145-9-12**]
+
+Date of Birth:  [**2090-7-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Cefepime / Cipro
+
+Attending:[**First Name3 (LF) 3913**]
+Chief Complaint:
+Hypotension, cough
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 47367**] is a 55 yo male s/p allogeneic stem cell transplant
+for AML [**6-/2143**] with chronic GVHD on long-term steroids, DM, hx
+of PE on coumadin.
+.
+He presents to his [**Hospital 3242**] clinic with fatigue for several days, and
+anorexia, with about 12-16 hours of worsening shortness of
+breath.
+.
+Endorses increased cough with yellow sputum production and
+chills, but no fever. This morning, he reported an acute episode
+of dyspnea that did not rapidly improved, and occured with
+little amounts of activity and somewhat improved with rest. No
+PND/orthopnea. No hemoptysis.
+.
+He has had no new rashes, and has not had documented fevers. He
+has no diarrhea, but has been nauseated without vomiting. He
+reports mild epigastric pain. He has a mild headache made
+somewhat worse with light, but he feels that this is very
+consistent with flares of GVH and not different (has occured he
+estimates about 8 times).
+.
+In clinic SBP 70's, and he was given saline with improvement,
+but then the BP decreased down to the 80's. Labs from clinic
+showed that Cr increased to 2.9 (baseline 1.1). WBC increased
+somewhat. He was transferred to the ED for further evaluation.
+.
+In the ED, initial vs were: 4 97.6 72 105/73 18 99%  He was
+given total of 3L of saline, and recent vital signs were 98.8
+129/85 80 16 96% on 2L at time of transfer. A bedside "shock"
+ultrasound US in ED showed no cardiac effusion, no evidence of
+gross RV overload. EKG was not significantly changed. Her INR
+was 3.0. Of note, he was also complaining of left sided
+shoulder/neck pain associated with shortness of breath and
+diaphoresis.
+.
+For interventions, he received 1 gm vanc and 1gm aztreonam, 40
+mg medrol, and 2 L IVF in clinic, and another liter in the ED.
+
+Past Medical History:
+- AML-M7: s/p matched unrelated allogenic transplant on
+[**2143-6-24**]
+- Chronic extensive GVHD of skin and liver, liver biopsy [**4-23**]
+consistent with GVHD, managed with cyclosporine, steroids,
+periodic CellCept, and has received 1 cycle of Rituxan.
+- Type 2 DM
+- Hyperlipidemia
+- H/o AVN bilateral hips
+- HTN
+- H/o nephrolithiasis, lithotripsy and previous nephrostomy tube
+and emergent surgery to repair ureteral damage
+- h/o left interpolar renal lesion, followed with MRs
+- h/o BCC s/p excision
+- h/o SCC left cheek, s/p Mohs' [**5-/2144**]
+- h/o multiple back surgeries: Lumbar L5-S1 surgery x 3, and
+cervical spine fusion (bone graft, no hardware)
+- h/o anterior cervical diskectomy and instrument arthrodesis at
+C5-C6 and C6-C7 for degenerative cervical spondylitic disease
+with spinal cord compression and foraminal stenosis at C5-C6 and
+C6-C7 [**2-/2144**]- Dr. [**Last Name (STitle) 548**]
+- Chronic numbness, neuropathic pain in left upper extremity.
+- Multilevel compression fractures T11, T12, L1 and mild
+compression L3 and L4.
+- h/o pulmonary embolism [**11/2144**] on anticoagulated from
+[**11/2144**]-present
+- h/o RSV [**11/2144**] requiring ICU admission
+- h/o OSA, planned BIPAP, followed by Dr. [**Last Name (STitle) 4507**]
+
+Social History:
+Lives with his wife, and one of children, worked as a [**Company 22957**]
+technician until [**Month (only) 547**] when he took early retirement and he is
+no longer working.  Tob: previously smoked 1ppd for many years
+but quit 2.5 years ago
+EtOH: h/o social use; none recently
+
+Family History:
+Mother died suddenly in her 70s. Father died of unknown cancer
+with tumors visible across body. One sister has thyroid cancer.
+One brother has diabetes and kidney stones. One sister has
+[**Name (NI) 5895**].
+
+
+Physical Exam:
+Tmax: 36.7 ??????C (98.1 ??????F)
+Tcurrent: 36.7 ??????C (98.1 ??????F)
+HR: 85 (85 - 85) bpm
+BP: 101/66(75) {101/66(75) - 101/66(75)} mmHg
+RR: 11 (11 - 11) insp/min
+SpO2: 97%
+Heart rhythm: SR (Sinus Rhythm)
+.
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: mild RUQ->mid epigastrium tenderness
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema . No calf or thigh tenderness.
+Skin: depigmentation on hands, redness of neck, but no notable
+skin changes otherwise. No rashes.
+
+Pertinent Results:
+[**9-9**] CT chest without contrast
+IMPRESSION:
+1. Mostly resolved parenchymal opacities, leaving several
+parenchymal bands which are felt most likely to represent
+residua of a prior infectious or inflammatory process.
+2. Subacute to chronic rib fractures, including along the right
+posterior
+seventh rib, where there is faint but suspicious sclerosis
+extending further laterally than would usually be expected in
+the setting of an uncomplicated rib fracture. In the setting of
+prior treated hematological malignancy, the finding of vague
+sclerosis raises concern for a bone marrow abnormality such as
+myelofibrosis or potentially a form of disease recurrence.
+Mostly, however, the bones appear within normal limits.
+.
+[**9-9**] PFT's
+SPIROMETRY
+       Pre drug                 Post drug
+       Actual Pred %Pred        Actual %Pred %chg
+FVC    3.86   5.05   76         3.83     76   -1
+FEV1   2.83   3.60   79         2.69     75   -5
+FEV1/FVC 73   71     103        70       98   -4
+.
+[**9-8**] RUQ US
+IMPRESSION:
+1. Polyp at neck of gallbladder (1.2cm), which was also seen on
+prior
+ultrasound scan [**2145-2-9**]. This has not changed significantly
+since prior
+ultrasound scan, but followup imaging is advised.
+.
+[**9-8**] Echo
+The left atrium is mildly dilated. Left ventricular wall
+thickness, cavity size, and global systolic function are normal
+(LVEF>55%). Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. Tissue Doppler
+imaging suggests a normal left ventricular filling pressure
+(PCWP<12mmHg). Right ventricular chamber size and free wall
+motion are normal. The aortic root is mildly dilated at the
+sinus level. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral
+regurgitation. There is no mitral valve prolapse. There is
+borderline pulmonary artery systolic hypertension. There is an
+anterior space which most likely represents a fat pad.
+.
+Micro:
+[**9-8**] CMV VL negative
+[**9-8**] sputum: oropharyngeal flora
+[**9-8**] urine cx negative
+[**9-8**] viral screen and cx negative
+[**9-7**] blood cx negative
+.
+ON ADMISSION:
+[**2145-9-7**] 01:05PM BLOOD WBC-11.1* RBC-4.39* Hgb-16.0 Hct-49.0
+MCV-112* MCH-36.5* MCHC-32.7 RDW-14.9 Plt Ct-264
+[**2145-9-7**] 01:05PM BLOOD Neuts-85.1* Lymphs-7.0* Monos-5.2 Eos-2.5
+Baso-0.3
+[**2145-9-7**] 01:05PM BLOOD PT-30.5* INR(PT)-3.0*
+[**2145-9-7**] 01:05PM BLOOD UreaN-28* Creat-2.9*# Na-140 K-4.4 Cl-101
+HCO3-29 AnGap-14
+[**2145-9-7**] 01:05PM BLOOD ALT-24 AST-20 LD(LDH)-201 CK(CPK)-37*
+AlkPhos-155* TotBili-0.3
+[**2145-9-7**] 01:05PM BLOOD cTropnT-0.05*
+[**2145-9-7**] 01:05PM BLOOD Albumin-4.2 Calcium-9.3 Phos-2.6* Mg-2.4
+[**2145-9-7**] 08:13PM BLOOD Lactate-1.9
+.
+ON DISCHARGE:
+[**2145-9-12**] 05:40AM BLOOD WBC-7.2 RBC-3.45* Hgb-12.5* Hct-38.3*
+MCV-111* MCH-36.2* MCHC-32.7 RDW-15.0 Plt Ct-211
+[**2145-9-12**] 05:40AM BLOOD Neuts-68.8 Lymphs-17.2* Monos-7.9
+Eos-5.7* Baso-0.4
+[**2145-9-12**] 05:40AM BLOOD Plt Ct-211
+[**2145-9-12**] 05:40AM BLOOD Glucose-80 UreaN-18 Creat-0.9 Na-143
+K-3.7 Cl-104 HCO3-30 AnGap-13
+[**2145-9-12**] 05:40AM BLOOD ALT-25 AST-18 LD(LDH)-181 AlkPhos-112
+TotBili-0.2
+[**2145-9-12**] 05:40AM BLOOD Calcium-9.0 Phos-2.8 Mg-2.1 UricAcd-4.6
+
+Brief Hospital Course:
+55 y/o male with ?viral syndrome vs. other atypical infection
+with hypotension that is suspected to be hypovolemia or adrenal
+insufficiency, with acute renal failure.
+.
+# Lethargy: concern for viral syndrome, including activation of
+CMV, or a respiratory virus. He has been known EBV+ in the past.
+This could also be related to sensation of dyspnea that he has
+been having, and warranted further cardiovascular and pulmonary
+work-up in parallel with the infectious work-up. In the ICU,
+continued broad spectrum antibiotics of vancomycin and aztreonam
+(given allergy).  Infectious workup largely negative including
+CMV VL, respiratory panel, EBV VL, fungal markers, blood
+cultures, urine cultures, CT chest. Pt's lethargy improved with
+IVFs, antibiotics, and stress dose steroids. Did not ever need
+pressors.
+.
+# Dyspnea/Cough: Concern for infectious process. Regarding VTE,
+his risk should be reduced with therapeutic INR, though the
+concern for coumadin failure merits consideration, though would
+be unlikely and he has no other signs and symptoms of DVT. PFTs
+completed [**9-9**], with official report pending at time of this
+summary. CT chest showing resolving parenchymal processes,
+resolving infectious/inflammatory process. Continued broad
+spectrum antibiotics initially. When no infiltrate noted on CXR,
+decreased ABX to 5 days of azithromycin for treatment of
+bronchitis.
+.
+# Hypotension: A bedside "shock" ultrasound US in ED showed no
+cardiac effusion, no evidence of gross RV overload. EKG
+unchanged. Patient's hypotension was fluid/stress dose steroids
+responsive. Initially given stress dose steroids with plans to
+resume home dose.  Also given IVF repletion. BPs normalized.
+Likely etiology was slight adrenal insufficiency in setting of
+viral syndrome despite negative infectious workup. Patient
+discharged with prednisone 7.5 mg daily.
+.
+# Acute Renal Failure: Likely pre-renal azotemia. Improved with
+IVFs. Cr 0.9 on discharge.
+.
+# Mild epigastric/RUQ tenderness: No laboratory e/o hepatitis.
+RUQ US showing polyp at neck of gallbladder (1.2cm), which was
+also seen on prior ultrasound scan [**2145-2-9**]. No other findings
+to explain epigastric pain. This pain has resolved on discharge.
+.
+# Pulmonary Embolism [**11-23**]: continued coumadin with INR goal
+[**1-19**].
+
+# Diabetes: Continued NPH 12 units [**Hospital1 **], with close sugar
+monitoring and diabetic diet.
+
+Medications on Admission:
+ACYCLOVIR - 400 mg Tablet - 1 Tablet(s) by mouth three times a
+day
+BUDESONIDE [ENTOCORT EC] -  (Dose adjustment - no new Rx) - 3 mg
+Capsule, Sust. Release 24 hr - 1 (One) Capsule(s) by mouth twice
+a day
+FOLIC ACID -  (Dose adjustment - no new Rx) - 1 mg Tablet - 1
+(One) Tablet(s) by mouth once a day
+HYDROMORPHONE - 2 mg Tablet - [**12-18**] Tablet(s) by mouth every [**3-22**]
+hours as needed for pain
+INSULIN LISPRO [HUMALOG] - SS
+LISINOPRIL -  (Dose adjustment - no new Rx) - 5 mg Tablet - 1
+Tablet(s) by mouth once a day
+METOPROLOL TARTRATE - 25 mg Tablet - 1 (One) Tablet(s) by mouth
+twice a day
+OXYCODONE - 20 mg Tablet Sustained Release 12 hr - 3 (Three)
+Tablet(s) by mouth every morning (60 mg), 1 tablet every 2pm (20
+mg) and 3 tablets every evening (60 mg)
+PANTOPRAZOLE [PROTONIX] - 40 mg Tablet, Delayed Release (E.C.) -
+1 Tablet(s) by mouth once day
+PREDNISONE - 2.5 mg Tablet - 2 (Two) Tablet(s) by mouth once a
+day
+RISEDRONATE [ACTONEL] - 35 mg Tablet q Saturday
+TESTOSTERONE [ANDROGEL] - 50 mg/5 gram (1 %) Gel in Packet -
+Apply to upper torso once daily
+WARFARIN [COUMADIN] -  (Dose adjustment - no new Rx) - 2.5 mg
+Tablet - 2 (Two) Tablet(s) by mouth once a day or as directed
+CHOLECALCIFEROL (VITAMIN D3) [DELTA D3] -  (Dose adjustment - no
+new Rx) - 400 unit Tablet - 1 Tablet(s) by mouth DAILY (Daily)
+INSULIN NPH HUMAN RECOMB -  (Prescribed by Other Provider) - 100
+unit/mL Suspension - 12 units twice a day Please take first dose
+in the morning and the second dose at bedtime
+
+Discharge Medications:
+1. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 2 days.
+Disp:*2 Tablet(s)* Refills:*0*
+2. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8
+hours).
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+5. OxyContin 60 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO twice a day: QAM and QPM.
+6. OxyContin 20 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO once a day: at 1400 every day.
+
+7. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+8. Budesonide 3 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO twice a day.
+9. Prednisone 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily): For total 7.5 mg daily.
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+11. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+12. Actonel 35 mg Tablet Sig: One (1) Tablet PO once a week: On
+Saturdays.
+13. AndroGel 1 %(50 mg/5 gram) Gel in Packet Sig: One (1) packet
+Transdermal once a day: Apply to upper torso once daily as
+directed.
+14. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twelve
+(12) units Subcutaneous twice a day.
+15. Insulin Lispro 100 unit/mL Solution Sig: Varied units
+Subcutaneous four times a day: As per home sliding scale.
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis:
+Hypotension/adrenal insufficiency
+Bronchitis
+Acute renal failure
+.
+Secondary diagnosis:
+AML s/p MUD allogeneic SCT [**6-/2143**]
+Chronic GVHD of skin/liver
+h/o PE
+Diabetes mellitus
+
+
+Discharge Condition:
+Stable, afebrile, BP 113/76, RR 16, sats 96% on RA, INR 1.8.
+
+
+Discharge Instructions:
+You were admitted with fatigue, shortness of breath, cough, low
+blood pressure and acute renal failure. We were concerned for
+early sepsis and you were in the ICU initially. You received
+broad spectrum antibiotics and stress dose steroids, but a full
+workup (including viral swabs, cultures, ECHO, and CT chest)
+were unrevealing. CT chest showed resolving infiltrates and your
+symptoms improved so the antibiotics were switched to
+azithromycin for presumed bronchitis. Your prednisone was
+increased due to presumed mild adrenal insufficiency.
+.
+The following medication changes were made:
+1) Prednisone increased to 7.5mg daily
+2) Azithromycin (antibiotic) started, to be completed as
+outpatient
+3) Your lisinopril (blood pressure medication) and metoprolol
+were discontinued. Do NOT resume these medications until
+speaking to Dr. [**Last Name (STitle) **].
+.
+You need to have your INR checked on Tuesday, [**2145-9-14**]. You also
+need to follow up with Dr. [**Last Name (STitle) **] and [**First Name8 (NamePattern2) 3235**] [**Last Name (NamePattern1) 3236**] within the
+next week. Please call their office tomorrow to make this
+appointment.
+.
+of the following symptoms: fever, chills, shortness of breath,
+difficulty breathing, abdominal pain, cough, flu symptoms, or
+any other worrisome symptoms.
+
+
+Followup Instructions:
+You need to have your INR checked on Tuesday, [**2145-9-14**].
+.
+Please call Dr. [**Last Name (STitle) **] and [**First Name8 (NamePattern2) 3235**] [**Last Name (NamePattern1) 72254**] office to make an
+appointment to be seen later this week. They can be reached at
+[**Telephone/Fax (1) 3241**].
+
+
+
+Completed by:[**2145-9-17**]

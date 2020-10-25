@@ -1,0 +1,105 @@
+T1	Drug 3397 3403	Detrol
+T2	Drug 1606 1612	Versed
+T3	Drug 2760 2768	Levaquin
+T4	Drug 3721 3727	Versed
+T5	Drug 3338 3345	Norvasc
+T6	Strength 3346 3350	5 mg
+T7	Route 3351 3355	p.o.
+T8	Drug 3275 3283	Levaquin
+T9	Strength 3284 3290	500 mg
+T10	Duration 3317 3322;3323 3326	seven day
+T11	Route 3291 3295	p.o.
+T12	Drug 3212 3218	Colace
+T13	Strength 3219 3225	100 mg
+T14	Frequency 3231 3237	b.i.d.
+T15	Route 3226 3230	p.o.
+T16	Drug 2973 2981	Levaquin
+T17	Strength 2983 2989	500 mg
+T18	Drug 3487 3492	Lasix
+T19	Strength 3493 3498	80 mg
+T20	Route 3499 3503	p.o.
+T21	Drug 3622 3628	Celexa
+T22	Strength 3629 3634	20 mg
+T23	Route 3635 3639	p.o.
+T24	Drug 3367 3373	Toprol
+T25	Strength 3374 3380	100 mg
+T26	Route 3381 3385	p.o.
+T27	Drug 3242 3252	Lisinopril
+T28	Strength 3253 3258	40 mg
+T29	Route 3259 3263	p.o.
+T30	Drug 941 947	Versed
+T31	Drug 3568 3576	Depakote
+T32	Strength 3577 3584	1500 mg
+T33	Route 3585 3589	p.o.
+T34	Drug 2633 2638	Lasix
+T35	Drug 3515 3523	Lamictal
+T36	Strength 3524 3530	200 mg
+T37	Route 3531 3535	p.o.
+T38	Reason 2773 2796	urinary tract infection
+T39	Reason 952 960	sedation
+T40	Reason 965 977	pain control
+T41	Duration 2953 2962	seven day
+T42	Frequency 2990 2996	q. day
+T43	Frequency 3296 3302	q. day
+T44	Frequency 3356 3362	q. day
+T45	Frequency 3386 3392	q. day
+T46	ADE 3424 3452	anticholinergic side effects
+T47	ADE 3461 3482	mental status changes
+T48	Frequency 3504 3510	q. day
+T49	Frequency 3536 3542	q.h.s.
+T50	Reason 3547 3563	bipolar disorder
+T51	Frequency 3590 3596	q.h.s.
+T52	Reason 3601 3617	bipolar disorder
+T53	Frequency 3640 3646	q. day
+T54	Reason 3651 3661	depression
+T55	ADE 3688 3707	Respiratory failure
+R1	Strength-Drug Arg1:T6 Arg2:T5
+R2	Route-Drug Arg1:T7 Arg2:T5
+R3	Strength-Drug Arg1:T9 Arg2:T8
+R4	Duration-Drug Arg1:T10 Arg2:T8
+R5	Route-Drug Arg1:T11 Arg2:T8
+R6	Strength-Drug Arg1:T13 Arg2:T12
+R7	Frequency-Drug Arg1:T14 Arg2:T12
+R8	Route-Drug Arg1:T15 Arg2:T12
+R9	Strength-Drug Arg1:T17 Arg2:T16
+R10	Strength-Drug Arg1:T19 Arg2:T18
+R11	Route-Drug Arg1:T20 Arg2:T18
+R12	Strength-Drug Arg1:T22 Arg2:T21
+R13	Route-Drug Arg1:T23 Arg2:T21
+R14	Strength-Drug Arg1:T25 Arg2:T24
+R15	Route-Drug Arg1:T26 Arg2:T24
+R16	Strength-Drug Arg1:T28 Arg2:T27
+R17	Route-Drug Arg1:T29 Arg2:T27
+R18	Strength-Drug Arg1:T32 Arg2:T31
+R19	Route-Drug Arg1:T33 Arg2:T31
+R20	Strength-Drug Arg1:T36 Arg2:T35
+R21	Route-Drug Arg1:T37 Arg2:T35
+R22	Reason-Drug Arg1:T40 Arg2:T30
+R23	Reason-Drug Arg1:T39 Arg2:T30
+R24	Reason-Drug Arg1:T38 Arg2:T3
+R25	Duration-Drug Arg1:T41 Arg2:T16
+R26	Frequency-Drug Arg1:T42 Arg2:T16
+R27	Frequency-Drug Arg1:T43 Arg2:T8
+R28	Frequency-Drug Arg1:T44 Arg2:T5
+R29	Frequency-Drug Arg1:T45 Arg2:T24
+R30	ADE-Drug Arg1:T47 Arg2:T1
+R31	ADE-Drug Arg1:T46 Arg2:T1
+R32	Frequency-Drug Arg1:T48 Arg2:T18
+R33	Reason-Drug Arg1:T50 Arg2:T35
+R34	Frequency-Drug Arg1:T49 Arg2:T35
+R35	Reason-Drug Arg1:T52 Arg2:T31
+R36	Frequency-Drug Arg1:T51 Arg2:T31
+R37	Frequency-Drug Arg1:T53 Arg2:T21
+R38	Reason-Drug Arg1:T54 Arg2:T21
+R39	ADE-Drug Arg1:T55 Arg2:T4
+T56	Drug 910 926	pain medications
+T57	ADE 1563 1574;1575 1596	respiratory failure over-sedation
+T58	Frequency 3264 3270	q. day
+T59	Reason 2532 2556	congestive heart failure
+T60	Reason 2649 2672	Urinary tract infection
+T61	Reason 2801 2825;2826 2835	possible left lower lobe pneumonia
+R40	ADE-Drug Arg1:T57 Arg2:T2	
+R41	Reason-Drug Arg1:T59 Arg2:T34	
+R42	Reason-Drug Arg1:T60 Arg2:T3	
+R43	Reason-Drug Arg1:T61 Arg2:T3	
+R44	Frequency-Drug Arg1:T58 Arg2:T27	

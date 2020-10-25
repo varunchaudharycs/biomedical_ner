@@ -1,0 +1,63 @@
+Name:  [**Known lastname 3874**],[**Known firstname **] M                  Unit No:   [**Numeric Identifier 3875**]
+
+Admission Date:  [**2124-9-4**]              Discharge Date:   [**2124-9-8**]
+
+Date of Birth:  [**2048-7-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 391**]
+Addendum:
+Discharge Medications accidentally left out of Discharge
+summary.  They are as follows:
+.
+-Oxycodone  5 mg Tablet  Sig:  One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+-Docusate Sodium  100 mg Capsule  Sig:  One (1) Capsule PO BID
+(2 times a day) as needed.
+-Senna  8.6 mg Tablet  Sig:  One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+-Calcium Acetate  667 mg Capsule  Sig:  One (1) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+-Acetaminophen  500 mg Tablet  Sig:  Two (2) Tablet PO Q12H
+(every 12 hours) as needed for pain.
+-B Complex-Vitamin C-Folic Acid  1 mg Capsule  Sig:  One (1) Cap
+PO DAILY (Daily).
+-Albuterol Sulfate  0.083 % (0.83 mg/mL) Solution  Sig:  One (1)
+Inhalation Q2H (every 2 hours) as needed for wheezing.
+-Ipratropium Bromide  0.02 % Solution  Sig:  One (1) Inhalation
+Q6H (every 6 hours) as needed for wheezing.
+-Metoprolol Tartrate  25 mg Tablet  Sig:  One (1) Tablet PO QHS
+(once a day (at bedtime)): On Tu/Th/Sa, hold for sbp<100 and
+hr<60.
+-Metoprolol Tartrate  25 mg Tablet  Sig:  One (1) Tablet PO BID
+(2 times a day): [**Hospital1 **] on M/W/F/Sunday Hold for SBP<100 or HR<60 .
+
+-Heparin (Porcine)  5,000 unit/mL Solution  Sig:  One (1)
+Injection TID (3 times a day).
+-Metronidazole  500 mg Tablet  Sig:  One (1) Tablet PO Q12H
+(every 12 hours) for 11 days.
+-Clarithromycin  250 mg Tablet  Sig:  Two (2) Tablet PO DAILY
+(Daily) for 11 days.
+-Pantoprazole  40 mg Tablet, Delayed Release (E.C.)  Sig:  One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+
+-Simvastatin  40 mg Tablet  Sig:  One (1) Tablet PO DAILY
+(Daily).
+-Aspirin  81 mg Tablet, Chewable  Sig:  One (1) Tablet, Chewable
+PO DAILY (Daily).
+-NPH 16/3 and HISS
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] - [**Location (un) 3876**]
+
+                             [**Name6 (MD) 116**] [**Name8 (MD) 117**] MD [**MD Number(1) 392**]
+
+Completed by:[**2124-9-8**]

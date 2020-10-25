@@ -1,0 +1,284 @@
+Admission Date:  [**2135-2-17**]              Discharge Date:   [**2135-2-24**]
+
+
+Service: MEDICINE
+
+Allergies:
+Horse Blood Extract
+
+Attending:[**Doctor First Name 1402**]
+Chief Complaint:
+lightheadedness
+
+Major Surgical or Invasive Procedure:
+right groin hematoma evacuation and repair
+
+
+History of Present Illness:
+Mr. [**Known firstname **] [**Last Name (NamePattern1) 7518**] is an 85 y/o male with COPD, HTN, AF on
+coumadin admitted to NEBH [**2-8**] with atrial fibrillation s/p CV
+developed tachy/brady syndrome s/p AF ablation on [**2-14**]
+discharged on CCB, metoprolol and dofetilide now presents with
+presyncope and sinus bradycardia. On [**2-14**] patient underwent EP
+study which showed several atrial tachycardias and two were
+ablated. The plan was for cardioversion following ablation but
+patient converted to NSR and remained in NSR with only 2 brief
+episodes of AF on telemetry. Since discharge from the hospital
+on [**2-15**] the patient has been feeling well. He has not had any
+chest pain, lightheadedness or dizziness until this morning.
+This AM had minimal appetite at breakfast. Then attempted to
+have a bowel movement several times with straining and each time
+felt lightheaded and dizzy with associated diaphoresis. He has
+been constipated over the past four days. His children were with
+him, helped him back to bed and called Dr. [**Last Name (STitle) **] who referred him
+to the Emergency Room. The patient did not ever lose
+consciousness. He reports that he has been complaint with all of
+his medications. He denies any associated chest pain or
+shortness of breath. Patient has history of bradycardia in past
+when on metoprolol and cardizem (HR ranging from 40-100 bpm).
+.
+During the patient's last hospitalization he underwent AF
+ablation however according to d/c summary only 2 of 4
+arrhythmias were ablated. He was in sinus rhythm prior to
+discharge and was discharged on lopressor, cardizem and
+dofetilide.
+.
+In the ED, initial vitals were HR: 45-55 BP: 78/39, O2sat 96% on
+RA. Exam notable for patient with good mentation. EKG was
+initially sinus bradycardia. Patient received 2 g Calcium
+gluconate and 1L IVF. Symptoms and EKG changes felt to be
+consistent with too much medication.
+.
+On arrival to the CCU, the patient feels "better". He is
+fatigued but overall improved from this afternoon. HR 50s. BP
+111/70. He denies chest pain, shortness of breath, palpitations,
+cough, abdominal pain, orthopnea, ankle edema and PND. He does
+report some persistent groin pain, R>L which has improved over
+the past several days.
+
+
+Past Medical History:
+Atrial fibrillation s/p CV [**2126**] on coumadin
+hypertension
+COPD/Bronchiectasis
+congestive heart failure (unknown ef)
+gastroesophageal reflux disease,
+benign prostatic hypertrophy, ,
+anemia,
+status post bilateral total knee replacements,
+shoulder arthroplasty
+.
+Cardiac Risk Factors: - Diabetes, - Dyslipidemia, + Hypertension
+
+
+
+Social History:
+Social history is significant for the absence of current tobacco
+use. Former smoker but quit in [**2095**] with 40 pack yr hx. There is
+no history of alcohol abuse. No illicit drug use. Widowed. Lives
+alone in [**Location (un) 2312**] and completes all his ADLs. Former
+fire-fighter but retired 30 years. Has 4 children and 4
+grandkids.
+
+
+Family History:
+Significant for heart disease in father (mi [**89**] yo), mother (mi
+[**08**] yo), and brother (mi [**67**] yo). No diabetes in the family.
+
+Physical Exam:
+VS: HR 56, BP 111/52, 100% on 2L
+Gen: Elderly male NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple with no appreciable JVP.
+CV: Bradycardic. s1, s2. No m/r/g. No thrills, lifts. No S3 or
+S4. Soft 2/6 systolic ejection murmur at USB.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi. Resonant to percussion.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+
+palpation. No abdominial bruits.
+Ext: Bilateral groin hematomas, right side is firm without ooze,
+nontender to palpation, no bruit. Left side is soft, less
+ecchymotic. Trace edema bilaterally. No femoral bruits b/l.
+.
+Pulses:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**2135-2-17**] 10:10PM   GLUCOSE-194* UREA N-22* CREAT-1.0 SODIUM-137
+POTASSIUM-4.4 CHLORIDE-103 TOTAL CO2-27 ANION GAP-11
+[**2135-2-17**] 10:10PM   CK(CPK)-139
+[**2135-2-17**] 10:10PM   cTropnT-0.09*
+[**2135-2-17**] 10:10PM   CK-MB-3
+[**2135-2-17**] 10:10PM   WBC-6.9 RBC-2.77* HGB-8.2* HCT-23.8* MCV-86
+MCH-29.4 MCHC-34.3 RDW-15.2
+[**2135-2-17**] 10:10PM   NEUTS-92* BANDS-0 LYMPHS-6* MONOS-2 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2135-2-17**] 10:10PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+[**2135-2-17**] 10:10PM   PLT SMR-NORMAL PLT COUNT-197
+[**2135-2-17**] 10:10PM   PT-16.4* PTT-32.0 INR(PT)-1.5*
+.
+[**2-18**]
+Large bilateral groin hematomas demonstrated, without evidence
+of
+pseudoaneurysm seen.
+.
+[**2-20**] Femoral U/S:
+1. Increase in size of large right groin hematoma extending into
+the medial thigh. No evidence for pseudoaneurysm or
+arteriovenous fistula.
+2. Small left groin hematoma.
+
+
+Brief Hospital Course:
+Patient is an 85 year old male with history of AF s/p CV at OSH
+with resultant tachy/brady s/p AF ablation on [**2-14**] started on
+dofetilide, CCB and beta blocker now presents with presyncope
+and bradycardia likely related to medication. Now off dilt and
+metoprolol and on dofetilide and acebutolol with symptomatic
+improvement. This hospitalization is complicated by ongoing fall
+in HCT with expansion of his bilat groin hematomas R>L now s/p r
+hematoma evacuation.
+.
+## Bilateral groin hematomas: He had bilateral groin hematomas,
+and had a hematocrit drop betwee his ablation and this admission
+from about 30 --> 24. He had groin ultrasound that showed
+bilateral hematomas but no pseudoaneurysm. S/p drainage and
+hematoma evacuation by vascular surgery [**2135-2-20**]. Now with one JP
+drain in place. Pt denies pain. No transfusions since [**2-21**].
+Following vascular recs, he will follow up in 2 weeks with Dr.
+[**Last Name (STitle) **]. HCT remained stable at time of discharge.
+.
+## Rhythm: He does have AF s/p CV c/b bradycardia and
+tachycardia recently here for AF ablation on [**2-14**] with 2 of 4
+atrial arrhythmias ablated. Discharged on [**2-15**] on Dofetelide,
+Cardizem and Metoprolol in normal sinus rhythm. Returns with
+near syncopal episodes and sinus bradycardia, likely medication
+related. Symptoms are likely exacerbated in setting of anemia.
+Cardizem and metoprolol discontinued and he was discahrged on
+acebutolol and dofetilide for rate and rhythm control which he
+tolerated. HOLD coumadin with lovenox for now pending HCT
+stabilization. Should be restarted at follow up with Dr. [**Last Name (STitle) **]
+of vascular surgery. He was monitored on telemetry.
+.
+## Pump: Patient with known history of CHF per chart. Euvolemic
+on exam.  Monitored I/Os, goal even.
+.
+## CAD: No known CAD. No ischemic sxs currently.
+.
+## Cellulitis: Pt had mild erythema R groin near well-healing
+incision. had low grade fever with pancultures sent.  He was
+started on cephalexin to complete 10 day course. His culture
+data had no growth at time of discharge and he remained
+afebrile>48 hours prior to discharge.
+.
+## Anemia: Likely related to blood loss in groin based on exam
+findings of bilateral hematomas. Baseline approximately 30.
+Tranfused total 6 units. Last transfused [**2135-2-21**].  Continue iron
+supplementation, B12. Mgmt as above for hematomas.
+.
+## GERD: Continued ppi
+.
+## COPD: Continued inhalers
+.
+##General Care: pneumoboots, ppi, Code status: FULL CODE
+confirmed with patient, Communication: [**Name (NI) **] [**Name (NI) **] (son)
+[**Telephone/Fax (1) 111656**]. Discharged when cleared by PT.
+
+
+Medications on Admission:
+Dofetilide 500 mcg PO Q12H
+Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device [**Hospital1 **]
+Fluticasone 50 mcg/Actuation Spray daily
+Pantoprazole 40 mg Tablet PO Q24H
+Ferrous Sulfate 325 mg daily
+Cyanocobalamin 100 mcg Tablet 5 Tablet PO DAILY
+Warfarin 1 mg Tablet PO Once Daily at 4PM
+Metoprolol Tartrate 50 mg Tablet PO BID
+Cardizem CD 120 mg 1 capsule daily
+Lovenox 80 mg/0.8 mL
+
+
+Discharge Medications:
+1. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+4. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal DAILY (Daily).
+5. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Dofetilide 500 mcg Capsule Sig: One (1) Capsule PO Q12H
+(every 12 hours).
+7. Acebutolol 200 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Cephalexin 250 mg Capsule Sig: One (1) Capsule PO three times
+a day for 8 days.
+Disp:*24 Capsule(s)* Refills:*0*
+10. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets
+PO Q4-6H () as needed for pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Acute Blood Loss Anemia
+Bilateral groin Hematomas
+Chronic Congestive Heart Failure
+Atrial Fibrillation s/p Ablation
+Hypertension
+
+
+Discharge Condition:
+stable.
+
+
+Discharge Instructions:
+You had bleeding from the right groin site that required surgery
+and evacuation of the blood. A drain was placed and will stay in
+until you see Dr. [**Last Name (STitle) 3407**] on [**3-8**]. You can walk with this drain
+but do not take a shower or bath until after you see Dr. [**Last Name (STitle) 3407**].
+Please keep the dressing clean and dry. You were started on an
+antibiotic because the right groin site was warm and red, please
+take this antibiotic for a total of 10 days. The visiting nurse
+will help with the drain.
+New medicines:
+1. Ceflexin: an antibiotic to treat the local skin infection
+near the surgery site.
+2. Acebutalol: a beta blocker to take instead of the metoprolol
+.
+1. Do not take any coumadin or Lovenox until Dr. [**Last Name (STitle) 3407**] or Dr.
+[**Last Name (STitle) **] tells you it is OK.
+2. Stop taking Cartia XT and metoprolol
+.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+.
+Please call Dr. [**Last Name (STitle) **] or Dr. [**Last Name (STitle) 3407**] if you have any further
+bleeding, increasing swelling, pain or redness, fevers or any
+other concerning symptoms.
+
+Followup Instructions:
+Vascular Surgery:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1244**], MD Phone:[**Telephone/Fax (1) 1237**]
+Date/Time:[**2135-3-8**] 10:30
+Cardiology:
+[**Last Name (LF) **],[**First Name3 (LF) **] J. [**Telephone/Fax (1) 7960**] Date/Time:
+
+
+

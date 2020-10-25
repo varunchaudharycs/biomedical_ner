@@ -1,0 +1,204 @@
+Admission Date:  [**2181-7-27**]              Discharge Date:   [**2181-8-5**]
+
+Date of Birth:  [**2100-11-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1711**]
+Chief Complaint:
+Transferred for management of STEMI
+
+Major Surgical or Invasive Procedure:
+temporary dialysis line placement
+cordis placement
+arterial line placement
+
+
+History of Present Illness:
+80 year old woman (DNR) with two recent MI's, known severe CAD
+with a 95% LM stenosis (felt not to be a candidate for CABG),
+cardiomyopathy with an LVEF of 15-20%, moderate aortic stenosis,
+HTN, AF, hepatitis C with thrombocytopenia, s/p recent
+cath/admission at [**Hospital1 **] where PCI was not an option and CABG is
+too high risk. Patient has continued to have ischemic events
+since then with recent presentation with new onset AF, echo
+revealing wall motion abnormality involving the anterior wall
+and apex with possible thrombus in the LV apex. Medical
+management continued with eventual discharge to home earlier
+this week. She did okay initially and then represented to [**Hospital1 **] on [**2181-7-26**] evening with chest pain [**11-24**] radiating to
+the left arm and back, associated with diaphoresis,
+lightheadedness, shortness of breath and ST elevation. Family
+refused TPA due to hx of thrombocytopenia. IV nitro inititated,
+heparin, aspirin initiated and now painfree. Troponin last drawn
+was 13 (still rising) although there's no lab sent with her.
+Currently with minimal chest discomfort. EKG demonstrated ST
+elevation inferiorly at tuft's. Plans are for evaluation here
+for further treatment. Dr. [**Last Name (STitle) **] to consult. On arrival here
+pt's pain free and without complaint.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: htn, hl
+2. CARDIAC HISTORY:
+-CABG: n/a
+-PERCUTANEOUS CORONARY INTERVENTIONS: n/a
+-PACING/ICD: n/a
+3. Others:
+hepatitis C
+multiple hepatic nodules with multiple biopsies with no evidence
+of malignancy.
+severe diffuse coronary artery disease
+severe cardiomyopathy with ef of 15-20%
+severe tricuspid regurgitation with estimated pa pressure of
+53mmHg
+moderate aortic stenosis
+hypertension
+hyperlipidemia
+atrial fibrillation
+thrombocytopenia
+
+Social History:
+Patient lives with daughters. she denies tobacco, alcohol or iv
+drug use
+
+Family History:
+Non-contibutory
+
+Physical Exam:
+temp 97.6, hr 62/min, bp 110/62, sats 97% on ra
+GENERAL: In NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple with no JVD.
+CARDIAC: rrr, nl s1, faint s2, [**4-20**] ESM as well as [**4-20**] PSM.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: 1+ dp and pt pulses.
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2181-7-27**] 11:48PM BLOOD WBC-7.7 RBC-3.83* Hgb-12.9 Hct-37.4
+MCV-98 MCH-33.6* MCHC-34.4 RDW-15.0 Plt Ct-112*
+[**2181-7-27**] 11:48PM BLOOD Glucose-147* UreaN-34* Creat-1.4* Na-138
+K-3.8 Cl-98 HCO3-28 AnGap-16
+[**2181-7-27**] 11:48PM BLOOD ALT-115* AST-303* CK(CPK)-1379*
+AlkPhos-99 TotBili-0.6
+[**2181-7-27**] 11:48PM BLOOD CK-MB-250* MB Indx-18.1* cTropnT-3.03*
+[**2181-7-28**] 06:18AM BLOOD CK-MB-217* MB Indx-16.2*
+[**2181-7-28**] 03:44PM BLOOD CK-MB-122* MB Indx-12.6* cTropnT-4.02*
+[**2181-7-30**] 05:22AM BLOOD CK-MB-22* cTropnT-4.05*
+
+MICROBIOLOGY
+Urine Cx: [**7-31**], [**8-3**] negative
+
+IMAGING:
+
+ECHO [**2181-7-28**]:
+Symmetric left ventricular hypertrophy. Mild regional
+dysfunction consistent with CAD. Moderately dilated right
+ventricle with borderline normal function. Tricuspid leaflets do
+not coapt and there is corresponding moderate to severe
+tricuspid regurgitation. Pulmonary pressures cannot be
+accurately determined. Mild mitral regurgitation. Moderate
+aortic stenosis.
+
+ECG [**2181-7-28**]:
+Sinus rhythm with PACs
+Prolonged QT interval
+Inferior infarct - age undetermined
+Anteroseptal infarct - age undetermined
+ST-T changes may be due to myocardial ischemia
+No previous tracing available for comparison
+
+
+Brief Hospital Course:
+Mrs. [**Known lastname 55334**] is an 80 year old female with a history of LMain
+and 3VD, moderate aortic stenosis and with status post cardiac
+cath for STEMI back on [**2181-7-17**] at OSH that was not intervened
+upon by PCI or CABG who then presented to another OSH with an
+inferior STEMI on [**2181-7-26**] and was transferred to [**Hospital1 18**] for
+further management and a second opinion regarding options for
+revascularization. CABG versus high risk PCI were considered and
+CT surgery was consulted. Patient remained chest pain free on
+medical management of her CAD, however, the acute renal failure
+she presented with evolved rapidly from the beginning of her
+course, making either surgical or PCI less of an option. Renal
+was consulted and felt her renal failure was likely attributable
+to evolving ATN in the setting of poor forward flow related to
+her recent MI and possibly due to contrast nephropathy given a
+recent catheterization. The patient became oliguric and
+subsequently volume overloaded and hypoxic. Aggressive diuresis
+with IV lasix and diuril were unsuccessful so CVVH was
+initiated. At this point she had become hemodynamically unstable
+requiring pressor support with dopamine. Hemodynamic instability
+was likely also affected by patient's development of slow atrial
+fibrillation which requried placement of a trancutaneous pacer.
+Her dopamine requirement increased significantly with CVVH which
+likely contributed to the development of metabolic acidosis. On
+[**8-4**] the patient was found to have a lactate of 11 and had
+developed agonal respirations. She underwent intubation which
+did not help to improve her worsening acidemia. The patient's
+family decided to change her code status to DNR/DNI and soon
+after to CMO when it was clear that her prognosis had become
+very poor. She was pronounced dead on [**2181-8-5**] at 0313. Her three
+daughters were at her bedside and agreed in declining an
+autopsy.
+
+Medications on Admission:
+Outpatient Meds:
+lipitor 80mg daily
+plavix 75mg daily
+toprol xl 50mg daily
+zestril 5mg daily
+alsix 80mg daily
+aspirin 81mg daily
+
+Meds On Transfer:
+IV heparin at 600u/hour
+IV nitro at 30mcg / min
+asa 325mg, lipitor 20mg daily
+lasix 80mg po
+plavix 75mg
+zestril 5mg
+
+Discharge Medications:
+NA
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary: Status post ST elevation myocardial infarction, acute
+heart failure, renal failure, metabolic acidosis, respiratory
+failure
+Secondary: Aortic stenosis, hepatitis C
+
+
+Discharge Condition:
+expired
+
+
+Discharge Instructions:
+Patient admitted for further management of STEMI. Her course was
+complicated by acute renal failure, acute heart failure which
+ultimately led to pressor support. Patient developed metabolic
+acidosis and subsequent respiratory failure requiring
+intubation. Her family ultimately decidied to make her DNR/DNI
+and soon after CMO given her critical condition and poor
+prognosis. She died on [**2181-8-5**] at 0313 with her family at her
+bedside. An autopsy was declined.
+
+Followup Instructions:
+NA
+
+
+
+Completed by:[**2181-8-5**]

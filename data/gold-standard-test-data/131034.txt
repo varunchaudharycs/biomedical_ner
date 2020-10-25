@@ -1,0 +1,37 @@
+Admission Date:  [**2180-5-15**]       Discharge Date: [**2180-6-7**]
+
+Date of Birth:   [**2117-1-6**]       Sex:  M
+
+
+DISCHARGE MEDICATIONS: The patient's discharge medications
+are as follows:
+1.  Atenolol 25 milligrams po q day.
+2.  Zoloft 125 milligrams po q day.
+4.  Vancomycin 1 gram IV q day, dose only for a trough level
+of less than 20. The patient will receive this through [**2180-8-14**].
+5.  Flomax 0.4 milligrams po q day.
+6.  Multi vitamin one po q day.
+7.  Reglan 10 milligrams po qid.
+8.  Oxycodone 5 to 10 milligrams po q four to six hours prn.
+deltoid and left calf.
+10. Protonix 40 milligrams po q day.
+
+DISCHARGE CONDITION: Stable. Discharged to acute
+rehabilitation facility.
+
+DISCHARGE FOLLOW UP: The patient is to follow up with his
+primary oncologist, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+
+
+                          DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 12-438
+
+
+
+Dictated By:[**Last Name (NamePattern1) 11732**]
+MEDQUIST36
+
+D:  [**2180-6-7**]  09:55
+T:  [**2180-6-7**]  10:10
+JOB#:  [**Job Number **]
+
+

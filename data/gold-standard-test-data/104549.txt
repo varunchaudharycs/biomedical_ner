@@ -1,0 +1,597 @@
+Admission Date:  [**2112-11-10**]              Discharge Date:   [**2112-12-16**]
+
+Date of Birth:  [**2049-3-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 4358**]
+Chief Complaint:
+hypoglycemia; seizure
+
+Major Surgical or Invasive Procedure:
+Tunneled dialysis line placement
+Central venous line placement and removal
+Peripherally-inserted central catheter placement
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 63 year-old man with a PMH notable for ESRD on HD
+(MWF), chronic aspiration, seizure disorder, history of CVA with
+residual left-sided weakness and dysarthria, who presented to
+the ED s/p seizure. Patient denies having seizure activity
+though brought in after [**2-25**] witnessed seizures at his day
+program. Unclear what day nurses saw at the rehab or if he fell.
+Patient denies headache, blurry vision, numbness, tingling,
+weakness of his extremities. He is a poor historian as he does
+not speak much at baseline. Patient states he's been taking his
+Keppra as prescribed.
+.
+In the ED, initial VS: 97.5 58 131/78 18 100%. Exam notable for
+left sided deficits, speech slow and minimal (reported
+baseline). EKG: NSR at 58, LAD, TWI II, [**Month/Day (3) 1105**], AVF, V4-V6, c/w
+prior. Lytes showed K 5.4, Cr 8.4, lactate 0.9. CBC with WBC 3.0
+(mildly decreased from baseline), Hct 38 (up from baseline mid
+30s) plts 104 (at baseline). A left central line was placed for
+access. In the ED, line was placed given BG dropped to 35, given
+1 amp dextrose, and BG improved to 130. Per ED d/w daughter, pt
+has no h/o diabetes and has multiple episodes of hypoglycemia in
+the past that has reportedly been worked up by endocrinology
+without known etiology. CXR showed no acute process, and CT head
+without acute process. Per Epilepsy attending, recommended
+change Keppra to 1500mg [**Hospital1 **] abd 500mg after HD, and recommended
+sending a Keppra level. Blood cultures were sent x1, no urine
+sent as pt does not make urine.
+VS prior to transfer 97.9, 59, 118/61, 16, 96%r/a.
+.
+On the floors, pt triggered for hypoglycemia with FS 47. Please
+see trigger note for further details. Pt denies lightheadedness,
+nausea, vomiting, diaphoresis. He denies having a seizure today
+and cannot recall and falls or shaking episodes. He says that he
+has been feeling well. He is unsure of the last time he ate, but
+knows he did not have dinner. He says his daughter helps him eat
+at home.
+.
+Attempted to call daughter, but no answer initially. Eventually
+able to contact her, and reportedly had seizure today per
+daycare, [**Last Name (un) 35689**] House in Endleson Day care. Unsure if they
+checked his BG there. On no hypoglycemics. She recalls that all
+his food is pureed given his dysphagia.
+.
+Pt had a recent admission from [**Date range (3) 63593**] for possible
+seizure and found to have RLL, discharged on Levofloxacin.
+.
+ROS: Per HPI.
+Denies fever, chills, night sweats, headache, vision changes,
+rhinorrhea, congestion, sore throat, cough, shortness of breath,
+chest pain, abdominal pain, nausea, vomiting, diarrhea,
+constipation, BRBPR, melena, hematochezia.
+
+Past Medical History:
+- ESRD on HD (M/W/F at [**Location (un) **])
+- h/o multiple prior CVAs - per last dc summary ambulates at
+home, has residual left-sided weakness
+- Seizure disorder
+- Chronic hepatitis B
+- Chronic aspiration with failed speech and swallow eval -
+family wants him to continue eating despite risks
+- HTN
+- CAD
+- h/o MSSA bacteremia after manipulation of fistula
+- hospitalization in [**12-30**] for incarcerated inguinal hernia
+complicated by ESBL Klebsiella bacteremia and PNA
+- Hyperlipidemia
+- GERD
+- S/p SBO [**2109**]
+- Hernia repair
+- Hypoglycemia
+
+Social History:
+Patient lives in [**Location **] with his daughter, [**Name2 (NI) **], who is
+
+a former [**Hospital1 18**] employee. He denies any recent use of alcohol,
+tobacco, illicit drugs, or herbal medications. He has a distant,
+
+but considerable smoking history per his daughter. [**Name (NI) **] uses
+
+the toilet himself, but needs help cleaning himself, and does
+not cook or manage his finances. He is at HD on MWF and spends
+TU and [**Doctor First Name **] in an adult day program. His daughter does not leave
+
+him alone by himself.
+
+
+Family History:
+Mother died at 45 with hypertension. Father died at 60 of
+unknown causes. He has eight living siblings, many of whom have
+
+hypertension. He has six children who are all healthy.
+
+Physical Exam:
+ADMISSION EXAM
+VS - Temp 97.8F, BP 140/83, HR 60, R 18, O2-sat 100% RA FS 47
+GENERAL - pleasant male, appears comfortable, NAD
+[**Doctor First Name 4459**] - NC/AT, left-sided facial droop (old per pt), EOMI,
+sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, left IJ with dried blood
+on gauze
+LUNGS - no use access mm, fair air movement due to effort, no
+wheezes or crackles
+HEART - RRR, no MRG, nl S1-S2
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding
+EXTREMITIES - right upper extremity with AVG +thrill, LE's dry
+without edema, 2+ DP pulses
+NEURO - awake, oriented to person, states "hospital", "[**Month (only) 359**]
+[**2112**]", answers questions appropriately in few words, CNs II-XII
+grossly intact with left-sided facial droop, 5/5 strength in
+UE's, 4+/5 bilaterally in lower extermities, gait not assessed
+.
+DISCHARGE EXAM: More [**Year (4 digits) 3584**], able to eat breakfast and drink milk
+with supervision.  RUE AVG thrombosed and no longer functional.
+Still minimally conversant.  RRR, no m/r/g, CTAB. Line sites:
+Tunneled dialysis line with some oozing; PICC line with
+improving oozing as well, due to elevated PTT.
+
+Pertinent Results:
+ADMISSION LABS
+
+[**2112-11-10**] 05:35PM BLOOD WBC-3.0* RBC-3.53* Hgb-12.8* Hct-38.5*
+MCV-109* MCH-36.2* MCHC-33.3 RDW-14.5 Plt Ct-104*
+[**2112-11-10**] 05:35PM BLOOD Neuts-46.4* Lymphs-38.0 Monos-8.9
+Eos-6.2* Baso-0.6
+[**2112-11-10**] 05:35PM BLOOD PT-22.6* PTT-38.8* INR(PT)-2.1*
+[**2112-11-9**] 08:40AM BLOOD Na-141 K-3.8 Cl-99
+[**2112-11-10**] 05:35PM BLOOD Glucose-130* UreaN-35* Creat-8.4*# Na-135
+K-5.4* Cl-95* HCO3-30 AnGap-15
+[**2112-11-11**] 06:31AM BLOOD Calcium-9.2 Phos-3.5 Mg-1.8
+[**2112-11-13**] 06:09AM BLOOD VitB12-1735* Folate-GREATER TH
+[**2112-11-10**] 05:48PM BLOOD Lactate-0.9
+.
+PERTINENT LABS AND STUDIES:
+.
+[**2112-11-16**] 05:21AM BLOOD WBC-5.3 RBC-3.05* Hgb-10.8* Hct-32.5*
+MCV-106* MCH-35.4* MCHC-33.3 RDW-14.1 Plt Ct-118*
+[**2112-11-18**] 04:35AM BLOOD WBC-8.1 RBC-3.37*# Hgb-10.9*# Hct-29.8*
+MCV-89# MCH-32.3* MCHC-36.5* RDW-18.5* Plt Ct-110*
+[**2112-12-1**] 01:48PM BLOOD WBC-11.5* RBC-2.61* Hgb-8.4* Hct-24.1*
+MCV-93 MCH-32.2* MCHC-34.8 RDW-15.6* Plt Ct-408
+[**2112-12-12**] 07:35AM BLOOD WBC-6.5 RBC-2.31* Hgb-7.0* Hct-21.1*
+MCV-92 MCH-30.4 MCHC-33.2 RDW-15.2 Plt Ct-197
+[**2112-12-14**] 05:06AM BLOOD WBC-6.8 RBC-2.16* Hgb-6.6* Hct-19.9*
+MCV-92 MCH-30.4 MCHC-33.0 RDW-15.4 Plt Ct-184
+[**2112-12-16**] 01:34PM BLOOD WBC-6.8 RBC-2.88* Hgb-8.6* Hct-26.0*
+MCV-90 MCH-29.8 MCHC-33.2 RDW-16.3* Plt Ct-147*
+
+[**2112-12-14**] 05:06AM BLOOD PT-15.2* PTT-119.9* INR(PT)-1.3*
+[**2112-12-15**] 03:40AM BLOOD PT-19.9* PTT-150* INR(PT)-1.8*
+[**2112-12-16**] 06:44AM BLOOD PT-13.8* PTT-53.2* INR(PT)-1.2*
+
+[**2112-11-14**] 06:24AM BLOOD Glucose-113* UreaN-56* Creat-10.9*#
+Na-130* K-7.3* Cl-90* HCO3-28 AnGap-19
+[**2112-11-17**] 01:08AM BLOOD Glucose-170* UreaN-23* Creat-6.7*# Na-142
+K-4.5 Cl-99 HCO3-29 AnGap-19
+[**2112-11-23**] 03:00AM BLOOD Glucose-122* UreaN-52* Creat-8.4*# Na-137
+K-4.8 Cl-92* HCO3-32 AnGap-18
+[**2112-12-13**] 02:07PM BLOOD Glucose-161* UreaN-29* Creat-7.1*# Na-137
+K-3.9 Cl-96 HCO3-27 AnGap-18
+[**2112-12-16**] 06:44AM BLOOD Glucose-87 UreaN-38* Creat-8.4*# Na-137
+K-5.3* Cl-98 HCO3-28 AnGap-16
+
+[**2112-11-28**] 11:51AM BLOOD ALT-81* AST-62* LD(LDH)-473* AlkPhos-130
+TotBili-0.7
+[**2112-12-1**] 04:10AM BLOOD ALT-40 AST-34 AlkPhos-121 TotBili-0.8
+
+[**2112-11-16**] 05:21AM BLOOD Calcium-8.8 Phos-3.1 Mg-1.9
+[**2112-11-22**] 03:10AM BLOOD Calcium-9.1 Phos-2.5* Mg-1.9
+[**2112-12-3**] 05:48AM BLOOD Calcium-9.0 Phos-4.1# Mg-2.2
+[**2112-12-14**] 05:06AM BLOOD Calcium-9.5 Phos-5.4* Mg-1.7
+
+[**2112-11-13**] 06:09AM BLOOD VitB12-1735* Folate-GREATER TH
+[**2112-11-17**] 04:14AM BLOOD Hapto-169
+[**2112-11-25**] 05:19AM BLOOD Cortsol-21.8*
+[**2112-11-12**] 02:36PM BLOOD C-PEPTIDE- 3.12 H
+[**2112-11-12**] 02:36PM BLOOD SULFONAMIDES-normal
+[**2112-11-12**] 02:36PM BLOOD INSULIN, FREE (BIOACTIVE)- normal
+[**2112-11-12**] 02:36PM BLOOD INSULIN- normal
+[**2112-11-12**] 02:36PM BLOOD BETA-HYDROXYBUTYRATE- high
+[**2112-11-11**] 06:31AM BLOOD LEVETIRACETAM (KEPPRA)-  69.8 (normal)
+
+MICROBIOLOGY:
+[**2112-12-7**] 4:29 pm CATHETER TIP-IV      Source: right IJ.
+
+                            **FINAL REPORT [**2112-12-10**]**
+
+   WOUND CULTURE (Final [**2112-12-10**]):
+      KLEBSIELLA PNEUMONIAE.    >15 colonies.
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE #
+[**Numeric Identifier 63594**],
+         [**2112-12-7**].
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    <15 colonies.
+         COAG NEG STAPH does NOT require contact precautions,
+regardless of
+         resistance.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPHYLOCOCCUS, COAGULASE NEGATIVE
+                             |
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------       R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     1 S
+
+                   SENSITIVITIES: MIC expressed in MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMIKACIN--------------  =>64 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------    16 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----   <=1 S
+
+[**2112-12-8**] 4:50 pm BLOOD CULTURE - same 2 organisms as above
+
+All other cultures - negative
+
+IMAGING:
+
+CT head w/o [**2112-11-10**]:
+No acute intracranial process. Stable bilateral
+encephalomalacia.
+.
+CT Neck [**2112-11-10**] 1. No fracture or subluxation.
+2. Apparent degenerative changes at C5-6 with probable endplate
+Schmorl's
+nodes which appear similar, although somewhat progressed since
+the prior MR study. Posterior disc osteophyte complex at C5-6
+and disc bulge at C6-7
+slightly indent the thecal sac. Anterior disc space widening at
+C6-7 is
+chronic.
+3. Right thyroid enlargement which slightly indents the trachea.
+
+.
+CXR [**2112-11-10**]:
+FINDINGS: AP and lateral upright radiographs of the chest were
+obtained.
+There are moderately low lung volumes. The previously seen right
+lower lung opacity has improved, but not completely resolved and
+may reflect residual atelectasis or infection. The previously
+described right paratracheal fullness is stable and is
+attributable to tortuous vessels as seen on prior CT studies.
+Trachea is stably narrowed at the level of the thoracic inlet
+and is attributable to tortuous vessels as noted on CT torso.
+There is stable cardiomegaly. There is no pleural effusion or
+pneumothorax.  IMPRESSION: Improvement in right lower lung
+opacity which has not completely resolved and may reflect
+residual atelectasis or infection.
+.
+CXR line placement [**2112-11-10**]:
+FINDINGS: There is a newly placed left internal jugular catheter
+with the tip positioned in the upper SVC. No pneumothorax is
+present. Bibasilar atelectasis is present. The cardiac
+silhouette, hilar, and mediastinal contours appear stable.
+.
+IMPRESSION: Satisfactory central line position without
+pneumothorax.
+Bibasilar atelectasis.
+.
+CT-torso ([**2112-11-22**]):
+IMPRESSION:
+1. Unchanged right perinephric and retroperitoneal hematoma.
+2. Small right pleural effusion with consolidated portions of
+the right
+middle and lower lobes containing hyperdense material suggesting
+aspiration as a possible etiology.
+.
+CT-head ([**2112-11-24**]):
+FINDINGS: There is no evidence of acute intracranial hemorrhage.
+Again noted are large, bilateral ares of encephalomalacia in the
+MCA territory is present since [**2107**], likely due to old infarcts.
+A small right cerebellar hypodensity is again noted. The
+ventricles and sulci are enlarged, likely due to a combination
+of age-related atrophy and prior infarctions. No fractures are
+identified.
+
+Line placements by IR ([**2112-12-15**]):
+IMPRESSION:
+1. Successful placement of a 4 French single-lumen PICC via the
+left basilica vein approach, terminating at the cavoatrial
+junction. The line is ready for use.
+2. Successful conversion of a temporary catheter for a tunneled
+15.5 French dual-lumen hemodialysis catheter via the left IJ
+approach, with the tip terminating within the right atrium. The
+line is ready for use.
+3. Left arm venogram demonstrating marked tortuosity at the
+basillic-axillary junction and a diminutive cephalic vein. All
+visualized veins are patent
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 63 year-old man with a PMH notable for ESRD on HD
+(MWF), chronic aspiration, seizure disorder, history of CVA with
+residual left-sided weakness and dysarthria, who presented to
+the ED s/p seizure and hypoglycemia. Course was complicated by
+RP bleed, s/p IR embolization of R renal artery [**2112-11-17**], PNA
+s/p course of Vanc/Zosyn/Tobra, and inability to clear his own
+secretions with subsequent recurrent mucus plugging and chronic
+aspiration, leading to episodes of hypoxic respiratory distress.
+.
+# Seizures: The patient had a witnessed event in which he had
+whole-body shaking and was non-responsive. DDx for seizure
+precipitant includes metabolic etiology such as [**2-24**] hypoglycemia
+vs. infection vs. medication non-compliance. Not likely acute
+intracranial process as no changed on CT head w/o. No reason to
+believe that the patient has been missing his medications, per
+family and daycare. He has no complaints, and no s/s of
+infection (no fever, symptoms, and CXR w/no focal infiltrate),
+which could also precipitate seizures. Per reviewing [**Name (NI) **], pt has
+been admitted frequently for these seizures every few months.
+The ED [**Name (NI) 653**] pt's outpt Neurologist who recommended
+increasing Keppra dose to 1500mg [**Hospital1 **] and continuing 500mg after
+HD and checking a level.  Keppra level was obtained but pending
+as it is a send out. Oxcarbazepine 150mg [**Hospital1 **] continued.
+Treatment of hypoglycemia as below.
+.
+# Hypoglycemia: Pt presented with significant hypoglycemia of
+unknown etiology. There is no evidence of iatrogenic cause of
+hypoglycemia.  Workup included fasting C-peptide and insulin
+level, which were non-diagnostic given the venous glucose for
+the specimen was not less than 50.  There was no evidence of
+adrenal insufficiency.  His hypoglycemia resolved after RP bleed
+for unclear reasons.
+.
+# Aspiration: Pt has a documented history of chronic aspiration
+likely secondary to his CVA, and has been evaluated by speech
+and swallow multiple times in the past.  Pt was found to be at
+increased risk for aspiration.  However, family in the past had
+insisted on continued feeding, regardless of aspiration risk.
+In [**Month (only) **], speech and swallow commented that "As aspiration
+risks are similar across consistencies, pt comfort should be
+deciding factor in diet order".  Pt was placed on mechanical
+soft diet/dysphagia diet on admission, as quality of life was
+considered to be the number one priority by the family.  During
+this admission, pt was found to have significant worsening
+aspiration, manifested by copious secretions in airway.  He had
+multiple episodes of desatting both in the MICU and on the
+regular floor.  He collapsed his right lung several times in the
+setting of mucus plugging.  For all these episodes, he responded
+well with suction and chest PT.  After lengthy discussion with
+family, decision was made to feed the patient despite the
+aspiration risk. A PEG tube was deferred given successful eating
+without obvious aspiration.
+.
+# Fistula thrombosis/Access: Following his stay in the ICU the
+patient had a thrombosed fistula.  The level of thrombosis was
+too much for vascular or for IR to open the fistula.  He had a
+temporary line placed that was converted to a tunneled catheter
+for dialysis and IR was able to place a PICC for further access
+via venogram.  He will be discharged on a heparin
+drip-to-warfarin bridge for this thrombosis and a
+catheter-associated thrombus in the right IJ.
+.
+# Line infection: The patient had pus noted around his right IJ
+following his time in the ICU.  Cultures subsequently grew
+resistant Klebsiella and coagulase negative gram positive cocci,
+along with confirmation from 1 subsequent blood culture.  He
+will be treated for a total of two weeks with vancomycin and
+cefepime, to be completed on [**2112-12-20**].
+
+# Retroperitoneal bleed with subsequent anemia: Pt was found to
+have tachycardia and hypotension on HD#7, with a 9-point HCT
+drop.  He underwent CTA, and was found to have multifocal
+retroperitoneal bleed in the right kidney.  He was admitted to
+MICU and intubated for airway protection.  Pt had a total of 9
+units pRBC.  Transcatheter embolization of the right kidney was
+performed and hemodynamic stability was achieved.  Subsequently,
+his hematocrit continued to run low, requiring intermittent
+transfusions of RBCs at dialysis, with a nadir of 19.9.
+Nephrology will be assessing whether he should be started on
+Epogen at dialysis.
+.
+# Pneumonia: Pt was found to have pneumonia on MICU day 4, with
+leukocytosis and
+fever.  The etiology of pneumonia was HCAP vs VAP.  He was
+treated with vanco, zosyn and tobra for a total of 9 days.  His
+WBC and fever resolved s/p antibiotics treatment.
+.
+CHRONIC ISSUES:
+# ESRD on HD: MWF, received dialysis on schedule.  Access is now
+a tunneled line, given AVG thrombosis and he should be continued
+on sevelamer and nephrocaps.
+.
+# Pancytopenia: Pt with macroycytic anemia and thrombocytopenia
+prior. However, WBC mildly decreased at presentation to 3.0,
+which is a change from prior. No s/s infection, CXR without
+focal infiltrate as above.  B12 and folate were high.
+.
+# CAD/CVA history: ECG unchanged from prior. We initially
+continued home aspirin, statin, metoprolol, and coumadin, but
+the RP bleed complicated this regimen.  Once embolization was
+done and hematocrit was deemed stable, multiple thromboses were
+discovered in right IJ and RUE AVG.  Therefore, a heparin drip
+was started and he was bridged to coumadin.
+.
+# Depression: on fluoxetine as listed discharge med but held on
+discharge as it causes hypoglycemia and it can lower the seizure
+threshold.
+.
+ISSUES OF TRANSITIONS IN CARE:
+# CODE: FULL - confirmed HCP daughter
+# CONTACT: patient; [**Telephone/Fax (1) 63591**] [**Name2 (NI) **]/ Daughter's cell:
+(h) [**Telephone/Fax (1) 63580**].
+Adult Day Care Program is [**Last Name (un) 35689**] House in [**Telephone/Fax (1) 63595**]
+# PENDING STUDIES AT TIME OF DISCHARGE: none
+# ISSUES TO ADDRESS AT FOLLOW UP: please see page 1
+
+
+Medications on Admission:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO DAILY (Daily).
+2. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+
+6 hours) as needed for pain/fever.
+3. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap
+
+PO DAILY (Daily).
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day).
+5. fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+6. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+7. levetiracetam 500 mg Tablet Sig: One (1) Tablet PO HD (): M W
+
+Fri after HD.
+8. metoprolol tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+9. oxcarbazepine 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+10. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+11. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+PO DAILY (Daily) as needed for constipation.
+12. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+13. sevelamer carbonate 800 mg Tablet Sig: One (1) Tablet PO
+three times a day.
+14. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+16. Coumadin 3 mg Tablet Sig: Three (3) Tablet PO once a day:
+Until you get your INR checked.
+
+
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO every six
+(6) hours as needed for fever or pain.
+2. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1)
+Capsule PO once a day.
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+4. levetiracetam 500 mg/5 mL Solution Sig: 1500 (1500) mg
+Intravenous twice a day.
+5. LeVETiracetam 500 mg IV MWF
+Dose after HD
+6. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO twice
+a day: hold if SBP<90, HR<55.
+7. polyethylene glycol 3350 17 gram Powder in Packet Sig: One
+(1)  PO once a day as needed for constipation.
+8. senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day.
+9. sevelamer carbonate 800 mg Tablet Sig: One (1) Tablet PO
+three times a day.
+10. simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+
+11. heparin (porcine) 1,000 unit/mL Solution Sig: see below
+Injection PRN (as needed) as needed for line flush: 4000-[**Numeric Identifier 2249**]
+UNIT DWELL PRN line flush
+Dialysis Catheter (Temporary 3-Lumen): DIALYSIS Lumens/ DIALYSIS
+NURSE ONLY: Withdraw 4 mL prior to flushing with 10 mL NS
+followed by Heparin as above according to volume per lumen.
+12. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM: please titrate to INR, goal [**2-25**].
+13. heparin (porcine) 1,000 unit/mL Solution Sig: see below
+Injection PRN (as needed) as needed for dialysis: Heparin Dwell
+(1000 Units/mL) [**2101**]-8000 UNIT DWELL PRN dialysis
+Dwell to catheter volume
+.
+14. lacosamide 200 mg/20 mL Solution Sig: Fifty (50) mg
+Intravenous [**Hospital1 **] (2 times a day).
+15. vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1) g
+Intravenous HD PROTOCOL (HD Protochol) for 4 days.
+16. cefepime 1 gram Recon Soln Sig: One (1) Recon Soln Injection
+Q24H (every 24 hours) for 4 days.
+17. heparin (porcine) in NS  Intravenous
+18. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Hospital - [**Hospital1 8**]
+
+Discharge Diagnosis:
+primary diagnosis: hypoglycemia, seizure disorder, end stage
+renal disease
+secondary diagnosis: hypertension, coronary artery disease
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: [**Hospital1 **] and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Dear Mr. [**Known lastname **],
+You were admitted for seizure, which was likely in the setting
+of hypoglycemia. You have often become hypoglycemic in the past
+and it is unclear why this keeps happening. You were evaluated
+for this but the results of the studies can be discussed in
+outpatient follow up.
+Because you continue to be hypoglycemic, it was felt that you
+might be best served by placement in a long term care facility.
+
+
+While in the hospital, you received hemodialysis per your normal
+schedule.  You will continue to get hemodialysis as an
+outpatient while you are in the long term care facility.
+
+Please note the following changes to your medications:
+STOP aspirin, since you will be on coumadin
+STOP fluoxetine, as it can contribute to hypoglycemia
+START coumadin, with dosing to be adjusted per your MDs
+START heparin IV, dosing to be adjusted per your MDs
+START cefepime and vancomycin to help fight bacteria in your
+blood
+
+Please be sure to follow up with your physicians as below.
+
+Followup Instructions:
+You will be seen by the doctors at the [**Name5 (PTitle) **]-term care facility.
+Dr. [**Last Name (STitle) **], your primary care doctor, will see you if you are
+discharged from this facility.  Please feel free to call him
+with any questions - [**Telephone/Fax (1) 250**].
+
+You should see your outpatient neurologist to continue managing
+your anti-seizure medications.  Appointment information is
+below:
+
+Department: NEUROLOGY
+When: [**Telephone/Fax (1) **] [**2113-1-6**] at 2:00 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7025**], MD [**Telephone/Fax (1) 3294**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 858**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+You will continue getting dialysis at your regular location.
+
+
+

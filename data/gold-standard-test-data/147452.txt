@@ -1,0 +1,304 @@
+Admission Date:  [**2152-8-14**]              Discharge Date:   [**2152-8-28**]
+
+Date of Birth:  [**2078-11-30**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Coumadin / Quinidine Sulfate
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cabg x4/cryoMaze/ ASD closure/rem. [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 1916**]  [**2152-8-21**]
+(LIMA to LAD, SVG to PDA, SVG to DIAG, sequenced to OM)
+
+
+History of Present Illness:
+73 M with h/o AF not on anticoaggulation presented to PCP with
+constant chest pressure, worse with eating or exertion.  Gets
+minimal relief from TUMS.  His PCP referred him for ETT which
+was stopped after 5 min due to chest pain.  MIBI revealed
+inferior ischemia, posterior wall infarct, and LVEF 47% with
+inferobasal hypokinesis.   He had catheterization on [**2152-8-14**]
+which showed severe 3VD (occluded RCA, 90% LCx, 80% LAD).  He
+has had intermittent CP, especially at night, and a nitro drip
+was started.  He was set to get CABG today ([**2152-8-18**])with Dr.
+[**Last Name (STitle) 914**], but his creatinine rose to 1.8 over baseline of 1.2.
+CABG was delayed to allow pt's renal function to improve. Pain
+free currently.
+
+Past Medical History:
+A fib s/p unsuccessful EP ablation at [**Hospital1 2025**] in 4/97
+b/l hernia repair
+AAA
+restless leg syndrome
+
+Social History:
+Married and lives with wife.  15 pack year smoking history.
+Quit 30 years ago.  Denies ETOH and illicit drugs. Retired.
+
+Family History:
+No premature CAD
+
+Physical Exam:
+Vitals: 117/64  HR 59  RR 18  93-97% RA
+Gen: comfortable, nad
+HEENT: perrl, eomi
+Neck: no JVD
+CV: RRR nl S1S2 no m/r/g
+Abd: +BS, soft, ND/NT
+EXT: no edema, 2+ pp
+
+Pertinent Results:
+[**2152-8-28**] 6:25A 95 32* 1.5* 137 4.0 98 32 11
+[**2152-8-25**] 06:30AM BLOOD WBC-8.9 RBC-3.98* Hgb-9.4* Hct-27.7*
+MCV-70* MCH-23.5* MCHC-33.8 RDW-21.9* Plt Ct-113*
+[**2152-8-25**] 06:30AM BLOOD Plt Ct-113*
+[**2152-8-24**] 02:22AM BLOOD PT-13.2* PTT-28.8 INR(PT)-1.2*
+[**2152-8-25**] 06:30AM BLOOD Glucose-96 UreaN-30* Creat-1.3* Na-132*
+K-4.4 Cl-96 HCO3-29 AnGap-11
+[**2152-8-17**] 09:20AM BLOOD ALT-23 AST-25 CK(CPK)-76 AlkPhos-82
+Amylase-53 TotBili-0.8
+[**2152-8-17**] 09:20AM BLOOD Lipase-17
+[**2152-8-25**] 06:30AM BLOOD Calcium-7.7* Phos-3.4 Mg-2.0
+[**2152-8-16**] 09:35AM BLOOD %HbA1c-5.7 [Hgb]-DONE [A1c]-DONE
+[**2152-8-14**] 01:16PM BLOOD HDL-42 CHOL/HD-3.0 LDLmeas-72
+
+FINAL REPORT
+
+
+PORTABLE CHEST 10:11 A.M. ON [**8-23**].
+
+INDICATION: Status post CABG and ASD closure. Evaluate for
+pneumothorax,
+status post chest tube removal.
+
+FINDINGS: Compared with 9/19, ETT, NGT, mediastinal and left
+chest tubes have
+been removed. The tip of the Swan-Ganz catheter remains at the
+level of the
+right main PA. No pneumothorax identified.
+
+Persistent left lower lobe atelectasis/effusion.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+
+
+Approved: WED [**2152-8-23**] 10:20 PM
+Procedure Date:[**2152-8-23**]
+
+[**Known lastname 29488**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 29489**] (Complete)
+Done [**2152-8-21**] at 9:08:04 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) 177**]
+[**Hospital Unit Name 927**]
+[**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2078-11-30**]
+Age (years): 73 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Aortic valve disease. Coronary artery disease. Left
+ventricular function. Valvular heart disease.
+ICD-9 Codes: 427.31, 440.0, 424.1, 424.0, 424.2
+Test Information
+Date/Time: [**2152-8-21**] at 09:08    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 168**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2006AW1-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.5 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *7.3 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *6.3 cm  <= 5.0 cm
+Left Ventricle - Diastolic Dimension:  *6.3 cm  <= 5.6 cm
+Aorta - Valve Level:  2.5 cm  <= 3.6 cm
+Aortic Valve - Pressure Half Time:  744 ms
+
+Findings
+LEFT ATRIUM: [**Last Name (NamePattern4) **] LA enlargement. Elongated LA. No
+mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. PFO is
+present. Left-to-right shunt across the interatrial septum at
+rest.
+
+LEFT VENTRICLE: Moderately dilated LV cavity. Normal regional LV
+systolic function. Low normal LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal ascending aorta diameter. Mildly dilated
+descending aorta. There are complex (>4mm) atheroma in the
+descending thoracic aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Mild
+to [**Last Name (Prefixes) 1192**] ([**12-6**]+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR. Eccentric MR jet.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild to
+[**Month/Day (2) 1192**] [[**12-6**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications. The patient was under
+general anesthesia throughout the procedure. Results were
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PREBYPASS
+1. The left atrium is moderately dilated. The left atrium is
+elongated. No mass/thrombus is seen in the left atrium or left
+atrial appendage. The right atrium is moderately dilated. A
+patent foramen ovale is present. A left-to-right shunt across
+the interatrial septum is seen at rest by color flow Doppler and
+with agitated saline contrast during a modified Valsalva
+maneuver.
+2. The left ventricular cavity is moderately dilated. Regional
+left ventricular wall motion is normal. Overall left ventricular
+systolic function is low normal (LVEF 50-55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The descending thoracic aorta is mildly dilated. There are
+complex (>4mm) atheroma in the descending thoracic aorta.
+5. The aortic valve leaflets (3) are mildly thickened. Mild to
+[**Month/Day (2) 1192**] ([**12-6**]+) aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Mild to
+[**Month/Day (2) 1192**]([**12-6**]+) mitral regurgitation is seen. The mitral
+regurgitation jet is eccentric and directed posteriorly. MR
+increased to the [**Month/Day (2) 1192**] range with increasing of SBP to 160mm
+Hg.
+
+POSTBYPASS
+1. Biventricular systolic function remains normal.
+2. The AI remains unchanged.
+3. No flow is seen across the interatrial septum by color flow
+doppler interrogation. Bubble study with valsalva is negative.
+4. MR [**First Name (Titles) 9807**] [**Last Name (Titles) 1192**] on coming off CPB, subsequently
+improved to mild - [**Last Name (Titles) 1192**].
+5. Aorta is intact post decannulation
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Interpretation assigned to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 168**], MD, Interpreting
+physician
+
+
+?????? [**2148**] CareGroup IS. All rights reserved.
+
+
+
+Brief Hospital Course:
+Admitted on [**2152-8-14**] for cardiac cath and referred to Dr. [**Last Name (STitle) 914**]
+for cabg/Maze. Surgery delayed for rising creatinine and plavix
+washout, and right femoral pseudoaneurysm post-cath.Renal
+consult done. Ultimately underwent cabg x4/cryo Maze/ ASD
+closure/ ligation of left atrial appendage on [**8-21**]. Transferred
+to the CSRU in stable condition on neosynephrine and propofol
+drips. Transfused for postop anemia and on
+epinephrine,amiodarone, neo and insulin drips. TEE/cardioversion
+done for Afib. Extubated later that morning. Epinephrine weaned
+off on POD #2 and transferred to the floor on POD #3 to begin
+increasing his activity level.  Central line and foley removed
+on POD #3.Pacing wires removed without incident on POD #4. Some
+serosanguineous sternal drainage started on Friday and was
+observed with abx started on POD #6 and discontinued on POD #7.
+Will monitor with a wound check in 4 days here on [**Hospital Ward Name 121**] 2.
+Creatinine 1.5 (roughly baseline) on POD #7 and cleared for
+discharge to home with services.Patient to make all follow-up
+appts. as per discharge instructions.
+
+Medications on Admission:
+Amiodarone 200mg every AM, 100mg every evening
+Aspirin 81 mg daily
+Plavix 75 mg daily
+Imdur 30mg daily
+NG SL PRN
+MVI
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours) for
+2 weeks.
+Disp:*14 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day: 1
+tab, 200 mg Q AM, [**12-6**] tab, 100 mg Q PM.
+Disp:*60 Tablet(s)* Refills:*2*
+8. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO TID (3 times a
+day).
+Disp:*45 Tablet(s)* Refills:*2*
+9. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+11. Potassium Chloride 10 mEq Capsule, Sustained Release Sig:
+Two (2) Capsule, Sustained Release PO DAILY (Daily) for 7 days.
+Disp:*14 Capsule, Sustained Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1474**] VNA
+
+Discharge Diagnosis:
+s/p cabg x4/cryo Maze/ ASD closure/removal [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 1916**]
+Afib (unsuccessful ablation)
+AAA
+restless leg syndrome
+mild CRI
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+may shower over incisions and pat dry
+no lotions, creams or powders on any incision
+no driving for one month
+no lifting greater than 10 pounds for 10 weeks
+call for fever greater than 101.5, redness or drainage
+RETURN for wound check on [**Hospital Ward Name 121**] 2 on Friday [**9-1**]
+
+
+Followup Instructions:
+see Dr. [**Last Name (STitle) 16004**] in [**12-6**] weeks
+see Dr. [**Last Name (STitle) **] in [**1-7**] weeks
+see Dr. [**Last Name (STitle) 914**] in 4 weeks   [**Telephone/Fax (1) 170**]
+RETURN for wound check on [**Hospital Ward Name 121**] 2 on Friday [**9-1**]
+
+
+
+Completed by:[**2152-8-28**]

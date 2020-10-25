@@ -1,0 +1,351 @@
+Admission Date:  [**2143-12-27**]              Discharge Date:   [**2144-1-3**]
+
+Date of Birth:  [**2069-9-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / lisinopril / Nifedipine / Cephalexin / Nafcillin
+
+Attending:[**First Name3 (LF) 2782**]
+Chief Complaint:
+Abnormal labs
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This is a 74-year-old gentleman with a  pmhx. significant for
+dCHF, afib on coumadin, CKD, MSSA/GBS bacteremia, and was
+recently discharged on [**2143-12-19**] for compression fracture of T11
+vertebrea and afib with RVR who presents to the ED at the
+request of his nurse practioner for elevated potassium.  Mr.
+[**Known lastname 19829**] had been evaluated in the infectious disease clinic on
+[**12-25**] and had routine labs drawn, at which time his potassium was
+found to be 5.7.  He was told to go to the ED that night for
+evaluation, but decided to come in the next day.  Patient denies
+any particular complaints but does complain of fatigue.  No
+headache, fevers, chills, nausea, vomiting, diarrhea, or other
+concerning signs or symptoms.
+.
+In the ED, initial vitals were: 97.3 120 105/72 22 100% RA.
+Labs were significant for a creatinine of 3.3 up from a baseline
+of 1.5 and a potassium of 6.1.   Patient complained of wheezing
+and chest congestion and received a dose of levaquin for
+presumed HCAP.  He also received nebs, 15grams of kayexalate and
+250cc of fluid.  Mr. [**Known lastname 19829**] was transferred to the MICU for
+further evaluation and work-up.
+
+Past Medical History:
+--S. aureus/G-strep bacteremia: Unknown source although left
+maxillary dental abscess suspected. Was on IV nafcillin until
+[**2143-12-16**], followed in [**Hospital **] [**Hospital 4898**] clinic.
+--Retroperitoneal Hemmorhage [**2143-6-7**] in the setting of INR of
+8
+--Diastolic CHF
+--HTN
+--Asthma
+--Atrial fibrillation, on warfarin. s/p multiple cardioversions,
+last TEE-guided cardioversion on [**2143-11-5**]
+--Atopic dermatitis
+--Hypercholesterolemia
+--CKD (creatine from 1.4-2.3 in the last 2 months)
+--s/p UGI bleed in [**2130**] from two gastric ulcers, H. pylori neg
+--hx of colonic adenomas on colonoscopy in [**2133**]
+--s/p appendectomy
+--Normocytic anemia- recent BM bx on [**5-24**] which showed mild
+erythroid dyspoiesis suggesting the possibility of an early
+evolving MDS. Cytogenetics and FISH for MDS were negative.
+--Herpes Zoster on upper back in [**2143-5-8**]
+--Gout
+
+Social History:
+Originally from [**Country 19828**]; came to US in the [**2091**]. Married, lives
+with his wife. Three adult daughters. [**Name (NI) 1403**] as a physicist for
+radiation oncology at [**Hospital1 112**]/[**Company 2860**]. Previously employed by [**Hospital1 18**].
+Denies tobacco or illicit drug use. Occasional EtOH - 1 drink
+several times per week.
+
+Family History:
+Mother died of complications of childbirth. Father died in his
+90s from complications of an aortic aneurysm. Brother died of
+cancer of unknown primary. Son died 10 years ago by drowning
+during a caving expedition. Three daughters are alive and well.
+Multiple family members have eczema.
+
+Physical Exam:
+VS: 96.6, 83, 109/70, 16
+GENERAL: No acute distress, wheezy
+HEENT:  EOMI, very dry mucous membranes
+NECK: Supple, no cervical LAD
+LUNGS:  Moderate air movement bilaterally, expiratory upper
+airway wheezes
+HEART:  Irregularly irregular, no MRG
+ABDOMEN:  Obese, soft, NT, ND, no organomegaly, no rebounding or
+guarding
+EXTREMITIES: 2+ edema bilaterally, peripheral pulses intact
+SKIN:  Diffuse blanching erythema over entire body
+NEURO: Alert and oriented x3
+PSYCH: Calm, appropriate affect
+
+Pertinent Results:
+[**2143-12-27**] 10:18PM   GLUCOSE-108* UREA N-90* CREAT-3.3* SODIUM-144
+POTASSIUM-5.8* CHLORIDE-110* TOTAL CO2-22 ANION GAP-18
+[**2143-12-27**] 10:18PM   CALCIUM-8.4 PHOSPHATE-8.2*# MAGNESIUM-2.4
+[**2143-12-27**] 10:18PM   WBC-7.4 RBC-2.48* HGB-8.2* HCT-25.6* MCV-103*
+MCH-33.3* MCHC-32.2 RDW-16.7*
+[**2143-12-27**] 10:18PM   NEUTS-78.6* LYMPHS-10.9* MONOS-8.5 EOS-1.5
+BASOS-0.5
+[**2143-12-27**] 10:18PM   PLT COUNT-409
+[**2143-12-27**] 10:18PM   PT-30.4* PTT-42.4* INR(PT)-2.9*
+[**2143-12-27**] 06:17PM   PO2-47* PCO2-52* PH-7.22* TOTAL CO2-22 BASE
+XS--6 COMMENTS-GREEN
+[**2143-12-27**] 06:17PM   LACTATE-1.7 K+-6.1*
+[**2143-12-27**] 04:30PM   GLUCOSE-131* UREA N-88* CREAT-3.3*#
+SODIUM-141 POTASSIUM-7.6* CHLORIDE-108 TOTAL CO2-20* ANION
+GAP-21*
+[**2143-12-27**] 04:30PM   CK(CPK)-81
+[**2143-12-27**] 04:30PM   cTropnT-0.08*
+[**2143-12-27**] 04:30PM   CK-MB-5 proBNP-4982*
+[**2143-12-27**] 04:30PM   WBC-10.4 RBC-2.81* HGB-9.3* HCT-29.0*
+MCV-103* MCH-33.3* MCHC-32.2 RDW-16.7*
+[**2143-12-27**] 04:30PM   NEUTS-80.3* LYMPHS-9.0* MONOS-8.4 EOS-1.5
+BASOS-0.8
+[**2143-12-27**] 04:30PM   PLT COUNT-532*
+.
+TEE
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+There are simple atheroma in the aortic arch. There are simple
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets (3) are mildly thickened. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is moderate bileaflet mitral valve prolapse. No
+mass or vegetation is seen on the mitral valve. Mild to moderate
+([**12-9**]+) mitral regurgitation is seen. There is no pericardial
+effusion.
+.
+IMPRESSION: Mitral and aortic leaflets are thickened but no
+discrete vegetation is identified. No abscess seen.
+.
+TTE:
+MPRESSION: Aortic leaflet thickened with mild aortic
+regurgitation but no discrete vegetation. Moderate mitral
+regurgitation with thickened leaflets but without discrete
+vegetation. Pulmonary artery hypertension. Minimal aortic valve
+stenosis. Dilated thoracic aorta.
+.
+MRI TSpine/LSpine:
+IMPRESSION:
+1. No osteomyelitis, discitis or epidural abscess.
+2. Interval subacute T11 compression fracture without
+retropulsion.
+3. Interval progression of the known L1 compression fracture,
+but without
+retropulsion.
+4. Low lumbar degenerative changes, without spinal stenosis.
+.
+[**2143-12-27**]
+Chest PA and lateral radiograph demonstrates unremarkable
+mediastinal and
+hilar contours. Stable mild cardiomegaly evident. Increased
+opacity
+overlying the right diaphragm on background of right lower lung
+atelectasis,
+may indicate pneumonia. No pleural effusion or pneumothorax
+evident.
+Stable L1 and T12 compression fractures. Stable degenerative
+changes of the
+right shoulder.
+
+IMPRESSION: Increased opacity of right lower lung may reflect
+worsening
+atelectasis, though in proper clinical setting, pneumonia is a
+possibility.
+No pleural effusion evident.
+.
+Culture data (organism and susceptibilities):
+                             STAPHYLOCOCCUS EPIDERMIDIS
+                             |
+STAPHYLOCOCCUSEPIDERMIDIS
+                             |          |
+CLINDAMYCIN-----------   =>8 R      =>8 R
+DAPTOMYCIN------------       S          S
+ERYTHROMYCIN----------   =>8 R      =>8 R
+GENTAMICIN------------     4 S        4 S
+LEVOFLOXACIN----------   =>8 R      =>8 R
+LINEZOLID-------------     1 S        2 S
+OXACILLIN-------------   =>4 R      =>4 R
+RIFAMPIN--------------  =>32 R     =>32 R
+TETRACYCLINE----------  =>16 R     =>16 R
+VANCOMYCIN------------     2 S        2 S
+
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE:
+This is a 74-year-old gentleman with a pmhx significant for
+recent MSSA and group G strep bactremia, dCHF, asthma, and afib
+on coumadin who was admitted after routine lab tests showed an
+elevated potassium.  He was found to be bacteremic on admission.
+A work-up for the source was inconclusive. He was discharged
+with a PICC line for likely 6 weeks of vancomycin therapy.
+.
+ACTIVE ISSUES:
+# POSITIVE BLOOD CULTURES: Blood cultures from [**12-27**] to [**12-29**] grew
+methicillin resistant staph. epidermis. Source search included
+evaluation for valvular vegetations included TTE and TEE which
+were unrevealing. Given history of compression fractures an MRI
+T and L spine showed no source.  A RUQ ultrasound was obtained
+in setting of right upper extremity edema and pain on palpation
+of the axilla revealed evidence of a non occlusive clot. In
+setting of atopic dermatitis, multiple skin lesions and recent
+knee injury with slow healing wound, skin source entertained.  A
+picc line was placed and 4-6 weeks of vancomycin will be
+continued at discharge dose of 750mg [**Hospital1 **].
+.
+# ACUTE RENAL FAILURE:  Patient with creatinine of 3.3 up from a
+baseline of 1.5.  On admission, patient was 89 kg, down from
+94.9kg on [**2143-12-16**].  He appeared hypovolemic with increased
+thirst, and BUN/creatinine ratio is >20.  Urine lytes
+demonstrated FeUrea < 34 (25) consistent with pre-renal
+etiology.  After administration of IVF, renal function improved
+with discharge creatinine 1.1. AIN possibly contributed given
+recent treatment with Nafcillin.  Urine eosinophils were
+positive.  Valsartan and lasix were initially held. Valsartan
+was restarted prior to discharge and lasix was restarted at a
+lower dose 40mg.
+.
+# HYPERKALEMIA:  Likely in the setting of dehydration, renal
+failure, and valsartan.  With fluids and kayexalate, patient's
+potassium trended down.
+.
+# SHORTNESS OF BREATH:  Differential includes asthma
+exacerbation vs. pneumonia vs. bronchitis vs. volume overload.
+Mr. [**Known lastname 19829**] was given a prednisone burst ( 5 days of 40mg
+prednisone) with significant improvement in his symptoms.  His
+Advair was increased to 500/50 and he was started on Singulair.
+
+.
+INACTIVE ISSUES:
+# AFIB WITH RVR:  Metoprolol, diltiazem and coumadin were
+continued during admission.
+.
+# HTN:  Metoprolol and dlitiazem was continued.
+.
+# ATOPIC DERMATITIS:  Hydroxyzine and clobetasol were continued
+during admission.
+.
+TRANSITIONAL ISSUES:
+- PCP [**Last Name (NamePattern4) 702**]: basic metabolic panel
+- OPAT follow-up: Vancomycin trough at discharge was 22
+- Code Status: Full
+
+Medications on Admission:
+fluticasone-salmeterol 250-50 mcg/dose Disk - 1 puff [**Hospital1 **]
+hydroxyzine HCl 25 mg qhs
+simvastatin 40 mg daily
+clobetasol 0.05 % Ointment [**Hospital1 **]
+valsartan 80 mg daily
+ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler every
+6-7 hours prn
+cholecalciferol 400 unit daily
+multivitamin Tablet daily
+metoprolol succinate 200 mg daily
+albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler q4h prn
+Lasix 60 mg Tablet daily
+warfarin 5 mg Tablet daily for 7 days
+dilt 120mg ER daily
+oxycodone-acetaminophen 5-325 mg Tablet q6h prn pain
+
+
+Discharge Medications:
+1. vancomycin 750 mg Recon Soln Sig: One (1)  Intravenous twice
+a day for 6 weeks.
+Disp:*qs * Refills:*0*
+2. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+3. hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO QHS (once
+a day (at bedtime)).
+4. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2
+times a day).
+6. valsartan 80 mg Tablet Sig: One (1) Tablet PO once a day.
+7. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+8. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO once a day.
+9. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+10. metoprolol succinate 200 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+11. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+One (1)  Inhalation every four (4) hours.
+12. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+13. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+14. diltiazem HCl 120 mg Capsule, Extended Release Sig: One (1)
+Capsule, Extended Release PO DAILY (Daily).
+15. oxycodone-acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO every six (6) hours as needed for pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Primary home care specialists
+
+Discharge Diagnosis:
+Acute on chronic kidney injury
+Bacteriemia
+Atrial fibrillation
+Congestive heart failure
+Asthma
+Atopic dermatitis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you. You came because of high
+potassium. Your potassium was high because your kidneys were not
+functioning as they usually do. We gave you fluid and held
+diuretics for few days and your kidney function came back to the
+baseline. While you were in the hospital we found a bacteria in
+your blood. Therefore we had to give you intravenous antibiotics
+that you have to continue at home for 6 weeks.
+
+We have done the following changes to your medication:
+TAKE VANCOMYCIN 750 mg intarvenously  through the PICC line
+twice a day. Home service will come to help you.
+CHANGE furosemide 60 mg daily to furosemide 40 mg daily
+
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Department: HEMATOLOGY/ONCOLOGY
+When: TUESDAY [**2144-1-7**] at 10:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 647**], MD [**Telephone/Fax (1) 22**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+.
+Department: [**Hospital3 249**]
+When: TUESDAY [**2144-1-7**] at 2:20 PM
+With: [**First Name11 (Name Pattern1) 198**] [**Last Name (NamePattern4) 199**], M.D. [**Telephone/Fax (1) 250**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+.
+Department: INFECTIOUS DISEASE
+When: WEDNESDAY [**2144-1-22**] at 10:30 AM
+With: [**First Name11 (Name Pattern1) 1037**] [**Last Name (NamePattern4) 2335**], MD [**Telephone/Fax (1) 457**]
+Building: LM [**Hospital Unit Name **] [**Hospital 1422**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+

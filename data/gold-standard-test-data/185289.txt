@@ -1,0 +1,347 @@
+Admission Date:  [**2134-5-28**]              Discharge Date:   [**2134-6-12**]
+
+Date of Birth:  [**2070-2-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Tetracycline / Dicloxacillin
+
+Attending:[**First Name3 (LF) 1377**]
+Chief Complaint:
+UTI and urolithiasis
+
+Major Surgical or Invasive Procedure:
+Lithotripsy
+PICC line placement/removal
+
+
+History of Present Illness:
+64 year old male with a history of nephrolithiasis, recurrent
+UTIs, DVT/PE, HIV, HBV cirrhosis & HCC s/p orthotopic liver
+[**First Name3 (LF) **] in [**6-4**], who presented on [**5-28**] for a direct admission
+to be bridged from coumadin to heparin for a lithotripsy
+procedure.  As the patient was being admitted, an outpatient
+urine culture was reported as growing Vancomycin Resistant
+Enterococcus, and daptomycin therapy was begun.  Patient was
+stable and without complaint.
+
+Past Medical History:
+* s/p Liver [**Month/Day (2) **] on [**2133-5-30**] for Hep B cirrhosis c/b HCC s/p
+
+RFA
+* HIV diagnosed in [**2111**] with undetectable viral load (CD4 159
+[**2133-11-10**], HIV VL 274 [**2133-11-10**])
+* Hepatitis B diagnosed in [**2093**] with undetectable viral load
+([**2133-5-13**] HBVL <40)
+* h/o PE in [**5-5**] s/p 5.5 months of coumadin
+* Herpes simplex
+* HPV
+* Peripheral neuropathy (feet) secondary to Stavudine
+* Nephrolithiasis
+* Left sided kidney stones surgical removal in the early [**2103**]'s
+
+and had lithotrypsy 3 times in the [**2103**]'s.
+* Pancytopenia
+* Depression
+* Benign prostatic hypertrophy
+* Basal cell carcinoma with Moh??????s surgery
+* Gonorrhea
+* Hypogonadism
+
+
+Social History:
+Patient is retired restaurant/bar manager (on disability since
+[**2126**] due to neuropathy). Homosexual male. He is the primary
+caregiver for his mother who has dementia. Patient is not
+married.  Never smoked and no current alcohol. No illicit drug
+use.
+
+
+Family History:
+Mother with [**Name2 (NI) 499**] cancer. Father had brain tumor.
+
+Physical Exam:
+On Admission:
+General Appearance: No acute distress
+Eyes / Conjunctiva: PERRL, Pupils dilated
+Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Present), (Left DP pulse:
+Present)
+Respiratory / Chest: (Breath Sounds: Clear : , Crackles : at
+bilateral bases)
+Abdominal: Soft, Non-tender, Bowel sounds present
+Extremities: Right lower extremity edema: 3+, Left lower
+extremity edema: 3+
+Musculoskeletal: Unable to stand
+Skin:  Not assessed
+Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+assessed, Tone: Not assessed, hemiplegia and aphasia
+
+On Discharge:
+Vitals: 97.9 120/69 63 18 98%RA
+GENERAL - Sitting up in bed, cachectic
+HEENT - sclerae anicteric, MMM
+NECK - no JVD
+LUNGS - CTA bilat, no rales/rhonchi/wheezes,
+HEART - RRR, no MRG
+ABDOMEN - BS+, moderately distended, increased from prior exam,
+nontender
+GU - Foley in place, no CVA tenderness
+EXTREMITIES - WWP, 2+ DP b/l
+SKIN - no rashes/lesions, no bruising
+NEURO - AOx3, awake, no asterixis
+
+Pertinent Results:
+[**2134-5-28**] 11:34PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.015
+[**2134-5-28**] 11:34PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-75
+GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-MOD
+[**2134-5-28**] 11:34PM URINE  RBC-0 WBC-21-50* BACTERIA-OCC YEAST-NONE
+EPI-0
+[**2134-5-27**] 11:30AM   FREE TEST-2.3*
+[**2134-5-27**] 11:30AM   PT-14.2* INR(PT)-1.2*
+.
+LIVER and Gallbladder U/S [**2134-6-2**] IMPRESSION: 1. Small amount
+of ascitic fluid in the lower quadrants. 2. Splenomegaly. 3.
+Distended bladder with echogenic foci most likely representing
+patient's known bladder stones.
+.
+Portal Abdominal Xray - [**2134-6-2**] IMPRESSION: 1. Fragmentation of
+left renal stones and clearance of bladder stones.  2. Left
+ureteral stent placement.
+
+
+Brief Hospital Course:
+64yo M with HIV, HBV, HCV, HCC, cirrhosis status post orthotopic
+liver [**Year (4 digits) **] ([**6-4**]), a history of DVT/PE and
+nephrolithiasis, who was admitted on [**5-28**] for antibiotic
+treatment of a VRE UTI and bridge from coumadin to heparin for
+lithotripsy procedure [**6-1**].  His post-operative course was
+complicated by fevers, confusion, unstable vitals consistent
+with urosepsis/shock, requiring transfer to the  MICU and broad
+antibiotic therapy, now transferred back to the [**Doctor Last Name 3271**]-[**Doctor Last Name 679**]
+service, stable, and ready for discharge.
+.
+# UTI/Urosepsis/Urolithiasis: On admission, an oupatient culture
+was reported as growing Vancomycin Resistant Enterococcus.
+Treatment of a VRE UTI infection with daptomycin was initated on
+[**5-28**], with a documented negative urine culture on [**5-31**].    On [**6-1**]
+patient underwent lithotripsy and placement of a stent.  During
+the middle of the night, he was noted to have altered mental
+status.  He had taken off his heparin gtt and was walking around
+saying that he was ready to go home.  They continued to hold his
+heparin gtt at that time.  He was placed back in bed, and noted
+to be febrile with a Tm of 102.7 at 0030 this morning.  His BP
+was 80/d at the time, HR in the 50s.  He received 1L bolus
+without effect in his BP.  At 530 this morning, his BP was 104/d
+and HR 88.  After the 1L of IVFs, his O2 sat was noted to be 87%
+on RA.  He was placed on 2L NC and improved.  He received a
+second L bolus and at 8 am this morning, was rigoring again with
+T 102.6, BP 110/50, P 100, R 36 and 97% on 2L.  The MICU was
+called for transfer. A urine culture drawn at this time grew out
+polymicrobial (klebsiella, enterobacter, nonpsuedomonas
+nonfermenter) and the patient was appropriately started on
+meropenem on [**6-4**].   Urology confirmed placement and draining of
+stent on [**6-4**].  A larger foley was placed to aid in the drainage
+of the stones.  On [**6-7**] the patient had a PICC line placed for
+outpatient antibiotic administration.  On [**6-7**], per ID
+recommendations relating to culture sensitivies, the meropenem
+was switched to Cipro.  The patient completed his course of
+daptomycin on [**6-12**].  The patient will continue PO Cipro until
+[**6-15**].  He will follow up with the [**Hospital 159**] clinic as an
+outpatient.  He will follow up with ID as an outpatient.
+.
+Hospital Acquired Pneumonia:
+The patient was transferred to the MICU with hypoxia thought to
+be secondary to an aspiration. Other etiologies considered were
+hypoxia secondary to volume overload from IV fluid boluses (last
+echo in [**2132**] was normal) and pneumonia. Antibiotic coverage for
+hospital acquired pneumonia with meropenem was started on [**6-2**]
+and vancomycin was added on [**6-3**] to provide better coverage for
+MRSA.  CXR on [**6-3**] showed a stable left lower lobe consolidation
+with new opacity and air bronchograms in the right middle lobe
+that could possible be atelectasis.  Respiratory aspirate
+cultures  were without growth.  On transfer to the floors, the
+patient was continued on meropenem for possible hospital
+acquired pneumonia.  Vancomycin was stopped as per ID's
+recommendations.  Antibiotics were continued as discussed above.
+.
+History of DVT/PE:
+The patient had a PE in [**2132**] and was placed on heparin. On
+arrival to the hospital, a heparin bridge was initiated to
+prepare for the lithotripsy procedure.  On [**6-1**] the heparin was
+held, the patient underwent the lithotripsy, and the heparin gtt
+was restarted after the procedure.  The heparin was held during
+the events leading up the [**Hospital 228**] transfer to the MICU,
+resulting in subtherapeutic PTTs.  He was restarted on heparin
+in the MICU and bridged to coumadin.  On transfer to the floors,
+his INR was supratherapeutic, requiring adjustment of the
+coumadin to 5mg.  When the patient was transitioned to cipro,
+his coumadin was empirically lowered to 3mg.  His INR trended
+downwards and his coumadin was increased to 5mg.  He will have
+his INR checked with this labs on Monday [**6-14**] and reviewed at
+his clinic appointment on [**6-16**].
+.
+S/P OLT:
+The patient has a hx of hepatitis B, HCC, and is s/p OLT one
+year prior to presentation.  On admission he had stable LFTs and
+no signs of encephalopathy on tacrolimus, cellcept, and bactrim
+prophyllaxis.  Following his lithotripsy, the patient developed
+with abdominal distension concerning for ascites, confirmed by
+ultrasound, along with positive asterixis.  In combination with
+his altered mental status, this was concerning for hepatic
+encephalopathy.  On [**6-2**] the patient was started on lactulose for
+treatment of hepatic encephalopathy, then transitioned to
+rifaxamin on [**6-4**].  The patient was continued on his tacrolimus
+and cellcept.  He will follow up in [**Month/Day (4) **] clinic, where he
+will be assessed for future liver biopsy.  He will require an
+INPATIENT stay for this biopsy so that he can bridged from
+coumadin to heparin prior to the procedure.
+.
+Pancytopenia:
+Patient has a longstanding history of pancytopenia.  WBC was 1.9
+on admission and ranged from 1.5-3.1 over his hospital course.
+HCT was in the low 20s and required 1 transfusion of pRBCs. This
+is of uncertain origin, likely multifactorial [**12-29**] infection,
+medication (HIV, antibiotics, etc). In setting of increasing
+splenomegaly, we have considered a hem/onc process.  As per Dr.
+[**Last Name (STitle) 2148**], this is already being worked up in the outpatient
+setting.
+.
+HIV:
+Stable, CD4 65, VL 120, immunosuppressed on anti-rejection
+medications.  No modifications were made to his HAART regimen
+(RiTONAvir, Raltegravir) and bactrim ppx. Lyrica (for HIV
+neuropathy) was held while in MICU, but restarted on the floors.
+.
+DM:
+Stable, continue insulin sliding scale.
+.
+Depression:
+Continued mirtazapine and lexapro.
+.
+BPH:
+Continue terazosin.
+
+Medications on Admission:
+DARUNAVIR [PREZISTA] 600 mg [**Hospital1 **]
+EMTRICITABINE-TENOFOVIR [TRUVADA] 200 mg-300 mg QOD
+ESCITALOPRAM [LEXAPRO] 20 mg daily
+FENOFIBRATE NANOCRYSTALLIZED [TRICOR] 48 mg Tablet daily
+HEPATITIS B IMMUNE GLOBULIN [NABI-HB] 10,000 units q month
+INSULIN GLARGINE [LANTUS] 20 u qAM
+INSULIN LISPRO [HUMALOG] sliding scale
+LEVOFLOXACIN [LEVAQUIN] 250 mg x7 day ?
+MIRTAZAPINE - 15 mg Tablet - 1 Tablet(s) by mouth at bedtime
+MYCOPHENOLATE MOFETIL 250 mg Capsule [**Hospital1 **]
+PREGABALIN [LYRICA] 150 mg [**Hospital1 **]
+RALTEGRAVIR [ISENTRESS] 400 mg [**Hospital1 **]
+RITONAVIR [NORVIR] 100 mg [**Hospital1 **]
+SULFAMETHOXAZOLE-TRIMETHOPRIM 800 mg-160 mg qMWF
+TACROLIMUS 0.5 mg qMonday
+TERAZOSIN 2 mg qHS
+WARFARIN 6 mg daily
+CALCIUM CARBONATE-VIT D3-MIN 600 mg-400 unit [**Hospital1 **]
+FERROUS SULFATE 325 mg [**Hospital1 **]
+
+Discharge Medications:
+1. Darunavir 600 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+2. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+3. Tacrolimus 0.5 mg Capsule Sig: One (1) Capsule PO 1X/WEEK
+(MO).
+4. Sulfamethoxazole-Trimethoprim 800-160 mg Tablet Sig: One (1)
+Tablet PO 3X/WEEK (MO,WE,FR).
+5. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+6. Raltegravir 400 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+7. Mycophenolate Mofetil 250 mg Capsule Sig: One (1) Capsule PO
+BID (2 times a day).
+8. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+9. Tricor 48 mg Tablet Sig: One (1) Tablet PO once a day.
+10. Lantus 100 unit/mL Solution Sig: 20 U  Subcutaneous qAM.
+11. Insulin Lispro 100 unit/mL Solution Sig: Sliding Scale
+Subcutaneous qmeal.
+12. Outpatient Lab Work
+PLEASE DRAW LABS: COMPLETE BLOOD COUNT AND CHEMISTRY PANEL
+(ELECTROLYTES, BUN/CREATININE) AND FAX RESULTS TO: [**Doctor First Name **] [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) **], MD- INFECTIOUS DISEASES FAX: [**Telephone/Fax (1) 1419**]
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+14. Truvada 200-300 mg Tablet Sig: One (1) Tablet PO QOD.
+15. Nabi-HB >1,560 unit/5 mL Solution Sig:   [**Numeric Identifier 961**] Intramuscular
+once a month.
+16. Calcium Carbonate-Vitamin D3 600 mg(1,500mg) -400 unit
+Capsule Sig: One (1) Capsule PO twice a day.
+17. Lyrica 150 mg Capsule Sig: One (1) Capsule PO twice a day.
+18. Lexapro 20 mg Tablet Sig: One (1) Tablet PO once a day.
+19. Terazosin 2 mg Capsule Sig: One (1) Capsule PO at bedtime.
+20. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO twice a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+PRIMARY: urosepsis, VRE urinary tract infection, bladder stones
+SECONDARY: HIV, HBV, HCV s/p OLT
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure to participate in your care Mr. [**Known lastname 26080**].  You
+were admitted to the hospital for anticoagulation with heparin
+prior to your lithotripsy procedure.  Following your procedure,
+you had an infection that caused you to have low blood pressure.
+ You have now completed intravenous antibiotic therapy for that
+infection and have three days remaining of an oral antibiotic
+(see below).
+
+Please see below for your follow-up appointments.
+
+Your medications have CHANGED as follows:
+
+1. We ADDED Ciprofloxacin 500 mg daily to treat the serious
+infection you had during your hospital stay.  The course of this
+medications will be complete on [**6-15**].
+
+2.  We DECREASED your Coumadin dose to 5mg daily.
+
+Please continue to take your other medications as you have been,
+and keep your follow up appointments.
+
+BECAUSE OF YOUR CONDITION CALLED HEPATIC ENCEPHALOPATHY WHICH
+CAN OCCUR AT ANY TIME, YOU ABSOLUTELY [**Street Address(1) 56354**]!!! DRIVING
+CAN CAUSE SERIOUS INJURY OR DEATH TO YOU AND OTHERS.
+
+Followup Instructions:
+1. [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2088**], MD Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2134-6-14**] 3:00 PM
+
+2. Please follow-up in Infectious Disease clinic with Dr. [**Last Name (STitle) 724**].
+[**Telephone/Fax (1) 28019**] Call to schedule an appointment. You will need labs
+drawn next week and faxed to the ID doctors (see below).
+
+3. Please follow-up with Dr. [**Last Name (STitle) 27027**] in the [**Hospital 159**] clinic
+within 1 month. The number is [**Telephone/Fax (1) 164**]
+
+4. Please follow-up in [**Telephone/Fax (1) **] hepatology (liver) clinic with
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] on Weds [**6-16**] at 2 PM as you may need to
+discuss inpatient liver biopsy.
+
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(1) 1379**]
+

@@ -1,0 +1,305 @@
+Admission Date:  [**2139-10-22**]              Discharge Date:   [**2139-11-3**]
+
+Date of Birth:  [**2104-1-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ativan / Keflex / Sunscreen
+
+Attending:[**First Name3 (LF) 2108**]
+Chief Complaint:
+hypothermia, behavioral changes
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+35 year-old woman with microcephaly, psychosis, and mental
+retardation who has been noted by group home members to have
+increased somnolence, unsteady gait and poor PO intake over the
+past month in the setting of multiple medication changes. This
+has prompted consideration for admission to a psychiatric
+facility in order to change medications, and she was brought to
+the ED for medical clearance but was found to be hypothermic
+with a temp of 32.
+
+At her baseline, she can feed herself and dress herself if given
+clothes, but she is dependent on others for all other ADLs. She
+occasionally mutters phrases and most of the time replies to
+questions with "yes" or "no." usually she has violent outbursts,
+and staff has been getting concerned that she seems more
+sluggish recently. She has had poor urine output over the past
+week. Has been constipated. She has had a rash for over a year
+that was recently biopsied by her PCP and is currently on
+Fluconazole. In addition, she has had insomnia, poor oral
+intake, and has been stumbling/falling to one side when walking.
+In the past, she has been sent to a psychiatric facility for
+changes to her medication regimen; she was sent to the ED for
+medical clearance.
+
+In the ED initial vital signs were remarkable for a temperature
+of 32, TSH 7.7 but otherwise normal labs with lactate, negative
+UA, CXR and head CT after receiving a total of 20mg PO Haldol.
+She was placed on a Bair hugger and received 2 liters of warm NS
+with improvement of her temperature to 32.9. No nuchal rigidity
+or signs of infection. She was admitted to the [**Hospital Unit Name 153**] for further
+monitoring and rewarming. At transfer, vitals were 32.9 (91.2),
+71, 99/67, 13, 94% RA.
+
+In the [**Hospital Unit Name 153**], the patient was alert, but not responding to
+questions or commands.  The patient was brought back to normal
+body temperature and then transferred to the floor.
+
+Past Medical History:
+- Mental retardation/microcephaly
+- Mood disorder/bipolar d/o?, last psych hospitalization in [**2129**]
+
+- Skin rash since [**2138-5-30**]
+- Cortical blindness
+
+Social History:
+Has lived in [**Location (un) 511**] Villages group home for >10 years. No
+smoking, drugs.
+
+Family History:
+- Grandfather: heart disease
+- Brother: asthma
+- Skin cancer on Mother's side of the family
+
+Physical Exam:
+VS: T 93.7 rectal, BP 119/84, HR 78, RR 15, SaO2 96%RA
+GEN: Obese lady with shield chest, NAD
+HEENT: MMM, micrognathia, neck obese, no LAD, lower lip
+swelling, tongue swelling, no signs of thrush.
+SKIN: Erythematous patches in pannus and intertriginous areas of
+the breast, with satellite lesions throughout entire trunk as
+well as arms, with signs of excoriation
+CV: RRR, NL S1S2 no S3S4 MRG
+PULM: Clear to auscultation anteriorly; unable to auscultate
+posteriorly as patient does not comply with exam
+ABD: BS+, soft, NTND, no masses or HSM
+LIMBS: Trace LE edema, no tremors or asterixis, no clubbing
+NEURO: Alert, does not comply with exam but face is symmetric,
+has normal bulk and tone; did not assess gait
+
+Pertinent Results:
+CXR [**2139-10-21**]: IMPRESSION: Low lung volumes with atelectasis.
+
+CT HEAD [**2139-10-22**]: Slightly limited by motion, but no acute
+intracranial hemorrhage. The etiology of mild prominence of the
+ventricles including temporal horns is not clear. MR can be
+considered for assessment of parenchymal changes and aqueduct
+size, if not contra-indicated.
+[**2139-10-24**] 06:50AM BLOOD WBC-6.7 RBC-4.22 Hgb-12.2 Hct-37.1 MCV-88
+MCH-28.9 MCHC-32.9 RDW-15.0 Plt Ct-94*
+[**2139-10-21**] 03:25PM BLOOD WBC-5.8 RBC-4.52 Hgb-13.0 Hct-38.7 MCV-86
+MCH-28.7 MCHC-33.6 RDW-15.0 Plt Ct-104*
+[**2139-10-31**] 08:00AM BLOOD Plt Ct-281#
+[**2139-10-23**] 05:35PM BLOOD ESR-49*
+[**2139-11-2**] 09:05PM BLOOD UreaN-12 Creat-0.7
+[**2139-10-21**] 03:25PM BLOOD Glucose-80 UreaN-15 Creat-0.8 Na-143
+K-4.8 Cl-107 HCO3-28 AnGap-13
+[**2139-10-26**] 11:25AM BLOOD ALT-56* AST-59* AlkPhos-173* TotBili-0.3
+[**2139-10-21**] 03:25PM BLOOD ALT-62* AST-44* AlkPhos-156* TotBili-0.2
+[**2139-10-26**] 11:25AM BLOOD TotProt-6.9 Calcium-9.9 Phos-4.7* Mg-2.2
+[**2139-10-22**] 06:17AM BLOOD Albumin-3.2* Calcium-8.8 Phos-2.7 Mg-1.8
+[**2139-10-21**] 03:25PM BLOOD TSH-7.7*
+[**2139-10-22**] 06:17AM BLOOD Free T4-1.0
+[**2139-10-23**] 05:35PM BLOOD CRP-53.8*
+[**2139-10-23**] 05:35PM BLOOD C3-148 C4-33
+[**2139-10-23**] 05:35PM BLOOD HCV Ab-NEGATIVE
+[**2139-10-21**] 03:31PM BLOOD Lactate-1.4
+
+C3D IMMUNE COMPLEX            <9                  0-8 mcg/mL
+
+[**2139-10-23**] 5:47 pm URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2139-10-25**]**
+
+   URINE CULTURE (Final [**2139-10-25**]):
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     1 S
+
+[**2139-10-28**] RENAL ULTRASOUND:
+IMPRESSION: No renal or urinary bladder abnormalities.
+
+
+Brief Hospital Course:
+35 year-old woman with mental retardation since childhood
+presenting with mental status changes, ataxia, poor PO intake,
+and thrombocytopenia admitted with hypothermia, temperature 32C.
+ She was initially admitted to the [**Hospital Unit Name 153**] where she was warmed up
+to euthermia and subsequently transferred to the floor.
+Surveillance for infections was negative.  Psychiatry was
+consulted to assess for possible medication related symptoms.  A
+swollen lower lip and swollen tongue and shortness of breath
+prompted an eval by ENT to r/o vocal cord edema. Workup for
+angioedema was initiated.
+
+Hypothermia: The duration of her hypothermia is unclear as she
+previously refused vital signs for weeks. Her hypothermia could
+have been related to underlying mental retardation and inability
+to seek warmth or side effect from her antipsychotic
+medications.  Her core temperature increased to the lower range
+of normal after warming with Bair hugger and receiving 2 liters
+of warmed saline in the ER. SHe did not show evidence of septic
+physiology.  slightly elevated TSH but normal T4 indicating sick
+euthyroid but this is not the cause of the patients hypothermia.
+
+
+Ataxia: She has had ataxia for approximately one month which
+could be an effect of hypothermia or related to her underlying
+neurologic disease.  She had a head CT that did not show any
+acute findings.  She continued to improve as an inpatient and
+was walking independently (at her baseline) on her own prior to
+discharge
+
+Poor oral intake: She had poor PO intake at her group home and
+was seen by speech and swallow who recommended soft solids and
+thin liquids with meds whole or crushed in puree. Her mental
+status improved and she was able to take regular diet.
+
+Poor urine output: She had poor urine output at group home, but
+after foley placement she had 1200cc urine output. This may be
+due to a medication side effect (she is on anticholinergics to
+prevent side effects from antipsychotics). Also has had poor
+oral intake recently.  After her foley was discontinued and she
+had ongoing urinary retention that required intermittent
+catheterization. Urology was consulted and recommended scheduled
+intermittent catheterization and Cystex tid. Patient frequently
+refuses catheterization, nurses have had better luck with the
+catheterization about 1-2 hours after antipsychotics given. All
+anticholinergics were stopped, including Cogentin, with some
+improvement in her bladder volumes. It is unclear if there is a
+behavioral component to her urinary retention. Her urinary
+retention was of moderate volume and a BUN / Cr were stable
+(Creatinine 0.7) on [**11-2**], she has outpt urology appt scheduled.
+Given the urinary retention she is at risk for urinary tract
+infections, the patient's group home staff was informed of signs
+of a UTI such as delerium / agitation / other behavioral changes
+or urinary changes (frequency/odor) which should prompt referral
+to a physician for workup of UTI.
+
+Rash: She was seen by dermatology who confirmed with scrapings
+that it was fungal.  Patient has been on fluconazole for this
+and dermatology recommended swithcing to topical terbinafine
+which improved her tinea corporis significantly. She will follow
+up with dermatology in [**2139-12-30**].
+
+Mental Retardation and agitation:  Her home psychiatric
+medications were continued including a slightly lower dose
+risperdal, at 5mg po bid. The psychiatric consultants felt that
+given the patient's behavior has returned to baseline it may be
+best to avoid transition to clozaril as previously discussed
+given the greater propensity for anticholinergic side effects
+and that if behavioral issues and agitation issues do arise
+perhaps increasing the dose of risperdal should be the first
+step in management rather than an alternative anti-psychotic.
+
+Sick euthyroid: Mild TSH elevation to 7.7 with normal free T4.
+This should be repeated as an outpatient to screen for
+hypothyroidism.
+
+Thrombocytopenia: This could be a side effect of her numerous
+psychiatric medications or fluconazole. This remained stable
+during her hospital stay and subsequently improved to normal.
+
+Inflammation: she had an elevated ESR and CRP of unclear
+etiology, very non-specific. [**Doctor First Name **] was negative. Consider
+repeating these in [**1-31**] months after discharge.
+
+In regards to returning to normal activity she is cleared to
+return to her workshop and other normal daily activities as of
+date of discharge, [**2139-11-3**].
+
+Medications on Admission:
+- Minerin dry skin cream
+- Multivitamin daily
+- Zyrtec 10mg qAM
+- Hydroxyzine 50mg [**Hospital1 **]
+- Fluconazole 150mg daily
+- Risperidone 5mg [**Hospital1 **]
+- Benztropine 1mg TID
+- Inderal 30mg TID
+- Ambien 5mg qHS (started [**2139-10-16**])
+- Luvox was discontinued in [**Month (only) 216**]
+
+Discharge Medications:
+1. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day) as needed for fungal infection: apply to under
+breasts, until rash resolves.
+2. terbinafine 1 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times
+a day): apply until rash resolves, then for an additional [**1-31**]
+weeks.
+Disp:*qs tube* Refills:*2*
+3. propranolol 10 mg Tablet Sig: Three (3) Tablet PO TID (3
+times a day).
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*2*
+5. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+6. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation: use if colace and
+senna are ineffective.
+Disp:*10 Suppository(s)* Refills:*2*
+7. Risperidone M-Tab 1 mg Tablet, Rapid Dissolve Sig: Five (5)
+Tablet, Rapid Dissolve PO BID (2 times a day): please dispense
+5mg tabs if available or equivalent dosing.
+Disp:*300 Tablet, Rapid Dissolve(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Hypothermia
+Agitation
+Urinary retention
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to the hospital for low body temperature. This
+improved with warming in the ICU. This may have been due to your
+antipsychotic medications. You also developed some agitation in
+the hospital and it was felt that you may benefit from an
+adjustment in your psychiatric medications. You had some urinary
+retention, also likely due to medications which required
+intermittent catheterization.  This problem has improved
+somewhat but you should still see a urologist, this appointment
+has been made for you.
+
+Followup Instructions:
+Department: SURGICAL SPECIALTIES
+When: WEDNESDAY [**2139-12-2**] at 2:30 PM
+With: [**First Name8 (NamePattern2) 161**] [**Name6 (MD) 162**] [**Name8 (MD) 163**], MD [**Telephone/Fax (1) 921**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Please follow up with your primary care physician [**Name Initial (PRE) 176**] 4 weeks
+of your discharge from the hospital.
+
+Please follow up with your psychiatrist within 4 weeks of your
+discharge from the hospital.
+
+
+

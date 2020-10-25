@@ -1,0 +1,450 @@
+Admission Date:  [**2128-2-13**]              Discharge Date:   [**2128-2-19**]
+
+Date of Birth:  [**2054-3-20**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 30**]
+Chief Complaint:
+s/p fall with right hip pain and fracture
+
+Major Surgical or Invasive Procedure:
+Open reduction internal fixation right valgus impacted femoral
+neck fracture with 7.3 mm screws x3.
+
+
+History of Present Illness:
+73 year old woman with past medical history of IDDM, seizure
+disorder and breast cancer who lives alone presenting with
+right-sided hip, leg and low back pain after slipping off her
+toilet this morning. Patient does not remember any other details
+at this time. There were no witnesses, and it is not clear how
+long she was down for.
+.
+In the ED, the intitial VS t 96.6 hr 109 bp 138/83 rr 15 and
+pain was [**9-19**]. Physical exam showed pain with active and
+passive R hip rotation. She was given 1g tylenol, 2mg IV
+morphine and 2L NS. Evaluated by ortho. Imaging showed
+subcapital femoral neck fx. Guaiac negative, cr 1.8 from b/l of
+1.3. K+ 5.8->5.6, EKG notable for new T wave inversions in
+V1-V4. A CT abdomen and pelvis showed urinary retention and a
+foley catheter was placed. Perceived to have a somewhat altered
+mental status although unclear baseline.
+
+
+Past Medical History:
+Seizure disorder (developed [**1-13**] DKA in [**2095**])
+breast CA s/p mastectomy with prosthetic reconstruction ([**2107**])
+IDDM
+RA
+HTN
+glaucoma
+bilat TKRs
+.
+Of note, neuropsych evaluation in [**2125**] commented that "her
+marked attentional impairments raises concerns around her
+safety, medication compliance, and other areas of functional
+vulnerability."
+
+
+Social History:
+Social History: Lives alone. Ambulatory at baseline.
+- Tobacco: none
+- Alcohol: none
+- Illicits: none
+
+
+Family History:
+Family History: mother died at 47 in surgery (possibly during a
+hysterectomy). No information was available to her regarding her
+birth father. She has several step siblings. Her daughter is
+healthy.
+
+Physical Exam:
+PE on Admission to MICU:
+Vitals: T 96.8 BP 111/50 P 84 RR 16 O2 99ra
+General: Alert, oriented to place, year and ethnicity but not
+name of the current president; calm but in visible pain
+HEENT: Sclera anicteric, dry MM
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Chest: right prosthetic breast
+GU: foley
+Ext: cold and pale bilaterally with weak but palpable distal
+pulses bilaterally
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2128-2-14**] 12:40PM BLOOD WBC-3.1* RBC-3.70* Hgb-11.5* Hct-32.8*
+MCV-88 MCH-31.1 MCHC-35.2* RDW-19.1* Plt Ct-66*
+[**2128-2-13**] 06:45PM BLOOD Neuts-72.0* Lymphs-20.1 Monos-6.4 Eos-0.9
+Baso-0.7
+[**2128-2-14**] 01:50AM BLOOD PT-12.9 PTT-25.7 INR(PT)-1.1
+[**2128-2-14**] 12:40PM BLOOD Glucose-90 UreaN-47* Creat-1.8* Na-143
+K-4.6 Cl-112* HCO3-22 AnGap-14
+.
+DISCHARGE LABS:
+[**2128-2-18**] 06:50AM BLOOD WBC-5.5# RBC-4.50 Hgb-14.1 Hct-41.6
+MCV-93 MCH-31.3 MCHC-33.8 RDW-18.7* Plt Ct-222
+[**2128-2-18**] 06:50AM BLOOD Glucose-155* UreaN-37* Creat-1.3* Na-138
+K-4.9 Cl-108 HCO3-21* AnGap-14
+[**2128-2-18**] 06:50AM BLOOD ALT-30 AST-31 LD(LDH)-597* AlkPhos-147*
+TotBili-0.5
+.
+CARDIAC ENZYME TREND:
+[**2128-2-13**] 12:00PM BLOOD CK 108 CK-MB-10 MB Indx-9.3*
+cTropnT-0.16*
+[**2128-2-13**] 06:45PM BLOOD CK 147 CK-MB-13* MB Indx-8.8*
+cTropnT-0.22*
+[**2128-2-14**] 01:50AM BLOOD CK 119 CK-MB-10 MB Indx-8.4*
+cTropnT-0.22*
+[**2128-2-16**] 06:37PM BLOOD CK 72  CK-MB-NotDone cTropnT-0.18*
+[**2128-2-16**] 11:45PM BLOOD CK 49  CK-MB-NotDone cTropnT-0.16*
+.
+RADIOLOGY:
+R Hip Films: [**2128-2-13**]
+FINDINGS: There is a nondisplaced, slightly impacted right
+subcapital hip
+fracture. No other fractures are identified. Mild degenerative
+changes
+involving the SI joints and lumbar spine are noted. There is a
+normal bowel
+gas pattern.
+IMPRESSION: Right subcapital hip fracture as described above.
+.
+CT ABD/PELVIS [**2128-2-13**]
+IMPRESSION:
+1. Right subcapital hip fracture.
+2. Fibroid uterus.
+3. Distended bladder with mild left pelvic fullness.
+4. Bilateral adrenal gland thickening, left greater than right.
+.
+CT HEAD [**2128-2-13**]
+IMPRESSION: No acute intracranial hemorrhage.
+.
+CT C-SPINE [**2128-2-13**]
+IMPRESSION:
+1. No evidence of acute fracture.
+2. Multilevel degenerative changes as described above.
+3. Lung apices suggestive of edema, inflammatory, or small
+airways disease, vs infectious process.
+4. 6mm peripherally calcified right thyroid nodule for which
+further
+evaluation with ultrasound.
+.
+EKG [**2128-2-13**]
+Sinus rhythm. The P-R interval is prolonged. There is a late
+transition with Q waves and ST-T wave changes in the anterior
+leads consistent with probable prior anterior myocardial
+infarction. There are tiny R waves in the inferior leads
+consistent with possible prior inferior myocardial infarction.
+Compared to the previous tracing ST segment changes are new.
+.
+CXR [**2128-2-13**]
+IMPRESSION: No acute cardiopulmonary process.
+.
+R HIP FILMS [**2128-2-16**]
+FINDINGS: In comparison with study of [**2-13**], views from the
+operating suite show placement of three metallic screws across
+the previously described fracture of the femur.
+.
+[**2128-2-16**] ECHO:
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is unusually
+small. Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Overall left ventricular
+systolic function is normal (LVEF>55%). The right ventricular
+cavity is markedly dilated with severe global free wall
+hypokinesis. There is abnormal diastolic septal motion/position
+consistent with right ventricular volume overload. The diameters
+of aorta at the sinus, ascending and arch levels are normal. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. No mitral
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is a trivial/physiologic
+pericardial effusion.
+
+IMPRESSION: Markedly dilated right ventricle with severe global
+hypokinesis. At least moderate pulmonary hypertension. Small
+left ventricular cavity size with preserved systolic function.
+.
+[**2038-2-16**] CAROTID ULTRASOUNDS
+IMPRESSION: There is less than 40% stenosis within the internal
+carotid
+arteries bilaterally.
+.
+[**2128-2-17**] CXR
+FINDINGS: In comparison with the study of [**2-16**], there has been a
+substantial decrease in the bilateral opacification, which had
+been more prominent on the left and could have represented
+either asymmetric pulmonary edema or diffuse aspiration. Some
+residual areas of opacification are seen at the right base
+laterally and at the left base. These most likely represent
+residual aspiration or possible atelectasis.
+.
+[**2128-2-18**] EKG
+Normal sinus rhythm with Q waves in the right precordial leads
+consistent with anterior wall myocardial infarction. Q waves in
+the inferior leads consistent with inferior myocardial
+infarction. Compared to tracing #2 there is no change.
+
+
+Brief Hospital Course:
+73F PMHx of DM, seizure disorder and breast cancer, found down
+on her floor with R hip fx s/p fall, admitted to the ICU with
+hip fx, ARF, NSTEMI, and hypoxia. Hospital course by problem:
+
+# Elevated Cardiac Enzymes and EKG Changes: Had elevated
+troponins in the setting of [**Last Name (un) **] and new TWI both in the setting
+of anemia. [**Hospital **] medical regimen included ASA 81mg, statin
+80mg daily, and beta blocker. ACE-I was held given recent acute
+on chronic renal failure and preserved EF as seen on echo (see
+below).
+.
+# Right Hip Fracture s/p Fall.  Pt was evaluated by orthopedics
+who planned for
+minimally invasive pinning procedure pending medical clearance,
+which was provided by daughter, [**Name (NI) 1785**], as pt was delirious.
+Went to OR on [**2128-2-16**], no complications intra-op, but did go back
+ot the ICU for overnight monitoring as she had some hypoxia
+postoperatively (had received a larga amount of morphine). She
+commenced PT POD#1, and was significantly limited by pain, but
+this improved by POD#3 (ay of d/c). She did receive narcotics
+around the time of PT to aid in progress.  Pain was also managed
+with tylenol. She was discharged on lovenox 40mg sQ daily for
+DVT ppx, and with orthopedic followup.
+
+# Pancyopenia: Presented with acute on chronic anemia with
+baseline in low 30s, as well as thrombocytopenia with nadir
+platelets in the 40s, and leukopenia to a nadir of 2.1 Felt
+likely [**1-13**] methotrexate use with questionable use of folate
+(marrow suppressive process).  She was transfused 3 units in the
+ICU and on HD#2 had a stable Hct to 32.8.  DDAVP was given for
+low platelets. Her methotrexate was held, she received
+supplemental folic acid, and all cell lines recovered to normal
+by discharge. She will followup with erh rheumatologist for ?
+resumption of methotrexate.
+
+# Acute Kidney Injury: Baseline creatinine = 1.3, but she
+presented with creatinine 1.8 -> max of 2.2 in setting of fall.
+Normal CKs made rhabdo unlikely. Felt likely [**1-13**] hypoperfusion
+and prerenal state.  Pt. was given IVF boluses and Cr decreased
+to 1.3 by discharge.
+
+# Transaminitis: Had elevations of ALT, AST and Alk Phos without
+elevation in bilis. Unclear etiology, felt [**1-13**] mild ischemic
+liver in setting of hypotension. Her methotrexate was also held.
+LFTs had entirely normalized by discharge.
+
+# IDDM: well-controlled by A1c.  FS were checked every 4 hours
+and she was placed on an insuling sliding scale.  Her lisinopril
+was held. On discharge,her metformin was continued, but
+lisinopril was still held in setting of recent acute renal
+failure.
+
+# Fall: unclear etiology in pt with h/o seizure d/o and multiple
+CAD risk factors.
+Her cardiac enzymes were followed and Trop was trended from
+0.16-->0.22-->0.22, so an MI could be the etiology but this
+could also have been a conseqeunce of her fall. Further syncope
+workup included monitoring on telemetry without significant
+arryhtmia, sending a tegretol level (normal), repeating EKGs
+(developed signs of MI), and carotid ultrasounds which were
+normal. Head CT and Cspine Ct in ED were negative.
+
+# Hypoxia - pt still had minimal O2 requirement on d/c. Has
+known OSA per prior sleep evaluations. Also received many liters
+of IVF and 3 units of blood during her hospital course, so ?
+some element of hypervolemia, but phsical exam did not support
+this. Echo performed this admission revealed preserved EF of
+60-65% but markedly dilated RV with severe global free wall
+hypokinesis. There was abnormal diastolic septal motion/position
+consistent with right ventricular volume overload. There was
+moderate pulmonary artery systolic hypertension. This was
+thought to possible represent sequelae from her MI. Pulmonary
+embolism was on the differential but given her acute on chronic
+renal failure, a CT-A was deferred, and the patient was allowed
+to autodiurese and recover from the imediate postoperative
+period and wean off of narcotics. If persistent, this could be
+further worked up as an outpatient.
+
+# RA:  methotrexate was held during admission given pancytopenia
+above.
+
+# Depression: dx with mild depression - Effexor therapy was
+continued
+
+# Dementia/Delerium: unclear circumstances of diagnosis, per
+record patient reporting forgetfulness, psych testing showing
+mild attention deficits.  She was continued on Aricept. She did
+experience significant delirium during her hospitalization which
+had improved by her discharge, but was still present in a waxing
+and [**Doctor Last Name 688**] nature but easily treated with reorientation and
+discontinuation of foley catheter, telemetry, and hydration. She
+does have followup scheduled with her cognitive neurologist.
+
+# FEN:
+pt was seen by speech and swallow who recommended:
+1. Continue current diet of thin liquids and puree.
+2. Pills whole or crushed with puree.
+3. 1:1 supervision for all POs.
+4. Give POs ONLY when patient is most awake and alert.
+5. Nutrition consult.
+6. Recommend repeat swallowing evaluation at rehab prior to
+upgrading diet.
+
+# Prophylaxis: will be on lovenox 40mg sQ daily until ealry
+[**Month (only) 547**] for DVT ppx, also d/c'ed on bowel regimen
+
+# Communication: with patient and daughter [**Name (NI) **] HCP
+[**Name (NI) 1785**] [**Name (NI) 1356**]
+[**PO Box 103136**]
+[**Location (un) 2268**], [**Numeric Identifier 103137**]
+
+Home: [**Telephone/Fax (1) 103138**]
+Cell: [**Telephone/Fax (1) 103139**]
+Work: [**Telephone/Fax (1) 103140**]
+
+# Code: Full
+
+# Dispo:
+To [**Hospital3 **]
+
+Medications on Admission:
+Lipitor 20 mg daily
+Tegretol 200 mg TID
+Aricept 10 mg daily
+Lisinopril 5 mg daily
+Meloxicam 15 mg daily
+Metformin 500 mg daily
+Methotrexate 12.5 mg weekly
+Effexor 150 mg Daily
+
+
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Carbamazepine 200 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+4. Enoxaparin 40 mg/0.4 mL Syringe Sig: Forty (40) mg
+Subcutaneous DAILY (Daily) for 25 days: LAST DAY OF THERAPY IS
+[**2128-3-14**].
+5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO BID (2 times a day).
+6. Vitamin D 400 unit Tablet Sig: Four (4) Tablet PO DAILY
+(Daily).
+7. Venlafaxine 75 mg Capsule, Sust. Release 24 hr Sig: Two (2)
+Capsule, Sust. Release 24 hr PO DAILY (Daily).
+8. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+9. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+10. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+11. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+12. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+13. Metformin 500 mg Tablet Extended Rel 24 hr Sig: One (1)
+Tablet Extended Rel 24 hr PO once a day.
+14. Percocet 2.5-325 mg Tablet Sig: One (1) Tablet PO every [**5-18**]
+hours as needed for pain: HOLD for any CNS or respiratory
+depression (RR <12). Can be given prior to physical therapy
+sessions.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 537**]- [**Location (un) 538**]
+
+Discharge Diagnosis:
+Primary:
+- Right valgus impacted femoral neck fracture.
+- NSTEMI vs. demand ischemia
+- shock liver
+- Pancytopenia likely due to methotrexate
+- Right heart failure
+
+Secondary:
+- Rheumatoid arthritis
+- Hypertension
+- Depression
+- Seizure disorder
+- Diabetes mellitus type II
+- Obstructive sleep apnea
+- Dementia
+- H/O breast cancer
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes
+Level of Consciousness: Alert and interactive
+Activity Status: Out of Bed with assistance to chair or
+wheelchair
+
+
+Discharge Instructions:
+Dear Ms. [**Known lastname **],
+
+You were admitted to the hospital after falling at home. You
+were found after being down on the floor for a prolonged time.
+As a result of the fall, you suffered a fractured right hip, as
+well as low blood pressure which caused major stress to your
+heart and liver. Your hip fracture was surgically repaired, and
+as you were given IV fluids, the damage to your heart and liver
+improved substantially. You will need a course of rehabilitation
+and aggressive physical therapy to regain your previous level of
+function.
+.
+We also discovered that the right side of your heart is not
+working well, which will need to be worked up further by your
+PCP. [**Name10 (NameIs) **] the meantime we did discharge you with some supplemental
+oxygen to keep your oxygen levels at a healthy level.
+.
+Some changes were made to your medications, as follows:
+1) Your methotrexate was STOPPED, since it might have been
+lowering your blood cell counts when you came to the hospital.
+The blood counts revcovered nicely when you were taken off
+methotrexate. You can determine when to restart this when you
+see Dr. [**Last Name (STitle) 6426**] in followup.
+2) Your lipitor was increased to 80mg daily
+3) You will be receiving daily injections of lovenox, a blood
+thinner, to prevent blood clots after your hip surgery, for the
+next 25 days
+4) START calcium and vitamin D supplements to help with bone
+healing
+5) START metoprolol 12.5mg [**Hospital1 **] to protect the heart
+6) START a baby aspirin every day to protect the heart
+
+Followup Instructions:
+Orthopedics:
+Tuesday [**3-2**] at 11:20 with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ([**Location (un) 8661**]
+Building, [**Location (un) **])
+.
+Cognitive Neurology:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 20751**], M.D. Phone:[**Telephone/Fax (1) 1682**]
+Date/Time:[**2128-3-2**] 10:30
+.
+Primary Care:
+Thursday, [**2130-4-9**]:20 with Dr. [**First Name (STitle) **]
+.
+Rheumatology:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 14465**], MD Phone:[**Telephone/Fax (1) 2226**]
+Date/Time:[**2128-3-4**] 11:30
+
+
+

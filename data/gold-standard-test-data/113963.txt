@@ -1,0 +1,480 @@
+Admission Date:  [**2142-7-20**]              Discharge Date:   [**2142-7-27**]
+
+Date of Birth:  [**2065-8-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 783**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+Intubation (prior to admission)
+Intensive care unit monitoring
+
+
+History of Present Illness:
+Ms. [**Known lastname **] is a 76 yr old woman with h/o HTN, DM, CHF on
+digoxin, Afib on coumadin, who presented to [**Hospital3 **] for
+altered mental status. Pt was last seen acting normally at
+4:30pm, at which time she reported feeling dizzy and went to lay
+down. Around 7pm, she was found by her husband laying on her
+right side, moaning and unresponsive. No tremors or bladder or
+bowel incontinence noted. She was brought by EMS into the OSH ED
+for evaluation. There she was reportedly nonverbal but combative
+and received ativan 2mg IV x 2. CT head was negative for
+intracranial hemorrhage. CXR was significant for a RLQ pneumonia
+and pt was given levofloxacin 750mg IV. A digoxin level was
+checked which was elevated to 2.8; K was 5.7. She was given 2
+vials of digibind and intubated under succinylcholine with
+propofol for sedation prior to transport for airway protection
+due to diminished gag reflex in the setting of altered mental
+status. ABG 7.4/41/111 on AC 500/12/70%/5.
+
+In our ED, VS: T 97.3, HR 41, BP 154/49, O2sat 99% on AC at TV
+500, rate 14, PEEP 5, and FiO2 100%. Her CXR showed a sizeable
+RML infiltrate, and vanco dose given with 500cc NS. EKG showed
+HR in low 40s. 3 vials of digibind drawn up. Toxicology was
+consulted and recommended holding further digibind at this time
+unless pt drops blood pressure as may overcompensate and affect
+her baseline therapeutic level of digoxin. She was transferred
+to MICU for monitoring.
+
+On the MICU floor, pt report is intubated and sedated. Per her
+husband, she had no fevers, chills, cough, or shortness of
+breath suggestive of pneumonia; no choking or coughing with po
+intake; no recent sick contacts or hospitalizations. Pt eats
+small meals throughout day; husband did not note any recent
+change in po intake. She did not complain of any vision changes,
+N/V, abd pain, diarrhea, headache, confusion, or hallucinations.
+Of note, was seen in Cardiology clinic the day prior with
+discontinuation of propanalol and clonidine.
+
+Past Medical History:
+A fib on coumadin
+Diabetes mellitus
+Hypertension
+Congestive heart failiure
+H/o TIA 15 years ago with sx described as a weak arm and slurred
+speech.
+Gout
+GERD
+L-TKR
+
+
+Social History:
+Patient lives with her husband. She is a former manager with
+[**Location (un) 23944**] Farms, now retired. H/o 2 cigarettes/wk for "years"
+but quit years ago. Occasional EtOH. Denies illicit drug use.
+
+
+Family History:
+Mother with possible CAD
+
+
+Physical Exam:
+ON ADMISSION
+
+GEN: Sedated, occasionally agitated
+HEENT: NCAT, intubated, mucous membranes dry
+LUNGS: CTA anteriorly
+HEART: RRR, S1-S2 nl, II/VI SEM radiating to carotids
+ABD: BS+, soft, ND, hepatomegaly
+EXTREM: No edema, pulses 2+ b/l
+NEURO: PERRL, opens eyes, moves all extremities, withdraws to
+noxious stimuli.
+
+ON DISCHARGE
+
+GEN: NAD, pleasant, alert and orientedx4
+HEENT: NCAT, PERRL, EOMI
+LUNGS: CTAB except crackles in right middle lobe, much imporved
+HEART: RRR, S1-S2 nl, II/VI SEM radiating to carotids, also
+II/VI systolic murmur at apex
+ABD: BS+, soft, ND,
+EXTREM: No edema, pulses 2+ b/l
+
+
+Pertinent Results:
+Outside Hosptial prior to admission:
+WBC 17, Plt 264
+N 86.7, L 6.8, M 5.1, E 1, Bas 0.4
+Na 134, K 5.7, Cl 100, Bicarb 25, BUN 49, Cr 1.9, Gluc 208
+AST 55, ALT 46, AP 84, TB 0.6, DB 0.1, TP 9, Alb 4.2
+CK 106 Trop T 0.03
+ProBNP 2664
+TSH 3.61
+Ferritin 86.6
+Vit B12 1219
+Dig 2.83
+.
+[**2142-7-20**]
+WBC-14.8*# RBC-3.62* Hgb-12.1 Hct-34.7* MCV-96 MCH-33.4*
+MCHC-34.8 RDW-14.2 Plt Ct-258  Neuts-87.3* Lymphs-8.5* Monos-3.8
+Eos-0.2 Baso-0.2
+
+PT-38.2* PTT-34.7 INR(PT)-4.0*
+
+Glucose-165* UreaN-49* Creat-1.9* Na-140 K-4.6 Cl-103 HCO3-25
+AnGap-17
+ALT-40 AST-43*
+
+Calcium-9.7 Phos-3.4 Mg-2.3
+
+CK(CPK)-96 CK-MB-NotDone cTropnT-0.02*
+
+Lactate-2.8*
+
+URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.011 Blood-TR
+Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG
+Urobiln-NEG pH-7.0 Leuks-NEG
+RBC-[**4-5**]* WBC-0-2 Bacteri-FEW Yeast-NONE Epi-0-2
+Eos-NEGATIVE   UreaN-557 Creat-38 Na-86
+
+DISCHARGE LABS
+[**2142-7-27**] 05:25AM BLOOD WBC-7.9 RBC-2.87* Hgb-9.3* Hct-27.5*
+MCV-96 MCH-32.4* MCHC-33.7 RDW-14.2 Plt Ct-335
+
+[**2142-7-27**] 05:25AM BLOOD Glucose-98 UreaN-31* Creat-1.3* Na-140
+K-3.8 Cl-108 HCO3-23 AnGap-13
+
+[**2142-7-24**] 05:50AM BLOOD proBNP-[**Numeric Identifier 23945**]*
+
+[**2142-7-26**] 06:34AM BLOOD Calcium-8.5 Phos-3.1 Mg-2.4
+
+[**2142-7-24**] 05:50AM BLOOD T3-74* Free T4-1.1
+[**2142-7-23**] 06:05AM BLOOD TSH-8.9*
+
+[**2142-7-23**] 06:05AM BLOOD VitB12-GREATER TH
+.
+[**2142-7-20**] 10:47 am Influenza A/B by DFA      Source: Nasal swab.
+   DIRECT INFLUENZA A ANTIGEN TEST (Final [**2142-7-20**]):
+      Negative for Influenza A viral antigen.
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**2142-7-20**]):
+      NEGATIVE FOR INFLUENZA B VIRAL ANTIGEN.
+
+URINE NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN
+
+EKG:
+Sinus bradycardia with first degree atrio-ventricular conduction
+delay.
+Non-specific QRS widening with left axis deviation and diffuse
+repolarization abnormalities. Compared to the previous tracing
+of [**2141-12-23**] cardiac rhythm is now sinus mechanism with A-V
+conduction delay.
+
+CHEST (PORTABLE AP) Study Date of [**2142-7-20**] 12:52 AM
+1. Right perihilar pneumonia or hemorrhage.
+2. Left retrocardiac atelectasis or aspiration.
+3. Moderate cardiomegaly, without pulmonary edema.
+
+ KNEE (AP, LAT & OBLIQUE) RIGHT Study Date of [**2142-7-22**] 2:46 PM
+The bones are diffusely demineralized. Degenerative changes are
+present predominantly in the medial compartment where there is
+joint space
+narrowing and subchondral sclerosis. Minimal osteophyte
+formation is also
+noted in the patellofemoral compartment. No discrete fracture is
+evident and there is no evidence of dislocation. An equivocal
+small suprapatellar joint effusion is demonstrated as well as
+extensive vascular calcifications within the soft tissues.
+
+ CTA CHEST W&W/O C&RECONS, NON-CORONARY Study Date of [**2142-7-24**]
+1:09 AM
+1. No PE.
+2. Diffuse septal thickening, small bilateral pleural effusions,
+
+cardiomegaly, and ground-glass opacities in the dependent
+portion of the upper and lower lobes. The constellation of
+findings is most compatible with CHF.
+3. Subcentimeter hypodensity in the right lobe of the thyroid,
+for which
+further evaluation with ultrasound can be performed on a
+non-emergent basis.
+
+  TTE (Complete) Done [**2142-7-25**] at 1:51:57 PM      FINAL
+The left atrium is moderately dilated. The right atrial pressure
+is indeterminate. There is mild symmetric left ventricular
+hypertrophy with normal cavity size. There is moderate regional
+left ventricular systolic dysfunction with hypokinesis of the
+septum and inferior walls. The remaining segments contract well
+(LVEF = 30-35 %). Tissue Doppler imaging suggests an increased
+left ventricular filling pressure (PCWP>18mmHg). Right
+ventricular chamber size is normal with mild global free wall
+hypokinesis. The ascending aorta and arch are normal in
+diameter. The aortic valve leaflets (3) are moderately
+thickened. There is severe aortic valve stenosis (valve area
+0.8cm2). No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild to moderate ([**2-2**]+) mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is high normal. There is a no pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+regional systolic dysfunction c/w CAD. Severe aortic valve
+stenosis. Mild-moderate mitral regurgitation.
+
+
+Brief Hospital Course:
+76 yo female with PMH of atrial fibrillation admitted with
+confusion and found to have digoxin toxicity, pneumonia and
+acute renal failure.
+
+# Digoxin toxicity: Digoxin levels elevated in toxic range with
+bradycardia and PR prolongation.  Likely in setting of
+hyperkalemia from acute renal failure from dehydration, possibly
+secondary to pneumonia. No recent medication changes other than
+discontinuation of propanolol and clonidine, which do not affect
+the metabolization of digoxin. Patient was monitored on
+telemetry with frequent EKGs and labs for hyperkalemia. Her EKGs
+remained stable. She remained hemodynamically stable with
+gradually improving HRs. Toxicology was consulted and
+recommended holding off on digibind unless HD unstable or EKGs
+worsened. This did not occur and no further digibind was given.
+Digoxin was 1.0 on [**7-24**] and mental status resolved to baseline.
+Will defer to outpatient provider regarding restarting digoxin.
+Once bradycardia resolved patient was restarted on Metoprolol
+without any unstable hemodynamics.
+
+#Hypoxemia. The patients oxygen requirements increased to using
+a non-rebreather mask on [**7-23**]. It is likely that this was due to
+CHF exacerbation (supported by BNP > [**Numeric Identifier 389**] and findings on CT)
+as furosemide was being held vs effusions present on CT likely
+secondary to the pneumonia. PE was initially considered and
+ruled out by CT angiogram. The patient was gradually diuresed
+and her respiratory status improved, though this was also likely
+contributed to by treatment of pneumonia.  Discharged on
+2-3L/min NC with stable oxygen status to be weaned at nursing
+facility.
+
+# Altered Mental Status: Likely [**3-5**] digoxin toxicity although
+may also have delirium in setting of infection. Was intubated at
+OSH for airway protection, however, after bronchoscopy here (See
+below) she was extubated without difficulty. CXR notable for
+large right middle lobe infiltrate concerning for pneumonia.
+Less likely neuro process; no h/o of seizures, CT head negative
+for acute changes. Digoxin toxicity and pneumonia were treated
+as described elsewhere and mental status improved to baseline.
+
+# Pneumonia: Large RML (right middle lobe) infiltrate and
+leukocytosis suggestive of infectious process although patient
+was afebrile and asymptomatic per husband. [**Name (NI) **] likely
+ventilator-acquired pneumonia vs aspiration from altered mental
+status. Received levofloxacin and vanco prior to arrival on
+floor. In setting of digoxin toxicity concern for QT
+prolongation, she was changed to Azithromycin/Clindamycin due to
+a PCN allergy. After legionella antigen returned negative,
+azithro was discontinued. She underwent bronchoscopy and
+cultures which grew oropharyngeal flora. Blood cultures were
+negative. On [**7-21**], she spiked a fever and antibiotics were
+changed to ceftriaxone. She again spiked on [**7-23**] and coverage
+broadened by changing antibiotics to cefipime and vancomycin.
+She should complete a 8 day course for ventilator associate
+pneumonia. Vancomycin is being dosed Q24 hours for renal
+insufficiency but will be monitored at her nursing facility
+should her renal function improve.
+
+# Acute renal failure: Cr elevated above baseline here 1 year
+ago of 0.9. BUN/Cr ratio suggested prerenal etiology, likely in
+setting of pneumonia. Creatinine improved with IVF. Renally
+dosed meds. Held ACE-I. On [**7-23**], the patient was found to have
+increased oxygen requirments and was placed on a non-rebreather
+mask. In the setting of respiratory distress and concern for PE
+vs decompensated heart failure, the risks of renal insult were
+outweighed by the need for CT-angio with IV contrast and
+diuresis. Pt received N-acetylcysteine course and cautious fluid
+resusitation.  Upon discharge, Cr 1.3 and Lisinopril continuing
+to be held with possible restart at her nursing facility.
+
+# CHF - acute on chronic, systolic: Prior TTEs not in system; EF
+unknown prior to admission but appeared dry here when first
+admitted and received gentle IVF. Held lasix in setting of
+dehydration. Also initially held beta blocker and ACE inhibitor
+as PR prolongation and ARF.  When patient developed new O2
+requirment, Lasix was restarted for diuresis.  TTE obtained at
+that time revealed AS and EF = 30-35%.  Continued to hold ACE
+inhibitor for hospitalization but beta blocker was restarted and
+patient was continued on statin, fish oil and ASA.
+
+# Atrial Fibrillation: Held digoxin, metoprolol and amiodarone
+in setting of digoxin toxicity as did not want to contribute to
+nodal blockade given bradycardia. INR was supratherapeutic on
+admission and coumadin was held. Warfarin restarted on [**7-22**] and
+INR has been therapeutic. Metoprolol was restarted and she
+remained rate controlled during the rest of her admission.
+Amiodarone and Digoxin were not restarted.
+
+# Hypertension: Held metoprolol and lisinopril as above.
+Continued amlodipine for BP control. Restarted metoprolol, but
+contiue to hold lisinopril for ARF.
+
+#Aortic stenosis: classified as severe on echocardiogram.
+Diuresed gently as patient was preload-dependent. Remained
+hemodynamically stable. Advised to manage as outpatient
+
+# Swollen righ knee: Seen by rheumatology, whose assessment was
+polyarticular gout flare. The joint was aspirated and crystals
+were noted by Rheum fellow but not in final report. Synovial
+fluid with neutrophilic infiltrate. Cultures negative. Acute
+gout flare was treated with indomethacin and colchicine.
+Indomethacin was discontinued the following day given ARF.  The
+patinet improved and has not complained of joint pain since
+[**7-24**]. Colchicine discontinued on [**7-27**]. Continued home dose of
+Allopurinol.
+
+# Urinary incontinence: Detrol and oxybutynin were discontinued
+on suspicion that they might contribute to AMS. The patient now
+reports feeling that she is able to adequately control her
+bladder, and we will defer to outpatient provider regarding
+these medications.
+
+# History of TIA: No evidence of bleed on OSH CT head. Continued
+ASA. Therapeutic on warfarin and statin therapy.
+
+# Hypothyroid - elevated TSH, T3 low. Patient without clinical
+signs or symptoms of hypothyroidism. Difficult to evaluate
+laboratory abnormalities in setting of acute illness and will
+defer treatment for now and recommend evaluation by PCP.  [**Name10 (NameIs) **]
+supplemental medication started.
+
+# Thyroid hypodensity: Noted on imaging as described above.
+This should be followed by PCP for further evaluation and
+management post-discharge.
+
+#Diabetes mellitus type 2. Managed on sliding scale insulin with
+basal glarigne while holding Metformin. Started home medication
+metformin the day of discharge as patient was 72 hours after her
+contrast load.  Additionally, should patient Cr worsen to > 1.5
+would stop as will poorly cleared.
+
+# Code: FULL
+
+# Communication: With husband [**Name (NI) 401**] ([**Telephone/Fax (1) 23946**]) and son [**Name (NI) 4648**]
+([**Telephone/Fax (1) 23947**])
+
+Medications on Admission:
+ASA 81mg daily
+Allopurinol 100mg daily
+Amiodarone 200mg daily
+Amlodipine 10mg daily
+Atorvastatin 5mg daily
+Darvocet prn pain
+Detrol LA 2 mg daily
+Digoxin 125 mcg Tablet daily
+Diphenoxylate as needed
+Fish oil 1g daily
+Furosemide 80mg daily
+Lisinopril 40mg daily
+Metformin 500mg [**Hospital1 **]
+Metoprolol 100mg daily
+Oxybutynin 5mg [**Hospital1 **]
+Zaroulyn 5mg prn 30 min before lasix
+Warfarin 2mg qhs
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Atorvastatin 10 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+4. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for fever/pain: This is a new medication
+since admission.
+6. Warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+7. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO at
+bedtime for 1 doses: This medication to be given [**2142-7-27**] PM.  On
+[**2142-7-28**] AM patient should start Metoprolol Succinate 100mg
+daily.
+8. Hydrocortisone 1 % Ointment Sig: One (1) Appl Topical TID (3
+times a day) as needed for pruritis: This is a new medication
+since admission.
+9. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day) as needed for dermatitis: This is a new
+medication since admission.
+10. Furosemide 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) as needed for itching: This is a new medication since
+admission.
+12. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+Mid-line, heparin dependent: Flush with 10 mL Normal Saline
+followed by Heparin as above, daily and PRN per lumen.
+13. Cefepime 2 gram Recon Soln Sig: Two (2) gram Injection Q24H
+(every 24 hours) for 4 days.
+14. Vancomycin 1,000 mg Recon Soln Sig: One (1) gram Intravenous
+Q 24H (Every 24 Hours) for 4 days.
+15. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily):
+Start [**2142-7-28**] AM.
+16. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+17. Fish Oil 1,000 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+18. Insulin Sliding Scale
+Please see attached insulin sliding scale.  Patient was on
+insulin sliding scale while inpatient while Metformin was being
+held after a CT scan with contrast.  If patient does not require
+insulin after resumption of her Metformin, this may be
+discontinued.
+19. Supplemental oxygen
+Patient should have supplemental oxygen via nasal cannula at
+2-3L/min or at rate as needed to keep O2 saturation > 92%.  Wean
+as tolerated to room air.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Lifecare Center of Attelboro
+
+Discharge Diagnosis:
+Primary: Digoxin toxicity, congestive heart failure (acute on
+chronic), Pneumonia likely due to aspiration, Acute renal
+failure, Acute gout flare, altered mental status, delirium,
+aortic stenosis
+
+Secondary:
+Atrial fibrillation
+Chronic heart failure (EF 30% to 35%)
+
+
+Discharge Condition:
+Good. Hemodynamically stable and afebrile.
+
+
+Discharge Instructions:
+You were admitted to the hospital with confusion and were found
+to have an elevated digoxin level in your blood. You were also
+unable to get enough oxygen to your blood and needed to wear a
+mask.
+
+The following changes were made to your medications:
+1) STOP digoxin
+2) HOLD amiodarone, please discuss with your cardiologist
+whether to restart this medication
+3) START vancomycin and cefepime, to be continued for 4
+additional days
+4) HOLD lisinopril, this may be restarted while in your nursing
+facility depending on whether your kidney function returns to
+baseline
+5) Hold Darvocet, Detrol LA 2mg, Diphenoxylate, Oxybutynin until
+advised to restart them by a physician.
+
+
+Followup Instructions:
+Please contact your primary care physician and your Cardiologist
+upon discharge from the skilled nursing facility to schedule
+follow-up appointments to discuss your recent hospitalization.
+At these appointments please bring your medication list to
+discuss any changes.
+
+
+                             [**First Name11 (Name Pattern1) 734**] [**Last Name (NamePattern1) 735**] MD, [**MD Number(3) 799**]
+

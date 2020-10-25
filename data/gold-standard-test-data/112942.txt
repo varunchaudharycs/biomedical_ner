@@ -1,0 +1,375 @@
+Admission Date:  [**2135-2-8**]              Discharge Date:   [**2135-2-14**]
+
+Date of Birth:  [**2052-1-30**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+thoracentesis
+
+History of Present Illness:
+Reason for MICU Admission: hypoxia respiratory distress
+.
+Primary Care Physician: [**Name10 (NameIs) 585**],[**Name11 (NameIs) 586**] [**Name Initial (NameIs) **]. [**Telephone/Fax (1) 589**]
+.
+CC: cough, shortness of breath
+.
+HPI: 83yo female Russian with history of CLL presenting with
+respiratory distress.
+.
+Per patient she reports 6 days of productive cough and
+progressive dyspnea. She reports associated fevers up to 100.2
+and sore throat. Two days prior to admission prescribed bactrim
+by her son who is a physician. [**Name10 (NameIs) **] [**Name11 (NameIs) 3010**] worsened and she
+presented to her PCP [**Name Initial (PRE) 3011**]. There vital signs notable for O2 sat
+89% RA, improved to 92% on 2L NC. CXR with right increased
+effusion and possible left sided infiltrate. She was referred to
+ED for further eval.
+.
+In the ED, initial VS: 99.3 81 118/46 20 96% NRB. Labs notable
+for WBC of 33.2, 61% lymphocytes; K: 5.2, creatinine 2.7,
+lactate 1.3. Blood cultures obtained. CXR performed which
+demonstrated interval increase in moderate - large right pleural
+effusion as well as opacity lateral to left hilum. Patient
+received PO Tylenol 650mg x1, IV Ceftriaxone and Levofloxacin.
+The patient was attempted to be weaned to NC, but desated to
+90%.  She was placed back on a NRB and transferred to [**Hospital Unit Name 153**] for
+further evaluation and management.
+.
+In the [**Hospital Unit Name 153**] the patient states that her breathing has improved.
+
+.
+ROS:
++: as per HPI
+-: denies any chills, weight change, nausea, vomiting, abdominal
+pain, diarrhea, constipation, melena, hematochezia, chest pain,
+orthopnea, PND, lower extremity edema, urinary frequency,
+urgency, dysuria, lightheadedness, gait unsteadiness, focal
+weakness, vision changes, headache, rash or skin changes.
+
+
+Past Medical History:
+Past Medical History:
+# Oncologic History
+Chronic Lymphocytic Leukemia
+- Diagnosed in [**2125**]: Rai stage 0 in [**2125**]
+- s/p 5 cycles of fludarabine ending in [**2130-5-29**].
+- recurrent anemia and advancing peripheral blood lymphocytosis
+and lymphadenopathy, prompted 4 additional 3-day cycles of
+fludarabine from [**3-9**] to [**6-6**].
+# PMH
+1.  Macular degeneration; legally blind.
+2.  Chronic renal failure: baseline creatinine 1.5
+3.  Hypothyroidism secondary to hemithyroidectomy on [**2121-2-26**]
+4.  Diabetes: last HgA1c: 7.0
+5.  Hypertension.
+6.  In [**2133-6-29**], she was admitted to hospital with respiratory
+infection due to H1N1 influenza A. She received 6 days of
+Tamiflu
+and Levaquin with improvement in symptoms. Myelosuppression
+during her viral illness improved.
+.
+SURGICAL HISTORY:
+Hysterectomy at age 43.
+Appendectomy.
+Right thyroidectomy
+
+
+Social History:
+Lives with her husband.  [**Name (NI) **] two children.  Retired teacher.
+Originally from [**Country 532**]
+Tob:  none
+EtOH:  none
+
+
+Family History:
+Father - h/o esophageal cancer
+Mother - h/o skin cancer
+Sister - h/o breast cancer
+
+Physical Exam:
+On Admission:
+GEN: Well-appearing, well-nourished, no acute distress
+HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or
+rhinorrhea, MMM, OP Clear
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline
+COR: RRR, II/ VI SEM, no M/G/R, normal S1 S2, radial pulses +2
+PULM: diminished BS at the right base, otherwise no W/R/R
+ABD: Soft, NT, ND, +BS, no HSM, no masses
+EXT: No C/C/E, no palpable cords
+NEURO: alert, oriented to person, place, and time. CN II ?????? XII
+grossly intact. Moves all 4 extremities. Strength 5/5 in upper
+and lower extremities. Patellar DTR +1. Plantar reflex
+downgoing. No gait disturbance. No cerebellar dysfunction.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymo
+
+Pertinent Results:
+[**2135-2-8**] 05:30PM   WBC-33.2* RBC-4.31 HGB-12.5 HCT-36.5 MCV-85
+MCH-29.1 MCHC-34.3 RDW-15.9*
+[**2135-2-8**] 05:30PM   PLT SMR-NORMAL PLT COUNT-164
+[**2135-2-8**] 05:30PM   NEUTS-34* BANDS-0 LYMPHS-61* MONOS-5 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2135-2-8**] 05:30PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2135-2-8**] 05:30PM   GLUCOSE-134* UREA N-48* CREAT-2.7*#
+SODIUM-136 POTASSIUM-5.2* CHLORIDE-102 TOTAL CO2-20* ANION
+GAP-19
+[**2135-2-8**] 10:28PM   PT-13.6* PTT-28.0 INR(PT)-1.2*
+[**2135-2-8**] 05:30PM   CK(CPK)-89
+[**2135-2-8**] 05:30PM   cTropnT-<0.01
+[**2135-2-8**] 05:35PM   LACTATE-1.3
+[**2135-2-8**] 10:28PM   PT-13.6* PTT-28.0 INR(PT)-1.2*
+[**2135-2-8**] 05:30PM   CK-MB-4 proBNP-1345*
+[**2135-2-8**] 11:09PM URINE  HOURS-RANDOM UREA N-390 CREAT-52
+SODIUM-37 POTASSIUM-30 CHLORIDE-16
+[**2135-2-8**] 11:09PM URINE  OSMOLAL-270
+[**2135-2-8**] 11:09PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.008
+[**2135-2-8**] 11:09PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2135-2-8**] 11:09PM URINE  RBC-<1 WBC-1 BACTERIA-NONE YEAST-NONE
+EPI-<1
+[**2135-2-8**] 11:09PM URINE  MUCOUS-RARE
+[**2135-2-8**] 11:09PM URINE  EOS-NEGATIVE
+.
+                    IgG IgA IgM
+[**2135-2-10**] 05:57    963  52* 66
+.
+Micro:
+Legionella Urinary Antigen  (Final [**2135-2-9**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+[**2135-2-9**] 2:33 pm PLEURAL FLUID
+
+   GRAM STAIN (Final [**2135-2-9**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Preliminary):    NO GROWTH.
+
+   ANAEROBIC CULTURE (Final [**2135-2-11**]):    NO GROWTH.
+URINE CULTURE (Final [**2135-2-10**]):    <10,000 organisms/ml
+Pleural
+Pathology: pending
+CT chest:
+FINDINGS: Bulky lymphadenopathy is present in the imaged portion
+of the lower neck, superior mediastinum, throughout the
+intrathoracic mediastinum, bilateral hila, and to a lesser
+extent within the axillary regions. Large right pleural effusion
+is dependent in location and measures simple fluid density. A
+small amount of loculated fluid is also present within the major
+fissure and in the anterolateral portion of the right lower
+chest. Extensive consolidation is present within the right lower
+and right middle lobes.  Peribronchiolar abnormalities are
+present in both upper lobes with a combination of ground glass
+and consolidation accompanied by bronchial wall thickening and
+small peribronchial nodules. A dominant peribronchial nodule in
+the left upper lobe measures 2.2 cm and is surrounded by a halo
+of ground-glass opacity (26, series 3A). This corresponds to a
+rapidly growing focal opacity on serial chest x-rays between
+[**2135-2-8**] and [**2135-2-10**]. Additional
+peribronchiolar abnormalities are present to a lesser extent
+within the left lower lobe.
+
+Exam was not tailored to evaluate the subdiaphragmatic region,
+but note is
+made of retroperitoneal or intra-abdominal lymphadenopathy as
+well as
+incompletely imaged splenomegaly.
+
+Lucent spine lesions within the lower thoracic spine (image 53,
+series 3A and image 48, series 3A) are probably hemangiomas.
+Degenerative changes are also noted at multiple levels
+throughout the spine.
+
+IMPRESSION:
+1. Multifocal lung abnormalities most suggestive of a widespread
+infectious process. Nodular opacity with ground-glass halo in
+left upper lobe is nonspecific, but this appearance may be
+associated with angioinvasive Aspergillus infection in the
+setting of neutropenic fever.
+2. Large simple right pleural effusion.
+3. Extensive lymphadenopathy, likely related to the provided
+history of CLL.  Splenomegaly is also in keeping with this
+diagnosis.
+4. Two lucent thoracic vertebral body lesions in the lower
+thoracic spine
+which probably reflect hemangiomas.
+.
+TTE
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. The estimated right atrial pressure
+is 0-10mmHg. Left ventricular wall thickness, cavity size and
+regional/global systolic function are normal (LVEF >55%). Tissue
+Doppler imaging suggests a normal left ventricular filling
+pressure (PCWP<12mmHg). Right ventricular chamber size and free
+wall motion are normal. The aortic valve leaflets are moderately
+thickened. There is no aortic valve stenosis. Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Trivial mitral regurgitation is seen. There is
+borderline pulmonary artery systolic hypertension. There is no
+pericardial effusion.
+
+IMPRESSION: Normal left ventricular cavity size and wall
+thickness with preserved global and regional biventricular
+systolic function. No clinically significant valvular
+regurgitation. Borderline pulmonary artery systolic
+hypertension. An area of echodensity measuring 7.4 cm x 4.9 cm
+(clip [**Clip Number (Radiology) **]) is seen that appears to be contained within a small
+right pleural effusion. Clinical correlation and consideration
+of a chest CT for further characterization suggested.
+.
+LENI:
+FINDINGS: Color and [**Doctor Last Name 352**]-scale son[**Name (NI) **] was performed on the
+bilateral lower extremities. The bilateral common femoral,
+superficial femoral and popliteal veins are normal in
+compressibility, augmentation, and Doppler waveforms. The calf
+veins are patent and compressible. There is no deep vein
+thrombosis in either lower extremity.
+.
+
+Brief Hospital Course:
+This is a 83 year-old female with a history of CLL who presents
+with respiratory distress.
+.
+# Respiratory Distress. Etiology likely secondary to worsening
+effusion as well as new infiltrates concerning for multifocal
+pneumonia. Patient with known malignancy and therefore at risk
+for hypercoagulable state. [**Doctor Last Name 3012**] score appears to be low -1 (+1
+for malignancy, -2 for other cause of dyspnea). LENIs negative.
+Biomarkers flat. TTE with normal systolic and diastolic
+function. Patient underwent uncomplicated thoracentitis on [**2-9**],
+500cc was removed. Fluid largely transudative. Gram stain with
+no growth. Cytology pending.  CXR with LUL infiltrate. Urine
+legionella negative. Blood cx: NGTD. CT scan consistent with
+multifocal pneumonia; though question of fungal per radiology,
+clinical suspicion higher for pneumococcal pathogen. Patient
+continued on Ceftriaxone and Levofloxacin with plan for 8-10day
+course. Patient's respiratory status improved on these
+antibiotics and O2 was weaned as tolerated. At time of transfer
+to floor on [**2-11**], oxygen saturation was >94% on 3L NC.  Narrowed
+to Levofloxacin alone prior to discharge
+.
+PENDING CYTOLOGY NEEDS FOLLOW UP.  ALSO RECOMMEND CT CHEST AFTER
+TREATMENT COMPLETED.
+.
+# [**Last Name (un) **]. Patient with history of chronic renal insufficiency with
+baseline creatinine 1.5. Creatinine on admission 2.7. Etiology
+pre-renal, AIN in setting of recent bactrim usage. UA and urine
+culture without sign of infection. Urine eosinophils negative.
+FeNa: 1.3. Creatinine slowly improved with IVF and was 2.3. at
+time of transfer to the medical floor. Trending daily.  It was
+lowered to 1.7 prior to discharge.
+.
+# CLL. Patient diagnosed in [**2125**]. Patient last treated with
+fludarabine in [**2133-5-29**]. Labs notable for elevated WBC >20 since
+4/[**2134**]. Patient without anemia or thrombocytopenia. IgG levels
+checked. IgG level wnl. Dr [**Last Name (STitle) **] followed patient closely. No
+plan for IVIG infusion.
+.
+# Diabetes. Last HgA1c: 9.0. Patient states she does not take
+any meds for diabetes and her daughter said she eats whatever
+she wants. Monitoring QID FS, ISS.
+.
+# Hypothyroid. Continued Synthroid
+.
+# FEN: IVF, replete prn, diabetic/cardiac diet
+.
+# Access: PIV
+.
+# PPx: subQ heparin, home PPI
+.
+
+Medications on Admission:
+See [**Hospital Unit Name 153**] admission note
+
+Discharge Medications:
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO Q12H (every 12 hours).
+2. tramadol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. lipase-protease-amylase 12,000-38,000 -60,000 unit Capsule,
+Delayed Release(E.C.) Sig: One (1) Cap PO BID (2 times a day).
+5. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every 4-6 hours as needed for shortness of
+breath or wheezing.
+Disp:*1 inhaler* Refills:*0*
+6. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO Q48H (every
+48 hours) for 2 doses.
+Disp:*2 Tablet(s)* Refills:*0*
+7. Home Oxygen
+2 liters continuous pulse dose for portability.
+dx: pleural effusion
+8. metformin 500 mg Tablet Extended Rel 24 hr Sig: One (1)
+Tablet Extended Rel 24 hr PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 **] Family & [**Hospital1 1926**] Services
+
+Discharge Diagnosis:
+Community acquired pneumonia with parapneumonic effusion
+Chronic kidney disease stage III
+CLL
+Hypothyroidism
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted for treatment for severe pneumonia as well as
+fluid in the lung.  The fluid in the lung was sampled.  You were
+started on antibiotics with improvement in your symptoms.
+Please continue your antibiotics to complete the full course.
+Please take all other medications as prescribed.
+
+You need to see you PCP in close follow up.  Lung fluid cytology
+is PENDING at discharge and will need to be followed up.  Also,
+we recommend a follow up CT scan of the chest once your symptoms
+resolve.
+
+START:
+Levofloxacin 750mg every 48 hours
+Albuterol inhaler as needed
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] as soon as possible
+
+Department: [**Hospital3 1935**] CENTER
+When: WEDNESDAY [**2135-2-23**] at 8:20 AM
+With: [**First Name11 (Name Pattern1) 354**] [**Last Name (NamePattern4) 3013**], M.D. [**Telephone/Fax (1) 253**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: TUESDAY [**2135-3-22**] at 1:30 PM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3014**], RN [**Telephone/Fax (1) 22**]
+Building: [**Hospital6 29**] [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: MEDICAL SPECIALTIES
+When: THURSDAY [**2135-5-19**] at 9:30 AM
+With: [**First Name11 (Name Pattern1) 312**] [**Last Name (NamePattern4) 3015**], M.D. [**Telephone/Fax (1) 1803**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+

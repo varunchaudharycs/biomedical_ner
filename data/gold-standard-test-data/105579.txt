@@ -1,0 +1,291 @@
+Admission Date:  [**2154-7-12**]              Discharge Date:   [**2154-7-13**]
+
+Date of Birth:  [**2110-6-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Nickel
+
+Attending:[**First Name3 (LF) 2186**]
+Chief Complaint:
+Dizziness, malaise.
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+CC:[**CC Contact Info 63737**].
+HPI: 44yo man with h/o hypertension, ESRD on hemodialysis
+presenting with hypotension. The patient was admitted to [**Hospital1 18**]
+[**Date range (1) 63738**] with chest pain, hypertensive urgency, and
+diastolic CHF. Hospital course was complicated by hematemesis
+and hemoptysis. He was discharged on five new antihypertensive
+medications, which he reports taking regularly for the past
+week. He was dialyzed today with 4kg removed, and then took all
+his medications at one time. He developed a posterior headache,
+not associated with dizziness, flashing lights, nausea, or
+visual changes, and presented to the first aide booth [**Hospital1 14630**] where he works. Blood pressure on evaluation was 80/50, and
+he was sent to [**Hospital1 18**] ED for further evaluation.
+.
+On arrival in the ED T 97.5 HR 95 BP 81/50 RR 20 93-94%RA. He
+was mentating normally and headache had improved. He was treated
+with 2L NS, and BP improved to 91/52 (MAP 60). He denies
+dizziness, vision changes, chest pain, shortness of breath,
+fever, chills, abdominal pain, nausea, diarrhea, dysuria, and
+skin rashes.
+.
+PMH:
+Hypertension
+ESRD on hemodialysis (M,W,F) [**1-16**] HTN disease
+.
+Meds:
+Renagel 800mg tid
+Protonix 40mg daily
+Aspirin 81mg daily
+Calcium acetate 667mg tid
+Lisinopril 40mg daily
+Imdur 60mg daily
+Amlodipine 10mg daily
+Diltiazem 480mg daily
+.
+All: nickel - rash
+.
+SHx: Patient lives at [**Location 63739**] shelter. He works as a cook [**Hospital1 63740**].
+Tob: [**12-16**] ppd x 15yrs
+EtOH: 2 drinks/day
+Illicits: occasional crack cocaine
+.
+FHx:
+Mother with [**Name2 (NI) **], diabetes
+Father d. lung ca
+.
+ROS: no fever, chills, sweats, change in appetite, vision
+changes, palpitations, chest pain, shortness of breath, cough,
+hemoptysis, abdominal pain, nausea, vomiting, diarrhea,
+constipation, dysuria, hematuria, skin rashes.
+.
+PE: T 97.5 HR 78 BP 92/52 RR 14 97%RA
+GEN: comfortable, NAD
+HEENT: PERRL, anicteric, MMM, OP clear
+Neck: JVP nondistended, no LAD, 4cm lipoma on posterior neck
+CV: RRR, no mrg
+Resp: CTAB
+Abd: +BS, soft, NT, ND, no masses, no HSM
+Back: nontender, 5cm lipoma over right scapula
+Ext: no edema, 1+ DP pulses, left arm fistula
+Neuro: A&Ox3, strength 5/5 throughout, sensation intact grossly
+
+.
+Labs: see end of record
+CXR: pending
+.
+A/P: 44yo man with h/o HTN, ESRD on HD presenting with
+hypotension
+.
+#. Hypotension: This episode of hypotension is most likely due
+to hypovolemia c/b medication effect as it occurred after the
+patient was dialyzed and then took five new medications
+simultaneously at max dose. If hypotension persists, would need
+to consider cardiac ischemia, CHF, sepsis, adrenal
+insufficiency, but these seem less likely. Echo done during the
+last hospitalization showed mild LVH, dilated LA, nml EF >55%.
+- hold all antihypertensives; plan to add back slowly at reduced
+doses and varying schedule
+- rule out MI
+- bolus NS to maintain MAP >60 with caution given ESRD and
+oliguric
+.
+#. ESRD: M,W,F hemodialysis.
+- will notify Renal team
+- continue Renagel, calcium acetate
+.
+#. Metabolic alkalosis: There is no history of vomiting or
+diuretic use. He does not have decreased ventiliation causing
+hypercapnia, and thus this is not likely compensatory.
+- recheck chemistries; consider ABG if persists
+.
+#. Hyperkalemia: Patient was dialyzed today. monitor closely and
+give kayexelate if K+ rises further
+.
+#. FEN: renal, low sodium diet
+.
+#. PPx: pneumoboots, Protonix
+.
+#. Full Code
+
+
+Past Medical History:
+PMHx: denies cardiac history
+1) ESRD [**1-16**] HTN, on HD MWF. On HD x 4yrs. LUE AVF. dry wt 210
+lbs.
+2) HTN:
+
+Social History:
+SHx: smokes <[**12-16**] ppd X 15 yrs. He drinks 2 alcoholic beverages
+daily. Crack/cocaine use a few times per month.
+Works as vendor in local stadium.
+
+
+Family History:
+FHx: Maternal GM and GF with hypertension. Mother with diabetes.
+No family history of CAD or cancer.
+.
+
+
+Physical Exam:
+S: Pt comfortable, denies chest pain; denies dizziness, denies
+swelling or shortness of breath. No fevers, chills, sweats. Pt
+would like to go home today.
+PE: T 98.1; HR 87, (76-87); BP 100/64 (111-100/62-70); RR 18; O2
+sat 99%RA
+GEN: comfortable, NAD
+HEENT: anicteric, MMM
+Neck: JVP nondistended, lipoma on neck unchanged
+CV: RR, no murmur or rub or gallop
+Resp: CTAB
+Abd: Soft, NT, ND.
+Ext: no edema, left arm fistula
+Neuro: A&Ox3
+.
+
+
+Pertinent Results:
+Admission laboratories:
+[**2154-7-12**] 09:44PM BLOOD Glucose-78 UreaN-24* Creat-6.1*# Na-144
+K-5.4* Cl-97 HCO3-33* AnGap-19
+[**2154-7-12**] 09:44PM BLOOD WBC-8.8 RBC-4.13*# Hgb-12.9*# Hct-40.8
+MCV-99* MCH-31.3 MCHC-31.7 RDW-15.4 Plt Ct-271
+[**2154-7-12**] 09:44PM BLOOD PT-13.0 PTT-28.3 INR(PT)-1.1
+[**2154-7-12**] 09:44PM BLOOD Plt Ct-271
+
+Cardiac enzyme cycle:
+[**2154-7-12**] 09:44PM BLOOD CK-MB-3 cTropnT-0.11*
+[**2154-7-13**] 06:15AM BLOOD CK-MB-NotDone cTropnT-0.10*
+[**2154-7-13**] 01:30PM BLOOD CK-MB-NotDone cTropnT-0.11*
+
+HD #2
+[**2154-7-13**] 06:15AM BLOOD Glucose-112* UreaN-33* Creat-7.5*# Na-139
+K-4.2 Cl-97 HCO3-29 AnGap-17
+[**2154-7-13**] 06:15AM BLOOD Calcium-10.0 Phos-4.6* Mg-1.8
+
+
+Brief Hospital Course:
+This 44 year-old gentleman with a history of hypertension,
+end-stage renal disease on hemodialysis, and illicit drug abuse.
+ He had had a recent admission to this hospital for hypertensive
+urgency presented to the emergency department with hypotension
+after taking his 5 BP medication just subsequent to his dialysis
+yesterday.  His blood pressure normalized after administration
+of 2 boluses of 1L normal saline.  He was admitted to the
+medicine service.  Throughout his brief stay, he remained
+hemodynamically stable with blood pressure in the normotensive
+range.  At no time did he exhibit signs of cardiogenic shock or
+sepsis.  It was felt that his symptomatology and hypotension was
+related to his taking blood pressure medications to soon after
+his dialysis session.
+
+It was felt that it was safe for the patient to go home.  He was
+advised to not take any of his blood pressure medications in the
+4 -6 hour time period after each dialysis session and given a
+prescription and schedule to take two of his antihypertensive
+medications in the morning, and two at night.  This was also
+communicated to the attending physician that day, Dr. [**First Name8 (NamePattern2) **]
+[**Name (STitle) 4154**] who agreed with this.  Discharge of patient was to be
+arranged pending final evaluation from Dr. [**First Name (STitle) 4154**].  The patient,
+however, grew impatient saying he needed to be at work soon.  He
+was given a letter excusing him from work and he seemed
+satisfied with this and said he would wait for the attending.
+The patient, however, did not wait for the attending's final
+evaluation and subsequently left AMA soon thereafter.  Attending
+was notified.
+
+In summary this is a 44 year-old gentleman with hypertension and
+end stage renal disease on hemodialysiswho presented with
+hypotension after taking all four blood pressure medications
+shorly after a hemodialysis session.  His hypotension resolved
+and was hemodynamically stable upon leaving AMA.  Reasons for
+leaving AMA, not entirely clear.  Issues and plan as follows:
+.
+1) Hypotension: Likely from taking BP medications too soon after
+HD.  Given schedule for taking 2 medications in morning, two at
+night.  Advised not to take antihypertensive medications at
+least 4-6 hours after hemodialysis.
+- ruled out for MI
+
+.
+2) ESRD: M,W,F hemodialysis.
+- continue Renagel, calcium acetate
+- Renal service notified.
+.
+3) Metabolic abnormalities: Alkalosis/hyperkalemia: K Trended
+down to normal range, alkalosis resolved,  long term managment
+with dialysis.
+
+4) FEN: renal, low sodium diet
+.
+5) PPx: pneumoboots, Protonix
+.
+6) Full Code
+
+7) Left AMA, reasons unclear.  It was safe for him to leave
+although attending physician needed to see him for final
+clearance.  Claimed he needed to return to work so given note
+excusing him from work.  This did not prevent him from leaving
+AMA.
+
+
+Medications on Admission:
+Renagel 800mg tid
+Protonix 40mg daily
+Aspirin 81mg daily
+Calcium acetate 667mg tid
+Lisinopril 40mg daily
+Imdur 60mg daily
+Amlodipine 10mg daily
+Diltiazem 480mg daily
+
+
+Discharge Medications:
+1. Sevelamer 800 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+2. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Calcium Acetate 667 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+5. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO every morning.
+
+6. Imdur 60 mg Tablet Sustained Release 24HR Sig: One (1) Tablet
+Sustained Release 24HR PO at bedtime.
+7. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+8. Diltiazem HCl 240 mg Capsule, Sustained Release Sig: Two (2)
+Capsule, Sustained Release PO Every morning.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Hypotension from overdose of antihypertensive medications.
+End stage renal disease, on hemodialysis.
+
+
+Discharge Condition:
+Good.  Blood pressure in normal range.  No dizziness or
+lightheadedness. No chest pain.
+
+Discharge Instructions:
+Please wait at least 4 hours after your hemodialysis before
+taking any of your medications.
+
+Please return if you feel dizzy or lightheaded.
+
+Followup Instructions:
+Please follow up at the [**Hospital 3501**] Medical Foundation
+
+
+

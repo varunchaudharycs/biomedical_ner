@@ -1,0 +1,283 @@
+Admission Date:  [**2191-3-3**]              Discharge Date:   [**2191-3-15**]
+
+Date of Birth:  [**2110-2-5**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Simvastatin / Rosuvastatin
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+Bilateral disabling claudication.
+
+
+Major Surgical or Invasive Procedure:
+[**2191-3-3**]:
+1. Bilateral extensive iliofemoral endarterectomy with
+    bovine pericardial patch angioplasty.
+2. Bilateral common iliac stent grafts 7-37 I cast
+    extension of the stent graft in the left common iliac
+    artery of [**6-26**].
+3. Right exterior iliac stent complete SE 780 and extension
+    into the common femoral artery with a 7 x 40 complete SE
+    on the right.  On the left side, an [**7-/2159**] complete SE
+    stent.
+[**2191-3-10**]: Sigmoidoscopy
+
+
+
+
+History of Present Illness:
+The patient is an elderly female with longstanding claudication
+that has gotten worse over the last 2 years to the point where
+she could barely walk and started to develop pain in the back of
+her heel on the left.  Can barely walk to the bathroom.  After
+clearance by Cardiology and Pulmonology and understanding the
+risks and benefits, we decided to electively proceed to surgery.
+
+
+
+Past Medical History:
+PMHx:
+1. Chronic atrial fibrillation
+2. Hypertension
+3. Hypercholesterolemia
+4. Aortic regurgitation (mild AR echo [**10-11**])
+5. 3.1-cm infrarenal abdominal aortic aneurysm, stable since
+[**2186**], but requires annual followup.
+6. Cholelithiasis.
+7. Emphysema.
+8. Colonic diverticulosis.
+9. Stable small left paraovarian cyst, over 3 years.
+10.Peripheral Arterial Disease.
+
+Social History:
+- originally from [**Country 4754**], widowed (husband died of a heart
+attack in [**2167**]).  She used to run figures at an insurance
+company, but now is retired and lives off of her husbands
+pension.  She says she lives alone and is independent with all
+of her ADL.  She has a 30-pack year smoking history and not
+currently smoking, occasionally drinks wine.
+
+
+Physical Exam:
+Alert and oriented x 3
+VS:BP128/50     HR  87 atrial fibrillation
+Resp: Lungs clear
+Abd: Soft, non tender
+Ext: Pulses:      Left     DP  dop ,PT dop
+                  Right    DP  dop ,PT dop
+Feet warm,  well perfused.  No open areas
+Groin incisions: slightly red but no warmth and drainage.
+
+
+Pertinent Results:
+[**2191-3-15**] 07:25AM BLOOD WBC-8.4 RBC-3.15* Hgb-8.9* Hct-27.7*
+MCV-88 MCH-28.2 MCHC-32.1 RDW-14.7 Plt Ct-344
+[**2191-3-15**] 07:25AM BLOOD Glucose-79 UreaN-16 Creat-1.3* Na-135
+K-4.0 Cl-104 HCO3-21* AnGap-14
+[**2191-3-15**] 07:25AM BLOOD Calcium-7.8* Phos-1.7* Mg-1.8
+[**2191-3-14**] 07:10AM BLOOD PT-29.1* PTT-48.7* INR(PT)-2.8*
+[**2191-3-3**] 02:52PM BLOOD Glucose-142* UreaN-40* Creat-2.4* Na-133
+K-4.5 Cl-106 HCO3-18* AnGap-14
+
+
+Brief Hospital Course:
+The patient was brought to the operating room on [**2191-3-3**] and
+underwent bilateral ileofemoral endarterectomies with patch
+angioplasty and bilateral iliac stents.   The procedure was
+without complications. She was closely monitored in the PACU and
+then transferred to the ICU for ongoing gas exchange issues
+related to baseline emphysema and diastolic heart failure. She
+was transferred to the floor for further monitoring on POD #2 in
+stable condition. We continue to monitor her breathing pattern
+and gas exchange diuresing her with lasix to maintain a negative
+fluid balance to treat her acute on chronic diastolic CHF
+exacerbation post surgery.
+Her diet was gradually advanced.  She worked with physical
+therapy who recommended rehab. On POD # 7 she had an episode of
+hypotensive causing ischemic colitis which was treated with
+fluid/albumin.  By POD #9 her abdominal pain resolved and she
+started to tolerate on a regular diet.   She was discharged to
+rehab on POD # 13 in stable condition.  Follow-up has been
+arranged with Dr. [**Last Name (STitle) **] in one week.
+
+1.Peripheral Arterial Disease
+sp  bilateral ileofemoral endarterectomies with patch
+angioplasty and bilateral iliac stents on [**2191-3-3**] for disabling
+claudication. Dopplerable LE pulses. Groin incisions are clean,
+slightly red and should be covered with DSD until removal at
+followup appointment next week.
+
+2.Diastolic Congestive Heart Failure
+She had acute exacerbation of her chronic congestive heart
+failure after her procedure which we closely monitored and
+treated with lasix as needed.  She is on her home dose of lasix
+40mg daily.  Her PREOP WEIGHT is 77.1 kg.  TODAY'S WEIGHT is
+85.7 kg.  We have been unable to diurese secondary to
+hypotension and ischemic colitis.
+
+3.Ischemic Colitis
+On POD #7 she had an episode of hypotension to the 70's after
+lasix administration. At that time, our goal was 1 liter
+negative a day. Shortly after this episode, she had vomitting
+with diarrhea with LUQ abdominal pain.  Her lactate level was
+3.1 and her wbc rose to 23.3 from 7.6 earlier in the day. She
+was aggressively resusitate her with fluid and albumin. An Abd
+CT did not show any overt mesenteric ischemia. Flexible
+sigmoidoscopy, to evaluate mucosa, was negative for ischemia.
+Cdiff was also negative.  She was started on vanco/cipro/flagyl.
+ She had continued improvement with return of her WBC to normal
+and resumption of a regular diet by POD #9.
+
+4.Hypertension
+BP now 120's/80.  WE HAVE NOT RESTARTED HER HOME
+ANTIHYPERTENSIVES/CARDIAC MEDS of amlodipine 5mg, diltiazem HCl
+XR 360mg or moexipril 15mg secondary to relative hypotension
+(90s systolic) in the setting of presumed bowel ischemia. Please
+contine to monitor and restart medications as tolerated.
+
+5.Chronic Kidney Disease
+Admission Cr. 2.4.  Today's Cr is 1.3, likely related to holding
+diuresis and ACE.
+
+6.Emphysema
+02 sats are 94% on 2L which is her baseline at home.
+
+7.Atrial Fibrillation
+HR 80s. Coumadin restarted post procedure. INR 2.8 today.  We
+have held coumadin for the last several days.
+
+
+Medications on Admission:
+albuterol sulfate 90 mcg'; amlodipine 5'; atorvastatin 80';
+calcitriol
+0.25' M-W-F; cilostazol 100'; diltiazem HCl XR 360';
+fluticasone-salmeterol 250 mcg-50 mcg''; furosemide 40';
+moexipril 15'; tiotropium bromide 18 mcg'; warfarin 3'; ascorbic
+acid 1,000'; aspirin
+81'; calcium carbonate 250'; hexavitamin
+
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+3. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+4. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig:
+Two (2) Puff Inhalation Q6H (every 6 hours) as needed for astma.
+
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. warfarin 1mg tonight.
+
+
+Discharge Disposition:
+Home
+
+Facility:
+[**Hospital1 **] Nursing & Therapy Center - [**Location 1268**] ([**Location (un) 86**] Center
+for Rehabilitation and Sub-Acute Care)
+
+Discharge Diagnosis:
+Bilateral disabling claudication,
+Acute on chronic diastolic CHF
+Emphysema
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Division of Vascular and Endovascular Surgery
+ Discharge Instructions
+
+What to expect when you go leave the hospital :
+1. It is normal to feel tired, this will last for 4-6 weeks
+??????	You should get up out of bed every day and gradually increase
+your activity each day
+??????	You  may walk and you may go up and down stairs
+??????	Increase your activities as you can tolerate- do not do too
+much right away!
+
+2. It is normal to have swelling of the leg you were operated
+on:
+??????	Elevate your leg above the level of your heart (use [**1-7**]
+pillows or a recliner) every 2-3 hours throughout the day and at
+night
+??????	Avoid prolonged periods of standing or sitting without your
+legs elevated
+
+3. It is normal to have a decreased appetite, your appetite will
+return with time
+??????	You will probably lose your taste for food and lose some
+weight
+??????	Eat small frequent meals
+??????	It is important to eat nutritious food options (high fiber,
+lean meats, vegetables/fruits, low fat, low cholesterol) to
+maintain your strength and assist in wound healing
+??????	To avoid constipation: eat a high fiber diet and use stool
+softener while taking pain medication
+
+What activities you can and cannot do:
+??????	No driving until post-op visit and you are no longer taking
+pain medications
+??????	Unless you were told not to bear any weight on operative foot:
+
+??????	You should get up every day, get dressed and walk
+??????	You should gradually increase your activity
+??????	You may up and down stairs, go outside and/or ride in a car
+??????	Increase your activities as you can tolerate- do not do too
+much right away!
+??????	No heavy lifting, pushing or pulling (greater than 5 pounds)
+until your post op visit
+??????	You may shower (unless you have stitches or foot incisions) no
+direct spray on incision, let the soapy water run over incision,
+rinse and pat dry
+??????	Your incision may be left uncovered, unless you have small
+amounts of drainage from the wound, then place a dry dressing
+over the area that is draining, as needed
+??????	Take all the medications you were taking before surgery,
+unless otherwise directed
+??????	Take one full strength (325mg) enteric coated aspirin daily,
+unless otherwise directed
+??????	Call and schedule an appointment to be seen in 2 weeks for
+staple/suture removal
+
+What to report to office:
+??????	Redness that extends away from your incision
+??????	A sudden increase in pain that is not controlled with pain
+medication
+??????	A sudden change in the ability to move or use your leg or the
+ability to feel your leg
+??????	Temperature greater than 100.5F for 24 hours
+??????	Bleeding, new or increased drainage from incision or white,
+yellow or green drainage from incisions
+
+
+Followup Instructions:
+Department: VASCULAR SURGERY
+When: TUESDAY [**2191-3-22**] at 10:00 AM
+With:  [**Hospital 21926**] CLINIC [**Telephone/Fax (1) 1237**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+
+Completed by:[**2191-3-15**]

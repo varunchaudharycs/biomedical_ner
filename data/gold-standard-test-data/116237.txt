@@ -1,0 +1,416 @@
+Admission Date:  [**2107-11-1**]              Discharge Date:   [**2107-12-8**]
+
+Date of Birth:  [**2047-8-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6169**]
+Chief Complaint:
+presenting for elective surgery
+
+Major Surgical or Invasive Procedure:
+total abdominal hysterectomy and bilateral salpingo-oopherectomy
+endotracheal intubation
+central venous catheter placement
+arterial line placement
+
+History of Present Illness:
+The patient is a 60 year old female, with no significant past
+medical history, recently referred to gynecology-oncology for a
+diagnosis of ovarian cancer. She initially presented to [**Hospital **]
+Hospital with a complaint of progressive shortness of breath.
+She also reported a 20-30 pound weight loss, gradual abdominal
+distention and bilateral lower extremity swelling.  She was
+found to have a large right pleural effusion and underwent a 2.5
+L thoracentesis, with negative cytology. The patient also had a
+paracentesis with negative cytology at the OSH. CT torso on [**10-20**]
+showed bilateral pulmonary opacities, diffuse lymphadenopathy,
+ascities, and ovarian masses.  Ultrasound on [**2107-10-21**] showed
+bilateral pelvic soft tissue masses with ascites and normal
+uterus. CA-125 was elevated at greater than 2500. She was then
+transferred to the gyn-onc service for further management.
+.
+Patient underwent TAH/BSO, and ascites drainage.  Right pelvic
+lymph node was sent for frozen section which was found to be
+consistent with lymphoma.  The right ovarian mass was found to
+be benign.  Multiple enlarged lymph noes were found, the largest
+was over 5 cm.  Intraoperatively, she received 1 L IVF and was
+bolused subsequently for low UOP and for post-operative
+hypotension.     Patient was transferred to the [**Hospital Unit Name 153**] for ongoing
+treatment.
+.
+Upon arrival to the [**Hospital Unit Name 153**], patient was intubated and mildly
+sedated, VS: BP 84/52 MAP 65 HR 88 O2 sat 95% on AC. Central
+line was placed under ultrasound guidance in the right IJ.
+While in the ICU, she was put on up to 3 pressors for her
+hypotension.  She went into acute renal failure (thought to be
+from hypotension-related ATN with a possible component of tumor
+lysis syndrome from steroid-induced lysis) requiring CVVH and
+rasburicase.  She was successfully taken off CVVH and extubated.
+ She was diuresed aggressively for a 20L net positive fluid
+status since her ICU admission.  Her abdominal wound was
+draining up to 1L/day.  Also while in the ICU, she was noted to
+have an EF of 20%,; it is unclear if this is from an MI in the
+setting of hypotension or if it is just "shocked" myocardium.
+.
+After her acute issues stabilized, the patient was transferred
+to 7 [**Hospital Ward Name 1826**] for further management.
+
+
+Past Medical History:
+none
+
+Social History:
+The patient smoked one pack per day for 30 years, but currently
+does not smoke. She drinks occasionally. She is married and has
+two daughters and one son from a previous marraige.
+
+
+Family History:
+colon cancer
+
+Physical Exam:
+Upon arrival in [**Hospital Unit Name 153**]:
+GEN: sedated, intubated. not responsive to voice or noxious
+stimuli
+HEENT: PERRL
+CV: distant heart sounds, nl s1, s2, no m/r/g
+Pulm: CTA anteriorly
+Abd: midline abdominal dressing clean and intact. obese,
+nontender, hypoactive bowel sounds.
+Ext: warm, trace edema, no cyanosis. pedal pulses present
+neuro: not responsive to voice or noxious stimuli [**3-3**] sedation.
+
+
+
+Pertinent Results:
+[**2107-10-31**] 09:05AM   PT-11.4 PTT-23.1 INR(PT)-1.0
+[**2107-10-31**] 09:05AM   WBC-6.5 RBC-4.24 HGB-11.3* HCT-34.3* MCV-81*
+MCH-26.7* MCHC-33.0 RDW-14.7
+[**2107-10-31**] 09:05AM   PLT COUNT-453*
+[**2107-10-31**] 09:05AM   TOT PROT-5.9* ALBUMIN-3.9 GLOBULIN-2.0
+CALCIUM-9.3 MAGNESIUM-2.3
+[**2107-10-31**] 09:05AM   ALT(SGPT)-6 AST(SGOT)-14 ALK PHOS-84
+AMYLASE-87 TOT BILI-0.5
+[**2107-10-31**] 09:05AM   GLUCOSE-78 UREA N-22* CREAT-0.7 SODIUM-139
+POTASSIUM-4.1 CHLORIDE-96 TOTAL CO2-27 ANION GAP-20
+[**2107-11-1**] 03:52PM   PT-12.0 PTT-23.7 INR(PT)-1.0
+[**2107-11-1**] 03:52PM   PLT COUNT-390
+[**2107-11-1**] 03:52PM   WBC-10.9# RBC-3.56* HGB-9.7* HCT-28.4*
+MCV-80* MCH-27.2 MCHC-34.0 RDW-14.9
+.
+CT scan [**2107-11-4**] for lymphoma staging:
+There is mildly heterogeneous and enlarged thyroid gland with a
+small 1-cm hypodense nodule within the right lobe. There are
+multiple nodes present within the mediastinum, the largest of
+which is seen within the paraesophageal space measuring 16 mm in
+diameter. There are bilateral enlarged hilar lymph nodes which
+cannot be definitely measured given lack of IV contrast. There
+is marked axillary lymphadenopathy with a representative node on
+the right measuring 20 x 18 mm and is seen on series 2, image 6.
+A representative node within the left axilla is seen on series
+2, image 8, measuring 16 x 12 mm. There are multiple tiny
+nodules seen within the breasts bilaterally, the largest on the
+left hand side measuring 12 x 15 mm, seen on series 2, image 16.
+There are bilateral large pleural effusions. The lungs are
+otherwise clear. Along the right thorax just below the scapula,
+there is a moderate amount of air within the subcutaneous and
+intramuscular space, probably sequelae from prior thoracentesis.
+The heart and great vessels are unremarkable. There is a 27 x 15
+mm node along the right pericardium measuring 15 x 27 mm, seen
+on series 2, image 36. The patient is intubated and has a
+nasogastric tube extending with tip in the post-pyloric region.
+
+CT ABDOMEN WITHOUT IV CONTRAST: There is a moderate amount of
+ascites. The liver is unremarkable. The gallbladder wall is
+thickened likely secondary to third spacing. The pancreas is not
+clearly defined but appears grossly unremarkable. The spleen is
+prominent, slightly displacing the stomach medially 12 x 7 cm.
+The adrenal glands are not well visualized secondary to an
+extensive amount of retroperitoneal lymphadenopathy extending
+from the level of the SMA inferiorly and encasing the aorta and
+IVC. A representative size of this conglomeration is seen on
+series 2, image 74 measuring 86 x 52 mm. There is extensive
+lymphadenopathy within the mesentery with a conglomerate of
+nodes measuring 57 x 40 mm, seen on series 2, image 85. There is
+a moderate amount of ascites. The small and large bowel are
+unremarkable and opacified with oral contrast extending to the
+rectum. There is no evidence of obstruction.
+
+CT PELVIS WITH IV CONTRAST: The urinary bladder is catheterized.
+The rectum is unremarkable. The uterus is not well visualized.
+There are no adnexal masses with the exception of extensive
+lymphadenopathy that extends into the deep pelvis bilaterally
+inferiorly from the above-mentioned retroperitoneal
+lymphadenopathy along the iliac nodal chains. The largest bulk
+of this lymphadenopathy measures 94 x 47 mm along the left iliac
+nodal chain seen on series 2, image 105. There is extensive
+inguinal lymphadenopathy, the largest nodal conglomerate seen on
+the left measuring 49 x 62 mm.
+
+Also noted within the subcutaneous tissue in the midline of the
+abdomen are a few pockets of air seen along a linear soft tissue
+defect likely secondary to prior surgical intervention.
+
+BONE WINDOWS: No suspicious lytic or sclerotic bony lesions.
+.
+Echo ([**2107-11-2**]):
+The left atrium is normal in size. Left ventricular wall
+thicknesses and
+cavity size are normal. There is severe regional left
+ventricular systolic
+dysfunction with near akinesis of the distal 2/3rds of the
+ventricle. Basal
+segments contract well. The apex is milldy aneurysmal and
+akinetic, but no
+masses or thrombi are seen in the left ventricle, though the
+apex is
+trabeculated. Right ventricular chamber size is normal. There is
+focal
+akinesis of the apical half of the RV free wall. The aortic
+valve leaflets
+appear structurally normal with good leaflet excursion and no
+aortic
+regurgitation. The mitral valve appears structurally normal with
+trivial
+mitral regurgitation. There is no mitral valve prolapse. There
+is moderate
+pulmonary artery systolic hypertension. There is a
+trivial/physiologic
+pericardial effusion.
+
+Repeat echo prior to R-CHOP ([**12-5**]): The left atrium is normal in
+size. Left ventricular wall thicknesses and  cavity size are
+normal. There is severe regional left ventricular systolic
+dysfunction with near akinesis of the distal 2/3rds of the
+ventricle. Basal segments contract well. The apex is milldy
+aneurysmal and akinetic, but no masses or thrombi are seen in
+the left ventricle, though the apex is trabeculated. Right
+ventricular chamber size is normal. There is focal akinesis of
+the apical half of the RV free wall. The aortic valve leaflets
+appear structurally normal with good leaflet excursion and no
+aortic regurgitation. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is no mitral
+valve prolapse. There is moderate pulmonary artery systolic
+hypertension. There is a trivial/physiologic pericardial
+effusion.
+
+Abdominal Ultrasound ([**11-24**]): There are again identified
+bilateral pleural effusions, partially imaged. There is a
+moderate-to-large amount of ascites present in all four
+quadrants, best appreciated in the left lower quadrant. In the
+left lobe of the liver there are two uniformly hyperechoic
+lesions, the largest of which measures 2.0 x 1.6 x 1.7 cm with
+appearance consistent with hemangiomas. No other focal
+abnormalities are demonstrated within the liver. The gallbladder
+is collapsed with likely wall thickening again, which could be
+secondary to third spacing of fluid. A shadowing gallstone is
+demonstrated within the gallbladder lumen. The spleen is stable
+in size measuring 11 cm in its longest length. A small roughly 1
+cm anechoic lesion, without blood flow is demonstrated within
+the spleen, not fully characterized on this study, though
+possibly a cyst. The previously described extensive mesenteric
+or retroperitoneal adenopathy is not well assessed on this
+study.
+
+Color flow and Doppler evaluation of the hepatic vasculature was
+performed given history of ascites. The hepatic veins, hepatic
+arteries main portal vein and its branches are patent with
+appropriate direction of flow and normal waveforms. The inferior
+vena cava is generally narrowed without intraluminal filling
+defects. This appearance could be secondary to fluid status or
+secondary to ascites.
+.
+CTA ([**12-2**]):
+ 1. There is a large right pleural effusion with complete
+passive collapse of the right lung. There is a small left
+pleural effusion.
+2. Again seen is mediastinal and pericardial lymphadenopathy,
+which is not significantly changed in comparison to the prior
+study.
+3. A large amount of ascites.
+4. Three hypodensities are seen within the visualized portion of
+the liver which are not completely characterized.
+.
+.
+CYTOLOGY:
+Pleural Fluid: By immunohistochemical stains, the lymphocytes
+are a mixture of CD20 positive B-cells along with CD3 positive
+(B greater than T). Although definite co-expression of CD5
+amongst B-cells could not be discerned, a subset of weak CD5
+expressing cells is seen amongst the brighter CD5 positive
+T-cells.  Scattered CD10 positive lymphocytes are seen.
+Bcl-1/cyclin D1 is expressed in a minor subset.
+
+Overall, the findings indicate involvement by the patient's
+known Mantle cell lymphoma.
+
+Peritoneal Fluid: Three color gating is performed (light scatter
+vs. CD45) to optimize lymphocyte yield. Abnormal/lymphoma cells
+comprise 5% of lymphoid gated events.
+
+B cells demonstrate a monoclonal Lambda light chain restricted
+population.  They co-express pan-B cell markers CD19 along with
+CD5 and FMC-7.  They do not express any other characteristic
+antigens including CD10, CD23. A subset express CD20.
+T cells express mature lineage antigens.
+
+INTERPRETATION
+Findings are of involvement by a Lambda restricted, CD5-positive
+B cell lymphoproliferative disorder, immunophenotypically
+consistent with patient's known mantle cell lymphoma.  Given the
+small percentage of involved B-cells, peripheral blood
+contamination cannot be ruled out.
+
+
+Brief Hospital Course:
+1. See HPI for MICU course
+.
+2. Mantle Cell Lymphoma:  Received 300mg/m2 of Cytoxan twice a
+day for six doses, with high-dose Decadron.  The decadron was
+discontinued after the patient developed psychotic paranoia.
+She developed tumor lysis syndrome with elevated uric acid, and
+initially requiring CVVH.  Her counts dropped in response to
+chemotherapy and she was neutropenic for several days.  The
+patient was treated with neupogen until her counts normalized,
+and she remained afebrile.  Her effusions (below) continued to
+re-accumulate after taps, and ultimately the decision was made
+to treat the patient with the first round of R-CHOP.  She
+tolerated the regimen very well, and had no issues completing
+the prednisone portion of the therapy.  The patient was
+transfused to keep her hematocrit above 25 and platelets above
+10.
+.
+3. Malignant effusion:  The patient originally presented with
+shortness of breath from a right pleural effusion and ascites.
+Her ascites fluid was drained in the operating room, and not
+sent for studies.  Her right pleural effusion was tapped twice,
+both large volume.  Cytology was positive for lymphoma.  The
+patient had reaccumulation of both fluid collections, which were
+unintervenable while she was neutropenic.  Once her counts
+recovered, the patient underwent therapeutic paracentesis of 3
+liters, which demonstrated malignant cells.  The patient
+remained short of breath after this procedure and underwent a
+1.6 liter thoracentesis by interventional pulmonary.  She
+tolerated the procedure well with immediate symptomatic
+improvement. On a post-procedure x-ray, however, her right lung
+remained [**Last Name (un) 57454**]-out. She underwent CTA which demostrated a very
+large right pleural effusion with right lung collapse.  The
+patient, however, had an improvement in her symptoms and
+decrease in her oxygen requirement.  She underwent R-CHOP in an
+effort to treat the underlying cause of her effusions.  She was
+discharged on 40 po Lasix to take daily, to which she responded
+well in the hospital.
+.
+4. s/p TAH-BSO: The patient was originally thought to have
+ovarian cancer, and she underwent TAH-BSO on [**2107-11-1**].  The
+diagnosis of lymphoma was made on an intraoperative lymph node
+biopsy.  Her ovarian pathology was cystadenofibroma.
+.
+5. Cardiomyopathy: In the ICU, her ejection fraction was found
+to be 20%, which is likely ischemic in origin from "shocked"
+myocardium.  Repeat TTE, when her critical illness resolved
+revealed an ejection fraction of 55%, but persistent right sided
+failure. Prior to beginning treatment with R-CHOP, the patient
+again had an echocardiogram which demonstrated resolution of the
+right heart failure and 2+ MR.
+.
+6.  ID:  the patient had asymptomatic pyruia on [**11-14**], and was
+treated for 7 days with Zosyn for a Citrobacter UTI.  Repeat
+urine culture was negative.  She remained afebrile while
+neutropenic.
+.
+7. Chronic back pain: MRI demonstrated no spinal or vertebral
+involvement of her lymphoma.  She was maintained on narcotics
+for pain control.  As her ascites reaccumulated, her pain
+medication requirement increased.  She was discharged on 10 mg
+Oxycontin [**Hospital1 **] and 5 mg Oxycodone q4 prn.  MRI revealed no spinal
+involvement of her lymphoma
+.
+8. Disposition: The patient will go to rehabilitation to assist
+her after her prolonged hospitalization and very low functional
+status at this point.  Patient had a port placed by surgery on
+[**2107-11-17**], which was functional through the hospitalization.  She
+was full code.
+
+Medications on Admission:
+hnone
+
+Discharge Medications:
+
+
+1. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO QID (4 times a day) as needed.
+2. Artificial Tear with Lanolin 0.1-0.1 % Ointment Sig: One (1)
+Appl Ophthalmic  QID (4 times a day) as needed.
+3. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical  [**Hospital1 **]
+(2 times a day).
+4. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID
+(4 times a day) as needed.
+5. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day) as needed for SOB, wheeze.
+6. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+8. Simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO QID (4 times a day) as needed for bloating.
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+10. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+11. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every
+8 hours).
+12. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig:
+15-30 MLs PO QID (4 times a day) as needed.
+13. Oxycodone 10 mg Tablet Sustained Release 12HR Sig: One (1)
+Tablet Sustained Release 12HR PO twice a day.
+14. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4)
+hours as needed.
+15. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+16. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+17. Prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day.
+18. Heparin Lock Flush (Porcine) 10 unit/mL Solution Sig: Ten
+(10) ML Intravenous  DAILY (Daily) as needed.
+19. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Medical Center - [**Hospital1 3597**]
+
+Discharge Diagnosis:
+Mantle cell lymphoma
+Malignant pleural effusion
+Malignant ascites
+s/p TAH/BSO
+Tumor lysis syndrome
+Cardiogenic shock
+Chronic low back pain
+
+
+Discharge Condition:
+afebrile, hemodynamically stable. On 2L NC
+
+
+Discharge Instructions:
+Please return to the ED with chest pain, shortness of breath,
+fevers, chills, or vomiting.
+.
+Please keep all follow up appointments and take all medications
+as prescribed.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) 1730**] [**Last Name (NamePattern4) 6175**], MD Phone:[**Telephone/Fax (1) 3237**]
+Date/Time:[**2107-12-13**] 10:30
+
+
+

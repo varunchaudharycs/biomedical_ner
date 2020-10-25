@@ -1,0 +1,137 @@
+T1	Route 1028 1030	SL
+R1	Route-Drug Arg1:T1 Arg2:T2
+T2	Drug 1031 1036	Nitro
+T3	Drug 1394 1401	aspirin
+T4	ADE 1430 1435	hives
+R2	ADE-Drug Arg1:T4 Arg2:T3
+T5	ADE 1440 1456	profuse vomiting
+R3	ADE-Drug Arg1:T5 Arg2:T3
+T6	Drug 1494 1501	aspirin
+T7	Drug 1532 1539	aspirin
+T8	Reason 1540 1555	desensitization
+R4	Reason-Drug Arg1:T8 Arg2:T7
+T9	Drug 185 196	Penicillins
+T10	Drug 199 212	Tetracyclines
+T11	Drug 299 306	aspirin
+T12	Reason 307 320	desentization
+R5	Reason-Drug Arg1:T12 Arg2:T11
+T13	Drug 3438 3445	aspirin
+T14	Reason 3446 3459	desentization
+R6	Reason-Drug Arg1:T14 Arg2:T13
+T15	Reason 3471 3474	CAD
+R7	Reason-Drug Arg1:T15 Arg2:T16
+R8	Reason-Drug Arg1:T15 Arg2:T17
+R9	Reason-Drug Arg1:T15 Arg2:T18
+R10	Reason-Drug Arg1:T15 Arg2:T19
+T16	Drug 3486 3492	Plavix
+T17	Drug 3494 3501	Lipitor
+T18	Drug 3503 3513	Metoprolol
+T19	Drug 3515 3525	Lisinopril
+T20	Drug 3531 3538	aspirin
+T21	ADE 3539 3546	allergy
+R11	ADE-Drug Arg1:T21 Arg2:T20
+T22	Drug 3562 3569	aspirin
+T23	Reason 3570 3585	desensitization
+R12	Reason-Drug Arg1:T23 Arg2:T22
+T24	Reason 3937 3940	HTN
+R13	Reason-Drug Arg1:T24 Arg2:T25
+R14	Reason-Drug Arg1:T24 Arg2:T26
+R15	Reason-Drug Arg1:T24 Arg2:T27
+R16	Reason-Drug Arg1:T24 Arg2:T28
+T25	Drug 3952 3957	Imdur
+T26	Drug 3959 3966	Norvasc
+T27	Drug 3968 3978	Metoprolol
+T28	Drug 3980 3990	Lisinopril
+T29	Reason 3995 3999	Endo
+R17	Reason-Drug Arg1:T29 Arg2:T30
+T30	Drug 4010 4017	Levoxyl
+T31	Reason 4022 4025	PPX
+R18	Reason-Drug Arg1:T31 Arg2:T32
+T32	Drug 4030 4038	protonix
+T33	Drug 4231 4236	IMDUR
+T34	Strength 4237 4241	60MG
+R19	Strength-Drug Arg1:T34 Arg2:T33
+T35	Dosage 4243 4246	One
+R20	Dosage-Drug Arg1:T35 Arg2:T33
+T36	Route 4247 4255	by mouth
+R21	Route-Drug Arg1:T36 Arg2:T33
+T37	Frequency 4256 4265	every day
+R22	Frequency-Drug Arg1:T37 Arg2:T33
+T38	Drug 4266 4273	LIPITOR
+T39	Strength 4274 4278	80MG
+R23	Strength-Drug Arg1:T39 Arg2:T38
+T40	Dosage 4280 4283	One
+R24	Dosage-Drug Arg1:T40 Arg2:T38
+T41	Route 4284 4292	by mouth
+R25	Route-Drug Arg1:T41 Arg2:T38
+T42	Frequency 4293 4302	every day
+R26	Frequency-Drug Arg1:T42 Arg2:T38
+T43	Drug 4303 4313	METOPROLOL
+T44	Strength 4314 4319	100MG
+R27	Strength-Drug Arg1:T44 Arg2:T43
+T45	Dosage 4321 4324	One
+R28	Dosage-Drug Arg1:T45 Arg2:T43
+T46	Route 4325 4333	by mouth
+R29	Route-Drug Arg1:T46 Arg2:T43
+T47	Frequency 4334 4345	twice a day
+R30	Frequency-Drug Arg1:T47 Arg2:T43
+T48	Drug 4346 4359	NITROGLYCERIN
+T49	Strength 4360 4365	0.4MG
+R31	Strength-Drug Arg1:T49 Arg2:T48
+T50	Drug 4383 4390	NORVASC
+T51	Strength 4391 4394	5MG
+R32	Strength-Drug Arg1:T51 Arg2:T50
+T52	Dosage 4396 4399	One
+R33	Dosage-Drug Arg1:T52 Arg2:T50
+T53	Route 4400 4408	by mouth
+R34	Route-Drug Arg1:T53 Arg2:T50
+T54	Frequency 4409 4418	every day
+R35	Frequency-Drug Arg1:T54 Arg2:T50
+T55	Drug 4419 4429	OMEPRAZOLE
+T56	Strength 4430 4434	20MG
+R36	Strength-Drug Arg1:T56 Arg2:T55
+T57	Dosage 4436 4439	One
+R37	Dosage-Drug Arg1:T57 Arg2:T55
+T58	Frequency 4440 4449	every day
+R38	Frequency-Drug Arg1:T58 Arg2:T55
+T59	Drug 4450 4456	PLAVIX
+T60	Strength 4457 4461	75MG
+R39	Strength-Drug Arg1:T60 Arg2:T59
+T61	Dosage 4463 4466	One
+R40	Dosage-Drug Arg1:T61 Arg2:T59
+T62	Route 4467 4475	by mouth
+R41	Route-Drug Arg1:T62 Arg2:T59
+T63	Frequency 4476 4485	every day
+R42	Frequency-Drug Arg1:T63 Arg2:T59
+T64	Drug 4486 4494	PROTONIX
+T65	Strength 4495 4499	40MG
+R43	Strength-Drug Arg1:T65 Arg2:T64
+T66	Dosage 4506 4509	one
+R44	Dosage-Drug Arg1:T66 Arg2:T64
+T67	Route 4510 4518	by mouth
+R45	Route-Drug Arg1:T67 Arg2:T64
+T68	Frequency 4519 4528	every day
+R46	Frequency-Drug Arg1:T68 Arg2:T64
+T69	Drug 4529 4536	ZESTRIL
+T70	Strength 4537 4541	20MG
+R47	Strength-Drug Arg1:T70 Arg2:T69
+T71	Dosage 4543 4546	One
+R48	Dosage-Drug Arg1:T71 Arg2:T69
+T72	Route 4547 4555	by mouth
+R49	Route-Drug Arg1:T72 Arg2:T69
+T73	Frequency 4556 4567	twice a day
+R50	Frequency-Drug Arg1:T73 Arg2:T69
+T74	Drug 4568 4575	LEVOXYL
+T75	Strength 4576 4583	137 mcg
+R51	Strength-Drug Arg1:T75 Arg2:T74
+T76	Dosage 4585 4586	1
+R52	Dosage-Drug Arg1:T76 Arg2:T74
+T77	Form 4587 4593	tablet
+R53	Form-Drug Arg1:T77 Arg2:T74
+T78	Route 4597 4605	by mouth
+R54	Route-Drug Arg1:T78 Arg2:T74
+T79	Frequency 4606 4616	once a day
+R55	Frequency-Drug Arg1:T79 Arg2:T74
+T80	Drug 490 497	aspirin
+T81	Reason 498 511	desentization
+R56	Reason-Drug Arg1:T81 Arg2:T80

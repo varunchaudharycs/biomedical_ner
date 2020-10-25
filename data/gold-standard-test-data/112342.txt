@@ -1,0 +1,685 @@
+Admission Date:  [**2124-2-29**]              Discharge Date:   [**2124-3-29**]
+
+Date of Birth:  [**2055-8-23**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 9598**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+s/p central line placement x 2 (HD catheter)
+
+
+History of Present Illness:
+Mr. [**Known lastname 2795**] is a 68 yo with met renal cell carc admitted on
+[**2124-2-29**] for week 2 of high dose IL-2 therapy.  His last dose was
+complicated by shock requiring dopamine and brief atrial
+fibrillation, spontaneously reverting back when dopamine was
+changed to neo.  His current course was given from [**2-29**] to [**3-4**]
+and has been complicated by nausea/vomiting, encephalopathy,
+diarrhea, rigors, and desquamation, but also by hypotension in
+the 70s systolic requiring neo for 90 min on [**3-2**] and restarted
+again on [**3-5**], ARF with decreasing UOP (355 total cc's on [**3-5**],
+none on [**3-4**], + ~ 14L LOC but without detailed recording of his
+UOP), and progressive metabolic acidosis despite bicarb
+infusion.  Vancomycin was started empirically in the setting of
+severe dermatitis, and he has been on prophylactic cipro
+throughout his stay.  His last dose 9am on [**3-4**].  His Cr has
+risen progressively from 1.9 on admission to 6.6 on the evening
+of transfer.  Because of his progressive renal failure, dopamine
+was added to improve renal perfusion.  He was also transiently
+in afib.  His Tmax during his stay has been 99.5 on [**3-1**] with no
+other elevated temps, though he has been intermittently around
+95F.
+.
+REVIEW OF SYSTEMS:
+(+)ve: as per HPI
+(-)ve: chest pain, palpitations, rhinorrhea, nasal congestion,
+cough, sputum production, hemoptysis, dyspnea, orthopnea,
+paroxysmal nocturnal dyspnea, constipation, hematochezia,
+melena, dysuria, urinary frequency, urinary urgency, focal
+numbness, focal weakness
+
+Past Medical History:
+metastatic renal cell carcinoma, s/p nephrectomy.  metastatic to
+lung, adrenal gland, brain.  s/p cyberknife [**12-19**].
+Bleeding ulcers
+HTN
+Hyperlipidemia
+GERD
+Diverticulosis
+Migraines
+Barrett's esophagus
+Anemia with folate deficiency
+Appendectomy in [**2076**]
+Hemorrhoidectomy [**2094**]
+Back surgery in [**2113**]
+Vasectomy
+
+Social History:
+He is a chief of police in [**Location (un) 82875**] Police.
+He is married and he is seen with his wife today.  [**Name2 (NI) **] has two
+adult children.  He does not smoke.  He has about five to eight
+glasses of bourbon weekly.
+
+Family History:
+No history of any kidney cancer, but his mother
+had ovarian cancer, no obvious signs of Burkitt lymphoma, who is
+now healthy.
+
+
+Physical Exam:
+97.8  119  105/44  16  100%2L
+.
+PHYSICAL EXAM
+GENERAL: dry and desquamated
+HEENT: Normocephalic, atraumatic. conjunctival erythema. No
+scleral icterus. PERRLA/EOMI but tracks slowly and incompletely.
+mucous membranes dry. OP clear. Neck Supple, No LAD, No
+thyromegaly.
+CARDIAC: Regular rhythm, tachycardic. Normal S1, S2. 2/6 SEM in
+RUSB, rubs or [**Last Name (un) 549**]. JVP=flat
+LUNGS: CTAB, good air movement biaterally anteriorly.
+ABDOMEN: hypoABS. Soft, NT, ND. No HSM
+EXTREMITIES: diffuse [**3-15**]+edema, 2+ dorsalis pedis/ posterior
+tibial pulses.
+SKIN: diffuse erythema and desquamation.  skin breakdown on
+grown and buttocks.
+NEURO: A&Ox3 though with difficulty with word finding.
+Appropriate. CN 2-12 intact. Preserved sensation throughout. [**6-14**]
+strength throughout. Gait assessment deferred
+PSYCH: Listens and responds to questions appropriately
+.
+
+
+Pertinent Results:
+[**2124-2-29**] 09:49AM   PT-13.9* PTT-21.6* INR(PT)-1.2*
+[**2124-2-29**] 09:49AM   PLT COUNT-386#
+[**2124-2-29**] 09:49AM   WBC-8.0 RBC-3.21* HGB-9.5* HCT-29.3* MCV-91
+MCH-29.6 MCHC-32.4 RDW-13.9
+[**2124-2-29**] 09:49AM   ALBUMIN-3.4* CALCIUM-8.1* PHOSPHATE-3.2
+MAGNESIUM-2.0
+[**2124-2-29**] 09:49AM   ALT(SGPT)-19 AST(SGOT)-21 LD(LDH)-169
+CK(CPK)-55 TOT BILI-0.6
+[**2124-2-29**] 09:49AM   estGFR-Using this
+[**2124-2-29**] 09:49AM   GLUCOSE-121* UREA N-17 CREAT-1.6*# SODIUM-144
+POTASSIUM-4.1 CHLORIDE-112* TOTAL CO2-25 ANION GAP-11
+
+[**2124-3-24**] hand x-ray
+ No previous images. The distal [**Hospital1 **] and adjacent soft tissues
+are
+essentially within normal limits on the images presented. No
+evidence of
+erosions or dystrophic calcification.
+
+[**2124-3-23**] CT abd/pelvis
+1. Small bowel dilation without a clear transition point to
+suggest
+mechanical obstruction. A 7 cm segment of small bowel wall
+thickening may
+represent ischemia, infection, or inflammation. A repeated CT
+with i.v.
+contrast may help evaluate the transit of oral contrast as well
+as the
+mesenteric vasculature
+2. Nasogastric tube just passed the gastroesophageal junction.
+Consider
+reposition of nasogastric tube in the body of the stomach.
+3. Metastatic disease, incompletely evaluated on this
+non-contrast study.
+4. Bibasilar consolidative opacity concerning for pneumonia
+5. Florid colonic diverticulosis without evidence of
+diverticulitis.
+6. Decrease in size of right adrenal nodule suggestive of
+response to
+therapy.
+7. Extensive therosclerotis including coronary artery, abdominal
+aorta and
+mesenteric vessels.
+
+[**2124-3-23**]
+MRI head
+1. Near-complete interval resolution of the enhancing lesion
+within the left anterior temporal lobe. Only minimal residual
+enhancement and FLAIR signal hyperintensity persist. No new
+enhancing lesions are identified.
+
+TTE [**2124-3-6**]:  The left atrium is elongated. Left ventricular
+wall thickness, cavity size, and global systolic function are
+normal (LVEF>55%). Due to suboptimal technical quality, a focal
+wall motion abnormality cannot be fully excluded. There is no
+ventricular septal defect. Right ventricular chamber size and
+free wall motion are normal. The ascending aorta is mildly
+dilated. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. The pulmonary artery
+systolic pressure could not be determined. There is a small
+pericardial effusion. There are no echocardiographic signs of
+tamponade.
+
+TTE [**2124-3-8**]:  IMPRESSION: small pericardial effusion located
+mostly posterior to the left ventricle. There is minimal fluid
+anterior to the right ventricle. There is significant,
+accentuated respiratory variation in mitral/tricuspid valve
+inflows, which can be consistent with impaired ventricular
+filling but is more likely due to the irregularity of the heart
+rate. There is no frank tamponade seen. Normal biventricular
+function. No evidence of endocarditis although the valves are
+not well seen.
+
+Compared with the prior study (images reviewed) of [**2124-3-6**],
+this is a limited study. The valves are not well seen. The
+patient remains tachycardic but is now in atrial fibrillation.
+The size of the pericardial effusion is similar
+
+Renal Ultrasound [**2124-3-6**]:
+1. No hydronephrosis of the right kidney. Left kidney is
+surgically absent.
+
+CXR [**2124-3-6**]:
+Lung volumes are lower, pulmonary vasculature more engorged, and
+distended
+mediastinal veins, unchanged, pointing toward volume overload or
+cardiac
+decompensation. A more focal opacity at the left lung base
+laterally would be better evaluated after hemodynamic status is
+optimized. It could be a small region of infection or
+infarction, pleural effusion, or transient atelectasis.
+
+Heart is top normal size, though increased since yesterday.
+Right subclavian line ends in the upper SVC. No pneumothorax.
+
+CT head/chest non-con [**2124-3-7**]:
+
+Slightly decreased vasogenic edema in region of known left
+temporal lobe metastasis.
+
+1. Extensive new strikingly peripheral/subpleural ground-glass
+opacities with a slight upper lobe predominance is highly
+suggestive of drug-induced toxicity (likely IL-2 drug-induced
+eosinophilic lung disease). The more confluent lower lobe
+opacities are most suggestive of atelectasis, although infection
+cannot be excluded by imaging.
+
+2. Persistent findings suggestive of vascular engorgement with
+mild
+interstitial edema and small bilateral pleural effusions.
+
+3. No significant interval change to some of the previously
+noted metastatic lesions with many of the previously noted foci
+obscured by the new lung parenchymal opacities. Slight
+enlargement of prevascular lymph nodes can be seen in the
+setting of underlying pulmonary edema/elevated CVP.
+
+CXR [**2124-3-8**]:
+FINDINGS: As compared to the previous examination, a new central
+venous
+access line has been inserted over the left anterior jugular
+vein. The tip of the line projects over the upper SVC. There is
+no evidence of complication, notably no pneumothorax.
+
+The other monitoring and support devices are in unchanged
+position.
+
+Also unchanged is the size of the cardiac silhouette and the
+bilateral
+multifocal parenchymal opacities. The retrocardiac opacity could
+have
+minimally increased in the interval.
+
+Lower Extremity U/S:
+IMPRESSION: No evidence of DVT in either lower extremity. Left
+peroneal vein not well visualized.
+
+BAL:  Bronchial lavage, right mid lobe:
+
+  NEGATIVE FOR MALIGNANT CELLS.
+
+  Bronchial epithelial cells, pulmonary macrophages, and
+  neutrophils; no viral inclusions noted.
+
+CXR [**2124-3-11**]:
+Tip of the endotracheal tube is no less than 48 mm from the
+carina, standard placement for patient of this size. Diffuse
+infiltrative pulmonary abnormality, more pronounced in the
+perihilar right lung has progressed could by virtue of asymmetry
+be pneumonia rather than pulmonary edema, although pulmonary
+vascular congestion is present. The heart is moderately
+enlarged.  Moderate right pleural effusion is stable. Right
+jugular line ends in the low SVC, left jugular line in the mid
+SVC, nasogastric tube passes below the diaphragm and out of
+view. Mediastinal widening in the right lower paratracheal
+station is due to a combination of adenopathy and venous
+engorgement.
+
+Portable Abdomen [**2124-3-10**]:
+FINDINGS: Supine AP abdomen radiograph demonstrates a
+nasogastric tube
+following a normal course and terminating in the distal stomach.
+There is no evidence of pneumoperitoneum. The bowel gas shadow
+appears unremarkable
+
+[**2124-3-6**] 7:08 am URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2124-3-8**]**
+
+   URINE CULTURE (Final [**2124-3-8**]):
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML
+
+[**2124-3-7**] 4:21 pm URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2124-3-8**]**
+
+   URINE CULTURE (Final [**2124-3-8**]):    NO GROWTH
+
+DIRECT INFLUENZA A ANTIGEN TEST (Final [**2124-3-7**]):
+      Negative for Influenza A.
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**2124-3-7**]):
+      Negative for Influenza B.
+
+[**2124-3-8**] 4:22 am STOOL     CONSISTENCY: SOFT      Source: Stool.
+
+
+                            **FINAL REPORT [**2124-3-10**]**
+
+   FECAL CULTURE (Final [**2124-3-9**]):    NO SALMONELLA OR SHIGELLA
+FOUND.
+
+   CAMPYLOBACTER CULTURE (Final [**2124-3-10**]):    NO CAMPYLOBACTER
+FOUND.
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2124-3-8**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+
+[**2124-3-9**] 10:09 am BRONCHOALVEOLAR LAVAGE
+
+   GRAM STAIN (Final [**2124-3-9**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+
+   RESPIRATORY CULTURE (Final [**2124-3-11**]):
+      ~1000/ML Commensal Respiratory Flora.
+
+   POTASSIUM HYDROXIDE PREPARATION (Final [**2124-3-9**]):
+      Test cancelled by laboratory.
+      PATIENT CREDITED.
+      This is a low yield procedure based on our in-house
+studies if
+      pulmonary Histoplasmosis, Coccidioidomycosis,
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected,
+contact the
+      Microbiology Laboratory (7-2306).
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2124-3-9**]):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+   VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Preliminary):
+      No Virus isolated so far.
+
+[**2124-3-9**] 10:09 am Rapid Respiratory Viral Screen & Culture
+
+                            **FINAL REPORT [**2124-3-11**]**
+
+   Respiratory Viral Culture (Final [**2124-3-11**]):
+      No respiratory viruses isolated.
+      Culture screened for Adenovirus, Influenza A & B,
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus..
+      Detection of viruses other than those listed above will
+only be
+      performed on specific request. Please call Virology at
+[**Telephone/Fax (1) 6182**]
+      within 1 week if additional testing is needed.
+
+   Respiratory Viral Antigen Screen (Final [**2124-3-9**]):
+      Negative for Respiratory Viral Antigen.
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3,
+Influenza A, B,
+      and RSV by immunofluorescence.
+      Refer to respiratory viral culture for further
+information.
+
+[**2124-3-9**] 12:11 pm SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal.
+
+   GRAM STAIN (Final [**2124-3-9**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2124-3-11**]):    NO GROWTH.
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+[**2124-3-6**] 2:29 am BLOOD CULTURE      Source: Line-R SCTL -> MSRA
+(+)
+
+[**2124-3-10**]:  VRE blood culture from a-line
+
+[**2124-3-11**], [**2124-3-12**] blood cultures pending
+
+
+
+
+
+
+Brief Hospital Course:
+#. Shock: Felt initially most likely due to sepsis and he was
+covered broadly with antibiotics.  Initially broadened
+antibiotics to vanc/levo/cefepime to cover above sources.  Goal
+CVP was [**9-21**], MAP > 65.  Initial central venous O2 saturation
+was 91%.  Patient was transferred from floor to ICU on dopamine
+and neo; dopamine was converted to levophed.  Pulsus was normal
+at 5.  Echocardiogram as above, largely unremarkable.
+Hypotension persisted and was thought to be septic in etiology
+with IL-2 distributive physiology contributing.  Shock was
+refractory to fluid boluses; received normal saline and water
+with bicarb given renal failure.  Blood cultures eventually grew
+out MRSA, successive cultures negative until [**2124-3-10**], with
+[**2124-3-10**] culture growing vancomycin-resistant Enterococcus.
+During this time, patient was actually weaned off pressors.  The
+right subclavian triple lumen was removed and a right internal
+jugular triple lumen was placed.  Goals of care were discussed
+with family, who requested continued aggressive treatment.
+Linezolid replaced vancomycin for VRE bacteremia. The patient's
+pressures stabilized and pressors were discontinued.  He did not
+have further hypotension after transfer to the oncology floor.
+
+# MRSA/VRE bacteremia: S/p line removals; Patient completed 15
+day course of linezolid.  Also added Meropenem on [**3-24**] given MS
+decline and asterixis.  Antibiotics were d/c'd on [**3-25**] and
+patient has been stable, afebrile without leukocytosis since.
+Repeat blood and urine cultures have been negative.
+
+# partial/early SBO: On [**3-25**] patient developed worsening
+abdominal distention and confusion.  This early SBO was likely
+due to narcotics though concerning that is ongoing and limiting
+nutrition. MRI head with improved findings. An NGT was placed
+for 24 hours and the patient's MS cleared as did his SBO.  There
+was initially some concern for messenteric ischemia given guiaic
+positive stool, known necrotic fingers and subsequent CT abd
+findings, so GI and surgery were consulted.  Patient however
+soon improved clinically so further work-up with colonoscopy was
+not done.  He was able to tolerate a regular diet for 48H prior
+to discharge. A PICC had been placed for access and for ability
+to start TPN if needed, however TPN was never started.
+
+# Anemia: likely multifactorial due to poor nutrition, acute
+nutrition, and marrow suppression.  Patient is also FOB+ s/p 2U
+PRBC since [**3-17**]. then another 1U [**3-24**].  He was continued on iron,
+folate and B12 on [**3-27**].  Mr. [**Known lastname 2795**] did have guiaic positive
+stools during admission which should be followed-up  by
+gastroenterology as an outpatient.
+
+# gangrene: [**3-14**] pressors, shock as below.  Patient was treated
+with wound care and transitioned to a fentanyl patch with
+breakthrough morphine for pain.
+
+# thrombocytopenia: Resolved. Likely due to myelosuppression.
+
+# coagulopathy: Patient was supplemented with vitamin K X3 days
+to decrease his INR.
+
+#  Respiratory failure- Patient was intubated electively in
+setting of persistent hypervolemia and renal failure.
+Maintained on minimal ventilatory support during dialysis.
+Patient received antibiotic coverage for aspiration pneumonia.
+The patient was extubated on [**2124-3-15**] and continued to improve
+significantly. The patient was called out to the OMED floor team
+for further managment.
+
+#. ARF: IL-2 mediated ARF most likely, however prerenal or
+postrenal etiology also possible.  K wnl, phos elevated though
+stable from last draw.  Patient likely had IL-2 induced renal
+injury, with possible ischemic acute tubular necrosis.  Despite
+aggressive fluids, renal function did not improve.  Patient was
+showing signs of uremia and hypervolemia, and continuous
+[**Last Name (un) **]-venous hemodialysis was started following intubation and
+placement of HD line.  On the last days of admission he did not
+require diuresis and continued to auto-diurese with a creatinine
+of 1.1-1.3. He was not continued on his anti-hypertensives as
+his SBPs were 130-140. Mr. [**Known lastname 2795**] should have his renal function
+checked as an outpatient in the next 1-2 weeks. If there are
+concerns with worsening kidney function as an oupatient, he
+should be followed by renal.
+
+#  Atrial fibrillation with rapid ventricular response- Occurred
+on morning of [**2124-3-7**].  Became more hypotensive, received two
+attempts at DC cardioversion, transient sinus rhythm restored,
+then converted back into a. fib.  Amiodarone load and drip was
+started.  Converted to sinus rhythm day later, maintained on
+amio drip.  Cardiac enzymes were flat, lower extremity
+ultrasound negative for DVT.  Repeat TTE showed no right heart
+strain. The amiodarone drip was discontinued and the patient
+remained in normal sinus rhythm.
+
+#. HA/MS changes: Known metastatic disease to brain and IL-2 can
+cause swelling.  He is AOx3, though slightly agitated.  Clinical
+picture not c/w meningitis/encephalitis and most likely
+toxic-metabolic.  CT head showed slight improvement in
+metastatic disease, less vasogenic edema.  Lumbar puncture was
+deferred given intracranial mass. As patient stayed on the
+oncology floor his mental status gradually returned to [**Location 213**].
+He can have a formal neurocognitive outpatient work-up if deemed
+necessary by his PCP.
+
+# skin/eye/mucous membrane breakdown: Patient developed
+significant skin breakdown, particularly on his fingertips
+likely due to pressors and IL-2.  He was evaluated by plastic
+surgery and hand x-ray found no need for intervention.  He was
+continued on: nystatin, miconazole, benadryl, sarna, Hydrocerin,
+HydrOXYzine, eye drops, Gelclair.
+
+#. RCC: finished week 2 of IL-2. Maintained contact with
+outpatient oncologist.
+
+CODE STATUS: Full (confirmed)
+
+Medications on Admission:
+MEDICATIONS upon transfer:
+Hydrocerin 1 Appl TP QID:PRN dry skin
+50 mEq Sodium Bicarbonate/1000 ml D5 1/2 NS Continuous at 75
+ml/hr
+HydrOXYzine 25-50 mg PO/NG Q6H:PRN pruritis
+Lorazepam 0.5-1 mg PO/IV Q4H:PRN
+Acetaminophen 975 mg PO Q6H prn
+Meperidine 25-50 mg IV Q2H:PRN Rigors
+Artificial Tears Preserv. Free 1-2 DROP BOTH EYES PRN
+Morphine Sulfate 1-2 mg IV Q2H:PRN pain
+Ciprofloxacin HCl 250 mg PO/NG Q24H
+Pantoprazole 40 mg PO Q24H
+DOPamine 4 mcg/kg/min IV DRIP
+Phenylephrine 1 mcg/kg/min IV DRIP
+DiphenhydrAMINE 25-50 mg PO/IV Q6H:PRN pruritis
+Diphenoxylate-Atropine [**2-12**] TAB PO PRN after each loose stool
+Prochlorperazine 10 mg PO/IV Q6H:PRN nausea/vomiting
+Erythromycin *NF* 5 mg/g OU TID
+Sarna Lotion 1 Appl TP QID:PRN pruritus
+Gabapentin 100 mg PO/NG TID pruritus
+Gelclair 15 mL ORAL TID:PRN mucositis
+*Stopped* Aldesleukin 47.4 Million Units IV Q8H on Days 1, 2, 3,
+4 and 5.
+.
+Home Medications:
+lipitor 20mg
+diltiazem 240mg [**Hospital1 **]
+folate 1mg qday
+protonix 40mg qday
+triamterene/hydrochlorothiazide 75/50mg qday
+valsartan 320mg qday
+vit C 1g qday
+citrucel 1g [**Hospital1 **]
+cyanocobalamin 1g sc monthly
+
+Discharge Medications:
+1. Lipitor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+4. Cyanocobalamin 1,000 mcg/mL Solution Sig: One (1)  Injection
+once a month: next due [**4-24**].
+5. Vitamin C 1,000 mg Tablet Sig: One (1) Tablet PO once a day.
+
+6. Diphenhydramine HCl 25 mg Capsule Sig: [**2-12**] Capsules PO Q6H
+(every 6 hours) as needed for pruritis.
+Disp:*60 Capsule(s)* Refills:*0*
+7. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for nausea/vomiting, insomnia or anxiety.
+Disp:*30 Tablet(s)* Refills:*0*
+8. White Petrolatum-Mineral Oil     Cream Sig: One (1) Appl
+Topical QID (4 times a day) as needed for dry skin.
+Disp:*QS 1 month* Refills:*0*
+9. Oral Wound Care Products     Gel in Packet Sig: Fifteen (15)
+ML Mucous membrane TID (3 times a day) as needed for mucositis.
+Disp:*QS 1 month* Refills:*0*
+10. Hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed for pruritis.
+Disp:*60 Tablet(s)* Refills:*0*
+11. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for pruritus.
+Disp:*QS 1 month* Refills:*2*
+12. Acetaminophen 650 mg Tablet Sig: One (1) Tablet PO every six
+(6) hours as needed for pain: do note take more than 4 grams per
+day.
+Disp:*120 Tablet(s)* Refills:*0*
+13. Ferrous Gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1)
+Tablet PO BID (2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+14. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours): remove previous  patch before
+applying. Do not drive while using this.
+Disp:*20 Patch 72 hr(s)* Refills:*0*
+15. Morphine 15 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+16. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+17. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+18. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)
+pkt PO DAILY (Daily) as needed for constipation.
+Disp:*60 pkt* Refills:*2*
+19. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+20. ZOFRAN ODT 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO every eight (8) hours as needed for nausea.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*1*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital **] health care
+
+Discharge Diagnosis:
+Primary:
+Metastatic RCCA - s/p C1W2 HD IL-2 therapy
+
+Secondary:
+VRE/MRSA sepsis
+acute renal failure, resolved
+SBO, resolved
+peripheral necrosis of digits
+acute mental status changes, resolved
+
+
+Discharge Condition:
+Alert, oriented, ambulatory
+
+
+Discharge Instructions:
+You were admitted to [**Hospital1 69**] for
+IL-2 therapy for your Renal Cell Carcinoma.  While you were here
+you had a very complicated hospital course.
+
+-You developed bacteria in your blood and you were treated with
+antibiotics for MRSA and VRE. You have finished your courses of
+antibiotics and your blood cultures have been normal.
+-You had a UTI with e-coli and you were treated with
+antibiotics. Your urine cultures have since been normal.
+-You needed dialysis.  Your kidney function has since improved
+and your creatinine was 1.2 at discharge.  This should be
+monitored closely and you should see a renal doctor if it
+worsens.
+-You were in the intensive care unit and you were intubated for
+confusion.  This improved. You should ask Dr. [**Last Name (STitle) **] if
+neurocognitive evaluation is needed.
+-You had necrosis (damage) to your fingertips from some of the
+medications in the ICU.  Plastic surgery saw you and your finger
+tips started to improve.
+-You also had skin damage to your sacrum (above your buttocks)
+from the IL-2.  The VNA services should help you change these
+dressings.
+
+While you were here some of your medications were changed.
+
+You should CONTINUE taking:
+lipitor 20mg
+folate 1mg qday
+protonix 40mg qday
+vit C 1g qday
+cyanocobalamin 1g sc monthly  (you received this on [**3-27**])
+
+You should STOP taking:
+citrucel 1g [**Hospital1 **]
+diltiazem 240mg [**Hospital1 **]
+triamterene/hydrochlorothiazide 75/50mg qday
+valsartan 320mg qday
+
+You should START taking:
+Benadryl, hydroxyzine, camphor-methol, petrolatum-mineral oil as
+needed for itching
+Lorazepam as needed for nausea, vomiting or anxiety (do not
+drive or drink alcohol while taking this)
+oral care and wound care products
+tylenol as needed for pain
+ferrous gluconate twice a day
+fentanyl patch every 72 hours (do not drive or drink alcohol
+while taking this)
+morphine as needed for pain (do not drive or drink alcohol while
+taking this)
+
+You should take senna and colace every day to prevent
+constipation and take miralax and bisacodyl if you become
+constipated.
+
+Notify [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], RN, at ([**Telephone/Fax (1) 82663**] for fever, chills,
+shortness of breath, or inability to take oral fluids
+
+Followup Instructions:
+You have the following appointment's with Dr. [**Last Name (STitle) 1729**],
+[**Telephone/Fax (1) 22**].
+[**2124-4-25**]  02:00p   XCT (TCC) [**Apartment Address(1) **]: Catscan appointment
+[**Hospital6 29**], [**Location (un) **]
+
+[**2124-5-2**]  02:30p   [**Doctor Last Name **],TUESDAY BIOLOGICS
+SC [**Hospital Ward Name **] CLINICAL CTR, [**Location (un) **]
+
+Dr. [**Last Name (STitle) 82876**] [**Doctor First Name 82877**] PCP [**Telephone/Fax (1) 82878**]
+[**4-3**] at 2:15pm
+
+We will fax a copy of your discharge paperwork to Dr. [**Last Name (STitle) **].
+
+Visiting Nursing: [**Telephone/Fax (1) 82879**]
+
+
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 9601**] MD, [**MD Number(3) 9602**]
+

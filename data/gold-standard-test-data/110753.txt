@@ -1,0 +1,400 @@
+Admission Date:  [**2182-12-4**]              Discharge Date:   [**2182-12-10**]
+
+Date of Birth:  [**2151-12-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lamictal
+
+Attending:[**First Name3 (LF) 4765**]
+Chief Complaint:
+Pericardial Effusion
+
+Major Surgical or Invasive Procedure:
+Pericardial Window
+Right Heart Catheterization and attempted Pericardiocentesis
+
+
+History of Present Illness:
+This is a 30 y/o F with h/o Depression, PTSD, bipolar disorder
+who is admitted after Echo showed early sings of tamponade.
+.
+Patient was seen on [**2182-11-29**] at [**Hospital 191**] clinic with multiple
+complains, including disphagia, dysuria and abdominal pain. A Ct
+scan was done on [**2182-12-2**] that did not reveal any intraabdominal
+pathologies, but it showed a large pericardial effusion. She had
+an Echocardiogram on [**2181-12-4**] that showed + RA collapse, pulses
+in clinic 15-20. BP 100/60, HR 100 so she was refered for
+pericardiocentesis.
+.
+She reports that over last 6 weeks, she had join aches, fatigue,
+sore thorat, + dry ocugh and low grade fevers. Over last 2
+weeks, she had worsening shortness of breath on exertion,
+feeling more fatigue while walking or going up stairs. Also
+reports, increase orthopnea going from 2 to 5 pillows. She also
+had ongoing episodic abdominal pain over last month. Diffusse,
+not nausea of vomit. Intermittent loose stools.
+.
+In the cath lab, multiple attempts to acces fluid by subxiphoid
+approach failed. Pressures RA 7, RV 18/1/6, PA 14/7/10, PCW 3.
+Echo post procedure showed a moderate to large sized pericardial
+effusion with brief right atrial diastolic collapse. There was
+also intermittent, localized (inferior RV free wall) RV
+compression suggestive of elevated intrapericardial pressure
+and/or early, focal tamponade.
+.
+Patient was transfer to CCU for monitoring.
+.
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery. No urinary symptoms.
+.
+*** Cardiac review of systems is notable for + chest thitgness,
+dyspnea on exertion, orthopnea. No ankle edema.
+
+
+Past Medical History:
+Depression
+Post traumatic disorder
+Border line personality disorder
+Dissociative identity disorder
+Sexual aversion disorder
+Conversion disorder
+Anorexia
+h/o self harm and suicidal ideation
+GERD
+Premature ovarian failure
+Migraines
+Chornic fatigue syndrome
+CKD likely secondary to lithium
+Inflammatory arthorpathy - likely psoriatic arthritis
+Fibromyalgia
+Osteopenia
+Mitral valve prolapse
+Pituitary adenoma
+.
+Cardiac Risk Factors: Diabetes (-), Dyslipidemia (-),
+Hypertension (-
+
+Social History:
+Lives in a group home. Cambrige.
+works partime as pharmacy technician. NO smoking, alcohol or
+illicit drug use.
+
+Family History:
+Mother, grand mother, and grand grand mother with breast cancer.
+
+
+
+Physical Exam:
+VS: T 97.3, BP 118/75 , HR 68 , RR17 , O2 %100 2L
+Pulses: 4mmHg
+Gen: non apparent distress, pale
+HEENT: Sclera anicteric. Pale conjuctiva. dry oral mucose.
+Neck: JVP flat.
+CV: RRR, s1-s2 normal,no murmurs, rubs or gallops appreciated.
+Chest: Clear to auscultation anteriorly
+Abd: soft, mild diffuse tenderness, no rebound
+Ext: No edema. distal pulses preserved.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses: strong distally
+Skin: no hematoma on groin site. subxiphoid incision clean.
+
+Pertinent Results:
+EKG: NSR, her 83, normal axis, normal intervals, no t wave or st
+changes
+
+[**2182-12-4**] 12:45PM   WBC-5.1 RBC-3.68* HGB-12.1 HCT-34.2* MCV-93
+MCH-32.8* MCHC-35.4* RDW-12.6
+[**2182-12-4**] 12:45PM   PLT COUNT-178
+[**2182-12-4**] 12:45PM   GLUCOSE-115* UREA N-22* CREAT-1.6* SODIUM-142
+POTASSIUM-4.8 CHLORIDE-108 TOTAL CO2-24 ANION GAP-15
+[**2182-12-4**] 05:52PM   WBC-4.6 RBC-3.73* HGB-11.7* HCT-35.3* MCV-95
+MCH-31.2 MCHC-33.0 RDW-12.6
+[**2182-12-4**] 05:52PM   NEUTS-81.2* LYMPHS-14.4* MONOS-3.2 EOS-0.9
+BASOS-0.3
+[**2182-12-4**] 05:52PM   TSH-1.3
+[**2182-12-4**] 05:52PM   GLUCOSE-151* UREA N-20 CREAT-1.5* SODIUM-142
+POTASSIUM-4.3 CHLORIDE-109* TOTAL CO2-25 ANION GAP-12
+[**2182-12-4**] 05:52PM   CALCIUM-9.3 PHOSPHATE-2.8 MAGNESIUM-2.3
+[**2182-12-7**] 09:22AM BLOOD WBC-2.5* RBC-3.39* Hgb-10.8* Hct-32.3*
+MCV-95 MCH-31.9 MCHC-33.5 RDW-12.4 Plt Ct-137*
+[**2182-12-10**] 06:10AM BLOOD WBC-4.3 RBC-3.68* Hgb-11.8* Hct-35.7*
+MCV-97 MCH-32.2* MCHC-33.2 RDW-13.0 Plt Ct-220
+[**2182-12-10**] 06:10AM BLOOD Glucose-98 UreaN-17 Creat-1.5* Na-142
+K-3.8 Cl-111* HCO3-24 AnGap-11
+[**2182-12-7**] 09:22AM BLOOD TotProt-4.9* Calcium-8.5 Phos-2.9 Mg-1.8
+[**2182-12-7**] 09:22AM BLOOD LD(LDH)-124
+[**2182-12-6**] 06:59AM BLOOD Cryoglb-NO CRYOGLO
+[**2182-12-4**] 05:52PM BLOOD TSH-1.3
+[**2182-12-6**] 06:59AM BLOOD ANCA-NEGATIVE B
+[**2182-12-6**] 06:59AM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2182-12-6**] 06:59AM BLOOD RheuFac-6 CRP-1.0
+[**2182-12-6**] 06:59AM BLOOD C3-88* C4-27
+[**2182-12-9**] 04:40AM BLOOD HIV Ab-NEGATIVE
+[**2182-12-9**] 03:55AM BLOOD PARVOVIRUS B19 ANTIBODIES (IGG & IGM)-PND
+[**2182-12-7**] 01:21PM BLOOD DNA AUTOANTIBODIES, SS-Test
+[**2182-12-7**] 01:21PM BLOOD SM ANTIBODY-Test
+[**2182-12-7**] 01:21PM BLOOD RO & [**Name Prefix (Prefixes) **]-[**Last Name (Prefixes) **]
+[**2182-12-7**] 01:21PM BLOOD RNP ANTIBODY-Test
+[**2182-12-7**] 01:21PM BLOOD ANTI-HISTONE ANTIBODY-Test
+[**2182-12-6**] 06:59AM BLOOD SCLERODERMA ANTIBODY-Test
+[**2182-12-6**] 06:59AM BLOOD CYCLIC CITRULLINATED PEPTIDE (CCP)
+ANTIBODY, IGG-Test
+
+[**12-7**] Pericardial Fluid:
+[**2182-12-7**] 12:02 pm FLUID,OTHER
+   GRAM STAIN (Final [**2182-12-7**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+   FLUID CULTURE (Final [**2182-12-10**]):    NO GROWTH.
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+   ACID FAST SMEAR (Final [**2182-12-9**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+   ACID FAST CULTURE (Pending):
+[**2182-12-7**] 12:02PM
+Report Comment:
+PERICARDIAL FLUID
+ANALYSIS
+WBC, Other Fluid 130* #/uL 0 - 0
+RBC, Other Fluid 7760* #/uL 0 - 0
+ Polys 0 % 0 - 0
+ Lymphocytes 58* % 0 - 0
+ Monos 7* % 0 - 0
+ Macrophage 33* % 0 - 0
+ Other Cell 2* % 0 - 0
+Pericardial Fluid Adenosine Deaminase - negative
+
+[**2182-12-9**] TTE: Left ventricular wall thickness, cavity size, and
+systolic function are normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. There is no
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2182-12-6**], the
+pericardial effusion has resolved.
+.
+[**2182-12-6**] TTE: There is a moderate to large sized pericardial
+effusion. The effusion appears circumferential. There is
+sustained right atrial collapse, consistent with low filling
+pressures or early tamponade. There is mild right ventricular
+diastolic collapse, consistent with impaired fillling/tamponade
+physiology.
+
+Compared with the findings of the prior study (images reviewed)
+of [**2181-12-4**], the pericardial effusion is similar in size;
+however, left atrial chamber invagination is now present. In
+addition, the right ventricvle appears somewhat more compressed
+.
+[**2182-12-4**] Cath: . Pericadial effusion without clinical signs of
+tamponade
+and with normal RA pressure.
+2.  Unsuccesful pericardiocentesis. Multiple attempts to access
+the
+pericardial space using a subxiphoid approach were unsuccesful.
+TTE
+obtained during the procedure showed anterior collection but not
+at apex
+and beneath liver edge. Despite echo guidance, the operator was
+still
+unable to enter the pericardial space. The patient developed
+left
+shoulder pain during the procedure attempts that resolved with
+removal
+of the needle.
+
+FINAL DIAGNOSIS:
+1. No clinical signs of tamponade, normal RA pressure.
+2. Unsuccesful pericardiocentesis
+
+
+Brief Hospital Course:
+# Pericardial effusion: On admission the patient was taken to
+cath lab for pericardiocentesis. During the procedure
+pericardial fluid was failed to be obtained. Hemodynamics
+inconsistent with tamponade physiology. The patient was admitted
+to the CCU for continued monitoring. Repeat TTE [**12-7**] demonstrated
+new LA and RV invagination. CT surgery was consulted and the
+patient was taken for pericardial window. She tolerated the
+procedure well with no complications. Drain and chest tube
+placed during procedure. Removed on [**12-10**] after repeat TTE on [**12-10**]
+demonstrated a normal left ventricular wall thickness, cavity
+size, and normal systolic function and a resolution of
+pericardial fluid. Her pericardial fluid was of unclear
+etiology. Rheumatology was consulted and her sulfasalazine was
+discontinued for concern of drug induced lupus given effusion
+and decreasing WBC. WBC did stabalize after stopping medication.
+Also concern for collagen vascular disease. Panel of autoimmune
+antibodies pending at time of discharge. Cytology and
+pericardial biopsy also pending at time of discharge. [**Doctor First Name **] to
+evaluate for TB as cause pending. The patient did report recent
+URI symptoms, can consider pericarditis as cause of effusion.
+EBV, CMV pending. HIV negative. She also reports a family
+history of breast CA - recent mamogram WNL. The patient was
+discharged home in good condition to follow up with her PCP and
+rheumatology for further management.
+.
+# Hypotension - Pt BP range 80s-110 systolic. The patient does
+have low BP at baseline. Reported recent poor po intake and
+history of eating disorder. She received intermittent fluid
+bolus, likely due to increased insensible losses. She also has a
+history of increased urine output with lithium induced CRI.
+.
+# Psych: continued on home medications Abilify, Quetiapine
+.
+# Question of Psoriatic arthiritis: continued prednisone per
+Rheumatology recommendation. Sulfasalazine DC'd due to concern
+for drug induced lupus
+.
+# Vaginal Bleeding - During her hospitalization the patient
+reported scant vaginal bleeding. She has been post-menopausal
+for many years. She was advised to undergo further workup for
+this bleeding as outpatient. Given her past history of sexual
+abuse she has reported refusing previous pelvic examination.
+.
+# Fibromyalgia: continued tizanidine and Ultram
+
+# CKD: creatinine at baseline.
+.
+The patient is scheduled to follow up with Cardiology, CT
+surgery, Rheumatology and her PCP for further management. Also
+to follow up on outstanding pericardial fluid cytology and
+biopsy, as well as pending Autoimmune workup.
+
+
+Medications on Admission:
+Ativan 1 mg [**Hospital1 **]
+Ativan 2 mg qhs
+Colace
+Correctol 2 tab once a day (not taken over last 3 days
+Cymbalta 120 qhs
+Desmopresin 0,3mg qhs
+fioricet 100-650 PRH
+MVI
+Naproxen 250 q4h prn
+Prednisone 10 mg/daily
+Proair HFA 2 puffs inh 4-6h
+seroquel 400 TID and 800 qhs
+Sulfasalazine 1500 [**Hospital1 **]
+Synthroid 50 mcg/daily
+Topamax 75 [**Hospital1 **] 100 mg qhs
+Ultram EF 300/daily
+Vistaril 50mg QID PRN
+Zanaflex 4mg qhs
+Prilosec 40 [**Hospital1 **]
+Ranitidine 150 qhs
+Abilify 30 mg/qhs
+Hydroxizine
+prazosin
+
+Discharge Medications:
+1. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+2. Lorazepam 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+
+3. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Four (4)
+Capsule, Delayed Release(E.C.) PO HS (at bedtime).
+4. Desmopressin 0.1 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+5. Butalbital-Acetaminophen-Caff 50-325-40 mg Tablet Sig: [**12-4**]
+Tablets PO DAILY (Daily) as needed.
+6. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+7. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Quetiapine 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times
+a day).
+9. Quetiapine 200 mg Tablet Sig: Four (4) Tablet PO HS (at
+bedtime).
+10. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Topiramate 25 mg Tablet Sig: Three (3) Tablet PO BID (2
+times a day).
+12. Topiramate 100 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+13. Hydroxyzine HCl 25 mg Tablet Sig: Two (2) Tablet PO QID (4
+times a day) as needed.
+14. Tizanidine 2 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+15. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+16. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+17. Prazosin 1 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+18. Aripiprazole 10 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime).
+19. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day) as needed.
+20. Ultram ER 300 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+21. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+every 4-6 hours as needed.
+22. Correctol 5 mg Tablet Sig: One (1) Tablet PO once a day as
+needed.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+1. Pericardial Effusion
+2. Pericarditis - Post Viral
+Secondary:
+1. Chronic Renal Insufficiency
+2. Inflammatory Arthropathy
+
+
+Discharge Condition:
+Good, Clinically Improved
+
+
+Discharge Instructions:
+You were admitted with a fluid collection around your heart
+called a pericardial effusion. You underwent a catheterizaton to
+attempt drainage of this effusion however no fluid could be
+obtained. You then underwent a pericardial window by
+cardiothoracic surgery to open your pericardial space to drain
+the fluid.
+.
+Your workup from your pericardial effusion has been negative to
+date. The cytology and biopsy from your procedure are still
+pending as well as viral studies. You will follow up with
+Cardiology and Rheumatology for further workup.
+.
+Your medication Sulfasalazine has been discontinued. You should
+continue to take your medication Prednisone 10mg daily until
+follow up with Dr. [**Last Name (STitle) **] in Rheumatology.
+.
+You continue to have a high urine output related to your kidney
+disease. Please continue to drink plenty of caffeine free fluids
+at home. If you develop lightheadedness please return or call
+your primary care physician.
+.
+You have complained of occassional vaginal spotting during your
+hospital stay. You should follow up with your primary care
+physician for further workup.
+.
+If any chest pain, shortness of breath, fevers or any other
+sympotms that may concern you, plaease call your PCP or come to
+the emergency department
+
+Followup Instructions:
+Please follow up with Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 437**] regarding your pericardial
+effusion, in the cardiology clinic. An appointment has been made
+for you on [**2183-1-1**] @ 10AM, in the [**Hospital Ward Name 23**] Clinical Center, [**Location (un) **].  Please call [**Telephone/Fax (1) **] if you have any questions or
+concerns about this appointment.
+.
+Please follow-up with your primary care physician [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) 1022**] [**Last Name (NamePattern1) **]
+Phone:[**Telephone/Fax (1) 5808**] Date/Time:[**2182-12-26**] 10:20
+.
+Please follow-up with your Rheumatologist Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+Phone:[**Telephone/Fax (1) 2226**] Date/Time:[**2182-12-19**] 8:30
+.
+Please follow up with Cardiothoracic Surgery with Dr. [**Last Name (STitle) 72103**]
+[**Name (STitle) 914**] in the [**Hospital Unit Name **], [**Location (un) **] CARDIAC SURGERY LMOB 2A
+Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2182-12-25**] 2:00
+
+
+

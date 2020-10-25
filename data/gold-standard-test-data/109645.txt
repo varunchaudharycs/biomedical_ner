@@ -1,0 +1,272 @@
+Admission Date:  [**2116-8-11**]              Discharge Date:   [**2116-8-14**]
+
+Date of Birth:  [**2057-7-21**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1973**]
+Chief Complaint:
+alcohol withdrawal
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+59M known for EtOH abuse and HTN initially presented to [**Hospital1 18**] ED
+morning of [**8-11**] from [**Hospital 1680**] rehab for EtOH withdrawal, was
+discharged back to [**Hospital1 1680**] and then represented to ED in PM of
+[**8-11**] for concern for delerium tremens.
+Per [**Hospital **] rehab records, pt's last drink was reportedly on
+Sunday, [**8-9**]. He was sectioned to [**Hospital1 1680**] on [**8-10**] for rehab.
+Initial ED course: 98.6 HR: 67 BP: 104/70 Resp: 18 O(2)Sat: 96%
+RA. He complained of confusion, tremulousness, unsteady gait and
+visual hallucinations which he could bring on by closing his
+eyes. Labs significant for cr of 1.8, K 2.9, AG 15, CBC with
+crit 32.4, wbc 5.9, plt 111. He was given 60mEq of K+ and given
+valium. As per ED attending discharge, "The patient is not
+actively withdrawing
+from alcohol the emergency department as he has a CIWA scale
+less than 10." He was discharged back to [**Hospital1 1680**] detox.
+This afternoon, while back at [**Hospital1 1680**], he became more ataxic,
+confused and aggressive and combative towards staff and was
+subsequently brought back to [**Hospital1 18**] ED for re-evaluation of etoh
+w/drawal. While at [**Hospital1 1680**], he apparently had two witnessed falls
+without head trauma or LOC. Per nurse manager at [**Hospital1 1680**], he also
+urinated on the floor and had one episode of NBNB vomiting 24hrs
+prior to presentation in ED.
+Second ED course: T97.8 P98 BP110/75 RR18 O2:98% RA. As per EMS,
+orthostatics were checked and negative. He was reportedly
+combative and confused but PE was unremarkable for any focal
+neurologic findings with the exception of ataxia. He had no
+stigmata of chronic liver disease and per hx obtained through
+staff at [**Name (NI) 1680**], pt did not have any complaints of abdominal
+pain, diarrhea, cough, headache, fever, chills.
+Pt was given 5mg haldol and 2mg IV ativan. Labs were significant
+for improved chem 7 with K now 3.5, and cr now 1.0. AG had
+resolved. Mg was 1.3 and Ca 8.3. CBC grossly unchanged from
+earlier in the day. Head CT without any acute findings.
+EKG x2 revealed leftward axis deviation but otherwise
+unremarkable.
+While in the [**Name (NI) **] pt did not have any significant acid-base or
+electrolyte disturbances, no hemodynamic or respiratory
+instability, hyperthermia, tremors or tachycardia. As per
+nursing signout, his CIWA score was 5 at time of transfer.
+
+
+Past Medical History:
+HTN
+EtOH abuse with h/o DTs
+depression
+IBS
+
+
+Social History:
+divorced
+- Tobacco:no
+- Alcohol:yes
+- Illicits:?
+
+
+Family History:
+Noncontributory
+
+
+Physical Exam:
+VS: Afebrile, 82, 118/68, RR 121 94%RA
+General: sleeping, combative when awoken
+HEENT: Refused this part of the exam
+Neck:
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, non-distended
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: alseep, slightly combative, moving all extremities
+
+
+Pertinent Results:
+Admission Labs:
+[**2116-8-11**] 12:30PM BLOOD WBC-5.9 RBC-3.22* Hgb-11.3* Hct-32.4*
+MCV-101* MCH-35.1* MCHC-34.9 RDW-20.7* Plt Ct-114*
+[**2116-8-11**] 12:30PM BLOOD Neuts-65.3 Lymphs-23.5 Monos-9.1 Eos-1.8
+Baso-0.3
+[**2116-8-11**] 12:30PM BLOOD Glucose-85 UreaN-20 Creat-1.8* Na-142
+K-2.9* Cl-100 HCO3-27 AnGap-18
+[**2116-8-11**] 11:00PM BLOOD Calcium-8.3* Phos-2.8 Mg-1.3*
+[**2116-8-11**] 12:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-POS Barbitr-NEG Tricycl-NEG
+[**2116-8-11**] 01:45PM URINE bnzodzp-POS barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+Relevant labs:
+[**2116-8-12**] 04:38AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.008
+[**2116-8-12**] 04:38AM URINE Blood-TR Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+[**2116-8-12**] 04:38AM URINE RBC-4* WBC-<1 Bacteri-FEW Yeast-NONE
+Epi-0
+
+Discharge labs:
+[**2116-8-13**] 07:15AM BLOOD WBC-4.6 RBC-3.48* Hgb-12.2* Hct-35.6*
+MCV-103* MCH-35.1* MCHC-34.2 RDW-20.8* Plt Ct-153
+[**2116-8-13**] 07:15AM BLOOD PT-10.1 PTT-30.9 INR(PT)-0.9
+[**2116-8-13**] 07:15AM BLOOD Glucose-100 UreaN-20 Creat-1.0 Na-141
+K-3.5 Cl-104 HCO3-25 AnGap-16
+[**2116-8-13**] 07:15AM BLOOD Calcium-9.0 Phos-3.1 Mg-1.6
+[**2116-8-13**] 07:15AM BLOOD VitB12-484 Folate-8.6
+
+Imaging:
+[**2116-8-11**] CXR PA/lat: Bilateral low lung volumes are noted with
+crowding of bronchovascular markings.  Cardiac silhouette is
+accentuated by low lung volumes. Thoracic aorta is quite
+tortuous and may be enlarged in ascending or descending
+portions. Clinical correlation is indicated to see if
+imaging is indicated.  No acute focal consolidation, pleural
+effusion or
+pneumothorax.
+
+[**2116-8-11**] non-contrast CT head: There is no evidence for acute
+intracranial hemorrhage, large mass, mass effect, edema, or
+hydrocephalus.  There is preservation of [**Doctor Last Name 352**]-white matter
+differentiation.  The basal cisterns appear patent.  Prominent
+ventricles and sulci suggest age-related involutional changes.
+Note is made of a persistent cavum septum pellucidum.  The
+visualized portions of the paranasal sinuses and mastoid air
+cells appear well aerated.  No acute bony abnormality is
+detected.
+IMPRESSION:  No CT evidence for acute intracranial process.
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 59 M with PMH EtOH abuse, IBS and depression,
+admitted from [**Hospital1 1680**] for management of EtOH withdrawal and
+concern for [**Hospital 90022**] hospital course complicated by [**Last Name (un) **].
+
+ACTIVE ISSUES:
+# Alcohol withdrawal, concern for DTs, Adverse Drug Reaction
+- Patient was agitated on arrival and ataxic and there was
+concern that he was going into DTs, despite being on librium at
+the detox facility. In the ED he received 5mg Haldol for acute
+agitation.  He was admitted to the MICU for management of
+withdrawal and close monitoring. He was not tachycardic or
+hypertensive. In the MICU, he was treated with diazepam per CIWA
+scale (most recently [**Doctor Last Name **] ~5), as well as thiamine and folate
+(recently transitioned to PO). Non-contrast head CT (for eval
+given falls) showed no ICH.  After transfer to the floor,
+patient was calm and appropriate, with little memory of what had
+brought him to the hospital; he felt that his what had been
+described to him was not consistent with his character.
+Psychiatry was consulted to evaluate whether bizarre behavior at
+[**Hospital1 1680**] may have had an alternative explanation.  Consult
+theorized that patient's presentation was more consistent with
+benzodiazepene intoxication than alcohol withdrawal.
+
+# Acute Renal Failure due to Dehydration:
+Initial Cr was 1.8, but improved to 1.0 on second chem panel
+without any intervention.
+
+CHRONIC:
+# Depression:
+Patient reported history of depression, which was impetus for
+him to resume excess alcohol consumption.  He denied depression
+during this admission.  He was provided with resources by SW.
+Psychiatry evaluation was performed who felt he was completely
+safe to discharge, and was not particularly depressed at this
+time. No SI/HI.
+
+# thrombocytopenia/Anemia:
+likely EtOH induced marrow suppression given h/o etoh abuse,
+elevated MCV. Stable throughout admission
+
+# Benign Hypertension:
+No acute exacerbation of chronic issue, pt. was continued on
+home dose of amlodipine.
+
+TRANSITIONAL ISSUES:
+# Caution with benzodiazepenes during withdrawal.
+# Recommended to have close follow up for depression.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from Patient.
+1. Amlodipine 5 mg PO DAILY
+
+
+Discharge Medications:
+1. FoLIC Acid 1 mg PO DAILY
+start [**8-12**]
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet
+Refills:*0
+2. Multivitamins W/minerals 1 TAB PO DAILY
+start on [**8-12**]
+RX *multivitamin,tx-minerals   1 tablet(s) by mouth daily Disp
+#*30 Tablet Refills:*0
+3. Thiamine 500 mg IV DAILY Duration: 3 Days
+RX *thiamine HCl 50 mg 1 tablet(s) by mouth daily Disp #*30
+Tablet Refills:*0
+4. Amlodipine 5 mg PO DAILY
+5. Lorazepam 0.5 mg PO Q8H:PRN anxiety
+RX *lorazepam 0.5 mg 1 tablet by mouth every eight hours Disp
+#*15 Tablet Refills:*0
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+alcohol withdarawal
+benzodiazepine intoxication
+
+SECONDARY DIAGNOSES:
+HTN
+depression/anxiety
+IBS
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known lastname **],
+
+You were transferred to [**Hospital1 69**]
+from [**Hospital 1680**] Hospital for concern that you were behaving
+abnormally. You were treated for alcohol withdrawal, which may
+have contributed to your symptoms. You were given
+benzodiazepines, intravenous fluid and vitamin supplementation.
+During this hospitalization, you returned to behaving like your
+normal self. You were seen by the psychiatry team who believe
+that your abnormal behavior may also have been in part due to
+side effects from the medication used to treat your alcohol
+withdrawal.
+
+You complained of anxiety while in the hospital. We have given
+you a 3 day prescription for an anti-anxiety medication to treat
+your symptoms until you can see your primary care physician who
+will take over management of your anxiety.
+
+MEDICATION CHANGES:
+START-lorazepam (Ativan) 0.5 mg by mouth as needed for anxiety,
+up to one every 8 hours.
+
+Followup Instructions:
+Name: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 11182**] [**Name8 (MD) **], NP
+Location: [**Hospital1 **] FAMILY PHYSICIANS
+Address: [**Street Address(2) 89231**], [**Hospital1 **],[**Numeric Identifier 89232**]
+Phone: [**Telephone/Fax (1) 39393**]
+Appt:  [**8-18**] at 11:20am
+NOTE:  This appointment is with a member of  Dr [**Last Name (STitle) **]??????s team as
+part of your transition from the hospital back to your primary
+care provider.
+
+
+

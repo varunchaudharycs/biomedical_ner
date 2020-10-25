@@ -1,0 +1,559 @@
+Admission Date:  [**2196-10-26**]              Discharge Date:   [**2196-11-30**]
+
+Date of Birth:  [**2118-7-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3043**]
+Chief Complaint:
+Cellulitis/DVT
+
+Major Surgical or Invasive Procedure:
+Thoracentesis (x2)
+Placement of Chest Tube
+Pleurodesis
+Abdominal paracentesis (x4)
+PICC line placement
+
+
+History of Present Illness:
+This is a 78 year old man with history notable for extensive
+pulmonary asbestosis, atrial fibrillation, and RP fibrosis s/p
+ureterolysis and omental wrap who presented to an outside
+hospital on [**2196-10-26**] for elective hernia repair.   The patient
+has long been awaiting repair of a large inguinal hernia and
+ventral hernia and had stopped taking his coumadin 10 days prior
+to presentation (he is on this for atrial fibrillation) in order
+to get these procedures completed.  Over the week prior to
+presentation he had also noted worsening left lower extremity
+edema and increasing abdominal girth with worsening of his
+preexisting vental hernia.   Other review of systems notable for
+some nonproductive cough as well as general fatigue and
+decreased mobility for the past month, which he largely
+attributed to his impressive hydrocele.  He denied any
+fevers,chest pain, orthopnea, or PND.
+
+At the outside hospital initial evaluation revealed abdominal
+wall erythema concerning for cellulitis as well as a swollen
+left lower extremity.   Ultrasound showed left common femoral
+vein DVT.  He was transferred to [**Hospital1 18**] for further management.
+
+On arrival he complained of fatigue and discomfort from his
+large hernias.  No other issues.
+
+Past Medical History:
+-asbestosis
+-atrial fibrillation
+-ureterolysis
+-RP fibrosis (presumed idiopathic)
+-omental wrap
+
+
+Social History:
+The patient worked as a steam engineer for over 40 years.  He
+reports significant asbestos exposure over a period of several
+years.  He lives with his wife of 58 years.  He denies TOB or
+drug use and says he drinks alcohol only very occasionally.
+
+
+Family History:
+Father died of complications of pernicious anemia, mother died
+at age 66 of ??????heart problems??????.  [**Name2 (NI) **] brother died of an MI at
+age 53, both younger brothers died of CVD in their 40??????s.  One
+sister died of complications of alcoholism at 66, another sister
+died at age 68 of cerebral hemorrhage.  His one remaining
+sibling, a sister, is 77 and well.
+
+
+Physical Exam:
+On Presentation:
+T=94.7 HR 60 BP 153/56 RR30 93% NRB
+PHYSICAL EXAM
+GENERAL: Pleasant, speaking in full sentences
+HEENT: Normocephalic, atraumatic. No conjunctival pallor. No
+scleral icterus. PERRLA. dry mmm. OP clear. Neck Supple, No LAD.
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs,
+rubs or [**Last Name (un) 549**]. no elevation of JVD
+LUNGS: decreased breath sounds in lower [**2-9**] of right lung and
+poor air movement with crackles in the rest of the lung.
+ABDOMEN: large ventral hernia, multiple large other hernias. NT,
+ND. +bs
+EXTREMITIES: +2 edema to the sacrum. 1+ dorsalis pedis pulses
+bilaterally
+GU: very large scrotal hernia and scrotal edema
+SKIN: macular rash on abdomen and back
+NEURO: A&Ox3. Appropriate. CN 2-12 intact. UE and LE strength
+[**5-10**].
+PSYCH: Listens and responds to questions appropriately,
+pleasant, tangential speech.
+
+
+Pertinent Results:
+=====================
+LABORATORY RESULTS
+=====================
+BLOOD
+------
+On Presentation:
+WBC-11.5* RBC-4.20* Hgb-11.4* Hct-34.5* MCV-82 RDW-15.3 Plt
+Ct-452*
+---Neuts-84.8* Lymphs-5.1* Monos-8.7 Eos-1.0 Baso-0.4
+PT-14.2* PTT-25.5 INR(PT)-1.2*
+Glucose-105 UreaN-37* Creat-2.0* Na-140 K-5.5* Cl-107 HCO3-24
+Calcium-8.7 Phos-4.1 Mg-1.8
+
+Last Full Labs:
+WBC-16.1* RBC-3.82* Hgb-10.4* Hct-32.0* MCV-84 RDW-15.9* Plt
+Ct-649*
+---Neuts-86.8* Lymphs-3.4* Monos-8.6 Eos-0.8 Baso-0.4
+PT-15.2* PTT-37.0* INR(PT)-1.3*
+Glucose-121* UreaN-102* Creat-2.0* Na-136 K-4.2 Cl-104 HCO3-21*
+
+Other Important Labs:
+[**2196-11-4**] 07:50AM BLOOD ALT-10 AST-20 AlkPhos-60 TotBili-0.2
+[**2196-11-5**] 07:15AM BLOOD Triglyc-135 HDL-29 CHOL/HD-4.2 LDLcalc-67
+[**2196-11-18**] 03:50AM BLOOD TSH-4.1
+[**2196-11-18**] 03:50AM BLOOD Cortsol-15.9
+[**2196-11-8**] 12:52PM BLOOD PSA-0.8
+[**2196-11-9**] 07:25AM BLOOD PEP-NO SPECIFIC PEAK ID's
+
+Protein/Albumins:
+[**2196-11-4**] 07:50AM              Albumin-2.7*
+[**2196-11-5**] 07:15AM TotProt-6.4  Albumin-3.5
+[**2196-11-9**] 07:25AM TotProt-6.2*
+[**2196-11-11**] 05:00AM TotProt-5.9* Albumin-3.2*
+[**2196-11-12**] 05:37AM              Albumin-3.3*
+[**2196-11-18**] 03:50AM              Albumin-2.5*
+[**2196-11-22**] 05:56AM TotProt-4.3* Albumin-2.2*
+
+Urine
+------
+[**2196-11-25**]: Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.017 Blood-TR
+Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG
+Urobiln-NEG pH-5.5 Leuks-NEG
+RBC-2 WBC-1 Bacteri-NONE Yeast-NONE Epi-1 TransE-<1
+CastGr-18*
+
+Pleural Fluid
+---------------
+[**2196-11-13**] WBC-190* RBC-5875* Polys-11* Lymphs-59* Monos-18*
+Eos-1* Meso-11*
+TotProt-3.6 Glucose-129 LD(LDH)-116 Cholest-75 Triglyc-1120
+
+[**2196-11-15**] WBC-1000* RBC-9333* Polys-19* Lymphs-55* Monos-15*
+Eos-1* Meso-10*
+TotProt-3.5 LD(LDH)-116 Amylase-28 Albumin-2.0
+
+Peritoneal Fluid
+-----------------
+[**2196-11-5**] WBC-1875* RBC-[**Numeric Identifier **]* Polys-22* Bands-1* Lymphs-40*
+Monos-0 Macroph-37* LD(LDH)-120 Albumin-2.0 Triglyc-1304
+Adenosine Deaminase: 6.4 (Normal)
+
+[**2196-11-10**] WBC-740* RBC-3150* Polys-8* Lymphs-57* Monos-33*
+Mesothe-2*
+TotPro-3.6 LD(LDH)-114 Albumin-2.1 Triglyc-815
+
+[**2196-1-24**] WBC-570* RBC-720* Polys-58* Lymphs-27* Monos-0 Eos-1*
+Plasma-2* Mesothe-1* Macroph-11*
+TotPro-2.4 Glucose-133 LD(LDH)-139 Amylase-16 Albumin-1.4
+
+===============
+MICROBIOLOGY
+===============
+Blood Cultures *6: No growth
+Urine Cultures *4: No Growth
+Stool for C diff: Negative
+Peritoneal Fluid Culture *4: No growth
+Pleural Fluid Culture*3: No Growth
+
+===========
+PATHOLOGY
+===========
+Pleural Fluid Cytology from [**11-10**], [**11-13**], and [**11-15**]: Negative for
+Malignant Cells
+Peritoneal Fluid Cytology from [**11-5**] and [**11-13**]: Negative for
+malignant cells
+
+Pleural Fluid Immunophenotyping:
+NTERPRETATION
+Non-specific T cell dominant lymphoid profile; diagnostic
+immunophenotypic features of involvement by lymphoma are not
+seen in specimen. Correlation with clinical findings and
+morphology (see C09-[**Numeric Identifier **]) is recommended. Flow cytometry
+immunophenotyping may not detect all lymphomas as due to
+topography, sampling or artifacts of sample preparation.
+
+===============
+OTHER STUDIES
+===============
+ECG [**2196-10-26**]:
+Sinus bradycardia. Otherwise, tracing is within normal limits
+
+CT Abdomen and Pelvis W/O Contrast [**2196-10-26**]:
+IMPRESSION AND PLAN:
+1. Abnormal soft tissue encasing the retroperitoneal structures,
+surrounding the aorta and IVC, extending inferiorly along the
+presacral space. These findings are incompletely characterized
+without intravenous contrast.  Findings could reflect
+retroperitoneal fibrosis, though correlation with prior history
+or any prior imaging would be helpful. The attenuation of this
+material is not compatible with hemorrhage
+2. Complex ventral abdominal wall hernia containing fat, fluid
+and small
+bowel, without evidence of obstruction.
+3. Large left inguinal hernia, with herniation of fluid and
+sigmoid colon to the left scrotal sac.
+4. Large amount of ascites.
+5. Left external iliac, common femoral, and superficial femoral
+venous
+thrombosis.
+
+Chest Radiograph [**2196-11-1**]:
+IMPRESSION: Marked cardiac enlargement predominantly involving
+the left heart. Extensive bilateral pleural changes including
+calcifications consistent with previous asbestos exposure.
+Pulmonary vasculature demonstrates upper zone re-distribution
+pattern but no conclusive evidence for acute infiltrates.
+
+Bilateral Lower Extremity Ultrasounds [**2196-11-3**]:
+IMPRESSION:
+1. Occlusive deep venous thrombosis in the common femoral vein
+extending into the greater saphenous and deep femoral veins. Of
+note, the proximal extent of thrombus is not defined.
+2. No right lower extremity deep venous thrombosis.
+
+Spirometry [**2196-11-4**]:
+Impression:
+Marked restrictive ventilatory defect with a marked gas exchange
+defect.
+The reduced DLCO suggests an interstitial process. There are no
+prior studies available for comparison.
+
+TTE [**2196-11-4**]:
+Conclusions
+The left atrium is moderately dilated. No atrial septal defect
+is seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and
+regional/global systolic function (LVEF>55%). There is no VSD
+seen. Right ventricular chamber size and free wall motion are
+normal. The ascending aorta is mildly dilated. The aortic arch
+is mildly dilated. The aortic valve leaflets (3) are mildly
+thickened. There is a minimally increased gradient consistent
+with minimal aortic valve stenosis. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is mild mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is moderate pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+Abdominal Ultrasound w/Dopplers [**2196-11-4**]:
+IMPRESSION:
+1. Normal portal venous, hepatic venous, and hepatic arterial
+flow to the
+liver.
+2. Large amount of ascites
+
+CT Chest W/O Contrast [**2196-11-7**]:
+IMPRESSION:
+The constellation of findings including an increasing right
+pleural effusion which is moderately large, massive hiatal
+hernia, diffuse ground-glass opacities throughout the lungs
+probably infective or inflammatory, extensive calcification in
+multiple pleural plaques with extensive intra- abdominal ascites
+all contribute to the worsening respiratory status.
+The presence of an increasing pleural effusion with calcified
+and noncalcified pleural plaques in the setting of
+asbestos-related disease raises the remote possibility of
+mesothelioma.
+
+TTE [**2196-11-8**]:
+IMPRESSION: Mild concentric hypertrophy with normal
+biventricular regional and global systolic function. Moderate
+diastolic dysfunction with elevated PCWP. Mild aortic
+regurgitation. Moderate pulmonary hypertension.
+Compared with the prior study (images reviewed) of [**2196-11-4**],
+the findings are similar. A paramembranous VSD is not seen on
+either study (mentioned in initial report). The velocity across
+the aortic valve is now lower
+
+CT Chest [**2196-11-12**]:
+IMPRESSION:
+1. Large right-sided pleural effusion which has increased in
+size since the
+study performed five days prior. Associated compressive
+atelectasis of the
+right lung base. Also compressive atelectasis of the left lung
+base due to
+large hiatal hernia which is unchanged.
+2. Scattered ground-glass opacities throughout both lungs,
+stable, likely
+infectious or inflammatory in nature. No focal consolidations.
+No other
+significant changes since the prior study.
+
+Renal Ultrasound [**2196-11-12**]:
+IMPRESSION: No hydronephrosis. Non-diagnostic Doppler evaluation
+due to
+patient's inability to hold breath.
+
+CT Chest w/o Contast [**2196-11-14**]:
+FINDINGS: There has been a slight decrease in size of the large
+right pleural effusion since the previous CT on [**11-12**] with
+no pneumothorax. The right lower lobe compressive atelectasis
+remains similar and the large intrathoracic hiatal hernia now
+contains peripheral fluid tracking up from the extensive
+ascites. Otherwise, no change since the CT torso on [**2196-11-12**], and reference to the previous CT report is recommended for
+complete description of findings.
+
+KUB [**2196-11-25**]:
+FINDINGS:
+In the left anterior mid abdomen in the expected location of the
+patients
+known ventral abdominal hernia, multiple air-filled and dilated
+bowel loops
+are seen, likely involving both small and large bowel. Air is
+visualized in
+the rectum.  CT is recommended to rule out large or small bowel
+obstruction.
+
+Chest Radiograph [**2196-11-26**]:
+FINDINGS: Portable AP upright chest radiograph is compared with
+[**11-22**]
+and [**2196-11-25**]. There is a large hiatal hernia. There is
+increase in
+the right mid lung opacification, which may be atelectasis or
+pneumonia.
+There is left basal atelectasis with increasing pleural
+effusion. Within the left upper lung there is increased
+opacification, which may be secondary to infection. The right
+pigtail catheter is unchanged in position. There is
+atherosclerotic disease of the thoracic aorta.
+
+
+
+Brief Hospital Course:
+This is a 78 year old male with history of paradoxical atrial
+fibrillation, pulmonary asbestosis, and idiopathic RP fibrosis
+presenting with cellulitis and increased abdominal distension
+found to have DVT and with progressive chylous ascites.
+
+1)Chylous Ascites: The patient was noted to have a distended
+abdomen on presentation and imaging revealed a large amount of
+ascites.  As the patient had not had a previous history of
+ascites this was worked up with liver ultrasound that revealed
+no parenchymal or vascular dysfunction.  Diagnostic paracentesis
+was obtained on [**2196-11-5**] that showed chylous ascites.  This
+paracentesis also revealed >250 neutrophils so the patient was
+empirically started on a five day course of ceftriaxone though
+he remained afebrile and had no abdominal pain.  After the
+chylous ascites was discovered primary concern was for a
+malignancy given the lack of liver disease.  Multiple imaging
+studies failed to show a mass,  however, multiple fluid
+cytologies were negative, and the patient's LDH was within
+normal limits making lymphoma quite unlikely.  Therefore, most
+likely etiology of the development of chylous ascites was
+thought to be progressive lymphatic obstruction from RP fibrosis
+leading to increased hydrostatic pressure and leak into the
+peritoneal cavity.  The patient had three therapeutic
+paracentesis on [**11-14**], and [**11-29**] respectively removing 900
+cc, 3L and 1 L of chylous fluid respectively.  The second of
+these revealed a neutrophil count of 280 so led to a second
+course of five days of antibiotics with ciprofloxacin (as the
+patient was on cefepime/vanc when the paracentesis occured)
+which completed on [**2196-11-29**].  All cultures remained negative.
+Unfortunately, the patient developed secondary chylothorax from
+fluid tracking up into the pleural space causing respiratory
+distress.  Attempts were made to slow accumulation of fluid with
+medical therapies including octreotide and low fat diet then low
+fat TPN but these were unsuccessful.  General surgery was
+consulted twice and both times said that surgery to attempt to
+improve lymph drainage would be unsuccessful as structures are
+very small and diffuse and post-surgical scarring would likely
+be as damaging as initial insult.  Case was discussed with
+thoracic surgery who thought that without clear damage to
+thoracic duct there was no indication for procedural management.
+ Finally, the possibility of lymphangiogram was discussed
+extensively with a possible intervention and balloon dilation of
+cisterna chyli.  Unfortunately, planning MRI would have been
+required and given patient's progressively poor respiratory
+status this would have required intubation.  As lymphangiogram
+and balloon dilation are extremely uncommon procedures, odds of
+success were not considered high and risk of intubation and
+likely difficulty extubation was discussed with the family and
+patient and they elected to pursue comfort focused care.  The
+possibility of disease modifying therapy for RP fibrosis was
+discussed with rheumatology, but they said there would be no
+role for the agents used (almost all of which are immune
+suppressants) in this acutely sick individual and these things
+would be unlikely to lead to quick turn-around.
+
+2) Chylothorax/Hypoxic Respiratory Failure: The patient was
+initially noted to be hypoxic soon after admission with desats
+to the low 90's on room air.  He was seen by pulmonary who
+attributed this to ascites and his large abdomen causing
+restrictive pathology in the setting of his underlying pulmonary
+asbestosis and plaques.  This was supported by his initial PFT's
+that showed a restrictive pattern.  The patient then became
+progressively more hypoxic in the setting of an expanding right
+sided pleural effusion and a large amount of compressive
+atelectasis.  He was desatting to the low 90's on 4L O2 by nasal
+cannula when he had his first thoracentesis on [**2196-11-10**] with
+considerable improvement after the procedure.  By [**11-12**], however,
+he had reaccumulated almost completely and by [**11-13**] was
+desaturating again so that an ABG showed of O2 of around 53.
+Therefore, he was transferred to the unit while he awaited a
+second thoracentesis.  As he reaccumulated quickly again after
+that thoracentesis decision was made to place a pigtail
+catheter, which was placed on [**2196-11-15**].  Over the ensuing days
+the patient continued to put out greater than one liter of
+chylous fluid per 24 hour period despite the various
+interventions meant to reduce chylous ascites mentioned (low fat
+diets, octreotide, etc...).  On [**2196-11-29**] a pleurodesis was
+attempted in hopes of allowing eventual removal of the chest
+tube though interventional pulmonology thought this had a very
+low probability of being successful.  After the second
+thoracentesis the patient remained dependent on at least 4L of
+oxygen by nasal cannula to keep sats> 90%.  On [**11-26**] he
+desaturated to the 80's on 6L in the context of worsening
+infiltrates bilaterally but this seemed to improve with holding
+TPN and was ultimately thought most likely due to volume
+overload. However, on the day of expected discharge ([**11-30**]), his
+respiratory status worsened (oxygen saturation of 90-92% on
+non-rebreather) and he did not wish to use the mask. Given that
+comfort was the goal, he was transitioned back to nasal cannula,
+and oxygen saturations were no longer followed.
+
+3) Nutrition/Protein Loss: Initially the patient was allowed to
+eat a regular diet but in attempts at medical management he was
+converted to a low fat, high protein diet and then made NPO with
+TPN. Despite TPN his protein and albumin continued to fall
+presumably due to losses in the chest tube.   After he became
+quite volume overloaded on [**2196-11-27**] and given the minimal
+reduction in fluid output seen even with the TPN modifications
+TPN was stopped as of [**11-27**] and he was allowed to eat for
+comfort.  He and his family understand he will ultimately
+continue to become malnourished and weaker but given poor
+toleration of TPN and comfort focused care this was considered
+acceptable by them.
+
+4) Health Care Associated Pneumonia: The patient was noted to
+have intermittently elevated white counts and on [**2196-11-19**] had a
+right upper lobe infiltrate on chest radiograph and had purulent
+sputum.  Therefore, he received 9 days of cefepime/vancomycin
+with some improvement in his sputum production and stable chest
+radiograph findings.  White count failed to trend reliably. He
+was never febrile.
+
+5) LLE DVT: He was initially on heparin gtt then transitioned to
+be therapeutic on coumadin.  He was transferred back to heparin
+gtt once on the medical service and continued on this throughout
+his course there to make procedures feasible without needing a
+long warfarin wash-out. Anticoagulation with medications other
+than unfractionated heparin (enoxaparin, warfarin) was not
+optimal given his renal failure and poor nutritional status.
+
+6)Cellulitis: The patient initially received a dose of
+penicillin then a few days of cefazolin with minimal improvement
+in his abdominal rash.  He then received 10 days of vancomycin
+as well as steroid cream after dermatology thought the abdominal
+rash could be a contact dermatitis.  This led to resolution of
+his abdominal rash.
+
+7) Likely drug rash: Later in his hospitalization (around
+[**11-19**]-15th) he developed a morbilliform eruption on his
+trunk in the context of receiving a dose of
+piperacillin-tazobactam in the ICU.  This medication was stopped
+an his rash resolved.
+
+8) Hypotension: The patient developed relative hypotension in
+the hospital.  Multiple blood cultures were negative and this
+seemed stable without mental status changes or end organ
+dysfunction (except some worsening of his CKD).  This was
+thought likely due to poor cardiac return due to massive third
+spacing from his protein losses and perhaps external compression
+of the IVC by his abdomen.
+
+9) Acute Kidney Injury: The patient's baseline Cr is unclear.
+At presentation Cr was 2 then trended down to 1.5 before
+trending up again in the setting of worsening ascites and his
+general deterioration.  Renal was consulted twice and ultimately
+concluded this was likely due to poor preload and forward flow
+from the heart in the context of his third spacing and massive
+abdominal distension.  He never became oliguric or anuric.
+
+10) Atrial fibrillation: The patient developed atrial
+fibrillation with rapid ventricular response while his nodal
+agents were being held.  This broke with diltiazem and he was
+restarted on this medication with good rate control.
+
+11) Goals of Care: After extensive discussion with the family
+and patient about the lack of options for reversing the
+patient's chylous ascites accumulation and subsequent
+respiratory compromise and progressive protein wasting they
+elected to pursue comfort focused care.  Reasonably benign
+interventions (i.e. antibiotics, pleurodesis through a
+preexisting chest tube) were pursued but other aggressive cares
+were not.  Similarly oral feeds were pursued even in the face of
+a possible SBO for the patient's comfort and happiness.  His
+major goal was comfort and the family and patient understood his
+poor prognosis. When his respiratory status deteriorated on
+[**11-30**] (as above), further diagnostics and interventions were not
+pursued, and he was given morphine. He passed away in the
+evening of [**11-30**], and his family was notified. Autopsy was
+requested and will be performed at [**Hospital1 18**].
+
+Medications on Admission:
+ 1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+2. Diltiazem HCl 300 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+4. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+
+Discharge Medications:
+ Expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary Diagnoses
+==================
+Chylous Ascites Presumed Secondary to Retroperitoneal Fibrosis
+Secondary Chylothorax
+Hypoxic respiratory distress due to external compression
+Hospital Acquired Pneumonia
+Spontaneous Bacterial Peritonitis
+Acute Kidney Injury
+Cellulitis
+Left Lower Extremity DVT
+
+Secondary Diagnoses
+=====================
+Paroxysmal Atrial Fibrillation
+Pulmonary Asbestosis
+Large inguinal and ventral hernias
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+

@@ -1,0 +1,212 @@
+Admission Date:  [**2170-2-23**]              Discharge Date:   [**2170-3-7**]
+
+Date of Birth:  [**2139-11-26**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Erythromycin Base / Compazine / Morphine / Levaquin / Sulfa
+(Sulfonamides)
+
+Attending:[**First Name3 (LF) 2969**]
+Chief Complaint:
+Esophageal stricture, gastric atony and duodenal ulcer
+
+Major Surgical or Invasive Procedure:
+s/p distal esophagectomy/total gastrectomy/[**Last Name (un) **]
+esophagojejunostomy/J tube placement [**2-23**], with takeback for
+abdom compartment syndrome, oversewing of anastomoses & revision
+of J tube site [**2-24**] s/p washout on [**3-5**]
+
+History of Present Illness:
+30 F with ALL s/p BMT/chemo/XRT, esophagitis, GERD, Barrett's,
+Esophageal perf with ileal patch, esophageal dysmotility with
+multiple dilations; Gastric atony, hypergastrinemia; Duodenal
+ulcer.  Recurrent esophogeal stricture requiring dilitation q2-3
+weeks x4 over past 3-4 months. Limited po intake, High gastrin
+level presents for total gastrectomy
+
+Past Medical History:
+ALL, status post BMT [**2151**], esophageal strictures and ulcers,
+duodenal ulcers, elevated gastrin levels, Ocreotide scan [**1-11**]
+negative for gastronoma, MRSA right hip on chronic doxycycline,
+hypothyroid, hypercholesterol, COPD, depression, seizure
+disorder.
+
+[**Doctor First Name **] Hx: esophageal dilatation, perf, jejunal patch [**2158**], CCY,
+Appy
+
+Social History:
+lives with parents
+
+Physical Exam:
+General- Sedated,intubated, edemetous, very ill appearing female
+lying flat in ICU bed.
+Neuro- Pupils reactive R>L, + incteric sclera. Sedated
+HEENT- Bloody packing present in nares, + oral bleeding, ETT in
+place. generalized cervical edema.
+Cor- RRR, tachycardia
+REsp- course BS bilat, diminished
+ABD- Surgical open abd, clear adhesive barrier in place,++
+distention,+ firm, + edema,no BS.
+Skin- + edema peripherally, + jaundice.
+Extremities- +edema
+
+Pertinent Results:
+[**2170-2-23**] 12:06PM   GLUCOSE-154* LACTATE-4.2* NA+-139 K+-3.6
+CL--102
+[**2170-2-23**] 08:57PM   LACTATE-5.0*
+[**2170-2-23**] 06:03PM   HGB-8.0* calcHCT-24
+[**2170-2-23**] 07:00PM   HGB-10.7* calcHCT-32
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2170-3-7**] 10:50AM    27.5*1 3.18* 9.9* 27.5* 86.5 31.3 36.2*
+18.5* 53*2
+[**2170-3-7**] 03:32AM    26.0*1 3.15* 10.2* 27.3* 87 32.2* 37.3*
+18.8* 59*2
+1 CORRECTED FOR 41 NRBC
+ 2 VERIFIED BY SMEAR
+ [**2170-3-7**] 12:04AM    38.8* 3.33* 10.6* 28.6* 86 31.7 37.0*
+17.9* 43*
+  DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+Myelos Promyel NRBC Plasma
+[**2170-3-7**] 10:50AM    55 17* 20 6 0 0 1* 0 0   54* 1*
+WHOLE BLOOD, MISCELLANEOUS CHEMISTRY Glucose Lactate Na K Cl
+calHCO3
+[**2170-3-7**] 10:58AM      4.3*1
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2170-3-7**] 10:50AM    121* 93* 1.2*1 133 6.6*2 99 19* 22*
+SLIGHT HEMOLYSIS
+[**2170-3-7**] 03:32AM    115* 89* 1.5*1 1362 5.8*2 1022 20* 20
+SPECIMEN LIPEMIC
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili IndBili
+[**2170-3-7**] 10:50AM    79* 233*     138*   26.5*1 18.1*2 8.4
+[**2170-3-7**] 03:32AM    75* 214*     127*   23.9*1 17.6*2 6.3
+SPECIMEN LIPEMIC
+OTHER ENZYMES & BILIRUBINS Lipase
+[**2170-3-2**] 04:07AM    99*
+  CPK ISOENZYMES CK-MB cTropnT
+[**2170-2-25**] 02:02AM    4 0.12*1
+1 CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+
+[**2170-3-7**] 10:50AM      2.9*   9.3 4.7* 2.4
+SLIGHT HEMOLYSIS
+[**2170-3-7**] 03:32AM      3.3*   9.5 4.6* 2.4
+SPECIMEN LIPEMIC
+  HEMATOLOGIC Hapto
+[**2170-2-28**] 07:44AM    160
+LIPID/CHOLESTEROL Triglyc
+[**2170-2-24**] 10:15AM    911
+1 LDL(CALC) INVALID IF TRIG>400 OR NON-FASTING SAMPLE
+OTHER CHEMISTRY Ammonia
+[**2170-3-2**] 11:11AM    44
+  HEPATITIS HBsAg HBsAb HBcAb HAV Ab
+[**2170-2-24**] 04:07AM    NEGATIVE POSITIVE NEGATIVE POSITIVE
+  GASTROINTESTINAL Gastrin
+[**2170-2-24**] 08:53PM    [**2164**]*1
+1 VERIFIED BY DILUTION
+
+  HEPATITIS C SEROLOGY HCV Ab
+[**2170-2-24**] 04:07AM    NEGATIVE
+
+RADIOLOGY  Final Report
+CHEST (PORTABLE AP)  [**2170-3-7**] 2:28 AM
+Reason: please eval for infiltrate
+[**Hospital 93**] MEDICAL CONDITION:
+30F with esophageal stricture s/p esophagogastrectomy, worsening
+saturation and ventilation
+INDICATION: Esophageal stricture status post
+esophagogastrectomy.
+COMPARISON: Radiograph dated [**2170-3-5**].
+AP SUPINE VIEW OF THE CHEST: The lines and tubes are unchanged.
+There are low lung volumes. Pleural-based right apical opacity
+is unchanged. There is persistent left lower lobe atelectasis.
+IMPRESSION: No significant interval change compared to the study
+of 2 days prior with persistent left lower lobe atelectasis and
+right apical pleural- based density.
+   RADIOLOGY  Final Report
+
+ABDOMEN U.S. (COMPLETE STUDY)  [**2170-2-28**] 8:16 AM
+Reason: PT WITH [**Name (NI) 39043**], ? BILIARY OBSTRUCTION & SIGNS OF
+SHOCK LIVER
+[**Hospital 93**] MEDICAL CONDITION:
+30F s/p ex lap x 2, with gross cirrhosis, who is now developing
+hyperbili.
+REASON FOR THIS EXAMINATION:
+eval for biliary obstruction & signs of shock liver.
+ABDOMINAL ULTRASOUND:
+INDICATION: Cirrhosis, hyperbilirubinemia.
+FINDINGS: A bedside portable examination was performed. The
+study is markedly limited due to body habitus.
+Portal vein is patent, but demonstrates reversal of flow, new
+since [**2168-10-11**], probably related to underlying cirrhosi. No
+gross intrahepatic biliary ductal dilatation.
+Spleen is slightly enlarged, measuring 12.1 cm in length.
+Limited examination of the kidneys shows no frank evidence of
+hydronephrosis.
+IMPRESSION: 1) Limited examination, showing reversal of portal
+venous blood flow, new since [**2168-10-11**].
+2) No gross evidence of hydronephrosis.
+
+
+Brief Hospital Course:
+Patient underwent esophagogastectomy with rou-en-y
+reconstruction for longstangind history of esophageal stricture
+and gastric atony on [**2170-2-22**].  Overnight patient develop increase
+in need for fluid to support blood pressure as well as a bile
+leak from one of the anastomosis.  Then patient developed
+increased in abdominal bladder pressure.  She was taken urgently
+to the operating room for the revision of the anastomosis and
+wash out.  Her abdomin was unable to be closed so bogata bag was
+placed.  After the operation, patient continued to require fluid
+and pressors for blood pressure support.  Then patient became
+septic.  She was started on Xigris for treatment of septic
+shock.  She improved but continued to require full ICU care.
+Neurologically, she moved all extremities but required sedation
+and paralysis to help with oxygenation.  Cadiovascularlly, she
+was started on Xigris which initally helped with decreased in
+need for pressors but she continued to need pressors for blood
+pressure support.  She also developed atrial fibrillation which
+lead to need for amiodarone drip for a period of time.  She
+continued to need mechanical support and the need for supported
+increased for both oxygenation and ventilation over time.
+Patient also developed renal insuffiency.  Patient also
+developed shocked liver with coagulation parameters not
+responding to replacements.  On [**2170-3-5**], she developed
+leukocytosis to 40s and she was taken to the operating room for
+a washout.  Subsequently she developed multi-organ failure.
+After a discussion with family patient was made comfort measures
+only and she died after withdrawing her ventilation.
+
+
+Medications on Admission:
+Metoprolol, levoxyl, amytriptyline, paxil, colace, sulcrafate,
+doxycycline, lantus
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Hypergastrinemia
+Esophageal Strictures
+Esophageal dysmotility
+Gastric Atony
+Duodenal ulcer
+Asthma
+COPD
+Sinus tachycardia
+Gallstone panreastitis
+s/p cholecystectomy
+s/p appendectomy
+Right hip MRSA
+s/p gastrectomy with [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 39044**] and J tube
+placement
+Abdominal compartment syndrome
+Multiorgan failure
+
+Discharge Condition:
+Death
+
+
+Completed by:[**2170-3-8**]

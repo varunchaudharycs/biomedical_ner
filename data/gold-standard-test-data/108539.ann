@@ -1,0 +1,203 @@
+T1	Drug 12153 12163	amiodarone
+T2	Route 12164 12168	drip
+R1	Route-Drug Arg1:T2 Arg2:T1
+T3	Strength 12172 12181	0.5mg/min
+R2	Strength-Drug Arg1:T3 Arg2:T1
+T4	Drug 12402 12412	amiodarone
+T5	Strength 12430 12435	200mg
+R3	Strength-Drug Arg1:T5 Arg2:T4
+T6	Route 12436 12438	PO
+R4	Route-Drug Arg1:T6 Arg2:T4
+T7	Frequency 12439 12442	TID
+R5	Frequency-Drug Arg1:T7 Arg2:T4
+T8	Reason 12460 12462	VT
+R6	Reason-Drug Arg1:T8 Arg2:T4
+T9	Strength 12535 12540	400mg
+R7	Strength-Drug Arg1:T9 Arg2:T4
+T10	Strength 12586 12591	200mg
+R8	Strength-Drug Arg1:T10 Arg2:T4
+T11	Route 12592 12594	PO
+R9	Route-Drug Arg1:T11 Arg2:T4
+T12	Frequency 12595 12598	BID
+R10	Frequency-Drug Arg1:T12 Arg2:T4
+T13	Reason 1397 1399	VT
+R11	Reason-Drug Arg1:T13 Arg2:T61
+T14	Reason 14347 14360	volume status
+R12	Reason-Drug Arg1:T14 Arg2:T16
+T15	Route 14424 14426	PO
+R13	Route-Drug Arg1:T15 Arg2:T16
+T16	Drug 14427 14432	Lasix
+T17	Strength 14436 14440	20mg
+R14	Strength-Drug Arg1:T17 Arg2:T16
+T18	Frequency 14441 14446	daily
+R15	Frequency-Drug Arg1:T18 Arg2:T16
+T19	ADE 14560 14567;14568 14578	contact dermatitis
+R16	ADE-Drug Arg1:T19 Arg2:T20
+T20	Drug 14602 14615	chlorhexadine
+T21	Reason 14788 14797	erispelas
+R17	Reason-Drug Arg1:T21 Arg2:T22
+T22	Drug 14834 14844	doxycyline
+T23	Duration 14845 14855	for 7 days
+R18	Duration-Drug Arg1:T23 Arg2:T22
+T24	Reason 14887 14906	Atrial fibrillation
+R19	Reason-Drug Arg1:T24 Arg2:T25
+T25	Drug 14980 14988	coumadin
+T26	Reason 15020 15043	cardiac catheterization
+R20	Reason-Drug Arg1:T26 Arg2:T27
+T27	Drug 15067 15074	heparin
+T28	Route 15075 15079	drip
+R21	Route-Drug Arg1:T28 Arg2:T27
+T29	Drug 15374 15382	Coumadin
+T30	Reason 15402 15407	a-fib
+R22	Reason-Drug Arg1:T30 Arg2:T29
+T31	Drug 15411 15418	Digoxin
+T32	Strength 15419 15425	0.25mg
+R23	Strength-Drug Arg1:T32 Arg2:T31
+T33	Route 15426 15428	PO
+R24	Route-Drug Arg1:T33 Arg2:T31
+T34	Frequency 15429 15432	Q24
+R25	Frequency-Drug Arg1:T34 Arg2:T31
+T35	Drug 15436 15446	Lisinopril
+T36	Strength 15447 15451	40mg
+R26	Strength-Drug Arg1:T36 Arg2:T35
+T37	Route 15452 15454	PO
+R27	Route-Drug Arg1:T37 Arg2:T35
+T38	Frequency 15455 15458	Q24
+R28	Frequency-Drug Arg1:T38 Arg2:T35
+T39	Drug 15462 15467	Coreg
+T40	Strength 15468 15472	25mg
+R29	Strength-Drug Arg1:T40 Arg2:T39
+T41	Route 15473 15475	PO
+R30	Route-Drug Arg1:T41 Arg2:T39
+T42	Frequency 15476 15479	Q12
+R31	Frequency-Drug Arg1:T42 Arg2:T39
+T43	Drug 15483 15492	Mag Oxide
+T44	Strength 15493 15498	400mg
+R32	Strength-Drug Arg1:T44 Arg2:T43
+T45	Route 15499 15501	PO
+R33	Route-Drug Arg1:T45 Arg2:T43
+T46	Frequency 15502 15505	Q24
+R34	Frequency-Drug Arg1:T46 Arg2:T43
+T47	Drug 15509 15519	Lovastatin
+T48	Strength 15520 15524	20mg
+R35	Strength-Drug Arg1:T48 Arg2:T47
+T49	Route 15525 15527	PO
+R36	Route-Drug Arg1:T49 Arg2:T47
+T50	Frequency 15528 15531	Q24
+R37	Frequency-Drug Arg1:T50 Arg2:T47
+T51	Drug 15535 15544	Aldactone
+T52	Strength 15545 15551	12.5mg
+R38	Strength-Drug Arg1:T52 Arg2:T51
+T53	Route 15552 15554	PO
+R39	Route-Drug Arg1:T53 Arg2:T51
+T54	Frequency 15555 15558	Q24
+R40	Frequency-Drug Arg1:T54 Arg2:T51
+T55	Drug 15562 15572	Amiodarone
+T56	Strength 15573 15582	0.5mg/min
+R41	Strength-Drug Arg1:T56 Arg2:T55
+T58	Drug 166 177	Penicillins
+T59	Dosage 1673 1685	loading dose
+R43	Dosage-Drug Arg1:T59 Arg2:T61
+T60	ADE 16875 16890	contact allergy
+R44	ADE-Drug Arg1:T60 Arg2:T62
+T61	Drug 1689 1699	amiodarone
+T62	Drug 16895 16908	chlorhexidine
+T63	ADE 17006 17015	skin rash
+R45	ADE-Drug Arg1:T63 Arg2:T62
+T64	Drug 17075 17086	antibiotics
+T65	Drug 17149 17159	Amiodarone
+T66	Strength 17177 17182	400mg
+R46	Strength-Drug Arg1:T66 Arg2:T65
+T67	Frequency 17183 17194	TWICE daily
+R47	Frequency-Drug Arg1:T67 Arg2:T65
+T68	Duration 17195 17210	for 3 more days
+R48	Duration-Drug Arg1:T68 Arg2:T65
+T69	Strength 17229 17235	400 mg
+R49	Strength-Drug Arg1:T69 Arg2:T65
+T70	Frequency 17236 17246	once daily
+R50	Frequency-Drug Arg1:T70 Arg2:T65
+T71	Drug 17345 17365	Metoprolol Succinate
+T72	Reason 17382 17393;17394 17405	ventricular tachycardia
+R51	Reason-Drug Arg1:T72 Arg2:T71
+T73	Drug 17420 17430	Carvedilol
+T74	Drug 17432 17441	Magnesium
+T75	Drug 17446 17453	Digoxin
+T76	Drug 17477 17485	Warfarin
+T77	Strength 17489 17492	4mg
+R52	Strength-Drug Arg1:T77 Arg2:T76
+T78	Frequency 17493 17498	daily
+R53	Frequency-Drug Arg1:T78 Arg2:T76
+T79	Drug 17604 17615	clindamycin
+T80	Drug 17620 17630	antibiotic
+T81	Reason 17635 17652;17653 17668	prevent infection at the ICD site
+R55	Reason-Drug Arg1:T81 Arg2:T80
+T82	Drug 17684 17691	Tylenol
+T83	Frequency 17692 17701	as needed
+R56	Frequency-Drug Arg1:T83 Arg2:T82
+T84	Reason 17706 17710	pain
+R57	Reason-Drug Arg1:T84 Arg2:T82
+T85	Drug 17742 17751	Lorazepam
+T86	Reason 17768 17775	anxiety
+R58	Reason-Drug Arg1:T86 Arg2:T85
+T87	Reason 17779 17784	sleep
+R59	Reason-Drug Arg1:T87 Arg2:T85
+T88	Drug 180 188	Dilaudid
+T89	Drug 18047 18057	amiodarone
+T90	Drug 18201 18211	amiodarone
+T91	Drug 18324 18334	amiodarone
+T92	Drug 191 204	Chlorhexidine
+T93	Drug 2211 2219	dilaudid
+T94	Reason 2224 2240	chest discomfort
+R60	Reason-Drug Arg1:T94 Arg2:T93
+T95	ADE 2261 2266	flush
+R61	ADE-Drug Arg1:T95 Arg2:T93
+T96	ADE 2276 2287	diaphoresis
+R62	ADE-Drug Arg1:T96 Arg2:T93
+T97	Drug 2354 2367	nitroglycerin
+T98	ADE 2386 2408	blood pressure to drop
+R63	ADE-Drug Arg1:T98 Arg2:T97
+T99	Drug 2445 2455	amiodarone
+T100	Strength 2459 2464	400mg
+R64	Strength-Drug Arg1:T100 Arg2:T99
+T101	Reason 2515 2519	NSVT
+R65	Reason-Drug Arg1:T101 Arg2:T104
+T102	Strength 2586 2591	400mg
+R66	Strength-Drug Arg1:T102 Arg2:T104
+T103	Frequency 2592 2595	TID
+R67	Frequency-Drug Arg1:T103 Arg2:T104
+T104	Drug 2599 2603	amio
+T105	Reason 2640 2644	NSVT
+R68	Reason-Drug Arg1:T105 Arg2:T107
+T107	Drug 2662 2666	amio
+T108	Strength 2670 2677	1mg/min
+R70	Strength-Drug Arg1:T108 Arg2:T107
+T109	Strength 2704 2713	0.5mg/min
+R71	Strength-Drug Arg1:T109 Arg2:T107
+T110	Reason 2890 2892	VT
+R72	Reason-Drug Arg1:T110 Arg2:T111
+T111	Drug 2927 2931	amio
+T112	Route 2932 2936	drip
+R73	Route-Drug Arg1:T112 Arg2:T111
+T113	Strength 2952 2962	1mg/minute
+R74	Strength-Drug Arg1:T113 Arg2:T111
+T114	Drug 3111 3115	Vanc
+T115	Reason 3116 3119	ppx
+R75	Reason-Drug Arg1:T115 Arg2:T114
+T116	Drug 3140 3145	Coreg
+T117	Strength 3163 3165	25
+R76	Strength-Drug Arg1:T117 Arg2:T116
+T118	Drug 3184 3192	Coumadin
+T119	Drug 3203 3212	mag oxide
+T120	Reason 3227 3250	a-fib better controlled
+R77	Reason-Drug Arg1:T120 Arg2:T119
+R78	Reason-Drug Arg1:T120 Arg2:T122
+R79	Reason-Drug Arg1:T120 Arg2:T121
+T121	Drug 3272 3279	digoxin
+T122	Drug 3284 3294	lisinopril
+T123	Reason 17006 17015;17016 17043	skin rash became secondarily infected
+R80	Reason-Drug Arg1:T123 Arg2:T64	
+R54	Reason-Drug Arg1:T81 Arg2:T79	
+T57	Route 2659 2661	IV
+R42	Route-Drug Arg1:T57 Arg2:T107	
+T106	Route 15583 15585	IV
+R69	Route-Drug Arg1:T106 Arg2:T55	

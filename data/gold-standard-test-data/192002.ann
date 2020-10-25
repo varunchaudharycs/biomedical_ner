@@ -1,0 +1,304 @@
+T1	Drug 5707 5717	Vancomycin
+T2	Drug 5722 5727	Zosyn
+T3	Reason 5732 5752	aspiration pneumonia
+R1	Reason-Drug Arg1:T3 Arg2:T2
+R2	Reason-Drug Arg1:T3 Arg2:T1
+T4	Drug 5932 5944	azithromycin
+T5	Drug 6034 6044	Vancomycin
+T6	Drug 6049 6054	Zosyn
+T7	Reason 6070 6090	aspiration pneumonia
+R3	Reason-Drug Arg1:T7 Arg2:T5
+R4	Reason-Drug Arg1:T7 Arg2:T6
+T9	Drug 6255 6266	antibiotics
+T10	Duration 6282 6288	7 days
+R6	Duration-Drug Arg1:T10 Arg2:T9
+T11	Reason 6369 6377	Seizures
+R7	Reason-Drug Arg1:T11 Arg2:T12
+T12	Drug 6467 6475	Dilantin
+T13	Reason 6723 6740	Diabetes Mellitus
+R8	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 6772 6779	insulin
+T15	Reason 6792 6804	Hypertension
+R9	Reason-Drug Arg1:T15 Arg2:T16
+R10	Reason-Drug Arg1:T15 Arg2:T17
+R11	Reason-Drug Arg1:T15 Arg2:T18
+T16	Drug 6831 6833	BB
+T17	Drug 6835 6846	Hydralazine
+T18	Drug 6851 6861	Lisinopril
+T19	Route 7085 7087	SC
+R12	Route-Drug Arg1:T19 Arg2:T20
+T20	Drug 7088 7095	Heparin
+T21	Reason 7100 7103;7104 7107	DVT ppx
+R13	Reason-Drug Arg1:T21 Arg2:T20
+T22	Drug 7172 7182	Lisinopril
+T23	Strength 7183 7187	60mg
+R14	Strength-Drug Arg1:T23 Arg2:T22
+T24	Route 7192 7198	G tube
+R15	Route-Drug Arg1:T24 Arg2:T22
+T25	Frequency 7199 7204	daily
+R16	Frequency-Drug Arg1:T25 Arg2:T22
+T26	Drug 7205 7208	KCL
+T27	Form 7209 7215	elixir
+R17	Form-Drug Arg1:T27 Arg2:T26
+T28	Strength 7216 7221	20Meq
+R18	Strength-Drug Arg1:T28 Arg2:T26
+T29	Frequency 7222 7233	twice daily
+R19	Frequency-Drug Arg1:T29 Arg2:T26
+T30	Drug 7234 7241	Novolin
+T31	Dosage 7242 7246	4 SS
+R20	Dosage-Drug Arg1:T31 Arg2:T30
+T32	Drug 7247 7253	Lantus
+T33	Dosage 7254 7257	26U
+R21	Dosage-Drug Arg1:T33 Arg2:T32
+T34	Frequency 7258 7263	daily
+R22	Frequency-Drug Arg1:T34 Arg2:T32
+T35	Drug 7264 7272	Dilantin
+T36	Strength 7273 7277	25mg
+R23	Strength-Drug Arg1:T36 Arg2:T35
+T37	Frequency 7281 7285	10am
+R24	Frequency-Drug Arg1:T37 Arg2:T35
+T38	Strength 7287 7291	50mg
+R25	Strength-Drug Arg1:T38 Arg2:T35
+T39	Strength 7292 7296	50mg
+R26	Strength-Drug Arg1:T39 Arg2:T35
+T40	Frequency 7300 7307	bedtime
+R27	Frequency-Drug Arg1:T40 Arg2:T35
+T41	Drug 7308 7315	Enulose
+T42	Strength 7316 7320	30ml
+R28	Strength-Drug Arg1:T42 Arg2:T41
+T43	Route 7325 7331	G tube
+R29	Route-Drug Arg1:T43 Arg2:T41
+T44	Frequency 7332 7335	BIC
+R30	Frequency-Drug Arg1:T44 Arg2:T41
+T45	Drug 7336 7344	Docusate
+T46	Form 7345 7351	liquid
+R31	Form-Drug Arg1:T46 Arg2:T45
+T47	Strength 7352 7357	150mg
+R32	Strength-Drug Arg1:T47 Arg2:T45
+T48	Drug 7375 7385	Metoprolol
+T49	Strength 7386 7390	10mg
+R33	Strength-Drug Arg1:T49 Arg2:T48
+T50	Drug 7408 7419	Hydralazine
+T51	Strength 7420 7424	40mg
+R34	Strength-Drug Arg1:T51 Arg2:T50
+T52	Drug 7442 7445	MOM
+T53	Strength 7446 7450	30mg
+R35	Strength-Drug Arg1:T53 Arg2:T52
+T54	Route 7451 7454	NGT
+R36	Route-Drug Arg1:T54 Arg2:T52
+T55	Frequency 7455 7458	TIW
+R37	Frequency-Drug Arg1:T55 Arg2:T52
+T56	Drug 7459 7468	Albuterol
+T57	Route 7469 7474	nasal
+R38	Route-Drug Arg1:T57 Arg2:T56
+T58	Route 7475 7478	neb
+R39	Route-Drug Arg1:T58 Arg2:T56
+T59	Frequency 7479 7482;7483 7486	q6h prn
+R40	Frequency-Drug Arg1:T59 Arg2:T56
+T60	Reason 7487 7490	SOB
+R41	Reason-Drug Arg1:T60 Arg2:T56
+T61	Drug 7518 7528	Lisinopril
+T62	Strength 7529 7534	20 mg
+R42	Strength-Drug Arg1:T62 Arg2:T61
+T63	Form 7535 7541	Tablet
+R43	Form-Drug Arg1:T63 Arg2:T61
+T64	Dosage 7547 7556	Three (3)
+R44	Dosage-Drug Arg1:T64 Arg2:T61
+T65	Form 7557 7563	Tablet
+R45	Form-Drug Arg1:T65 Arg2:T61
+T66	Route 7564 7566	PO
+R46	Route-Drug Arg1:T66 Arg2:T61
+T67	Frequency 7567 7572	DAILY
+R47	Frequency-Drug Arg1:T67 Arg2:T61
+T68	Drug 7585 7604	Metoprolol Tartrate
+T69	Strength 7605 7610	50 mg
+R48	Strength-Drug Arg1:T69 Arg2:T68
+T70	Form 7611 7617	Tablet
+R49	Form-Drug Arg1:T70 Arg2:T68
+T71	Dosage 7623 7630	Two (2)
+R50	Dosage-Drug Arg1:T71 Arg2:T68
+T72	Form 7631 7637	Tablet
+R51	Form-Drug Arg1:T72 Arg2:T68
+T73	Route 7638 7640	PO
+R52	Route-Drug Arg1:T73 Arg2:T68
+T74	Frequency 7641 7644	BID
+R53	Frequency-Drug Arg1:T74 Arg2:T68
+T75	Drug 7665 7676	Hydralazine
+T76	Strength 7677 7682	25 mg
+R54	Strength-Drug Arg1:T76 Arg2:T75
+T77	Form 7683 7689	Tablet
+R55	Form-Drug Arg1:T77 Arg2:T75
+T78	Dosage 7695 7702	Two (2)
+R56	Dosage-Drug Arg1:T78 Arg2:T75
+T79	Form 7703 7709	Tablet
+R57	Form-Drug Arg1:T79 Arg2:T75
+T80	Route 7710 7712	PO
+R58	Route-Drug Arg1:T80 Arg2:T75
+T81	Frequency 7713 7716	Q6H
+R59	Frequency-Drug Arg1:T81 Arg2:T75
+T82	Drug 7737 7746	Phenytoin
+T83	Strength 7747 7752	50 mg
+R60	Strength-Drug Arg1:T83 Arg2:T82
+T84	Form 7753 7769	Tablet, Chewable
+R61	Form-Drug Arg1:T84 Arg2:T82
+T85	Dosage 7775 7778	0.5
+R62	Dosage-Drug Arg1:T85 Arg2:T82
+T86	Form 7779 7795	Tablet, Chewable
+R63	Form-Drug Arg1:T86 Arg2:T82
+T87	Route 7796 7798	PO
+R64	Route-Drug Arg1:T87 Arg2:T82
+T88	Frequency 7799 7804	DAILY
+R65	Frequency-Drug Arg1:T88 Arg2:T82
+T89	Drug 7836 7845	Phenytoin
+T90	Strength 7846 7851	50 mg
+R66	Strength-Drug Arg1:T90 Arg2:T89
+T91	Form 7852 7868	Tablet, Chewable
+R67	Form-Drug Arg1:T91 Arg2:T89
+T92	Dosage 7874 7881	One (1)
+R68	Dosage-Drug Arg1:T92 Arg2:T89
+T93	Form 7882 7889;7890 7898	Tablet, Chewable
+R69	Form-Drug Arg1:T93 Arg2:T89
+T94	Route 7899 7901	PO
+R70	Route-Drug Arg1:T94 Arg2:T89
+T95	Frequency 7902 7905	QHS
+R71	Frequency-Drug Arg1:T95 Arg2:T89
+T96	Drug 7936 7953	Albuterol Sulfate
+T97	Strength 7954 7966	2.5 mg /3 mL
+R72	Strength-Drug Arg1:T97 Arg2:T96
+T98	Form 7977 7989;7990 8002	Solution for Nebulization
+R73	Form-Drug Arg1:T98 Arg2:T96
+T99	Dosage 8008 8015	One (1)
+R74	Dosage-Drug Arg1:T99 Arg2:T96
+T100	Form 8017 8027	Inhalation
+R75	Form-Drug Arg1:T100 Arg2:T96
+T101	Frequency 8028 8050;8051 8057	Q6H (every 6 hours) as needed
+R76	Frequency-Drug Arg1:T101 Arg2:T96
+T102	Reason 8062 8065	SOB
+R77	Reason-Drug Arg1:T102 Arg2:T96
+T103	Drug 8070 8085	Docusate Sodium
+T104	Strength 8086 8096	50 mg/5 mL
+R78	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 8097 8103	Liquid
+R79	Form-Drug Arg1:T105 Arg2:T103
+T106	Dosage 8109 8116	One (1)
+R80	Dosage-Drug Arg1:T106 Arg2:T103
+T107	Route 8118 8120	PO
+R81	Route-Drug Arg1:T107 Arg2:T103
+T108	Frequency 8121 8124	BID
+R82	Frequency-Drug Arg1:T108 Arg2:T103
+T109	Drug 8145 8154	Lactulose
+T110	Strength 8155 8168	10 gram/15 mL
+R83	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 8169 8174	Syrup
+R84	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 8180 8191	Thirty (30)
+R85	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 8192 8194	ML
+R86	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 8195 8197	PO
+R87	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 8198 8201	BID
+R88	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Drug 8222 8239	Vancomycin in D5W
+T117	Strength 8240 8253	1 gram/200 mL
+R89	Strength-Drug Arg1:T117 Arg2:T116
+T118	Form 8254 8263	Piggyback
+R90	Form-Drug Arg1:T118 Arg2:T116
+T119	Dosage 8269 8276	One (1)
+R91	Dosage-Drug Arg1:T119 Arg2:T116
+T120	Route 8277 8288	Intravenous
+R92	Route-Drug Arg1:T120 Arg2:T116
+T121	Frequency 8289 8294	Q 12H
+R93	Frequency-Drug Arg1:T121 Arg2:T116
+T122	Duration 8312 8322	for 5 days
+R94	Duration-Drug Arg1:T122 Arg2:T116
+T123	Drug 8328 8358	Piperacillin-Tazobactam-Dextrs
+T124	Strength 8359 8374	4.5 gram/100 mL
+R95	Strength-Drug Arg1:T124 Arg2:T123
+T125	Form 8375 8384	Piggyback
+R96	Form-Drug Arg1:T125 Arg2:T123
+T126	Dosage 8390 8397	One (1)
+R97	Dosage-Drug Arg1:T126 Arg2:T123
+T127	Route 8399 8410	Intravenous
+R98	Route-Drug Arg1:T127 Arg2:T123
+T128	Frequency 8411 8414	Q8H
+R99	Frequency-Drug Arg1:T128 Arg2:T123
+T129	Duration 8431 8441	for 5 days
+R100	Duration-Drug Arg1:T129 Arg2:T123
+T130	Drug 8447 8465	Potassium Chloride
+T131	Strength 8466 8472	20 mEq
+R101	Strength-Drug Arg1:T131 Arg2:T130
+T132	Form 8473 8479	Packet
+R102	Form-Drug Arg1:T132 Arg2:T130
+T133	Dosage 8485 8492	One (1)
+R103	Dosage-Drug Arg1:T133 Arg2:T130
+T134	Route 8494 8496	PO
+R104	Route-Drug Arg1:T134 Arg2:T130
+T135	Frequency 8497 8504;8505 8508	twice a day
+R105	Frequency-Drug Arg1:T135 Arg2:T130
+T136	Drug 8514 8523	Novolin R
+T137	Strength 8524 8535	100 unit/mL
+R106	Strength-Drug Arg1:T137 Arg2:T136
+T138	Form 8536 8544	Solution
+R107	Form-Drug Arg1:T138 Arg2:T136
+T139	Dosage 8550 8558	Four (4)
+R108	Dosage-Drug Arg1:T139 Arg2:T136
+T140	Route 8565 8574	Injection
+R109	Route-Drug Arg1:T140 Arg2:T136
+T141	Frequency 8575 8591	four times a day
+R110	Frequency-Drug Arg1:T141 Arg2:T136
+T142	Dosage 8593 8606	sliding scale
+R111	Dosage-Drug Arg1:T142 Arg2:T136
+T143	Drug 8612 8618	Lantus
+T144	Strength 8619 8630	100 unit/mL
+R112	Strength-Drug Arg1:T144 Arg2:T143
+T145	Form 8631 8639	Solution
+R113	Form-Drug Arg1:T145 Arg2:T143
+T146	Dosage 8645 8660	Twenty Six (26)
+R114	Dosage-Drug Arg1:T146 Arg2:T143
+T147	Route 8667 8679	Subcutaneous
+R115	Route-Drug Arg1:T147 Arg2:T143
+T148	Frequency 8680 8690	once a day
+R116	Frequency-Drug Arg1:T148 Arg2:T143
+T149	Drug 8696 8712	Milk of Magnesia
+T150	Strength 8713 8724	400 mg/5 mL
+R117	Strength-Drug Arg1:T150 Arg2:T149
+T151	Form 8725 8735	Suspension
+R118	Form-Drug Arg1:T151 Arg2:T149
+T152	Dosage 8741 8752	Thirty (30)
+R119	Dosage-Drug Arg1:T152 Arg2:T149
+T153	Route 8756 8758	PO
+R120	Route-Drug Arg1:T153 Arg2:T149
+T154	Frequency 8759 8776	three times a day
+R121	Frequency-Drug Arg1:T154 Arg2:T149
+T155	Reason 923 943	aspiration pneumonia
+R122	Reason-Drug Arg1:T155 Arg2:T159
+R123	Reason-Drug Arg1:T155 Arg2:T160
+T157	Drug 9234 9245	antibiotics
+T158	Reason 9250 9270	aspiration pneumonia
+R125	Reason-Drug Arg1:T158 Arg2:T157
+T159	Drug 949 953	vanc
+T160	Drug 958 963	zosyn
+T161	Drug 9605 9628	Piperacillin-Tazobactam
+T162	Strength 9629 9634	4.5 g
+R126	Strength-Drug Arg1:T162 Arg2:T161
+T164	Frequency 9638 9651	every 8 hours
+R128	Frequency-Drug Arg1:T164 Arg2:T161
+T165	Drug 965 969	levo
+T166	Frequency 9656 9662;9663 9667	5 more days
+R129	Frequency-Drug Arg1:T166 Arg2:T161
+T167	Drug 9674 9684	Vancomycin
+T168	Strength 9685 9692	1000 mg
+R130	Strength-Drug Arg1:T168 Arg2:T167
+T170	Frequency 9696 9710	every 12 hours
+R132	Frequency-Drug Arg1:T170 Arg2:T167
+T171	Frequency 9715 9726	5 more days
+R133	Frequency-Drug Arg1:T171 Arg2:T167
+T8	Route 9635 9637	IV
+R5	Route-Drug Arg1:T8 Arg2:T161	
+T156	Route 9693 9695	IV
+R124	Route-Drug Arg1:T156 Arg2:T167	
+T163	Route 6252 6254	IV
+R127	Route-Drug Arg1:T163 Arg2:T9	
+T169	Route 9231 9233	IV
+R131	Route-Drug Arg1:T169 Arg2:T157	

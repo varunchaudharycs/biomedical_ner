@@ -1,0 +1,38 @@
+T1	Drug 7495 7501	lantus
+T2	Drug 7431 7438	levoxyl
+T3	Drug 203 211	Morphine
+T4	Drug 1234 1245	doxycycline
+T5	Drug 214 222	Levaquin
+T6	Drug 6810 6820	amiodarone
+T7	Drug 6619 6625	Xigris
+T8	Drug 7455 7460	paxil
+T9	Drug 7462 7468	colace
+T10	Drug 171 183	Erythromycin
+T11	Drug 7482 7493	doxycycline
+T12	Drug 7419 7429	Metoprolol
+T13	Drug 6385 6391	Xigris
+T14	Drug 191 200	Compazine
+T18	Reason 6767 6786	atrial fibrillation
+T19	Drug 225 230;231 245	Sulfa (Sulfonamides)
+T20	Drug 695 700	chemo
+T21	Reason 683 686	ALL
+T22	Reason 1208 1222	MRSA right hip
+T23	Drug 6299 6307	pressors
+T24	Drug 6289 6294	fluid
+T25	Reason 6409 6415;6416 6421	septic shock
+T26	Drug 6710 6718	pressors
+T27	Route 6821 6825	drip
+T28	Drug 7440 7453	amytriptyline
+T29	Drug 7470 7480	sulcrafate
+R1	Reason-Drug Arg1:T21 Arg2:T20
+R2	Reason-Drug Arg1:T22 Arg2:T4
+R5	Reason-Drug Arg1:T25 Arg2:T13
+R6	Reason-Drug Arg1:T18 Arg2:T6
+R7	Route-Drug Arg1:T27 Arg2:T6
+T30	Drug 6532 6540	sedation
+T31	Drug 6545 6554	paralysis
+T32	Reason 6558 6579	help with oxygenation
+T33	Drug 6675 6683	pressors
+T35	Drug 1157 1166	Ocreotide
+R9	Reason-Drug Arg1:T32 Arg2:T31
+R10	Reason-Drug Arg1:T32 Arg2:T30

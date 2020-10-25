@@ -1,0 +1,727 @@
+Admission Date:  [**2135-7-2**]              Discharge Date:   [**2135-8-23**]
+
+Date of Birth:  [**2081-3-20**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Nafcillin / Vancomycin
+
+Attending:[**Doctor First Name 3290**]
+Chief Complaint:
+Back pain due to epidural abscesses complicated by bacteremia
+and acute respiratory distress
+
+Major Surgical or Invasive Procedure:
+1. [**2135-7-3**]. Cervical decompression via laminectomies C2-C6
+    bilaterally, insertion of 2 epidural drains. Laminectomy
+T12-L1-L2,  insertion of 2 drains
+2. [**2135-7-5**] Right knee arthrocentesis and washout
+3. [**2135-7-13**] Anterior cervical discectomy and fusion as well as
+epidural abscess evacuation.
+4. [**2135-7-25**] IR-guided paraspinal abscess drainage
+
+
+
+
+History of Present Illness:
+54 yo F presents to ED w/ 1 week of worsening back pain.
+Pain reportedly started while riding a bike. Began in
+lower back and has steadily risen up to her neck over the past
+week. Also reports some shooting pain down right leg. + fevers
+and chills. For the past 3 days, her legs have been feeling
+weak, she has had difficulty urinating. Fevers and chills have
+resolved. Reports tremors starting two days ago.
+She denies fecal incontinence although this was reportedly
+endorsed to ED staff. Denies any numbness or tingling in her
+extremities.
+
+
+Past Medical History:
+None
+
+Social History:
+Works for a mission network. No IVDA. Social EtOH
+
+Family History:
+N/C
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+T:98.7  BP: 155/100 HR:140-150s   RR: 20     O2Sats 100% on NRB
+Gen: Anxious, Uncomfortable
+HEENT: Pupils: 4->3        EOMs - Full
+Abd: Soft, NT
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Motor:
+      D    B     T    WE   WF    IP    Q  H     AT    [**Last Name (un) 938**]    G
+R     5    5     5               5     5  5     5      5     5-
+L     5    5     5               5     5  5     5      5     5-
+
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+Reflexes: Pa   Ac
+Right     2+  Mute
+Left      2+   Mute
+
+Rectal exam - normal sphincter control, normal perianal
+sensation
+
+DISCHARGE PHYSICAL EXAM ([**8-17**]):
+VS: Afebrile >36hr, Tc: 98.1  BP: 130/76 (140-170/80-92) 94% 2L
+02 saturation yesterday: 97--100% on 1-2L; 94% RA
+GEN: Sleeping but arousable, oriented, no acute distress
+HEENT: non-icteric sclera, MMM
+NECK: Gauze and tegaderm in place over former RIJ, no tenderness
+HEART: RRR, nl S1 S2, 3/6 systolic murmur, heard best at LUSB,
+radiating to neck bilaterally, no rubs
+LUNGS: anterior lung fields clear, slightly decreased bs at
+bases, no wheezes
+ABD: ecchymoses on lower abdomen, +NABS, soft, non-distended,
+non-tender, without rebound or guarding
+EXT: warm, 1+ edema to ankle b/l, right knee with healed
+surgical scar
+T/L/D
+ - Left PICC line in place; no surrounding tenderness, erythema
+
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2135-7-2**] 01:45PM URINE  RBC-[**5-5**]* WBC->50 BACTERIA-MANY
+YEAST-NONE EPI-0-2
+[**2135-7-2**] 01:50PM   WBC-21.2* RBC-4.70 HGB-14.2 HCT-43.9 MCV-93
+MCH-30.2 MCHC-32.4 RDW-14.4
+[**2135-7-2**] 01:50PM   GLUCOSE-287* UREA N-51* CREAT-1.7* SODIUM-136
+POTASSIUM-3.6 CHLORIDE-96 TOTAL CO2-21* ANION GAP-23*
+[**2135-7-2**] 02:17PM   LACTATE-2.9*
+
+DISCHARGE LABS ([**8-17**])
+WBC    RBC  Hgb   Hct  MCV MCH  MCHC RDW Plt Ct
+16.6* 2.87* 8.0* 24.4* 85  27.8 32.7 17.9* 227
+DIFF Neuts Bands Lymphs Monos Eos Baso Atyps Metas Myelos
+Promyel NRBC
+      59    9*    8*     21*   0    0    1*    2*    0
+Glucose UreaN Creat  Na    K   Cl  HCO3 AnGap
+ 96      22*   0.5  141   3.7  102  32   11
+Inflammatory Markers ([**8-16**])
+ESR:    115*
+CRP:    30.9
+.
+MICRO:
+Micro:
+[**7-2**] - Blood Cx - [**2-27**] MSSA
+[**7-3**] - Epidural Swab - MSSA
+[**7-5**] - Joint Fluid + Swab - MSSA
+[**7-13**] - Epidural Swab - MSSA
+[**7-25**] Abscess - MSSA
+.
+C. diff - [**8-1**] (-), [**7-30**] (-), [**7-26**] (-), [**8-16**] (-)
+.
+Antimicrobial History:
+Vanco+Cefepime [**7-10**]->[**7-15**]
+Vanco [**7-10**] -> [**7-15**]
+Nafcillin [**7-15**] -> [**7-19**]
+Vanco [**7-19**] -> [**8-8**]
+Cefepime [**7-26**] -> [**8-2**]
+Meropenem 1000mg IV Q8 ([**8-8**] - [**8-14**])
+Daptomycin 600mg IV Q24 ([**8-8**] - present)
+
+
+[**2135-8-17**] 10:22 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+
+                            **FINAL REPORT [**2135-8-18**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2135-8-18**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+           (Reference Range-Negative).
+
+IMAGING:
+MRI Spine [**7-3**]:
+1. Cervical anterior epidural collection, with severe narrowing
+of the thecal sac from C2 through C5, without evidence of spinal
+cord edema. Sagittal post-contrast images suggest that this
+collection contains fluid at the level of C2, which would
+indicate an abscess rather than a phlegmon. However, axial
+post-contrast images suggest that the central hypoenhancing
+portion of the collection at C2 may not be fully liquefied, or
+that the fluid may be highly viscous.
+2. Anterior epidural collection from T11 through the upper
+sacrum,
+compressing the thecal sac and crowding the cauda equina. This
+collection
+appears to contain fluid from T12 through L3, indicative of an
+abscess rather than a phlegmon.
+3. No evidence of discitis or osteomyelitis.
+4. Bilateral posterior paravertebral muscle phlegmon at the
+level of L4-5
+with a possible 5 mm abscess on the right. Contrast enhancement
+surrounding the L4-5 facet joints may represent inflammation
+secondary to the severe degenerative facet arthropathy, but
+septic facet arthropathy cannot be excluded
+
+Echo [**7-4**]:
+IMPRESSION: Suboptimal image quality. Mild mitral leaflet
+thickening but without discrete vegetation or pathologic flow.
+Mild pulmonary artery systolic hypertension. Normal left
+ventricular cavity size with preserved global and regional
+systolic function
+
+MRI Spine [**7-4**]:
+1. Cervical region: No STIR signal abnormality in the cord. No
+evidence of
+cord compression. Expected post-op changes.
+2. Lumbar region: Small epidural signal abnormality, could
+represent residual abscess collection from debridement or
+post-surgical changes.
+
+XRAY-Knee
+IMPRESSION: Small to moderate-sized knee joint effusion.
+
+CTA [**7-9**]
+IMPRESSION:
+1. No pulmonary embolism or acute aortic pathology.
+2. Moderate bilateral pleural effusions with subtotal lower lobe
+collapse.
+Evidence of loculated pleural effusions tracking up in the right
+upper lateral pleural space.
+3. Multiple lung nodules likely infectious in this cl
+inical setting. Follow-
+up to resolution is recommended
+4. No pneumothorax.
+
+MR [**Name13 (STitle) **] [**8-12**]
+Significant increase in volume of the epidural fluid
+collection/abscess
+extending from the uppermost C1 epidural space to the inferior
+aspect of the study at L1, largest at the upper cervical spine
+where it measures
+approximately 1 cm in greatest thickness. The patient is status
+post cervical laminectomy from approximately C2-C6 but the
+epidural collection displaces the cervical cord posteriorly and
+the cervical cord appears compressed against the posterior ring
+of C1. There is increased signal within the cervical cord from
+the medulla to C3.
+2. The epidural collection/abscess within the thoracic spine
+mildly
+displaces the thoracic cord without evidence of cord signal
+abnormality.
+
+CT-Thoracentesis (drainage) [**7-13**]
+IMPRESSION: Successful diagnostic and therapeutic thoracentesis
+yielding 270 cc of serosanguineous fluid from the right pleural
+cavity. An 8 French
+pigtail catheter was placed within the pleural cavity and is
+currently
+attached to waterseal. Samples were sent for microbiology and
+chemistry per the ordering team's request.
+
+MR C/T/L-Spine [**7-21**]
+IMPRESSION:
+1. New soft tissue paraspinal pockets of fluid collection are
+seen in the
+lumbar region since the examination of [**2135-7-2**] and [**2135-7-4**],
+visualized in the lower lumbar region involving the psoas
+muscles and the erector spinae muscles. The largest collection
+in the right erector spinae muscle is approximately 3 cm and the
+largest collection in the right psoas muscle is approximately 2
+cm. Additional left psoas muscle fluid pocket measures 2.8 cm.
+Smaller foci are also visualized.
+2. Lumbar epidural fluid collection ventral and dorsal to the
+thecal sac in the lower lumbar region may be slightly smaller
+compared to [**2135-7-2**].
+3. Epidural collection in the cervical region extending from C2
+inferiorly is not significantly changed since the MRI of
+[**2135-7-14**]. Minimal indentation on the spinal cord in cervical
+region is unchanged. Postoperative changes and laminectomies are
+seen in this region.
+4. Thoracic epidural collection has not changed and there is no
+cord
+compression in thoracic region.
+4. Laminectomies are seen in the lower thoracic/upper lumbar
+region. Thin
+rim of epidural collection again seen in the thoracic region
+which is
+unchanged. No cord compression is identified in the thoracic
+region.
+
+CT-Chest/Abdomen/Pelvis [**7-26**]
+IMPRESSION:
+
+1. Overall, stable appearance of multiple small fluid collection
+seen in the paraspinal muscles along with the erector spinae and
+psoas muscles, as
+described above. No new intraabdominal or intrapelvic
+collections identified.
+2. Stable bilateral pleural effusion with bibasilar airspace
+disease.
+3. Stable appearance of mediastinal and bilateral hilar
+lymphadenopathy.
+
+U/S Abdomen [**7-29**]
+IMPRESSION:
+1. Cholelithiasis with edematous and thick walled but contracted
+gallbladder. No son[**Name (NI) 493**] evidence of acute cholecystitis.
+Gallbladder wall thickening and edema may be caused by multiple
+factors such as liver disease and hypoalbuminemia, and clinical
+correlation is recommended.
+2. Splenomegaly.
+
+CT-Chest/Abdomen/Pelvis [**8-1**]
+IMPRESSION:
+1. Multiple soft tissue abscesses appear similar to prior
+examination with
+erector spinae abscess on the right, left iliopsoas abscess, and
+fluid pockets overlying the lower lumbar spine spinous
+processes.
+2. Left posterior rotator cuff region possible new abscess, not
+well seen on prior studies.
+3. Bilateral basal pulmonary volume loss and consolidation,
+similar to prior examination in lesion addition to bilateral
+pleural effusions, more pronounced and somewhat loculated on the
+right but similar to prior study.
+4. Nonspecific gallbladder wall thickening. Cholecystitis is not
+excluded,
+although the appearance is stable compared to prior examination
+and has been previously evaluated with ultrasound.
+5. Nonspecific lesion in the right renal upper pole. This was
+not well seen on prior examination. If there is clinical
+suspicion for renal abscess, targeted ultrasound could be
+performed to further assess.
+6. Left proximal thigh abscess, incompletely assessed but
+similar to prior
+study allowing for difference in technique.
+7. Splenomegaly.
+
+MRI C-Spine [**8-6**]
+IMPRESSION: Again, epidural enhancement and abscesses identified
+in the
+anterior cervical region. As described above, the fluid
+collection around
+C2-C3 level appears slightly increased in thickness, but the
+differences in measurements are small and this could also be due
+to partial volume averaging,
+but continued followup is recommended. Otherwise, the
+examination is stable
+
+MRI T-Spine [**8-6**]
+IMPRESSION: Overall stable appearance of the thoracic spine
+compared to the previous MRI of [**2135-7-21**]. Again, lower thoracic
+and upper lumbar
+laminectomies and epidural enhancement is seen in the thoracic
+region without epidural abscess.
+
+CT Scan Abd/Pelvis ([**8-9**]):
+with abdominal pain of unclear etiology, look for possible
+underlying
+abdominal abscess.
+
+COMPARISON: CT torso from [**2135-8-1**].
+
+TECHNIQUE: Non-contrast MDCT of the abdomen. The patient not
+received any
+oral or IV contrast.
+
+FINDINGS: Of note, evaluation of abdominal organs is limited
+without any
+intravenous or oral contrast administered. Once again, there are
+bilateral
+pleural effusions with overlying collapse/consolidation that has
+slightly
+improved from previous study. Once again, the right is
+significantly greater than the left and appears loculated. A
+nodular density previously seen in the right middle lobe is not
+visualized in the current study.
+
+CT ABDOMEN W/O Contrast:
+There is no focal liver lesion seen. There is evidence of a
+large stone
+within the gallbladder; however, there are no signs of
+gallbladder wall
+thickening or other associated signs to suggest inflammation or
+infection. The spleen is enlarged. There is no focal splenic
+lesion or abscess seen.
+Pancreas appears normal. Adrenals appear normal. The kidney is
+normal in
+appearance. Right kidney appears normal in appearance. The small
+area of
+hypoattenuation seen in the left kidney on the previous study
+was not
+appreciated on the current exam. Small periaortic and portacaval
+lymph nodes are again seen, however, they do not meet CT
+criteria for lymphadenopathy. There is no bowel obstruction. The
+appendix is normal. There is no significant mesenteric
+lymphadenopathy or fluid collection seen.
+
+CT PELVIS W/O contrast: Once again seen is a low-attenuation
+fluid collection in the left iliopsoas muscle, extending from
+the lower lumbar-upper pelvic regions along the psoas. This
+collection appears unchanged, both in size and in character and
+further characterization is limited without contrast. Once again
+seen are the small areas of low attenuation, representing fluid
+in the proximal thigh as well as stranding in the left greater
+trochanter. This appears unchanged from the previous study of
+[**2135-8-1**]. There is no epidural abscess seen in the
+thoracic region.
+
+The rectum, sigmoid colon, bladder, and uterus are normal.
+
+3D reconstructions, coronal and sagittal reconstructions were
+essential in
+delineating the anatomy and pathology.
+
+BONES: There is no osseous destruction seen. As mentioned,
+evidence of priorlaminectomies at the lower thoracic spine and
+upper lumbar spine are seen.There are no epidural collections
+suggestive of epidural abscess in the lumbaror visualized
+thoracic spine.
+
+IMPRESSION:
+1. Unchanged left iliopsoas abscess
+2. Slight interval decrease in bilateral basal pulmonary volume
+loss and
+consolidation and pleural effusions.
+3. Large gallstone within the gallbladder without sign of
+gallbladder
+inflammation.
+4. Unchanged fluid collection in the left proximal thigh
+compared to prior.
+5. This study was discussed with Dr. [**First Name8 (NamePattern2) 1169**] [**Last Name (NamePattern1) **] at 4:30 p.m.
+on [**2135-8-9**].
+.
+Unilateral upper extremity venous ultrasound. ([**8-17**])
+COMPARISON: Upper extremity venous ultrasound [**2135-7-11**].
+FINDINGS: Color and grayscale son[**Name (NI) 1417**] of bilateral subclavian
+and
+left-sided internal jugular, basilic, brachial and cephalic
+vessels were
+evaluated. Evaluated vessels demonstrated normal flow,
+compressibility and
+augmentation. There is a PICC line in the basilic. There is
+duplication of
+the brachial vessels.
+IMPRESSION: PICC in the basilic vein but no DVT.
+.
+
+
+Brief Hospital Course:
+Ms [**Known lastname **] is a 54 yo female with no significant past medical
+history who initially presented with back pain, urinary
+retention on [**7-3**], found to have multiple epidural abscesses s/p
+multiple surgical debridements with hospital course complicated
+by episodes of flash pulmonary/respiratory compromise requiring
+intubation and febrile neutropenia secondary to lasix and
+vancomycin administration.
+.
+# Bacteremia/Abscesses/Antibiotic therapy
+.
+Patient initially presented with back pain, associated urinary
+retention and LE weakness. Admission imaging positive for
+cervical and lumbar epidural abscesses (though patient with no
+known risk factors). She was empirically started on
+vancomycin/cefepime/levofloxacin. She underwent C2-C6/T12-L2
+bilateral laminectomies with insertion of 4 drains on [**2135-7-3**].
+She subsequently developed a septic right knee and returned to
+the OR on [**2135-7-4**] for right knee washout. Regarding further
+initial infectious work-up at that time: a TEE was obtained
+which showed no vegetations; CT head without evidence of
+intracranial abscess.
+.
+On [**2135-7-6**], antibiotic coverage was narrowed to nafcillin when
+cultures from abscesses, right knee, and blood grew MSSA.
+However, due to signs and symptoms of leukocytosis, hypoxia
+there was concern for hospital acquired pneumonia and antibiotic
+coverage was broadened to vancomycin, cefepime, and
+ciprofloxacin on [**7-10**]. Patient remained febrile. Surveillance
+imaging obtained on [**7-12**] which demonstrated increased epidural
+collection within anterior cervical epidural space and
+displacement of the cervical cord. The patient returned to the
+OR on [**7-13**] for abscess decompression and evacuation and fusion
+of C3-4, C4-5, and C5-6. After reviewing microbial date with all
+cultures + MSSA, her antibiotic coverage was again narrowed to
+nafcillin.
+.
+Patient had been doing well with normalized temperature and WBC
+however four days after starting nafcillin, developed a
+abdominal rash. Derm was consulted, biopsies were taken which
+were c/w drug rash secondary to nafcillin. Nafcillin was
+subsequently discontinued and replaced by IV vancomycin.
+.
+Repeat MR spine with new paraspinal fluid collections, and mild
+epidural fluid collection throughout the spine. Due to concern
+for continued infection cefepime was added to antibiotic
+regimen. On [**7-25**], the patient underwent paraspinal abscess
+drainage by interventional radiology. Follow-up CT torso was
+obtained on [**8-1**] due to persistent fevers on cefepime and vanc;
+finding were stable to previous imaging and cefepime was
+discontinued. On [**8-5**], her C-collar was removed. Surveilance MR
+C/T-Spine on [**8-6**] showed stable epidural enhancement and
+abscesses identified in the anterior cervical region, thoracic
+region without epidural abscess. CT scan on [**8-9**] demonstrated
+left iliopsoas abscess/phlegmen and left thigh fluid collection;
+both of which were too small to be drained by IR.
+.
+Unfortunately side effects necessitated further antibiotic
+adjustment. CBC with noted leukopenia on [**8-5**] with progression
+to neutropenia [**8-8**].  Out of concern that vancomycin could be
+contributing to decreasing counts, vanc d/c'ed  and IV
+daptomycin started. Per ID will plan to treat MSSA
+bacteremia/abscesses with IV daptomycin to total of 6-8wk
+course. At time of discharge utility of repeat imaging
+discussed. Plan to repeat CT abd/pelvis; MRI spine further into
+antibiotic treatment.
+.
+# Febrile Neutropenia
+.
+Patient's WBC count began to slowly decline on [**8-5**] with
+progression to neutropenia on [**8-8**]. Neutropenia was felt
+secondary to medication effect; subsequently omeprazole,
+furosemide, vancomycin and seroquel were discontinued.
+Hematology was consulted, and felt that furosemide or vancomycin
+were likely offending agents. Antibiotic coverage altered on
+[**8-8**]: vancomycin discontinued and daptomycin started for
+treatment of MSSA. On [**8-9**] she was febrile 102.6 and meropenem
+started for treatment of neutropenic fever. GCSF initiated.
+After administration of GCSF counts slowly became to rise and
+fevers abated. GCSF was stopped on [**8-14**] when ANC>1000 for more
+than 48hrs.
+.
+Respiratory Distress
+.
+On admission patient found to be tachypnic. LENIs negative. On
+[**7-8**], developed worsening tachypnea and hypoxemia (95% on 4L by
+nasal canula). The patient diureased 500ml on IV Lasix and
+improved slightly. CTA ruled out PE, however showed evidence of
+bilateral loculated pleural effusions and multiple lung nodules.
+Cardiac enzymes negative. Pro-BNP 2777 on [**7-8**]. Estimated EF by
+TEE was >55%; 2 repeat echos without evidence of valvular
+pathology. In MICU, IV Lasix and morphine lessened respiratory
+distress. On [**7-10**], transferred to the floor; latered became
+hypoxic and was transfered back to the MICU and started on
+BiPAP. Pleural effusion studies suggested parapneumonic
+effusion. Patient intubated and extubated several time while in
+MICU. On [**7-16**], the patient was again extubated. She developed
+hypertension to 180 SBP and respiratory distress secondary to
+pulm edema, which responded to lasix and labetolol. On [**7-19**], she
+was comfortable oxygenating with only nasal cannula. She was
+electively intubated on [**7-25**] for paraspinal abscess drainage and
+extubated post-procedure. Unfortunately, again developed
+worsening hypercarbic respiratory distress, requiring
+reintubation on [**7-27**].  She was gently diuresed, in an effort to
+decrease the work of breathing. On [**8-3**] she was succesfully
+extubated, satting well on face mask. On [**8-5**] she was weaned to
+NC. CT on [**8-9**] showed improvement in pleural effusions and
+basilar consolidations. She continued to do well on supplemental
+oxygen by nasal cannula. On the floor her oxygen requirement was
+weaned. She had one episode of flash pulmonary edema, during
+which she desaturated to high 80s. She was diuresed with bumex
+with good effect. For the remainder of her stay, team allowed
+for auto-diuresis. At time of discharge patient saturating 94%
+RA, >95% 1L.
+.
+# Blood Pressure
+.
+During MICU stay pt had repeated episodes of transient
+bradycardia and hypotension as well as episodes of paroxysmal
+hypertension into the SBP 180-200s. Her hypertension responded
+to 5mg-10mg doses of IV labetalol. After significiant diuresis,
+her SBP remained stable in the 150-160s. On the floor, BP ran
+consistently high. Patient was started on metoprolol and
+amlodipine. These medications were gradually uptitrated and at
+time of discharge pressures were better controlled on metoprolol
+50mg TID, amlopidine 10mg QD. She was transitioned to toprol xl
+150mg daily at the time of discharge.
+.
+# Nutrition
+.
+Patient underwent severeal video swallowing evaluation due to
+concern for silent aspiration. In the MICU, several methods of
+nutrition employed: NG tube feeds as well as PPN. On transfer to
+floor patient on NG tube feeds. Repeat speech and swallow on
+[**8-15**] demonstrated improved oral and pharyngeal swallow with
+continued swallow delay, premature spillover and reduced base of
+tongue retraction. Patient continued to aspirate thin liquids
+silently, but speech deemed it safe to initiate a PO diet of
+nectar thick liquids and moist, ground solids with the
+aspiration precautions documented below. It is important to note
+aspiration is silent,
+and she will need continued speech therapy follow up with likely
+repeat video swallow before advancing her diet.
+
+# Delirium
+.
+In the MICU observed waxing and [**Doctor Last Name 688**] mental status worse at
+night and with spikes in fever. Symptoms improved with zyprexa
+at night. The pt became more alert following extubation on [**8-3**],
+however, she had some disorientation. She received several doses
+of seroquel, which was discontinued when the patient became
+neutropenic, as it can be a potential cause of leukopenia.  Over
+the course of the next few days, her became more alert and
+interactive.  By time of transfer from MICU to floor on [**8-10**],
+she was fully oriented and had a good understanding of the
+medical plan. On the floor, patients mentation continued to
+improve. At time of discharge patient mental status was clear
+and coherent.
+.
+# Elbow mass
+.
+Mass noted on right elbow.  Derm consulted; felt to be
+consistent with lipoma.
+.
+# UTI:  She developed low grade fevers on [**8-21**] to 100.4,
+prompting urinalysis, which demonstrated UTI.  She will complete
+a 10 day course of ciprofloxacin 500mg [**Hospital1 **] to end [**2135-9-1**].
+
+Medications on Admission:
+None
+
+Discharge Medications:
+.
+1. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+2. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+3. Daptomycin 500 mg Recon Soln Sig: Six Hundred (600) Recon
+Soln Intravenous Q24H (every 24 hours).
+4. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for fever/pain.
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+7. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+8. Outpatient Lab Work
+Please check weekly CBC with differential, BUN/Cr, LFTs, CK,
+ESR/CRP
+.
+All laboratory results should be faxed to Infectious disease
+R.Ns. at ([**Telephone/Fax (1) 1353**]
+
+9. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+10. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+11. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for anxiety.
+12. OXYGEN
+At time of discharge patient requires 1L nasal cannula for
+comfort.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 105**] Northeast - [**Location (un) 1110**]
+
+Discharge Diagnosis:
+PRIMARY
+Methicillin Sensitive Staph Aureus Bacteremia
+
+SECONDARY
+Hypertension
+Anemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent
+
+
+Discharge Instructions:
+Dear Ms [**Known lastname **] it was a pleasure taking care of you.
+.
+You were initially admitted to [**Hospital1 18**] due to symptoms of back
+pain. Upon imaging it was found that you had several abscesses
+throughout your spine as well as in your right knee. You
+underwent several surgeries to evacuate these infection and you
+were also started on antibiotics. Your antibiotic regimen was
+altered several times due to significant side effects. You
+experienced a rash after Nafcillin, and Vancomyocin was thought
+to contribute to low cell counts. You were placed on Daptomycin
+without side effect for a planned 8week course. A PICC line was
+placed prior to discharge to faciliate antibiotic administration
+as an outpatient. You will receive repeat imaging after
+completion of your antibiotic therapy for interval evaluation of
+infection.
+.
+Unfortunately, side effects from various medications prolonged
+your hospital course. It was thought that a combination of
+vancomycin and lasix contributed to decreased white blood cells
+(WBC). While your WBC counts were low you were placed on broad
+spectrum antibiotics to protect you from infection. We
+discontinued the medications we felt responsible for declining
+counts (lasix and vancomycin) and also administered a medication
+called Neupogen to increase WBC production. After several days
+of Neupogen treatment your white cell counts increased and
+stabilized. Neupogen as well as broad spectrum antibiotics were
+discontinued prior to discharge.
+.
+We also found your blood pressures to be elevated at times
+during your hospitalization. You were started on medications,
+metoprolol and amlodipine, to better control your blood
+pressure.
+.
+Regarding nutrition, after extubation you were noted to have
+difficultly swallowing. Speech and swallow was consulted and
+after several attempts you completed and passed your evaluation.
+After completion, you were started on a thickened nectar liquid
+regimen and a soft, ground solid diet. You will need repeat
+speech and swallow evaluation at rehab.
+.
+CHANGES TO YOUR MEDICATIONS.
+On arrival to the hospital you were no prescription medications.
+.
+MEDICATIONS WE STARTED
+.
+--To treat your infection we STARTED Daptomycin 600mg IV Q24
+(start date: [**2135-7-26**], stop date: [**2135-9-19**] (total 8 weeks))
+.
+--To treat PAIN we STARTED:
+ 1. FENTANYL 25 mcg/hr Patch, which can be reapplied every 72
+hr;
+ 2. Two LIDOCAINE 5 %(700 mg/patch) Adhesive Patchs, Apply each
+Adhesive Patch daily to back
+ 3. ACETAMINOPHEN 325 mg Tablet; you can take 1-2 tablets by
+mouth every 6 hours.
+.
+--To treat your high blood pressure we started:
+ 1. AMLODIPINE 10mg daily; you will take two 5mg tablets daily
+ 2. Metoprolol succinate (toprol XL) 150mg tablet daily
+.
+-- To prevent blood clot formation while you heal and are
+relatively limited in your movement you will continue to
+receive: Heparin (Porcine)  5,000 unit/mL Solution  Injections
+three times a day
+.
+--To help treat your anxiety we started:
+1. Lorazepam  0.5 mg Tablet, you can take one 0.5 tablet by
+mouth at at bedtime as needed for anxiety.
+.
+You will need Outpatient Lab Work which your facility can obtain
+and fax to [**Hospital **] clinic
+.
+New allergies: LASIX - contraindication - neutropenia
+               NAFCILLIN - contraindication - rash
+               VANCOMYCIN (relative contraindication) -
+neutropenia
+
+
+
+
+Followup Instructions:
+Department: INFECTIOUS DISEASE
+When: FRIDAY [**2135-9-16**] at 11:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 27625**], MD [**Telephone/Fax (1) 457**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+

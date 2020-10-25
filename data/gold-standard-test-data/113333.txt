@@ -1,0 +1,262 @@
+Admission Date:  [**2173-11-15**]              Discharge Date:   [**2173-11-18**]
+
+Date of Birth:  [**2112-8-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3021**]
+Chief Complaint:
+Dyspnea.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+ONCO-MED HOSPITALIST ADMISSION NOTE
+.
+61 year old gentleman with COPD, stage IV NSCLC mucinous
+adenocarcinoma and recent PE who presents with dyspnea. He
+reports sudden-onset worsening of respiratory status on the
+morning of admission without associated productive cough,
+fevers/chills, CP, or other symptoms.
+.
+Of note, patient was recently readmitted in early [**2173-10-28**]
+for SOB/dyspnea, at which time a new LLL consolidation was seen.
+ He was provided with one dose of Vanc/Cefepime, and started on
+a morphine drip in concert with patient's HCP as well as patient
+wishes. Improvement in clinical status was noted overnight and
+his morphine drip was discontinued.  His acute respiratory
+decompensation was attributed to a mucus plug, aspiration,
+perhaps with contributing atalectasis. He was continued
+albuterol/ipratropium nebulizers, as well as enoxaparin [**Hospital1 **] for
+his recent PE's.  Antibiotics were not resumed at time of
+discharge. After discharge, blood cultures from [**2173-11-3**] grew
+Fusobacterium Nucleatum in one out of two bottles.  The patient
+was contact[**Name (NI) **] on [**2173-11-6**] regarding this lab result, and did not
+feel any different since discharge from the hospital.  Repeat
+blood cultures at his outpatient oncologist failed to reveal
+positive cultures.  Since his recent discharge, discussion
+regarding hospice care has been continued with his oncologist
+Dr. [**Last Name (STitle) 45322**], given the patient's poor prognosis.
+.
+In the ED, initial vitals recorded were a RR of 32. Labs showed
+hyponatremia with a sodium of 129, otherwise unremarkable CMP.
+CBC with WBC count of 16.0 with 97.3 PMN's and 2.4 %
+lymphocytes.  HCT of 30.6, platelets of 508. Coags showed INR of
+1.2, PTT of 31.8. CXR showed Stable right-sided pleural effusion
+and post-obstructive consolidation, increasing left pleural
+effusion with basal atelectasis. Patient had his pleurex
+catheter drained with 300 cc's of straw colored fluid aspirated.
+ He was administered albuterol/ipratropium nebs,
+vancomycin/zosyn, as well as lorazepam and methylprednisolone.
+.
+In MICU, VS: 96.9 103 131/74 14 90%4L NC. He endorsed feeling
+hungry. His respiratory status stabilized after clearing mucous
+plug, but still requiring 4-5L NRB. No antibiotics were given as
+low suspicion for acute infection. He improved with time,
+albuterol/ipratropium nebs. He was continued on lovenox for
+recent PE. In addition, as a large component of dyspnea was
+anxiety, patient was placed on standing clonazepam 1mg TID.
+Palliative care was consulted for assistance with pain control
+and was made DNR/DNI. Of note, he was found to be growing G+
+cocci in 1 of 2 Bcx bottles, was started on IV vancomycin and
+was transferred out of ICU.
+.
+ROS: He denies F/C/S, N/V, headache, dizziness, chest pain,
+abdominal pain, back pain, constipation, diarrhea, hematochezia,
+urinary symptoms, or rash.  All other ROS were negative.
+
+Past Medical History:
+1. Metastatic NSCLC to [**Last Name (LF) 500**], [**First Name3 (LF) **], with malignant effusion,
+Pleurex placed [**2173-9-16**], s/p carboplatin/paclitaxel x2 cycles,
+then pemetrexad x2 cycles (last given [**2173-11-11**]).
+2. PE, 9/[**2172**].
+3. CVA.
+4. Carotid stenosis s/p CEA [**2173-7-31**].
+5. Hypertension.
+6. Ocular migraine.
+7. Alcohol abuse.
+8. Hyperlipidemia.
+
+Social History:
+- Tobacco: Smoked 2 PPD age 20 to 61.
+- Alcohol: Former heavy drinker, drinks [**11-29**] bottle of wine per
+night.
+- Illicits: Denies.
+- Occupation: ECG engineer.
+- Exposures: Denies.
+
+Family History:
+Mother - colon cancer at 83 s/p resection, still alive at 88,
+hypertension.
+Father - died of multiple myeloma at age 80, high cholesterol.
+Sister 1 - died of malignant brain tumor at age 24.
+Sister 2 - hypertension.
+No FH of stroke, diabetes.
+
+Physical Exam:
+Admission to Floor Physical Exam
+Vitals: 97.8 108/62 111 21 97%NC 5L, 0/10 pain
+General: Alert, oriented, no acute distress, dyspnia
+occasionally interferes with his ability to complete sentences
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated
+Lungs: Diminished BS at bases b/l, R>L
+CV: Tachycardic ~110, regular rhythm, normal S1 + S2, no m/r/g
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+ADMISSION LABS:
+[**2173-11-15**] 11:30AM   WBC-16.0*# RBC-3.16* HGB-9.3* HCT-30.6*
+MCV-97 MCH-29.6 MCHC-30.5* RDW-17.8*
+[**2173-11-15**] 11:30AM   NEUTS-97.3* LYMPHS-2.4* MONOS-0.2* EOS-0.1
+BASOS-0
+[**2173-11-15**] 11:30AM   PLT COUNT-508*
+[**2173-11-15**] 11:30AM   PT-12.9* PTT-31.8 INR(PT)-1.2*
+[**2173-11-15**] 11:30AM   GLUCOSE-124* UREA N-12 CREAT-0.4* SODIUM-129*
+POTASSIUM-4.4 CHLORIDE-92* TOTAL CO2-31 ANION GAP-10
+.
+Thoracentesis Fluid
+[**2173-11-15**] 12:00PM PLEURAL  WBC-50* RBC-2725* POLYS-67* LYMPHS-24*
+MONOS-7* MESOTHELI-2*
+.
+[**2173-11-15**] CTA CHEST: IMPRESSION:
+1. Extensive right lung mass with post obstructive collapse of
+the right upper and middle lobes.
+2. No pulmonary emboli. The right upper and middle lobe
+pulmonary arteries are attenuated by the mass.
+3. Pleural effusions increased since the preceding exam 14 days
+ago.
+4. Extensive sclerotic metastases to the spine and sternum.
+5. Ground glass opacity in left apex is non-specific but could
+represent infectious process.
+.
+[**2173-11-15**] CXR: IMPRESSION: Stable appearance of right-sided
+pleural effusion and post-obstructive consolidation in the
+setting of a known right chest mass; increasing left pleural
+effusion with basal atelectasis.
+.
+[**2173-11-15**] CXR: IMPRESSION: Interval decrease in left pleural
+effusion with associated atelectasis and no pneumothorax.
+.
+DISCHARGE LABS:
+[**2173-11-17**] 07:25AM BLOOD WBC-10.0 RBC-2.87* Hgb-8.9* Hct-28.7*
+MCV-100* MCH-31.2 MCHC-31.2 RDW-17.6* Plt Ct-382
+[**2173-11-16**] 06:36AM BLOOD Neuts-96.7* Lymphs-2.3* Monos-0.6*
+Eos-0.2 Baso-0.1
+[**2173-11-17**] 07:25AM BLOOD PT-12.2 PTT-27.8 INR(PT)-1.1
+[**2173-11-17**] 07:25AM BLOOD Glucose-93 UreaN-9 Creat-0.2* Na-129*
+K-4.0 Cl-92* HCO3-31 AnGap-10
+[**2173-11-17**] 07:25AM BLOOD Calcium-8.5 Phos-3.6 Mg-1.5*
+
+Brief Hospital Course:
+61yo man with metastatic NSCLC to ribs, malignant effusion, and
+encasement of right hilum, on enoxaparin for PE, Pleurex
+catheter for malignant effusion, hx of CVA admitted to the ICU
+for acute dyspnea.  He initially required non-rebreather O2m byt
+after expectorating a mucous plug, his O2 requirement decreased
+to 5L.  Palliative care consulted.  Clonazepam added for
+anxiety.  Code status changed to DNR/DNI.  Blood cultures grew
+GPC in clusters and GPC in chains, two separate species.
+Started on vancomycin.  He continued to decline requiring more
+oxygen again despite suctioning.  He was placed on a morphine
+gtt for comfort and died [**2173-11-18**] at 16:20PM.
+.
+# Dyspnea/hypoxia: Due to malignancy and malignant effusion +/-
+post-obstructive pneumonia.  Required non-rebreather in ICU, but
+improved after mucous plug expectorated.  Blood cultures growing
+GPC in clusters and GPCs in chains.  Started vancomycin [**2173-11-16**]
+for GPC bacteremia, leukocytosis, increased mucous production,
+leukocytosis, tachycardia, and tachypnea --> sepsis.  Continued
+albuterol prn, fluticasone-salmeterol.  Tiotropium changed to
+ipratropium nebs.  Continued guaifenesin/codeine and benzonatate
+for cough.  O2 support as needed.  Morphine for dyspnea.
+Lorazepam for respiratory distress.  Suctioned for worsening
+hypoxia, but no improvement.  Trigger for hypoxia 88% on 6L
+[**2173-11-18**].  Mr. [**Known lastname **] and his girlfriend agreed to comfort care
+only and inpatient hospice.  He was placed on a morphine gtt for
+comfort and died [**2173-11-18**] at 16:20PM.
+.
+# Metastatic NSCLC: Last given pemetrexad [**2173-11-11**].  Palliative
+care consulted.  Stopped folate considering goals of care.
+.
+# Leukocytosis: Due to sepsis.  No labs considering goals of
+care.
+.
+# Anemia: Likely chemo induced and anemia of inflammation.  No
+labs.
+.
+# Chronic PE: Stopped enoxaparin for [**Month/Day/Year 3225**].
+.
+# HTN: Held metoprolol and hydralazine due to hypotension.
+.
+# Anxiety: Added clonazepam.
+.
+# Pain (rib): Continue MSContin.  Increased morphine IV PRN for
+pain and dyspnea.
+.
+# FEN: Regular diet. Hyponatremia possibly SIADH stable.
+Repleted hypomagnesemia.
+.
+# GI PPx: PPI and bowel regimen.
+.
+# DVT PPx: Enoxaparin for PE stopped for [**Month/Day/Year 3225**].
+.
+# Precautions: None.
+.
+# Lines: Peripheral.
+.
+# CODE: DNR/DNI, [**Month/Day/Year 3225**].
+
+Medications on Admission:
+Benzonatate 100 mg Capsule Sig: [**11-29**] Capsules PO TID prn
+Metoprolol succinate 50 mg Tablet Extended Release 1 tab po BID
+Morphine 30 mg Tablet Extended Release 1 po q12hrs
+Docusate sodium 100 mg Capsule 1 po BID
+Tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: 1
+cap qday
+Oxycodone 5 mg Tablet 1 po q6hrs prn
+Folic acid 1 mg Tablet 1 po qday
+Fluticasone-salmeterol 100-50 mcg/dose Disk  1 inh [**Hospital1 **]
+Enoxaparin 80 mg/0.8 mL Syringe 1 SC q12 hrs
+Albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler PRN SOB
+Dexamethasone 4 mg Tablet daily
+Lorazepam 0.5 mg Tablet 1 po q4 hours as needed for anxiety.
+Hydralazine 50 mg Tablet 1 PO TID
+Megestrol 20 mg 1 po qday
+Ondansetron 8 mg Tablet ODT PO three times a day PRN
+Prochlorperazine maleate 10 mg Tablet 1 PO three times PRN
+Pantoprazole 40 mg Tablet 1 tab PO twice a day.
+Nicotine 7 mg/24 hr Patch 24 hr Sig: One (1)  Transdermal qday
+
+Discharge Medications:
+N/A.
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+Sepsis (severe blood infection)
+Hypoxia (low oxygen levels)
+Shortness of breath
+Non-small cell lung cancer
+Malignant effusion (fluid in the lungs from cancer)
+Anxiety
+Death
+
+Discharge Condition:
+Deceased.
+
+Discharge Instructions:
+N/A.  Deceased.
+
+Followup Instructions:
+N/A.  Deceased.
+
+

@@ -1,0 +1,117 @@
+T1	Drug 4288 4295	Aspirin
+T2	Strength 4296 4301	325mg
+T3	Route 4302 4304	PO
+T4	Drug 579 589	lisinopril
+T5	Drug 4741 4751	lisinopril
+T6	Drug 4311 4321	Furosemide
+T7	Strength 4322 4326	20mg
+T8	Drug 4376 4387	Simvastatin
+T9	Strength 4388 4392	80mg
+T10	Drug 3931 3942	Allopurinol
+T11	Drug 2976 2986	lisinopril
+T12	Drug 5411 5421	prednisone
+T13	Drug 165 174	Lopressor
+T14	Drug 4262 4272	Amlodipine
+T15	Strength 4273 4278	2.5mg
+T16	Route 4279 4281	PO
+T17	Drug 4333 4343	Lisinopril
+T18	Strength 4344 4348	40mg
+T19	Drug 5423 5433	famotidine
+T20	Drug 177 187	Lisinopril
+T21	Drug 628 638	lisinopril
+T22	Drug 3125 3133	benadryl
+T23	Drug 4026 4036	amlodipine
+T24	Drug 5500 5510	prednisone
+T25	Form 5547 5554	tablets
+T26	Dosage 5545 5546	5
+T27	Drug 4222 4233	simvastatin
+T28	Drug 5439 5451	fexofenadine
+T29	ADE 555 565	angioedema
+T30	ADE 727 789;790 808	lips, tongue and face swelling and it progressivly worsened to include his throat
+T31	ADE 2958 2968	angioedema
+T32	Drug 3108 3119	H2 blockers
+T33	Reason 3002 3012	Angioedema
+T34	Drug 3098 3106	steroids
+T36	Reason 3982 3985	HTN
+T37	Reason 4188 4191	CAD
+T38	Drug 4198 4201	ASA
+T39	Drug 4355 4365	Oxybutinin
+T40	Drug 4399 4406;4409 4413	Allopur.  inol
+T41	Drug 4426 4433	eucerin
+T42	Form 4434 4439	cream
+T43	Strength 4414 4419	100mg
+T44	Frequency 4420 4425	daily
+T45	Frequency 4282 4287	daily
+T46	Frequency 4305 4310	daily
+T47	Frequency 4327 4332	daily
+T48	Frequency 4349 4354	daily
+T49	Strength 4366 4369	5mg
+T50	Frequency 4370 4375	daily
+T51	Frequency 4393 4398	daily
+T52	ADE 4693 4718;4719 4725	swelling in your face and throat
+T53	Reason 5455 5481	decrease residual swelling
+T54	Dosage 5523 5524	6
+T55	Form 5525 5532	tablets
+T56	Dosage 5567 5568	4
+T57	Form 5569 5576	tablets
+T58	Form 5664 5670	tablet
+T59	Dosage 5662 5663	1
+T60	Form 5639 5645	tablet
+T61	Dosage 5637 5638	1
+T62	Dosage 5614 5615	2
+T63	Form 5616 5623	tablets
+T64	Form 5593 5600	tablets
+T65	Dosage 5591 5592	3
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Route-Drug Arg1:T3 Arg2:T1
+R3	Strength-Drug Arg1:T7 Arg2:T6
+R4	Strength-Drug Arg1:T9 Arg2:T8
+R5	Strength-Drug Arg1:T15 Arg2:T14
+R6	Route-Drug Arg1:T16 Arg2:T14
+R7	Strength-Drug Arg1:T18 Arg2:T17
+R8	Form-Drug Arg1:T25 Arg2:T24
+R9	Dosage-Drug Arg1:T26 Arg2:T24
+R10	ADE-Drug Arg1:T29 Arg2:T4
+R11	ADE-Drug Arg1:T30 Arg2:T21
+R12	ADE-Drug Arg1:T31 Arg2:T11
+R14	Reason-Drug Arg1:T33 Arg2:T22
+R15	Reason-Drug Arg1:T33 Arg2:T32
+R16	Reason-Drug Arg1:T33 Arg2:T34
+R17	Reason-Drug Arg1:T36 Arg2:T23
+R18	Reason-Drug Arg1:T37 Arg2:T27
+R19	Reason-Drug Arg1:T37 Arg2:T38
+R20	Form-Drug Arg1:T42 Arg2:T41
+R21	Frequency-Drug Arg1:T44 Arg2:T40
+R22	Strength-Drug Arg1:T43 Arg2:T40
+R23	Frequency-Drug Arg1:T51 Arg2:T8
+R24	Frequency-Drug Arg1:T50 Arg2:T39
+R25	Strength-Drug Arg1:T49 Arg2:T39
+R26	Frequency-Drug Arg1:T48 Arg2:T17
+R27	Frequency-Drug Arg1:T47 Arg2:T6
+R28	Frequency-Drug Arg1:T46 Arg2:T1
+R29	Frequency-Drug Arg1:T45 Arg2:T14
+R30	ADE-Drug Arg1:T52 Arg2:T5
+R31	Reason-Drug Arg1:T53 Arg2:T28
+R32	Form-Drug Arg1:T58 Arg2:T24
+R33	Dosage-Drug Arg1:T59 Arg2:T24
+R34	Form-Drug Arg1:T60 Arg2:T24
+R35	Dosage-Drug Arg1:T61 Arg2:T24
+R36	Form-Drug Arg1:T63 Arg2:T24
+R37	Dosage-Drug Arg1:T62 Arg2:T24
+R38	Form-Drug Arg1:T64 Arg2:T24
+R39	Dosage-Drug Arg1:T65 Arg2:T24
+R40	Form-Drug Arg1:T57 Arg2:T24
+R41	Dosage-Drug Arg1:T56 Arg2:T24
+R42	Form-Drug Arg1:T55 Arg2:T24
+R43	Dosage-Drug Arg1:T54 Arg2:T24
+T66	Drug 3754 3762	steroids
+T67	Route 3751 3753	PO
+T68	Duration 3770 3775	7 day
+T69	Dosage 3776 3781	taper
+T70	Drug 3987 4004	Antihypertensives
+R44	Route-Drug Arg1:T67 Arg2:T66
+R45	Duration-Drug Arg1:T68 Arg2:T66
+R46	Dosage-Drug Arg1:T69 Arg2:T66
+R47	Reason-Drug Arg1:T36 Arg2:T70	
+T35	Route 3095 3097	IV
+R13	Route-Drug Arg1:T35 Arg2:T34	

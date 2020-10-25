@@ -1,0 +1,299 @@
+Admission Date:  [**2169-7-29**]              Discharge Date:   [**2169-8-3**]
+
+Date of Birth:  [**2141-5-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Latex / Biaxin / Protonix / Sulfa (Sulfonamides) / Risperidone /
+Linezolid / Clindamycin / Rifampin
+
+Attending:[**First Name3 (LF) 800**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Pt is a 28 yo F with h/o asthma, bipolar d/o, and hypothyroidism
+who presents with SOB X 4 days. Was in USOH when began to have a
+sore throat on Tuesday which she treated with nystatin. The
+following day she began to have a productive cough of green
+sputum, worsening SOB, and wheezing. Took albuterol > 10 times a
+day and woken up at night due to symptoms. Went to PCP's office
+where peak flow 280 (baseline 450). Referred to ED. Per pt, has
+had multiple admissions for asthma exacerbations and had been
+intubated once at OSH in [**3-10**] in setting of MRSA PNA and asthma
+exacerbation. Takes oral prednisone 4-5 times a year for asthma
+flares. Denies any recent sick contacts.  Feels that stress,
+allergies, and heat can exacerbate her asthma and she has been
+stressed recently by her new job which involves taking care of a
+disabled child.
+.
+In the ED her vitals were T 97.6, BP 143/75, P 108, RR 20, O2
+Sat 100% on RA. She was given albuteral nebs,
+methylprednisolone, magnesium, ipratropium, and levofloxacin for
+a suspected lingular PNA and admitted to the floor.
+
+Past Medical History:
+Asthma - multiple hospitalizations and intubation
+Bipolar disorder
+B12 deficiency
+Dysmenorrhea
+Hypothyroidism
+Dermatitis
+Mitral valve prolapse
+Chronic diarrhea, followed by Dr. [**First Name (STitle) **] [**Name (STitle) **] in GI
+PTSD
+Depression
+Bulimia Nervosa per pt report
+
+s/p appendectomy and cholecystectomy
+
+Social History:
+Lives in a respite in [**Location (un) **].  Recently lived with her mother by
+her report. Patient denies h/o tobacco or illicit drug use. She
+also denies current etoh and denies h/o daily or excessive
+drinking. She has had > 15 jobs since she was 18; she loses them
+[**3-4**] feeling overwhelmed.  Her current job involves taking care
+of a disabled child.  She would like to become a mid-wife.
+
+
+Family History:
+Father has MS
+Mother has depression
+Aunt has schizophrenia
+Aunt has asthma
+Cousin has asthma
+
+
+Physical Exam:
+Vitals: T 98.2 BP 102-134/48-79 HR 117 RR 20 97% RA
+General: sitting up in bed, no signs of accessory muscle use
+HEENT: PERRL, EOMI, white coating present on the tongue, no
+clear thrush over OP
+Neck: no LAD, no JVD
+Heart: sinus tachycardia, no murmurs/rubs/[**Last Name (un) 549**]
+Lungs: tight air mvmt b/l with no appreciable wheezing,
+decreased BS over bases
+Abd: +BS, soft, ND, NT
+Ext: WWP, no C/C/E
+Skin: no rashes
+Neuro: AOX3, CN III-XII intact, motor/sensation grossly intact
+Psych: anxious
+
+
+Pertinent Results:
+[**2169-8-3**] 05:55AM BLOOD WBC-6.0 RBC-4.27 Hgb-12.5 Hct-36.9 MCV-86
+MCH-29.3 MCHC-33.9 RDW-13.1 Plt Ct-208
+[**2169-8-3**] 05:55AM BLOOD Glucose-94 UreaN-16 Creat-0.7 Na-140
+K-3.9 Cl-102 HCO3-30 AnGap-12
+[**2169-8-2**] 08:50AM BLOOD WBC-6.1 RBC-4.24 Hgb-12.6 Hct-37.0 MCV-87
+MCH-29.8 MCHC-34.2 RDW-13.2 Plt Ct-188
+[**2169-7-29**] 10:25AM BLOOD WBC-9.9# RBC-4.68 Hgb-13.7 Hct-40.4
+MCV-87 MCH-29.3 MCHC-33.8 RDW-13.5 Plt Ct-195
+[**2169-7-29**] 10:25AM BLOOD Neuts-91* Bands-0 Lymphs-8* Monos-1*
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+
+[**2169-8-2**] 08:50AM BLOOD Glucose-95 UreaN-17 Creat-0.9 Na-141
+K-3.1* Cl-104 HCO3-29 AnGap-11
+[**2169-7-29**] 10:25AM BLOOD Glucose-108* UreaN-14 Creat-0.7 Na-140
+K-3.8 Cl-105 HCO3-24 AnGap-15
+
+[**2169-7-31**] 01:05PM BLOOD Type-ART pO2-83* pCO2-39 pH-7.44
+calTCO2-27 Base XS-1
+[**2169-7-30**] 05:34PM BLOOD Type-ART pO2-103 pCO2-37 pH-7.43
+calTCO2-25 Base XS-0
+[**2169-7-30**] 03:12AM BLOOD Type-ART pO2-159* pCO2-39 pH-7.42
+calTCO2-26 Base XS-1
+[**2169-7-29**] 11:59PM BLOOD Type-ART pO2-197* pCO2-35 pH-7.44
+calTCO2-25 Base XS-0
+[**2169-7-29**] 10:28PM BLOOD Type-ART pO2-123* pCO2-39 pH-7.40
+calTCO2-25 Base XS-0 Intubat-NOT INTUBA
+[**2169-7-29**] 10:31AM BLOOD Lactate-1.9
+
+[**2169-7-31**] CXR:
+The lung volumes are markedly reduced. Bibasilar opacities
+likely represent atelectasis. Right infrahilar opacity has
+improved. There is no pneumothorax or pleural effusion
+
+[**2169-7-30**] CXR:
+There has been interval worsening in the appearance of the
+chest, with
+increased plate-like atelectasis at both lung bases. There are
+low lung
+volumes. Heart and mediastinum are within normal limits. There
+is a new
+patchy focus of consolidation in the right perihilar region.
+
+[**2169-7-29**] CXR:
+PA and lateral views of the chest demonstrate low lung volumes.
+There is
+plate-like atelectasis at the left lung base. There is minimal
+atelectasis at the right lung base as well. Heart and
+mediastinum are within normal limits.
+
+
+Brief Hospital Course:
+When the pt arrived on the floor she was placed on standing nebs
+and prednisone. During the night, pt felt more SOB and
+tachypneic. MICU team called for evaluation and the pt was found
+to have accessory muscle use while sitting up in bed, tachypnea
+to upper 20s, O2 sat 99% RA.  Pt placed on continuous albuterol
+neb but subjectively felt her breathing was worse. ABG at that
+time was 7.4/39/123/25.  Pt was transferred to the MICU for
+further care.
+.
+In the MICU she was started on IV solumedrol, continuous
+nebulized albuterol and heliox for her asthma exacerbation.  Pt
+was also placed on levaquin for possible pneumonia.  Pt's
+respiratory status improved with increased air entry and was
+transitioned to albuterol q1h.  Intubation was not required.
+Serial ABGs with pH 7.40-7.46.  Pt experienced sinus tachycardia
+in the 120s, BP adequate 100-130/50-80.  Thought to be [**3-4**]
+continuous albuterol -> pt switched to xoponex q1h and
+ipratroprium q4h.  Pt was able to speak in full sentences and
+did not show any signs of accessory muscle use.  PEFR was 250
+(baseline 450).  Pt was transferred back to the floor.
+.
+# Asthma exacerbation: No clear exacebating factors on history
+beyond increased stress at work. CXR did not show obvious PNA
+but there was an increased R perihilar density.  Pt was
+transitioned from IV solumedrol 125mg q8h in the MICU to PO
+prednisone 50mg on the floor.  Pt was also continued on
+ipratroprium q4h with xoponex nebs q1h prn.  The pt's advair was
+held [**3-4**] systemic steroid use.  Pt did well with this therapy
+for about a day and then became acutely short of breath with RR
+in the high 20's, O2 sat 91% on RA, PEFR 125 and sinus
+tachycardia to the 150s.  Pt responded well to 4L O2 by NC, IV
+solumedrol 125mg x1, Combivent and IV Ativan 2mg (it was felt
+that there was a large component of anxiety contributing to the
+pt's respiratory distress).  Pt did well with this episode and
+did not require further IV steroids.  Pt continued to do well on
+ipratroprium q4h and xoponex nebs q1h prn (pt received roughly
+q4h). Outpatient loratidine and flonase were continued to
+control her allergies, which could contribute to her
+exacerbation.  Pt was able to ambulate with RA O2 sats from
+91-93% on [**8-2**].  On the day of discharge pt felt much better, was
+ambulating without supplemental O2.  O2 sat on RA was 98%.  PEFR
+increased to 250.  Minimal upper-airway wheezing.  Pt will be
+discharged with a steroid taper, 50mg qdaily x 5days, 40mg
+qdaily x 5days, 30mg qdaily x 5days, 20mg qdaily x 5days and
+10mg qdaily until she sees her PCP. [**Name10 (NameIs) **] will be sent home with
+Atrovent nebs q6h prn.
+.
+# Pneumonia: CXR was suggestive of pneumonia and pt was treated
+with Levaquin 750 mg IV for 5 days.  Pt had ? history of MRSA
+pneumonia although there were no records of this.  WBC trended
+down after treatment with ABX.  Sputum cultures showed 3+ gram+
+cocci in pairs/cluster and 2+ gram+ rods.  This expectorated
+sample was adequate (<10 sq epis), however it was collected
+after multiple doses of Levaquin.  Clinically pt improved, using
+incentive spirometry and ambulating as tolerated with RA O2 sats
+from 91-93% on [**8-2**].  RA O2 sats 98% on the day of discharge.
+Final sputum culture revealed growth of oropharyngeal flora.
+.
+# Tachycardia: Pt had sinus tachycardia in the MICU to the 120s
+and on the floor peaked to the 150s.  There were multiple causes
+of her tachycardia - hypoxemia, continuous albuterol nebs in the
+MICU, anxiety, pain and possible infection.  Pt was not anemic
+or febrile (on steroids) and clinically she did not appear
+hypovolemic.  No EKG changes were noted.  Pt was monitored on
+telemetry.  Pt's tachycardia improved after d/c of albuterol and
+as her exacerbation was treated with steroids and nebulizers.
+.
+# Bipolar Disease: Pt not currently manic or depressed.  Pt was
+continued on her outpatient fluoxetine, trazodone, thorazine,
+and carbamazepine.
+.
+# Bulimia: Pt had poor PO intake [**3-4**] pain and SOB according to
+the pt.  She was continued on her outpatient naltrexone.
+.
+# Thrush: Treated with nystatin.
+.
+# Hypothyroidism: On [**5-9**] TSH was 3.9. Outpatient levothyroxine
+was continued.
+.
+# B12 Deficiency: Pt receives vit B12 monthly inj.
+.
+# FEN/GI: Pt was started on Vitamin D and Calcium given her
+recurrent use of systemic steroids. Pt should continue vitamin D
+and calcium as an outpatient, if she needs a prescription she
+can follow with her PCP.  [**Name10 (NameIs) **] tolerated a regular diet, K was
+repleted once (K 3.3) with 40meq KCl x1, continued on outpatient
+ranitidine.
+.
+# PPx: Maintained on heparin sc, bowel regimen, ranitidine.
+.
+# Access - PIV
+.
+# Code - Full
+.
+
+
+Medications on Admission:
+Albuterol INH 2 puffs qid prn
+Flonase daily
+Flovent 110 mcg 1 puff [**Hospital1 **] prn to be combined with Advair
+Advair 500/50mcg 1 puff [**Hospital1 **]
+Loratadine 10 mg daily
+Levothyroxine 50 mcg daily
+Carbamazepine 200 mg [**Hospital1 **]
+Fluoxetine 20 mg daily
+Naltrexone 50 mg qhs
+Thorazine 50 mg [**Hospital1 **]
+Trazodone 200 mg qhs
+VitB12 1000 mcg monthly
+Ranitidine 150 mg [**Hospital1 **]
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Asthma exacerbation
+Pneumonia
+
+Secondary:
+Bipolar disorder
+Hypothyroidism
+Bulemia
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were treated in the hospital for an asthma exacerbation.
+You were transferred to the intensive care unit early in your
+admission because you were having difficulty breathing.  You did
+not need a tube to help you breath, but you were treated with
+steroids and nebulizer treatments.  You also had a probable
+pneumonia for which you were given antibiotics.
+
+You will go home with steroids and will gradually stop taking
+them.  You were also given an additional nebulized medication
+called Atrovent.  You should continue to take calcium and
+vitamin D supplements because of the risk of osteoporosis from
+long-term steroid use.  You should talk to your PCP if you need
+a prescription for these supplements.
+
+There were no other changes made to your medications.
+
+You should follow-up with your PCP [**Last Name (NamePattern4) **]. [**First Name (STitle) **] as an outpatient.
+
+You should call your doctor or return to the ED if you
+experience any worsening symptoms including wheezing, shortness
+of breath, chest pain, palpitations, fever or any other
+concerning symptoms.
+
+Followup Instructions:
+Please follow-up with your PCP [**Last Name (NamePattern4) **]. [**First Name (STitle) **] on Friday, [**8-11**]
+at 11:00AM.  Please call ([**Telephone/Fax (1) 3346**] for any questions.
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 810**] MD, [**MD Number(3) 811**]
+
+Completed by:[**2169-8-3**]

@@ -1,0 +1,157 @@
+Admission Date:  [**2103-10-18**]              Discharge Date:   [**2103-10-19**]
+
+Date of Birth:  [**2031-8-15**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Epinephrine / Lidocaine / Percocet / Imuran / Heparin Agents
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Hypercarbic respiratory failure, pneumothorax, mental status
+changes
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Patient is a 72 yo male with pmhx Myasthenia [**Last Name (un) **] x 10 yrs,
+diaphragmatic weakness, Esophageal CA s/p partial partial
+esophagectomy, TIA s/p R CEA, CAD w/ MI s/p stent [**7-4**] w/ nl EF
+who p/w hypercarbic respiratory failure (Co2= 150),
+pneumothorax, mental status changes. Recently discharged from [**Hospital1 **]
+in early [**Month (only) **] with myasthenia crisis after surgery.
+Originally presented for chest pain and sob. He went to surgery
+for baloon dilation of pylorus with improvemtn of chest pressure
+and tolerated po diet. Transferred to MICU. He was
+plasmapheresed and placed on Bipap. He was also started on
+bipap. He was discharged to [**Hospital1 **], on prednisone 125 mg.
+Tapered too quickly at rehab.
+Presents today with increased sob and weakness starting one week
+ago. He was diagnosed with a UTI earlier in the week and treated
+with antibiotics. His wife also reported mental status changes
+and reported that he had "difficulty focusing". Also notes
+decreased po intake in the last week.
+ABG in ED 7.20/150/381. ED vitals: T 97.8 HR 80 BP 136/65 RR 23
+O2 sat 100%.
+
+
+Past Medical History:
+Myasthenia [**Last Name (un) 2902**] dx [**2092**] and started with diplopia
+Bilateral Diaphragmatic weakness
+Esophageal cancer s/p partial esophagectomy, XRT, chemo
+Coronary Artery Disease w/ MI s/p cypher stent of mid RCA
+[**6-/2102**], EF 60% 9/06
+TIA
+hypercholesterolemia
+sleep apnea on night bipap 15/5 and O2 at 2 liters
+malnutrition s/p j tube placemtn and removal
+glaucoma
+
+
+Social History:
+Patient currently lives at [**Hospital **] Rehab, but prior to this
+admission he was living at home with his wife. Retired [**Name2 (NI) **]
+warehouse worker. No children. 15 pk/yr history of smoking but
+quit 25 years ago. Denies ETOH or drug abuse. Uses walker at
+baseline, but more weak recently. O2 requirement 24 hours per
+day.
+
+
+Family History:
+Notable for many family members with CAD. His brother had lung
+cancer. There is no myasthenia [**Last Name (un) 2902**] or other neurological
+problems in the family.
+
+
+Physical Exam:
+VS T 94.8 ax, BP 113/64 P 108 RR 30 O2 sat 60% by VM
+Gen-elderly man in acute respiratory distress, able to speak a
+few words at a time
+HEENT-NCAT, PERRLA, anicteric, no injections, OP with thrush, MM
+dry
+Neck-no JVD
+Cor- tacchycardic, normal rythm, S1S2 no MGR
+Lungs- no breath sounds appreciated on right side anteriorly and
+upper posterior lung fields.
+Abd- +bs, soft, nt, nd, no masses or hsm
+Extrem- no CCE, cold extremities, poor peripheral pulses-thready
+
+Neuro-confused, disoriented to place and time
+
+
+Pertinent Results:
+pH 7.20
+pCO2 150
+pO2 381
+HCO3 61
+.
+151 99 25
+----------< 224
+4.6 >50 0.5
+.
+wbc 10.2 hgb 11.2 hct 35.2 plt 218 MCV 106
+CK 36 MB not done Trop 0.07
+PT 11.4 PTT 24.9 INR 1.0
+.
+CXR-right apical pneumothorax, no evidence of tension
+pneumothorax by CXR.
+
+
+Brief Hospital Course:
+Pt is a 72 yo man with pmhx myasthenia [**Last Name (un) 2902**] w/ last crisis 3
+weeks ago s/p surgery, esophageal cancer s/p resection,
+chemotherapy and XRT, CAD who presented with one weak of
+increased weakness, sob and pneumothorax and decreased mental
+status. Hypercarbic respiratory failure probably multifactorial
+and related to weakness 2/2 MG, diaphragmatic weakness which
+would not allow him to blow off CO2. He was also found to have a
+new right apical pnuemothorax of unclear etiology but without
+signs of tension pneumothorax on imaging or exam.  The family
+and patient declined thoracocentesis. The patient was dyspneic
+and did not tolerate BiPAP. His code was changed from DNR/DNI to
+comfort measures only per his health care proxy.  The patient
+died on [**2103-10-19**] at 9:15am secondary to respiratory failure
+secondary to diaphragmatic weakness/pneumothorax secondary to
+[**First Name9 (NamePattern2) 15917**] [**Last Name (un) 2902**]. The family was present at the time of death.
+They declined autopsy.
+
+
+Medications on Admission:
+albuterol nebs
+asa 81 mg QD
+plavix 75 mg QD
+Anzemet 12.5 mg q8
+bisacodyl suppository
+brimonidine .15% 1 drop OU q 12 hrs
+celexa 20 mg QD
+cyanocobalamin 1,000 mcg QD
+Dorzolamide-timolol 2-0.5% 1 gtt OU q 12
+Fludrocortisone 0.1 mg po QD
+insulin sliding scale
+MOM
+mupirocin cream QD to nose
+Mycophenylate 1000 mg [**Hospital1 **]
+Protonix 40 mg IV QD
+Pyridostigmine 2 mg injection q 6 hours
+Quetiapine 25 mg QHS
+Travatan 0.004% 1-2 gtt OU q MWF
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+n/a
+
+Discharge Condition:
+n/a
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+

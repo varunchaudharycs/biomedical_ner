@@ -1,0 +1,399 @@
+Admission Date:  [**2196-11-14**]              Discharge Date:   [**2196-11-19**]
+
+
+Service: NEUROSURGERY
+
+Allergies:
+Sulfonamides / Epinephrine / Diltiazem / Pletal
+
+Attending:[**First Name3 (LF) 78**]
+Chief Complaint:
+Depressed Mental status
+
+Major Surgical or Invasive Procedure:
+Left Craniotomy for SDH evacuation
+
+
+History of Present Illness:
+86 y/o female with history of afib on Coumadin. Ms [**Known lastname 97533**]
+was with her son yesterday and fell getting bundles out of her
+car. She hit her head on the pavement and did not have a loss of
+consciousness. She was able to do her normal activities she went
+to bed last night and her son attempted to arrouse her at 2am
+for
+which he stated "she did not fully awake" this morning when his
+mother did not wake up he found her in her room and was able to
+minimally arrouse her. She was brought by ambulance here.
+
+
+Past Medical History:
+Atrial fibrillation, Diabetes, HTN, Menieres Disease, S/P
+multiple falls recent radius/humeral fractures.
+
+
+Social History:
+Retired nurse, lives with son, non [**Name2 (NI) 1818**], no alcohol
+
+
+Family History:
+NC
+
+Physical Exam:
+O: T:  BP:169/78  HR:80  R17       O2Sats 100%
+Gen: Seen prior to intubation, [**Name (NI) 91248**] respirations, no
+commands
+HEENT: Pupils: surgical bilateral 2mm
+Neck: In collar
+Neuro:
+Does not follow commands
+Does not open eyes
+Extensor postures in upper extremities will slightly withdraw
+legs left greater than right
+Face symmetric
+Toes mute
+Normal tone
+Difficult to obtain any reflexes most likely hyporeflexic and
+symmetric
+
+
+Pertinent Results:
+[**Hospital1 69**]
+[**Location (un) 86**], [**Telephone/Fax (1) 15701**]
+
+Pathology Examination
+
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 97534**],[**Known firstname **]       [**2109-12-5**]    86 Female      [**-8/4553**]
+[**Numeric Identifier 97535**]
+Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]
+[**Last Name (NamePattern1) 2093**] Description by:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/mtd
+
+
+
+SPECIMEN SUBMITTED: left subdural hematoma, left subdural
+hematoma.
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2196-11-14**] [**2196-11-14**] [**2196-11-17**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/ttl
+Previous biopsies:    [**Numeric Identifier 97536**]  EGD (3).
+  [**Numeric Identifier 97537**]  (Not on file)
+
+DIAGNOSIS:
+
+
+
+Left subdural hematoma:
+
+Blood clot.
+
+Clinical: Left subdural hematoma.
+Gross:
+
+The specimen is received fresh in a container labeled with the
+patient's name, "[**Known lastname 97533**], [**Known firstname **]", and the medical record number
+and additionally labeled "left subdural hematoma". It consists
+of a blood clot measuring 6 x 2 x 0.2 cm. Representative
+sections are submitted in cassette A.
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 97538**] F  86  [**2109-12-5**]
+
+Cardiology Report ECG Study Date of [**2196-11-14**]  9:15:36 AM
+
+
+Sinus rhythm. Left atrial abnormality. Left ventricular
+hypertrophy with
+ST-T wave abnormalities. Since the previous tracing of [**2196-5-4**]
+further
+ST-T wave changes are present.
+
+
+Read by: [**Last Name (LF) **],[**First Name3 (LF) 177**] W.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+76 180 78 [**Telephone/Fax (2) 97539**]0
+
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 97538**] F  86  [**2109-12-5**]
+
+Radiology Report CT C-SPINE W/O CONTRAST Study Date of [**2196-11-14**]
+9:22 AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] EU   [**2196-11-14**] 9:22 AM
+CT C-SPINE W/O CONTRAST   Clip # [**Clip Number (Radiology) 97540**]
+Reason: fx, dislocation
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   86 year old woman with s/p fall and ams
+REASON FOR THIS EXAMINATION:
+   fx, dislocation
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Wet Read: LLTc MON [**2196-11-14**] 10:47 AM
+NO acute fx or malalignment.
+
+
+Final Report
+INDICATION: 86-year-old female status post fall with acute
+mental status
+changes.
+
+TECHNIQUE: CT of the C-spine without IV contrast.
+
+COMPARISON: MR of the C-spine available from [**2191-6-5**].
+
+FINDINGS: There are no acute fractures or traumatic
+malalignment. There is
+mild straightening of lordosis, consistent with the presence of
+cervical
+collar. There are moderate to severe degenerative changes
+throughout the
+cervical spine, including severe facet arthropathy, and loss of
+intervertebral disc space, most severely at C5 through T1. There
+is grade 1 anterolisthesis of C4 over C5. Diffuse disc bulging
+is present at C5-C6 and C6-C7, resulting in moderate spinal
+canal stenosis, most severely at C5-C6.
+
+There is no prevertebral hematoma or adjacent soft tissue
+abnormalities.
+Included views of the lungs demonstrate mild dependent
+atelectasis
+bilaterally. There are multiple nodules within the slightly
+enlarged right
+thyroid lobe.
+
+IMPRESSION:
+1. No acute fractures or traumatic malalignment.
+2. Moderate-to-severe degenerative changes throughout the
+cervical spine,
+most severely at C5-C6, with associated moderate spinal canal
+stenosis.
+3. Multiple right thyroid nodules.
+
+The study and the report were reviewed by the staff radiologist.
+
+
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 97538**] F  86  [**2109-12-5**]
+
+Radiology Report CT HEAD W/O CONTRAST Study Date of [**2196-11-14**]
+9:22 AM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] EU   [**2196-11-14**] 9:22 AM
+CT HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) 97541**]
+Reason: ICH
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   86 year old woman with s/p fall and AMS
+REASON FOR THIS EXAMINATION:
+   ICH
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Wet Read: LLTc MON [**2196-11-14**] 10:44 AM
+Left subdural hematoma with mixed hyperdensity, concerning for
+active bleed, tracking along the left convexivity and left
+tentorium.
+
+Rightward shift of midline structures up to 17 mm, with
+significant
+effacement of the left lateral ventricle. Dilated temporal [**Doctor Last Name 534**]
+of right
+lateral ventricle concerning for early hydrocephalus.
+
+Rightward subfaclcine herniation. Early righward uncal
+herniation.
+
+
+Final Report
+INDICATION: 86-year-old female status post fall and acute mental
+status
+changes.
+
+TECHNIQUE: CT of the head without IV contrast.
+
+COMPARISON: CT of the head available from [**2193-12-12**].
+
+FINDINGS:
+There is a large left cerebral subdural hematoma, measuring up
+to 17 mm in
+thickness, with blood tracking along the left tentorium. There
+is significant neighboring mass effect on left cerebral sulci
+and the left lateral ventricle with subfalcine herniation and
+17-mm rightward shift of normally midline structures. The
+hematoma has mixed hyper and hypoattenuating components,
+consistent with an acute on chronic bleeding. There is slight
+effacement of the suprasellar cistern, concerning for an early
+rightward uncal herniation. Slight hyperattenuation along the
+suprasellar cistern borders may represent trace subarachnoid
+blood. The quadrigeminal cistern is preserved but slightly
+asymmetric. The right lateral ventricle is slightly effaced, and
+the temporal [**Doctor Last Name 534**] is slightly dilated in comparison to the prior
+CT exam from [**2193-12-12**], concerning for possible early
+hydrocephalus.
+
+Again, there is significant hypoattenuation of the
+periventricular white
+matter, consistent with chronic microvascular ischemic disease.
+
+There are no acute fractures. There is a large subgaleal
+hematoma overlying the left parietal and occipital regions, with
+a more focal hyperattenuating region representing a more focal
+hematoma. The middle ear cavities and included portions of the
+mastoid air cells and paranasal sinuses are clear.  The orbits
+are symmetrical and intact.
+
+IMPRESSION: Large acute left subdural hematoma with associated
+mass effect, subfalcine herniation and left uncal herniation.
+
+Findings were communicated with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at 10:45 a.m.
+on [**2196-11-14**].
+
+The study and the report were reviewed by the staff radiologist.
+
+
+
+[**Known lastname **],[**Known firstname **] [**Medical Record Number 97538**] F  86  [**2109-12-5**]
+
+Radiology Report MR HEAD W/O CONTRAST Study Date of [**2196-11-15**]
+2:09 PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-A [**2196-11-15**] 2:09 PM
+MR HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) **]
+Reason: 86 year old woman with SDH, on coumadin. Eval for
+interval c
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   86 year old woman with SDH, on coumadin. Eval for interval
+change. ***PLEASE
+   INCLUDE DWI***
+REASON FOR THIS EXAMINATION:
+   86 year old woman with SDH, on coumadin. Eval for interval
+change. ***PLEASE
+   INCLUDE DWI***
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Final Addendum
+Dedicated imaging of the intracranial arteries can be considered
+with MRA.
+
+DR. [**First Name (STitle) 10627**] PERI
+Approved: [**Doctor First Name **] [**2196-11-17**] 11:04 AM
+
+[**Last Name (LF) **],[**First Name3 (LF) **] J. NSURG SICU-A [**2196-11-15**] 2:09 PM
+MR HEAD W/O CONTRAST   Clip # [**Clip Number (Radiology) **]
+Reason: 86 year old woman with SDH, on coumadin. Eval for
+interval c
+
+
+
+[**Hospital 93**] MEDICAL CONDITION:
+   86 year old woman with SDH, on coumadin. Eval for interval
+change. ***PLEASE
+   INCLUDE DWI***
+REASON FOR THIS EXAMINATION:
+   86 year old woman with SDH, on coumadin. Eval for interval
+change. ***PLEASE
+   INCLUDE DWI***
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+
+
+
+Final Report
+INDICATION: 86-year-old woman with subdural hematoma on
+Coumadin, status post
+evacuation. Evaluate for interval change.
+
+COMPARISON: Multiple head CTs most recent of [**2196-11-14**].
+
+TECHNIQUE: Sagittal T1 and axial fat-saturated T2, FLAIR,
+gradient echo, and diffusion-weighted images were obtained of
+the head.
+
+FINDINGS: Multiple areas of restricted diffusion are noted,
+consistent with acute infarcts in the left anterior, middle, and
+posterior cerebral artery vascular territories. In addition,
+areas of acute infarct are noted in the right anterior and
+posterior cerebral artery vascular territories, involving the
+right thalamus. There is no evidence of hemorrhagic
+transformation of these infarcts. There is persistent rightward
+shift of midline structures which has improved since the
+previous study, now measuring approximately 6 mm down from 10
+mm. Previously noted pneumocephalus is resolving. Residual left
+subdural hemorrhage and intraparenchymal hemorrhage are again
+seen, unchanged. The ventricles remain unchanged in size. The
+major vascular flow voids appear
+patent.
+
+IMPRESSION:
+Acute multi vascular territorial infarcts most pronounced in the
+left
+hemisphere, as described above. While these can relate to
+compression of the arteries from the extensive SDH and mass
+effect, embolic etiology is also in the differential diagnosis.
+Findings were discussed with Dr. [**Last Name (STitle) **] [**Name (STitle) **] shortly after
+review on [**2196-11-15**].
+
+The study and the report were reviewed by the staff radiologist.
+
+
+
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 97533**] arrived to the ED intubated for airway protection.
+She recieved Profiline 9 and several units of FFp to reverse her
+coagulopathy and went emergently for a left sided craniotomy for
+SDH evacuation. Post operatively she was left intubated and
+transferred to the Surgical intensive care unit.
+
+Her exam never improved.  She was followed clinically for the
+next few days.  An MRI was performed for prognostics.  She was
+made CMO after a family meeting.  She later expired.
+
+Medications on Admission:
+Medications prior to admission: Amiodarone 200 QD, Carvedilol
+25mg [**Hospital1 **], Metformin 500mg tid, pravastatin 10 at HS, Januvia 100
+QD, and Coumadin
+
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Left sided Acute on Chronic SDH
+Hyperglycemia
+
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+
+Completed by:[**2196-11-28**]

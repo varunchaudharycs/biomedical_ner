@@ -1,0 +1,279 @@
+Admission Date:  [**2105-12-7**]              Discharge Date:   [**2105-12-26**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2009**]
+Chief Complaint:
+Fevers, desaturation
+
+Major Surgical or Invasive Procedure:
+Endotracheal Intubation [**Date range (2) 98897**]
+Art-line [**Date range (2) 98898**]
+PICC [**2105-12-10**]-
+Bronchoscopy [**2105-12-11**] and [**2105-12-13**]
+
+History of Present Illness:
+[**Age over 90 **]-year-old woman with history of dementia, depression p/w
+cough, fever, dyspnea from nursing home. At nursing home,
+patient appeared dyspneic the morning of admission with T 100.6,
+BP 147/72, P 116, RR 17, O2 sat in high 70s on RA, 95% on NRB.
+Was brought to ED.
+.
+On arrival in ED, T 103.9, HR 110s, SBP 150s, RR 20s, 95-98%
+NRB.  Exam revealed orientation x 1 (reportedly baseline),
+crackles at L base. WBC 19.9 with 94.3%N, 3.1%L, no bands. Na
+152, K 2.9, Cl 111, HCO3 27, BUN 29, Cr 0.7. CXR showed large
+LLL infiltrate. ABG 7.51/35/60, EKG with no ischemic changes.
+She received ceftriaxone, levoflox, vanco, acetaminophen, 500 ml
+NS.
+
+Of note, patient is full code per NH.
+.
+ROS: not obtainable due to dementia
+.
+
+Past Medical History:
+depression
+dementia
+anxiety
+constipation
+thrombocytopenia from valproic acid
+s/p incarcerated inguinal hernia repair
+.
+
+
+Social History:
+Lives at nursing home.
+
+
+Family History:
+NC
+
+Physical Exam:
+T: 98.0 oral BP: 118/54  HR: 88  RR: 34  O2Sat: 96% on NRB
+GEN: Tired-appearing elderly woman, tachypneic, with slight use
+of accessory muscles
+HEENT: EOMI, PERRL, sclera anicteric, MMM, OP Clear but very
+poor dentition
+NECK: No JVD, no bruits, no cervical lymphadenopathy, trachea
+midline, severe kyphosis
+COR: Regular rhythm, normal rate, normal S1/S2, 3/6 systolic
+murmur > at LUSB, radial pulses +2
+PULM: Scattered crackles R lung base, otherwise clear on right.
+Left with decreased BS at base and rhonchi. Pt coughing
+frequently during exam
+ABD: Soft, slightly tender to palpation of suprapubic area,
+otherwise nontender, ND, +BS, no HSM, no masses
+EXT: No C/C/E, 1+ dp pulses b/l. No ulcers
+NEURO: Alert, oriented to person only. CN II ?????? XII grossly
+intact. Moves all 4 extremities.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+
+.
+
+
+Pertinent Results:
+[**2105-12-7**] 09:25AM   WBC-19.9*# RBC-3.84* HGB-12.1 HCT-36.0 MCV-94
+MCH-31.4 MCHC-33.6 RDW-13.8
+[**2105-12-7**] 09:25AM   NEUTS-94.3* LYMPHS-3.1* MONOS-2.3 EOS-0.1
+BASOS-0.2
+[**2105-12-7**] 09:25AM   PLT COUNT-287#
+.
+[**2105-12-7**] 09:25AM   PT-15.0* PTT-30.9 INR(PT)-1.3*
+.
+[**2105-12-7**] 09:25AM   GLUCOSE-153* UREA N-29* CREAT-0.7 SODIUM-152*
+POTASSIUM-2.9* CHLORIDE-111* TOTAL CO2-27 ANION GAP-17
+[**2105-12-7**] 09:23AM   LACTATE-1.6
+.
+[**2105-12-7**] 09:25AM   CK(CPK)-130
+[**2105-12-7**] 09:25AM   cTropnT-0.09*
+[**2105-12-7**] 09:25AM   CK-MB-4
+[**2105-12-7**] 05:05PM   CK(CPK)-237*
+[**2105-12-7**] 05:05PM   CK-MB-6 cTropnT-0.08*
+.
+Admission CXR: IMPRESSION:
+1. Left basilar consolidation representative of atelectasis or
+early
+pneumonia.
+2. Small left pleural effusion.
+3. Underlying apical emphysema. Right apical scarring.
+.
+[**2105-12-9**] ECHO: The left atrium is mildly elongated. No left
+atrial mass/thrombus seen (best excluded by transesophageal
+echocardiography). Left ventricular wall thickness, cavity size,
+and global systolic function. Distal septal hyopkinesis is
+suggested on some views, but could not be confirmed. Overall
+systolic function is normal (LVEF >60%). Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Tissue Doppler imaging suggests an increased
+left ventricular filling pressure (PCWP>18mmHg). Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets are severely thickened/deformed. There is
+mild aortic valve stenosis (area 1.2cm2). Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] There is mild pulmonary artery
+systolic hypertension. There is a very small pericardial
+effusion without evidence for hemodynamic compromise.
+IMPRESSION: Mild aortic stenosis. Mild pulmonary artery systolic
+hypertension. Normal biventricular cavity sizes with preserved
+global biventricular systolic function.
+.
+[**2105-12-11**] CT CHEST:  IMPRESSION:
+1. Small bilateral pleural effusions, left greater than right.
+Dense
+consolidation in the left lower lobe and lingula consistent with
+atelectasis and pneumonia. Scattered bilateral ground glass
+nodules likely represent infectious process. Limited evaluation
+for empyema due to lack of IV contrast.
+2. Extensive calcifications of the aorta and its branches.
+3. Compression fractures of the thoracic spine of indeterminate
+age.
+.
+[**2105-12-15**] REPEAT CT CHEST: IMPRESSION: As compared to the previous
+examination from [**12-11**], there is no major overall change in
+the extent of pleural effusions. Unchanged extensive left lower
+lobe consolidation. Regression of the pre-existing right than
+left apical opacities. Unchanged extensive coronary and aortic
+calcifications. No newly appeared pulmonary changes in the
+interval.
+
+
+Brief Hospital Course:
+[**Age over 90 **]-year-old woman with history of HTN presented with hypoxia,
+dyspnea, found to have a LLL pneumonia.
+.
+# Sepsis/Pneumonia: Patient was admitted to the ICU on
+non-rebreather and acutely decompensated overnight.  She had
+hypoxemic respiratory failure requiring intubation which was
+agreeable to her neice and HCP, [**Name (NI) **] [**Name (NI) **].  She became
+pressor dependent while intubated for pressures in the 60s/30s
+and went in to A-fib with RVR (see below).  She was started on
+Vancomycin and Zosyn on [**2105-12-7**] for HAP.  Sputum cx and
+bronchoscopy x2 failed to reveal infectious bacteria, but she
+was kept on these antibiotics given her respiratory status and
+pressor dependence.  After much discussion with HCP it was
+decided that she would not want trachiotomy or PEG tube and
+would prefer extubation, even if this leads to her demise.  The
+decision has been made to make pt??????s goals of care comfort
+oriented-  no further interventions, no heroic measures.  She
+eventually was weaned off pressors on [**2105-12-18**] and was extubated.
+ She finished a 14 day course of Vanc and Zosyn on [**2105-12-20**].
+Since then has been afebrile. Her code status was changed back
+to Full code.
+
+# Acute Hypoxemic Respiratory Failure: resolved with 91-92%/RA.
+As above, patient was intubated from [**2105-12-8**] to [**2105-12-18**].  SHe
+continues to have incr plugging which has been treated with
+aggressive suctioning and chest PT.  Was on Vanc/Zosyn which
+ended on [**2105-12-20**].  She does continue to have a large left
+pleural effusion, and right effusion, without clear infectious
+etiology. This is most likely from CHF. It was unlikely that
+doing thoracentesis would help her with improved oxygenation and
+that the fluid would most likely reaccumulate from CHF. Also
+given her kyphotic posture, she would unlikely go over her
+current oxygen saturation level on room air.
+.
+# Atrial fibrillation with RVR: Patient converted to A-fib with
+RVR during her hypoxic respiratory failure.  Her rate was
+initially controlled with IV diltiazem.  She was started on
+amiodarone gtt and converted to sinus on [**2105-12-9**].  She was
+transitioned to PO amiodarone for taper and will be tapered from
+400mg [**Hospital1 **] to 400mg qday on [**2105-12-23**] which should last for 1
+week, then be reduced to 200mg daily.
+.
+# Acute encephalopathy:  She developed change in mental status
+as a result of her prolonged ICU stay, and gradually cleared
+post extubation.
+.
+# Diastolic CHF, acute:  She developed bilateral pleural
+effusions and interstitial edema with fluid resuscitation.  She
+had an ECHO that showed a preserved EF.  Attempts were made at
+diuresis but were limited by her low intravascular volume.
+.
+# Hypernatremia: Sodium went up to almost 148 after diuresis.
+Diuresis was then held and she was given back fluid. She can be
+diuresed at rehab PRN. Also her sodium will need to be checked
+in [**3-15**] days to monitor.
+.
+# Diarrhea:  She developed diarrhea after antibiotic treatment
+was completed.  She had two negative cdiffs.  She was treated
+empirically with flagyl, which was discontinued after the c diff
+was negative.
+.
+# Goals of care:  This was discussed repeatedly with her HCP,
+who originally made her DNR/DNI when she was terminally
+extubated.  However, since she survived extubation, they chose
+to again make her full code.  This should continue to be
+addressed.
+
+Medications on Admission:
+memantine 10 mg PO qam / 5 mg qpm
+miralax
+sertraline 100 mg qday
+simvastatin 80 mg qhs
+acetaminophen prn
+alprazolam 0.25 mg PO bid
+simethicone 1 tab qd
+lidoderm patch
+MVI with minerals
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day).
+2. Memantine 5 mg Tablet Sig: Two (2) Tablet PO qam ().
+3. Memantine 5 mg Tablet Sig: One (1) Tablet PO qpm ().
+4. Acetaminophen 160 mg/5 mL Solution Sig: 1-2 tablets PO Q6H
+(every 6 hours) as needed.
+5. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily): X 1week, then 200 mg po daily.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 599**] of [**Location (un) 55**]
+
+Discharge Diagnosis:
+Acute hypoxic respiratory failure.
+Atrial fibrillation with rapid response.
+Pneumonia.
+Encephalopathy
+Diastolic heart failure exacerbation, acute.
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+You were admitted with pneumonia to the ICU.  You had a tube to
+help you breath for almost two weeks, but then it was taken out.
+ You also had a rapid hear trate, that is now improved.  You
+continue to have fluid in your lungs, and have become extremely
+weak during your hospital stay.
+.
+Return to the ER if you develop worsening symptoms, fevers,
+chills or trouble breathing, or palpitations or chest pain.
+.
+Please give Oxygen by nasal cannula if oxygen saturation goes
+below 92% on room air or is short of breath.
+.
+Will need recheck of serum sodium in 2 days to monitor level.
+
+Followup Instructions:
+BMP on [**2105-12-27**].
+Follow up with your PCP at the nursing home when you arrive.
+.
+Will need recheck of serum sodium in 2 days to monitor level.
+
+
+
+Completed by:[**2105-12-26**]

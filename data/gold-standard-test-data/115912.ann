@@ -1,0 +1,11 @@
+T1	Drug 818 826	protonix
+T2	Duration 827 843;844 854	for total course of 14 days
+T3	Drug 803 817	clarithromycin
+T4	Drug 792 802	amoxcillin
+R1	Duration-Drug Arg1:T2 Arg2:T1
+R2	Duration-Drug Arg1:T2 Arg2:T3
+R3	Duration-Drug Arg1:T2 Arg2:T4
+T5	Reason 859 890	treatment of positive H. pylori
+R4	Reason-Drug Arg1:T5 Arg2:T4	
+R5	Reason-Drug Arg1:T5 Arg2:T3	
+R6	Reason-Drug Arg1:T5 Arg2:T1	

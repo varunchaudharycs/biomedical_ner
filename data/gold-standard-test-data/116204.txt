@@ -1,0 +1,273 @@
+Admission Date:  [**2183-10-10**]              Discharge Date:   [**2183-10-15**]
+
+Date of Birth:  [**2103-6-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 11040**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+intubation, arterial line placement
+
+History of Present Illness:
+This is an 80 year old female with history of bronchiectasis and
+COPD as well as cardiomyopathy secondary to cardiac contusion
+and atrial fibrillation who was transferred for persistent
+hypoxic respiratory failure after an admission to [**Hospital **]
+Hospital.
+
+The patient's history this year has been marked for starting
+amioadarone in [**Month (only) 958**] for persistent atrial fibrilllation (also
+had TEE and cardioversion) and had stayed in sinus rhythm.
+Unfortunately, in [**Month (only) **] the patient developed worsening
+cough and dyspnea and her amiodarone was stopped due to concern
+for early pulmonary toxicity.  On [**9-23**] the patient was admitted
+to [**Location (un) **] Hospial with worsening respiratory symptoms,
+including dyspnea, cough, and hypoxia.  She had a chest CT on
+[**9-25**] that revealed diffuse GGO on a background of
+bronchiectasis and emphysema.  She started empiric treatment
+with abx and steroids for concern of AIP.  Given progressive
+respiratory failure she was intubated.  At the time of
+bronchoscopy she had bloody secretions and there was concern for
+pulmonary hemorrhage.  Therefore she was taken off
+anticoagulation.  She was continued on antibiotics
+(amp-sublactam and azithromycin) and steroids, her
+anticoagulation was stopped, and she was also diuresed gently to
+keep steadily negative fluid balances.  She had mild
+improvements and was extubated on [**10-2**].  Unfortunately, since
+extubation she had progressive supplementary O2 requirements and
+spent the last few days prior to transfer bouncing between 100%
+NRB mask and CPAP. She has had no positive cultures and
+bronchoscopy revealed no organisms and no pathognomonic findings
+for a particular diagnosis.  OSH course was also notable for
+persistent and difficult to control afib with RVR so that on
+transfer she was on high doses of diltiazem, metoprolol, and
+digoxin.  Given her ? pulmonary hemorrhage the patient's primary
+pulmonologist strongly felt she should not be anticoagulated
+again and wanted transfer partially to pursue AV nodal ablation
+or other more advanced RVR management by our EP service.
+
+On arrival, vital signs were 96.1 (axillary), HR 88 (afib),
+131/65, and satting 95% on non-rebreather. The patient was
+awake, alert, responding appropriately to questioning. Reports
+that her breathing is "a little labored," but feels better than
+she had at the OSH.
+
+Past Medical History:
+- Cardiomyopathy after chest contusion with former EF 30%, now
+normalized at 55%
+- CAD, s/p BMS to RCA in [**10/2181**]
+- Upper lobe bronchiectasis attributed to severe pneumonias in
+the [**2132**]. Typically has 2-3 episodes of exacerbation
+bronchiectasis each year.
+- COPD with moderately severe centrilobular emphysema on CT
+- Hypertension
+- T2DM
+- Mitral Valve Prolapse
+- R breast nodularites (stable on subsequent mammograms)
+- Plantar Fasciitis
+- s/p partial hysterectomy in [**2142**]
+- Bladder suspension
+- GERD
+- Multinodular goiter
+
+Social History:
+Former smoker, x 30 years at about two packs/day. Stopped seven
+years ago. Occasional social alcohol. Lives at home alone, is
+independent in ADLs. Two children are involved in her health
+care.
+
+Family History:
+There is a family history of premature coronary artery disease
+or sudden death (three brothers who died of CAD and one sister
+with CHF).
+
+Physical Exam:
+VS: Temp:96.1 BP:131/65 HR:88 (afib) RR:28 O2sat: 95% on NRB
+GEN: pleasant, speaking in [**3-17**] word sentences with NRB in place.
+Not using accessory neck muscles. Awake, alert, oriented,
+responding appropriately.
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no
+supraclavicular or cervical lymphadenopathy, no jvd, +mild
+thyromegaly
+RESP: Bibasilar crackles bilaterally, no wheeze
+CV: RR, S1 and S2 wnl, no m/r/g
+ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+EXT: no c/c/e
+SKIN: no rashes/no jaundice/no splinters
+NEURO: AAOx3. 4/5 strength throughout, with limited effort. No
+sensory deficits to light touch appreciated
+
+Pertinent Results:
+====================
+LABORATORY RESULTS
+====================
+On Admission:
+WBC-12.0* RBC-5.29# Hgb-13.3 Hct-39.4 MCV-75* RDW-17.7* Plt
+Ct-274
+---Neuts-91.0* Lymphs-6.8* Monos-1.1* Eos-0.7 Baso-0.4
+PT-11.8 PTT-23.9 INR(PT)-1.0
+Glucose-150* UreaN-33* Creat-0.5 Na-139 K-5.9* Cl-103 HCO3-27
+Calcium-8.5 Phos-3.5 Mg-2.4
+ABG: 7.49/ 38 / 61
+
+=================
+OTHER STUDIES
+=================
+Admission ECG:
+
+Chest Radiograph [**2183-10-10**]:
+IMPRESSION:
+Dense bilateral reticular opacities. This may represent an acute
+process
+superimposed on background chronic changes. The differential
+diagnosis
+includes drug-related pneumonitis (by report, the patient is on
+amiodarone), interstitial edema, and interstitial infection.
+Edema is considered less likely given the absence of effusions.
+
+Bilateral Lower Extremity Ultrasounds [**2183-10-11**]:
+IMPRESSION: Bilateral lower extremity DVTs, more extensive on
+the right
+involving the common femoral vein, proximal and distal
+superficial femoral
+veins and posterior tibial and peroneal veins. Partially
+occlusive thrombus
+within the distal left superficial femoral vein.
+
+Brief Hospital Course:
+ 80 y/o F with likely emphysema and bronchiectasis as well as
+Afib w/ RVR and history of cardiomyopathy presenting with
+worsening respiratory symptoms and hypoxia in the context of
+bilateral ground glass infiltrates of uncertain etiology.
+
+Hypoxic respiratory failure: The patient presented with very
+high oxygen requirements and desatting with minimal exertion or
+very short periods off the high flow oxygen masks. Unclear
+ultimate etiology though diffuse findings on CT were thought to
+be concerning for AIP on baseline lung disease with pulmonary
+hemorrhage thought much less likely given reports of bleeding.
+Patient had already received a fairly high pulse of steroids
+leaving the benefit of another course questionable but given
+tenuous respiratory status limiting ability to perform further
+diagnostic work-up (particular any attempts to pursue tissue
+diagnosis) a dose of 1 gram methylprednisolone daily was
+initiated for three days followed by 1 mg/kg daily. She was also
+started on vancomycin and cefepime given neither vancomycin nor
+psuedomonas had been covered by here previous antibiotics and
+those could be established in her altered airways as a not
+uncommon cause of pneumonia.  Also patient was found to have
+DVT's as described elsewhere, which were treated in hopes of
+helping hypoxia.  Patient received levalbuterol and ipratroprium
+nebulizers.  Eventually a bronchoscopy was done and did not show
+evidence of pulmonary hemorrhage.  However, the patient's
+oxygenation became more and more problem[**Name (NI) 115**] and she was
+intubated for hypoxemic respiratory failure.  Her ventilator
+requirements continued to escalate.
+
+Intracranial hemorrage:  While on a heparin drip for DVT, the
+patient was noted to have anisocoria.  Head CT revealed large
+parenchymal hemorrhage apparently centered in the right corona
+radiata or that caudate nucleus, with transependymal dissection
+into both lateral ventricles, and the third and fourth
+ventricles.  The patient's  poor prognosis was explained to her
+family.  The decision was made to pursue comfort measures only.
+
+Deep Vein Thromboses: On presentation given patient's refractory
+hypoxia an lack of good options decision was made to pursue some
+work up for VTE given she was thought to be too unstable for CT
+Scan but this could contribute to hypoxia.  Lower extremity
+ultrasounds revealed DVT and she was started on heparin gtt.
+Presumably, DVT's were developed during OSH course after
+warfarin was stopped.
+
+Atrial fibrillation: Patient was well rate controlled at arrival
+on dilt 90 QID, metoprolol tartrate 50 TID and dig, given some
+pauses (2-2.5 seconds) on the night after admission and
+generally good rate control. Later in her course her rate became
+more rapid and she briefly requiring diltiazem gtt.  Heparin
+drip was continued as above.
+
+CAD, Cardiomyopathy: Patient had an EF of 30 with a cardiac
+contusion per past reports but now normalized to 55.  Echo
+showed normal biventricular cavity sizes with preserved global
+and regional biventricular systolic function and biatrial
+enlargement. Pulmonary artery systolic hypertensionShe was
+continued on her aspirin, simvastatin, and beta blocker for her
+history of CAD.
+.
+Hypotension: Initially normotensive on rate control agents. Also
+on daily furosemide.  On the day of intubation, she also became
+hypotensive requiring initiation of norepinephrine
+.
+Diabetes Mellitus Type II: Mildly hyperglycemic on arrival. On
+oral agents at home, fingersticks with ISS at OSH.  SS insulin
+was continued.
+.
+Code status:  initially full, later comfort measures only
+
+Medications on Admission:
+- Metformin 1000 mg PO BID
+- Zocor 10 mg PO QHS
+- Aspirin 81 mg PO daily
+- Amiodarone 200 mg PO daily
+- Warfarin 3 mg alternating with 6 mg PO daily
+- Amlodipine 10 mg PO daily
+- Ca++/Vit D
+- HCTZ 25 mg PO daily
+- Glimepiride 2 mg PO daily
+- Metoprolol 50 mg PO BID
+- Prilosec 20 mg PO BID
+.
+Meds on transfer:
+simvastatin 10 mg PO QHS
+senna 10 ml PO QHS
+Aspirin 325 po daily
+docusate 100 mg po BID
+guaifenesin 1200 mg PO BID
+omeprazole 40 mg PO BID
+digoxin 0.25 po daily
+diltiazem 90 po q6H
+metoprolol 50 mg po tid
+SCH 5000 units Q8
+insulin glargine 10 units daily & SS
+levalbuterol NEB QID
+methylprednisolone 40 mg IV daily
+ipratropium neb QID
+furosemide 40 mg iv daily
+acetaminophen 650 mg PO Q4H prn
+polyethylene glycol po daily
+diphenhydramine 25 mg PO HS MR1 PRN
+metoclopramide 10 mg IV Q6H PRN
+ondansetron 4 mg IV Q6H PRN
+metoprolol 5 mg IV Q6H PRN
+bisacodyl 10 mg PR daily PRN
+lorazepam 1 mg IV Q6H PRN
+morphine 2 mg IV Q4H PRN
+miconazole topical TID PRN
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+respiratory failure
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+
+Completed by:[**2183-10-17**]

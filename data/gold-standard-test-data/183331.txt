@@ -1,0 +1,377 @@
+Admission Date:  [**2142-7-27**]              Discharge Date:   [**2142-8-28**]
+
+Date of Birth:  [**2084-1-25**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Heparin Agents
+
+Attending:[**First Name3 (LF) 2777**]
+Chief Complaint:
+Left lower extemity ischemia, transfered from OSH
+
+Major Surgical or Invasive Procedure:
+[**2142-8-20**]: Left AKA
+[**2142-8-2**]: Left guillotine amp
+[**2142-7-30**]: LLE angio, thrombectomy of vein graft and tibial
+vessles, patch angioplasty of proximal vein graft
+[**2142-7-28**]: LLE angio, thrombectomy via graft and BKpop, Left
+fem-BKpop with RT GSV, fasciotomy x4
+
+
+History of Present Illness:
+This is a 58 year old gentleman who is 5 years status post left
+femoral above knee popliteal with PTFE. The day prior to
+admission he experienced acute onset
+of left calf and foot pain and coolness consistent with
+thrombosed fem-[**Doctor Last Name **] graft on that side. Evaluated at OSH and
+transfered to [**Hospital1 18**]/[**Doctor Last Name **] for continued care.
+
+Past Medical History:
+DM 2, HTN, COPD, ETOH abuse, heavy smoker
+L [**Doctor Last Name 69803**] PTFE graft
+
+
+Social History:
+Lives at home with family.
+Daily ETOH
+1-2ppd Smoking history
+
+Family History:
+n/c
+
+Physical Exam:
+Admission H&P
+PE: 96.9, 103, 142/82, 20 94%RA
+General: NAD, pleasant, A&O X3
+cards: RRR
+Lungs: CTA
+Abd: soft, ND, +BS
+B/L palp fem
+LLE cool below knee. dop [**Doctor Last Name **], -DP/PT
+[**Name (NI) **] palp [**Doctor Last Name **], DP -PT
+
+Pertinent Results:
+[**2142-8-26**] WBC-7.7 RBC-3.36* Hgb-9.8* Hct-28.6* MCV-85 MCH-29.1
+MCHC-34.2 RDW-14.5 Plt Ct-483*
+[**2142-8-28**] PT-38.3* PTT-32.8 INR(PT)-4.3*
+[**2142-8-26**] Glucose-102 UreaN-11 Creat-0.5 Na-135 K-3.6 Cl-95*
+HCO3-30 AnGap-14
+[**2142-8-26**] Calcium-8.7 Phos-4.3 Mg-1.9
+
+[**2142-8-14**] 5:36 pm SWAB      LEFT BKA STUMP.
+
+                            **FINAL REPORT [**2142-8-18**]**
+
+   GRAM STAIN (Final [**2142-8-14**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+
+   WOUND CULTURE (Final [**2142-8-17**]):
+      ENTEROCOCCUS SP..    MODERATE GROWTH.
+      ACINETOBACTER BAUMANNII.    SPARSE GROWTH.
+         "Note, for Amp/sulbactam, higher-than-standard dosing
+needs to be
+         used, since therapeutic efficacy relies on intrinsic
+activity of
+         the sulbactam component".
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |          ACINETOBACTER BAUMANNII
+                             |          |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--             =>32 R
+CEFEPIME--------------               32 R
+CEFTAZIDIME-----------             =>64 R
+CIPROFLOXACIN---------              =>4 R
+GENTAMICIN------------                2 S
+IMIPENEM--------------                8 I
+LEVOFLOXACIN----------                4 I
+LINEZOLID-------------     2 S
+PENICILLIN------------     8 S
+TOBRAMYCIN------------              <=1 S
+TRIMETHOPRIM/SULFA----              <=1 S
+VANCOMYCIN------------  =>32 R
+
+   ANAEROBIC CULTURE (Final [**2142-8-18**]):    NO ANAEROBES ISOLATED
+
+Brief Hospital Course:
+[**2142-7-28**] Transferred from OSH with cold, ischemic left leg and
+taken urgently to OR. UnderwentLeft lower extremity angiography,
+mechanical thrombectomy of left femoral popliteal PTFE graft.
+Thrombectomy of below knee popliteal anterior tibialis and
+peroneal arteries and posterior tibialis arteries, right greater
+saphenous vein harvest, left femoral to below knee popliteal
+bypass graft with right greater saphenous vein, angioscopy and
+valve lysis and fasciotomy x4. Surgery without complications and
+was extubated in OR.
+In [**Name (NI) 13042**], pt with symptoms of DTs. CIWA initiated and he received
+Haldol and Ativan with effect. Transferred to VICU. Heparin gtt
+and ABX continued. Patient continued to have tremors/DTs.
+[**2142-7-30**]: Postop he was found to have a cooler foot and loss of
+Doppler signal. The patient had already been systemically
+heparinized so was taken urgently back to the operating room and
+underwent thrombectomy and revision of left common femoral to
+below- knee popliteal artery bypass graft with vein patch
+angioplasty. At the time of re-exploration, he was suspected of
+having HIT and was started on argatroban. HIT specimen positive.
+Due to witnessed DT's preop, postop he remained intubated for
+airway protection. While intubated, received tube feeds.
+Transfused 1uPRBCs
+[**8-2**] to OR for L guillotine BKA. Continue Vanco/Levo/Flagyl ABX.
+ NS w-D dressings to BKA open stump. Transfused 2uPRBCs.
+Remained intubated for airway protection due to ETOH withdrawal
+until [**2142-8-7**].
+[**2142-8-7**] Extubated
+[**2142-8-8**] Speech and swallow evaluation for oral and pharyngeal
+dysphagia following extubation.
+[**2142-8-10**] Transferred from SICU to VICU.
+[**2142-8-14**] Due to extensive necrosis of the patient's left BKA
+stump, taken to OR for debridement .Surgery without
+complication. Extubated and transferred to [**Month/Day/Year 13042**].
+Pain controlled with Morphine, fentanyl patch. Transfused,
+Electrolytes repleted.
+[**2142-8-20**] Underwent Left above-the-knee amputation for infected
+open BKA. Surgery without complication. Extubated and
+transferred to [**Month/Day/Year 13042**].
+[**Date range (3) 69804**] Surgical dressing changed. VSS. Tolerating po and
+urinating qs. Antibiotics changed to Linezolid, Vanco d'ced
+(VRE). B/L palpable femoral pulses. Amputation site healing.
+Coumadin started. Continued Argatroban gtt. Daily coags.
+Physical therapy initiated. Rehab screened.
+Stable for transfer to acute rehab when bed available and INR
+therapeutic.
+[**2142-8-27**] Argatroban discontinued
+[**2142-8-28**] INR 4.3. LT AKA stump c/d/i. VSS. Afebrile. Antibiotics
+discontinued. B/L fem palpable. RT PT dopplerable. Continue
+other current medications including Coumadin 5mg daily (adjust
+to keep INR 2.0-3.0)
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q4H (every 4 hours).
+4. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation Q6H (every 6 hours).
+5. Acetaminophen 160 mg/5 mL Solution Sig: One (1)  PO Q4-6H
+(every 4 to 6 hours) as needed.
+6. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours).
+7. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Fentanyl 50 mcg/hr Patch 72HR Sig: One (1) Patch 72HR
+Transdermal Q72H (every 72 hours).
+10. Gabapentin 100 mg Capsule Sig: Two (2) Capsule PO q8hr ().
+11. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+12. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime):
+Adjust to maintain INR of 2.0-3.0.
+14. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed for pain.
+15. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed.
+16. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+17. Insulin
+Breakfast and Bedtime- NPH 10  Units
+Fingerstick before meals and bed-cover with regulsr sliding
+scale
+
+Insulin SC Sliding Scale
+Breakfast Lunch Dinner Bedtime Q0H
+
+Glucose Insulin Dose Insulin Dose Insulin Dose Insulin Dose
+Insulin Dose
+0-60  mg/dL [**1-15**] amp D50
+61-120  mg/dL 0 Units
+121-140 mg/dL 3 Units
+141-160 mg/dL 6 Units
+161-180 mg/dL 9 Units
+181-200 mg/dL 12 Units
+201-220 mg/dL 15 Units
+221-240 mg/dL 18 Units
+241-260 mg/dL 21 Units
+261-280 mg/dL 24 Units
+281-300 mg/dL 27 Units
+301-320 mg/dL 30 Units
+Notify M.D.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 7665**]
+
+Discharge Diagnosis:
+Peripheral arterial disease
+DM 2, HTN, COPD, ETOH, heavy smoker
+history of L [**Doctor Last Name 69803**] PTFE graft
+
+
+Discharge Condition:
+Good
+VSS. INR 4.3.
+
+
+Discharge Instructions:
+DISCHARGE INSTRUCTIONS FOLLOWING BELOW OR ABOVE KNEE AMPUTATION
+
+This information is designed as a guideline to assist you in a
+speedy recovery from your surgery. Please follow these
+guidelines unless your physician has specifically instructed you
+otherwise. Please call our office nurse if you have any
+questions. Dial 911 if you have any medical emergency.
+
+ACTIVITY:
+
+There are restrictions on activity. On the side of your
+amputation you are non weight bearing until cleared by your
+Surgeon. You should keep this amputation site elevated when ever
+possible.
+
+You may use the other leg to assist in transferring and pivots.
+But try not to exert to much pressure on the amputation site
+when transferring and or pivoting. Please keep knee immobilizer
+on at all times to help keep the amputation site straight.
+
+No driving until cleared by your Surgeon.
+
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:
+
+Redness in or drainage from your leg wound(s) .
+
+Watch for signs and symptoms of infection. These are: a fever
+greater than 101 degrees, chills, increased redness, or pus
+draining from the incision site. If you experience any of these
+or bleeding at the incision site, CALL THE DOCTOR.
+
+Exercise:
+
+Limit strenuous activity for 6 weeks.
+
+Do not drive a car unless cleared by your Surgeon.
+
+Try to keep leg elevated when able.
+
+BATHING/SHOWERING:
+
+You may shower immediately upon coming home. No bathing. A
+dressing may cover you??????re amputation site and this should be
+left in place for three (3) days. Remove it after this time and
+wash your incision(s) gently with soap and water. You will have
+sutures, which are usually removed in 4 weeks. This will be done
+by the Surgeon on your follow-up appointment.
+
+WOUND CARE:
+Sutures / Staples may be removed before discharge. If they are
+not, an appointment will be made for you to return for staple
+removal.
+
+When the sutures are removed the doctor may or may not place
+pieces of tape called steri-strips over the incision. These will
+stay on about a week and you may shower with them on. If these
+do not fall off after 10 days, you may peel them off with warm
+water and soap in the shower.
+
+Avoid taking a tub bath, swimming, or soaking in a hot tub for
+four weeks after surgery.
+
+MEDICATIONS:
+
+Unless told otherwise you should resume taking all of the
+medications you were taking before surgery. You will be given a
+new prescription for pain medication, which can be taken every
+three (3) to four (4) hours only if necessary.
+
+Remember that narcotic pain meds can be constipating and you
+should increase the fluid and bulk foods in your diet. (Check
+with your physician if you have fluid restrictions.) If you feel
+that you are constipated, do not strain at the toilet. You may
+use over the counter Metamucil or Milk of Magnesia. Appetite
+suppression may occur; this will improve with time. Eat small
+balanced meals throughout the day.
+
+CAUTIONS:
+
+NO SMOKING! We know you've heard this before, but it really is
+an important step to your recovery. Smoking causes narrowing of
+your blood vessels which in turn decreases circulation. If you
+smoke you will need to stop as soon as possible. Ask your nurse
+or doctor for information on smoking cessation.
+
+Avoid pressure to your amputation site.
+
+No strenuous activity for 6 weeks after surgery.
+
+DIET :
+
+There are no special restrictions on your diet postoperatively.
+Poor appetite is expected for several weeks and small, frequent
+meals may be preferred.
+
+For people with vascular problems we would recommend a
+cholesterol lowering diet: Follow a diet low in total fat and
+low in saturated fat and in cholesterol to improve lipid profile
+in your blood. Additionally, some people see a reduction in
+serum cholesterol by reducing dietary cholesterol. Since a
+reduction in dietary cholesterol is not harmful, we suggest that
+most people reduce dietary fat, saturated fat and cholesterol to
+decrease total cholesterol and LDL (Low Density Lipoprotein-the
+bad cholesterol). Exercise will increase your HDL (High Density
+Lipoprotein-the good cholesterol) and with your doctor's
+permission, is typically recommended. You may be self-referred
+or get a referral from your doctor.
+
+If you are overweight, you need to think about starting a weight
+management program. Your health and its improvement depend on
+it. We know that making changes in your lifestyle will not be
+easy, and it will require a whole new set of habits and a new
+attitude. If interested you can may be self-referred or can get
+a referral from your doctor.
+
+If you have diabetes and would like additional guidance, you may
+request a referral from your doctor.
+
+FOLLOW-UP APPOINTMENT:
+
+Be sure to keep your medical appointments. The key to your
+improving health will be to keep a tight reign on any of the
+chronic medical conditions that you have. Things like high blood
+pressure, diabetes, and high cholesterol are major villains to
+the blood vessels. Don't
+Please call the office on the first working day after your
+discharge from the hospital to schedule a follow-up visit. This
+should be scheduled on the calendar for seven to fourteen days
+after discharge. Normal office hours are 8:30-5 Monday through
+Friday.
+
+.
+
+PLEASE FEEL FREE TO CALL THE OFFICE WITH ANY OTHER CONCERNS OR
+QUESTIONS THAT MIGHT ARISE
+
+
+
+
+Followup Instructions:
+Call Dr.[**Last Name (STitle) **] office for follow up in 3 weeks. His
+office is located at [**Last Name (NamePattern1) 439**] 5B [**Location (un) 86**], [**Numeric Identifier 718**]
+
+
+
+Completed by:[**2142-8-28**]

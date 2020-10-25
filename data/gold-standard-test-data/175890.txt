@@ -1,0 +1,229 @@
+Admission Date:  [**2194-7-4**]              Discharge Date:   [**2194-7-11**]
+
+Date of Birth:  [**2122-2-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1257**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+72 year old spanish speaking woman with a history of a
+hemorrhagic CVA in [**2164**] s/p craniotomy, hypertension,
+hyperlipidemia, admitted to [**Hospital3 **] on [**7-1**] with two
+weeks of increased confusion at home, slurred speech and
+conversation not making any sense, unsteady gait, weakness, and
+substernal chest pain.
+.
+First presented to LGH [**2194-6-30**] where she was 141/80  p82  rr18
+98%RA. She had a positive UA for infxn (Proteus Vulgaris, per
+report) and she was given either Levaquin, Rocephin, or [**Name (NI) **]
+(unclear). CK was 123, MB 2.3, and TropI 0.03, subsequently
+"negative x3." Other labs significant for hypercalcemia at 10.4,
+WBC 7.9, Hct 30.8 (normocytic), Plts 425k. Chemistry
+unremarkable, Cr 1.1. EKG was non specific with some ST changes
+in II. CT of head negative x2 for acute process with
+post-operative changes, chronic ischemic changes. Carotid duplex
+study pending.
+.
+Stress test positive for inferior ischemia (? unclear if pt got
+the stress test, reports indicate that she was too agitated to
+sit still for it). Cathed today and found to have a tight
+proximal 90% PDA lesion. 5 French sheath in RFA. On aspirin
+only, has not been prescribed plavix. Daughter speaks english
+and has signed consent, will come with patient.
+
+Past Medical History:
+Cerebral aneurysm s/p cerebral (MCA) hemorrhage in [**2164**], s/p
+craniotomy and repair (clip placement) --> anterior temporal
+frontal encephalomalacia
+Patchy white matter disease changes in the periventricular and
+subcortical white matter
+HTN
+HL
+
+Social History:
+lives with her daughter.
+non-[**Name2 (NI) 1818**]
+non-drinker
+
+Family History:
+N/C
+
+Physical Exam:
+On admission to ICU:
+97.5   183/83   p98   19   98%RA
+Large hispanic woman in no distress but with eyes closed and
+moaning. Opens her eyes to voice and follows simple commands but
+moans or says nonsensical things and dozes back off if not
+stimulated. Not in respiratory distress.
+Corneas with bilateral cataracts, pupils are constricted, but
+EOMI are grossly intact and sclera normal appearing
+No jugular distention noted.
+CTAB no w/c/r/r noted anteriorly, good air movement
+Regular rhythm but tachycardic, no murmurs or gallops are heard.
+Bilateral radial and DP's pulses palpable
+Abd soft, NT ND, BS hyperactive
+No BLE edema
+No rashes noted
+Pt responsive but not coherently. Opens eyes to commands but
+doesn't answer questions appropriately. Pupils constricted to
+1-2mm, EOMI grossly intact. No facial droop noted. Dysarthria
+unable to be appropriately tested. Spontaneously moving all four
+extremities, with normal tone, not rigid.
+
+Pertinent Results:
+OSH:
+- UA/UCx: >100k Proteus Vulgaris: resistant--amp,
+nitrofurantoin, tetracycline, cefuroxime, cefazolin
+sensitive--ceftazadime, ceftriaxone, gent, levaquin, pip-tazo,
+tobra, bactrim, cefoxitin, [**Name2 (NI) 9847**]
+-CARDIAC CATH performed at OSH demonstrated: 90% PDA stenosis
+AO 148/76 (106)
+LV 156/4,11
+AO 157/71 (107)
+LV 161/3,10
+.
+[**2194-7-8**] 3:06 pm URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2194-7-9**]**
+
+   URINE CULTURE (Final [**2194-7-9**]):    NO GROWTH.
+
+
+Brief Hospital Course:
+# Coronary Artery Disease: The patient was transfered for
+cardiac catheterization. Although the patient was found to have
+90% PDA lesion, her symptoms and stress test were unclear. It
+was thought that the patient could benefit from medication
+managment of CAD with ASA, increased statin and addition of
+betablocker.  Therefore, she did not undergo repeat cardiac
+catheterization. Plavix was stopped. If she does develop more
+chest pain in the future, she could have further optimization of
+anti-anginal medications and then undergo repeat stress testing.
+
+.
+# Agitation/Altered Mental Status: Patient became agitated in
+the pre cath area and was given multiple doses of haldol. This
+agitation was attributed to delirium [**3-11**] UTI. She was
+transferred from the CCU to the medicine service on [**2194-7-5**].
+She did well with the resolution of her UTI.
+.
+She was started on nighttime Zyprexa which we should be stopped
+in two weeks.
+.
+#HCT Drop: Thought to be [**3-11**] Groin oozing into her leg.  Bedside
+doppler was negative for pseudoanneurysm and there were no
+bruits on exam.  Her HCT stabilized.  This was complicated by
+iron deficiency anemia, for which she was started on iron with
+vitamin C.
+.
+# Urinary Tract Infection:  At the outside hospital prior to
+transfer, she was noted to have a Proteus UTI, and was started
+on levofloxacin on [**2194-6-30**], switched to ceftriaxone on [**7-1**],
+then to ciprofloxacin on [**7-3**], based on culture data.  While
+here she was treated with ciprofloxacin, initially IV due to
+agitation, and later with PO.  She completed her course in house
+.
+# s/p Arthroscopy:  Patient had R knee arthroscopy at [**Hospital3 12748**] in [**4-16**] per her daughters.  [**Name (NI) **] right knee was
+initially noted to be more swollen than the left, but with no
+obvious effusion.  She was given one dose of vancomycin,
+ultimately, her right knee did not appear infected w/o small
+amount of suprapatellar swelling but no effusion, warmth or pain
+on movement. Vancomycin was discontinued.
+
+Medications on Admission:
+Home medications:
+Multivitamin
+ASA
+Lovaza (omega 3 fish oils)
+.
+MEDICATIONS ON TRANSFER:
+Simvastatin
+asa 81mg
+Plavix 600mg prior to cardiac catheterization
+seroquel
+Ancef 1g given at 8am ([**7-4**]?) vs Ciprofloxacin
+
+
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*15 Tablet(s)* Refills:*2*
+5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+6. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+Disp:*30 Adhesive Patch, Medicated(s)* Refills:*2*
+7. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: 0.5 Tablet, Rapid
+Dissolve PO QHS (once a day (at bedtime)) for 2 weeks.
+Disp:*7 Tablet, Rapid Dissolve(s)* Refills:*0*
+10. Tylenol Extra Strength 500 mg Tablet Sig: Two (2) Tablet PO
+every eight (8) hours as needed for pain.
+Disp:*90 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+All Care VNA of greater [**Location (un) **]
+
+Discharge Diagnosis:
+Urinary Tract Infection
+Coronary Artery Disease
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted for chest pain, and for possible coronary
+catheterization.  While here you were noted to be confused.  You
+were found to have a urinary tract infection, and were treated
+with the antibiotic ciprofloxacin.
+
+Followup Instructions:
+Please arrange to see your primary care doctor within one week
+of discharge.
+.
+PCP [**Name Initial (PRE) 648**]: Tuesday, [**2194-7-15**] @4:15pm
+With: Dr. [**First Name8 (NamePattern2) 1399**] [**Last Name (NamePattern1) **]
+Location: [**Location (un) 85714**], #204-[**Hospital1 487**] [**Numeric Identifier 85352**]
+Phone: ([**2194**]
+
+Department: GASTROENTEROLOGY
+When: FRIDAY [**2194-7-25**] at 1:45 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2837**], MD [**Telephone/Fax (1) 463**]
+Building: LM [**Hospital Unit Name **] [**Location (un) 858**]
+Campus: WEST Best Parking: [**Hospital Ward Name **] Garage
+
+
+
+Completed by:[**2194-7-11**]

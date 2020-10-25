@@ -1,0 +1,227 @@
+T1	Dosage 10375 10383	One unit
+R1	Dosage-Drug Arg1:T1 Arg2:T2
+T2	Drug 10384 10388	PRBC
+T3	Reason 10414 10421	low hct
+R3	Reason-Drug Arg1:T3 Arg2:T2
+T4	Drug 10436 10443	aspirin
+T5	Drug 10448 10454	Plavix
+T6	Duration 10455 10460;10461 10478	for a total of 3 months
+R5	Duration-Drug Arg1:T6 Arg2:T5
+T8	Reason 11006 11009	CAD
+R8	Reason-Drug Arg1:T8 Arg2:T9
+R9	Reason-Drug Arg1:T8 Arg2:T10
+R10	Reason-Drug Arg1:T8 Arg2:T11
+R11	Reason-Drug Arg1:T8 Arg2:T12
+T9	Drug 11290 11297	aspirin
+T10	Drug 11299 11305	plavix
+T11	Drug 11307 11317	metoprolol
+T12	Drug 11322 11329	Lipitor
+T13	Reason 11336 11364	Chronic Systolic Dysfunction
+R12	Reason-Drug Arg1:T13 Arg2:T14
+R13	Reason-Drug Arg1:T13 Arg2:T16
+R14	Reason-Drug Arg1:T13 Arg2:T17
+T14	Drug 11423 11427	ACEi
+T15	Dosage 11493 11496;11497 11501	low dose
+R15	Dosage-Drug Arg1:T15 Arg2:T16
+T16	Drug 11502 11506	ACEi
+T17	Drug 11530 11535	Lasix
+T18	Strength 11536 11541	20 mg
+R16	Strength-Drug Arg1:T18 Arg2:T17
+T19	Route 11542 11544	PO
+R17	Route-Drug Arg1:T19 Arg2:T17
+T20	Reason 11549 11555;11556 11564	inc TR gradient
+R18	Reason-Drug Arg1:T20 Arg2:T17
+T21	ADE 11570 11578	Diarrhea
+R19	ADE-Drug Arg1:T21 Arg2:T22
+T22	Drug 11596 11607	antibiotics
+T23	Drug 11732 11742	prednisone
+T24	ADE 11749 11763;11764 11770	serosanguinous oozing
+R20	ADE-Drug Arg1:T24 Arg2:T23
+T25	Reason 11905 11927	Polymyalgia Rheumatica
+R21	Reason-Drug Arg1:T25 Arg2:T26
+T26	Drug 11940 11948	steroids
+T27	Drug 12183 12191	atenolol
+T28	Strength 12192 12196	25mg
+R22	Strength-Drug Arg1:T28 Arg2:T27
+T29	Frequency 12197 12202	daily
+R23	Frequency-Drug Arg1:T29 Arg2:T27
+T30	Drug 12203 12210	aspirin
+T31	Strength 12211 12215	81mg
+R24	Strength-Drug Arg1:T31 Arg2:T30
+T32	Frequency 12216 12221	daily
+R25	Frequency-Drug Arg1:T32 Arg2:T30
+T33	Drug 12222 12229	lipitor
+T34	Strength 12230 12234	10mg
+R26	Strength-Drug Arg1:T34 Arg2:T33
+T35	Frequency 12235 12255	QOD (every other am)
+R27	Frequency-Drug Arg1:T35 Arg2:T33
+T36	Drug 12256 12266	prednisone
+T37	Strength 12267 12271	10mg
+R28	Strength-Drug Arg1:T37 Arg2:T36
+T38	Frequency 12272 12277	daily
+R29	Frequency-Drug Arg1:T38 Arg2:T36
+T39	Drug 12278 12291	tamulosiin SR
+T40	Strength 12292 12297	0.4mg
+R30	Strength-Drug Arg1:T40 Arg2:T39
+T41	Frequency 12298 12306	qevening
+R31	Frequency-Drug Arg1:T41 Arg2:T39
+T42	Drug 12307 12319	multivitamin
+T43	Dosage 12320 12321	1
+R32	Dosage-Drug Arg1:T43 Arg2:T42
+T44	Form 12322 12325	tab
+R33	Form-Drug Arg1:T44 Arg2:T42
+T45	Frequency 12326 12331	daily
+R34	Frequency-Drug Arg1:T45 Arg2:T42
+T46	Drug 12332 12340	fish oil
+T47	Form 12341 12348	capsule
+R35	Form-Drug Arg1:T47 Arg2:T46
+T48	Strength 12349 12355	1000mg
+R36	Strength-Drug Arg1:T48 Arg2:T46
+T49	Frequency 12356 12367	twice a day
+R37	Frequency-Drug Arg1:T49 Arg2:T46
+T50	Drug 12368 12389	systane lubricant eye
+T51	Form 12390 12395	drops
+R38	Form-Drug Arg1:T51 Arg2:T50
+T52	Dosage 12396 12397	1
+R39	Dosage-Drug Arg1:T52 Arg2:T50
+T53	Route 12397 12400	gtt
+R40	Route-Drug Arg1:T53 Arg2:T50
+T54	Frequency 12401 12404	TID
+R41	Frequency-Drug Arg1:T54 Arg2:T50
+T55	Drug 12674 12694	metoprolol succinate
+T56	Strength 12695 12700	50 mg
+R42	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 12701 12730	Tablet Extended Release 24 hr
+R43	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 12736 12739	1.5
+R44	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 12740 12770	Tablet Extended Release 24 hrs
+R45	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 12771 12773	PO
+R46	Route-Drug Arg1:T60 Arg2:T55
+T61	Frequency 12774 12784	once a day
+R47	Frequency-Drug Arg1:T61 Arg2:T55
+T62	Drug 12844 12851	aspirin
+T63	Strength 12852 12857	81 mg
+R48	Strength-Drug Arg1:T63 Arg2:T62
+T64	Form 12858 12874	Tablet, Chewable
+R49	Form-Drug Arg1:T64 Arg2:T62
+T65	Dosage 12880 12887	One (1)
+R50	Dosage-Drug Arg1:T65 Arg2:T62
+T66	Form 12888 12904	Tablet, Chewable
+R51	Form-Drug Arg1:T66 Arg2:T62
+T67	Route 12905 12907	PO
+R52	Route-Drug Arg1:T67 Arg2:T62
+T68	Frequency 12908 12921	DAILY (Daily)
+R53	Frequency-Drug Arg1:T68 Arg2:T62
+T69	Drug 12926 12938	atorvastatin
+T70	Strength 12939 12944	10 mg
+R54	Strength-Drug Arg1:T70 Arg2:T69
+T71	Form 12945 12951	Tablet
+R55	Form-Drug Arg1:T71 Arg2:T69
+T72	Dosage 12957 12964	One (1)
+R56	Dosage-Drug Arg1:T72 Arg2:T69
+T73	Form 12965 12971	Tablet
+R57	Form-Drug Arg1:T73 Arg2:T69
+T74	Route 12972 12974	PO
+R58	Route-Drug Arg1:T74 Arg2:T69
+T75	Frequency 12975 12987;12988 13011	QODHS (every other day (at bedtime))
+R59	Frequency-Drug Arg1:T75 Arg2:T69
+T76	Drug 13016 13026	prednisone
+T77	Strength 13027 13032	10 mg
+R60	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 13033 13039	Tablet
+R61	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 13045 13052	One (1)
+R62	Dosage-Drug Arg1:T79 Arg2:T76
+T80	Form 13053 13059	Tablet
+R63	Form-Drug Arg1:T80 Arg2:T76
+T81	Route 13060 13062	PO
+R64	Route-Drug Arg1:T81 Arg2:T76
+T82	Frequency 13063 13076	DAILY (Daily)
+R65	Frequency-Drug Arg1:T82 Arg2:T76
+T83	Drug 13082 13092	tamsulosin
+T84	Strength 13093 13099	0.4 mg
+R66	Strength-Drug Arg1:T84 Arg2:T83
+T85	Form 13100 13126	Capsule, Ext Release 24 hr
+R67	Form-Drug Arg1:T85 Arg2:T83
+T86	Dosage 13132 13139	One (1)
+R68	Dosage-Drug Arg1:T86 Arg2:T83
+T87	Form 13140 13166	Capsule, Ext Release 24 hr
+R69	Form-Drug Arg1:T87 Arg2:T83
+T88	Route 13167 13169	PO
+R70	Route-Drug Arg1:T88 Arg2:T83
+T89	Frequency 13170 13185	HS (at bedtime)
+R71	Frequency-Drug Arg1:T89 Arg2:T83
+T90	Drug 13190 13202	multivitamin
+T91	Form 13207 13213	Tablet
+R72	Form-Drug Arg1:T91 Arg2:T90
+T92	Dosage 13219 13226	One (1)
+R73	Dosage-Drug Arg1:T92 Arg2:T90
+T93	Form 13227 13233	Tablet
+R74	Form-Drug Arg1:T93 Arg2:T90
+T94	Route 13234 13236	PO
+R75	Route-Drug Arg1:T94 Arg2:T90
+T95	Frequency 13237 13250	DAILY (Daily)
+R76	Frequency-Drug Arg1:T95 Arg2:T90
+T96	Drug 13256 13275	omega-3 fatty acids
+T97	Form 13280 13287	Capsule
+R77	Form-Drug Arg1:T97 Arg2:T96
+T98	Dosage 13293 13300	One (1)
+R78	Dosage-Drug Arg1:T98 Arg2:T96
+T99	Form 13301 13308	Capsule
+R79	Form-Drug Arg1:T99 Arg2:T96
+T100	Route 13309 13311	PO
+R80	Route-Drug Arg1:T100 Arg2:T96
+T101	Frequency 13312 13315;13316 13331	BID (2 times a day)
+R81	Frequency-Drug Arg1:T101 Arg2:T96
+T102	Drug 13336 13347	clopidogrel
+T103	Strength 13348 13353	75 mg
+R82	Strength-Drug Arg1:T103 Arg2:T102
+T104	Form 13354 13360	Tablet
+R83	Form-Drug Arg1:T104 Arg2:T102
+T105	Dosage 13366 13373	One (1)
+R84	Dosage-Drug Arg1:T105 Arg2:T102
+T106	Form 13374 13380	Tablet
+R85	Form-Drug Arg1:T106 Arg2:T102
+T107	Route 13381 13383	PO
+R86	Route-Drug Arg1:T107 Arg2:T102
+T108	Frequency 13384 13389;13390 13397	DAILY (Daily)
+R87	Frequency-Drug Arg1:T108 Arg2:T102
+T109	Reason 13950 13969	bioprosthetic valve
+R88	Reason-Drug Arg1:T109 Arg2:T110
+R89	Reason-Drug Arg1:T109 Arg2:T111
+R90	Reason-Drug Arg1:T109 Arg2:T115
+R91	Reason-Drug Arg1:T109 Arg2:T116
+T110	Drug 13993 13999	asprin
+T111	Drug 14004 14010	Plavix
+T112	Duration 14011 14023	for 3 months
+R94	Duration-Drug Arg1:T112 Arg2:T111
+T113	Reason 14024 14063	to prevent blood clots around the valve
+R96	Reason-Drug Arg1:T113 Arg2:T111
+R97	Reason-Drug Arg1:T113 Arg2:T110
+T115	Drug 14084 14091	aspirin
+T116	Drug 14096 14102	Plavix
+T117	Drug 14629 14646	blood transfusion
+T118	Reason 14651 14657	anemia
+R102	Reason-Drug Arg1:T118 Arg2:T117
+T119	Drug 15098 15106	Atenolol
+T120	Drug 15113 15123	metoprolol
+T121	Reason 15135 15145;15146 15156	lower your heart rate
+R103	Reason-Drug Arg1:T121 Arg2:T120
+R104	Reason-Drug Arg1:T121 Arg2:T119
+T124	Drug 15205 15211	plavix
+T125	Frequency 15212 15221	every day
+R109	Frequency-Drug Arg1:T125 Arg2:T124
+T126	Reason 15222 15244	to prevent blood clots
+R110	Reason-Drug Arg1:T126 Arg2:T124
+T128	Reason 9835 9849	cardiac arrest
+R112	Reason-Drug Arg1:T128 Arg2:T129
+T129	Drug 9925 9936	epinephrine
+T7	Form 12795 12827	Tablet Extended Release 24 hr(s)
+R2	Form-Drug Arg1:T7 Arg2:T55	
+T114	Form 13408 13417	Tablet(s)
+R4	Form-Drug Arg1:T114 Arg2:T102	
+R6	Duration-Drug Arg1:T112 Arg2:T110	
+T122	Reason 15161 15188	help your heart pump better
+R7	Reason-Drug Arg1:T122 Arg2:T120	

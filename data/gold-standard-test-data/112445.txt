@@ -1,0 +1,479 @@
+Admission Date:  [**2125-11-9**]              Discharge Date:   [**2125-11-24**]
+
+Date of Birth:  [**2050-1-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Demerol / Codeine
+
+Attending:[**First Name3 (LF) 2279**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+chest tube placement
+intubation
+
+History of Present Illness:
+Mrs. [**Known lastname **] is a 75 year old woman with a history of Afib s/p
+ablation,HTN,DM, spinal stenosis, with recent hospitalization
+for osteomyelitis who presents with altered mental status and
+worsening tremor.  She had been discharged from [**Hospital1 **] following
+hospitalization from presumed sepsis and hypotension on [**2125-11-5**]
+to rehab. On the evening of [**11-9**] a moonlighter was called for
+increasing agitation. It is unclear at what point she  received
+0.5mg of ativan. The patient was confused (oriented x1) with  a
+question of increasing tremor and possibly slurred speech and
+was transferred to [**Hospital1 **] for concern of seizures v. sepsis with
+AMS.
+.
+In ED tachy to 110s, SBP 110s and required a  0.7L fluid bolus
+with resolution of BP to 130s, but remained tachy to low 100s. A
+CT ab/pelvis revealed a fluid collection on her left flank. No
+PE was noted. She continued to receive Vanc/flagyl and got a
+dose of zosyn, with admission for further work up.
+.
+ROS was negative for chest pain, syncope or presyncope,
+myalgias, joint pains, cough, hemoptysis, black stools or red
+stools. Patient did not have any other complaints. She reported
+that her tremor has been present since she was in her 20s,
+related to a medication effect.
+.
+This am on the floor she was intermittently oriented to place
+and month but sometimes thinking she was stranded without her
+car and needing help.  She did complain of anxiety once, calling
+for help, and was verbally calmed down then noted to be
+tachycardic to the 140s. Cardiology was consulted, with carotid
+massage x 2 performed, with return to normal sinus rythm.
+
+[**Name (NI) **] son notes that her speech is significantly more
+garbled in the last two to three days than previously. She began
+to have difficulty speaking status post extubation during the
+previous ICU stay, but her speech has become progressively
+worse. He confirms that the patient has had a baseline tremor,
+thought to be due to a medication effect 20 years ago. By the
+time the son visited the patient in the late morning, her tremor
+had improved, though it did intermittently worsen when the
+patient became more anxious.  Son also noted that pt had
+intermittently stared off into space and been less responsive
+for a few minutes, then would return to conversation.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+Atrial fibrillation s/p ablation, not on coumadin
+Iron-deficiency anemia
+Gastritis per EGD, [**2124**]
+Insulin-dependent diabetes mellitus c/b neuropathy, retinopathy
+
+Lumbar stenosis, s/p L5-S1 laminectomy (age 40)
+Hypertension
+Hyperlipidemia
+DJD
+Tremor
+Steatohepatitis
+Depression
+
+PAST SURGICAL HISTORY:
+Cataract surgery
+Carpal tunnel release bilaterally
+Tonsillectomy
+Appendectomy
+Cholecystectomy
+
+
+Social History:
+Patient currently lives in a house in [**Location (un) **], Mass.  She lives
+with her husband.  She is now retired but formerly worked in
+medical records at [**Hospital **] Hospital.  She denies EtOH, tobacco,
+and other drugs.  Mrs. [**Known lastname **] reports attempting to maintain a
+diabetic diet, but admits to not being as good about it as she
+should be.  She reports exercising by doing chores around the
+house.
+
+
+Family History:
+Diabetes II
+
+Physical Exam:
+On admission
+VS - 97.5 (98.8 rectally), 120/60, 110, 24, 100 % 2L
+Gen: Tremor worse with movement.
+HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa.
+CV: S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: Decreased BS, worse on L.
+Abd: Soft, NTND. No HSM or tenderness.
+Ext: + edema b/l, pitting.
+Skin: midline surgical scar on back. At the bottom of scar,
+small opening, small amount of bleeding when instpected with
+Q-tip, no tracking noted.
+Neuro: CNII-XII intact. Strength diffusly [**2-25**]. Sensation intact.
+She is awake, alert, oriented to self only. Responds to
+questions and some long term memory intact. Patient able to
+recal 1 object at 5 minutes. Difficulty with finger to nose b/l.
+
+
+Changes at discharge:
+1+ bilateral foot edema, trace bilateral lower extremity edema,
+alert and oriented x 3, answering questions appropriately
+
+Pertinent Results:
+============
+Radiology
+============
+
+CT Torso [**11-9**]
+1. No pulmonary embolus or acute aortic abnormality.
+2. 2.2 x 2.0 cm fluid and air collection in the subcutaneous
+tissues of the
+left lateral abdominal wall that could reflect post-operative
+seroma, but
+abscess cannot be excluded.
+3. No evidence large fluid collection surrounding spinal
+fixation hardware in the lumbar spine, although artifact
+obscures fine detail and evaluation is suboptimal.
+4. Cirrhotic liver with ascites.
+5. Bilateral pleural effusions, moderate on the left and small
+on the right
+with adjacent atelectasis.
+6. Atherosclerotic disease.
+
+CT Head [**11-10**]
+IMPRESSION: Limited study due to patient motion. Within this
+limitation, no
+acute intracranial abnormalities identified.
+
+Repeat study [**11-10**]
+Several rounded areas of hypodensity are seen within the left
+frontal region seen on axial images only that are likely areas
+of volume averaging, however, peripheral areas of infarction
+cannot be entirely excluded, and if of clinical concern, a
+repeat examination or MR can be
+performed. No evidence of hemorrhage.
+
+MR [**Name13 (STitle) 430**] [**11-11**]
+IMPRESSION:
+1. No definite acute infarction.
+2. Mild-to-moderate dilatation of the lateral ventricles, with
+features as described above and slightly out of proportion to
+the prominence of the cerebral sulci; while this can relate to
+volume loss, associated communicating hydrocephalus/NPH cannot
+be completely excluded. To correlate clinically
+
+============
+Neurology
+============
+EEG [**11-13**]
+This is a normal routine EEG in the waking and drowsy states.
+Note is made by technician of intermittent left leg shaking
+without obvious epileptiform discharges or EEG correlate seen
+during that time. Due to technical difficulties, video was
+unavailable for review. No focal, lateralized, or epileptiform
+features were noted during this recording. Note is made of a
+tachycardia of 108 bpm in a single EKG channel.
+
+24 hour EEG [**11-18**]
+This 24 hour video EEG telemetry capture no electrographic
+seizures. There were no clear focal or lateralizing epileptiform
+features. The background showed a slightly disorganized alpha
+theta rhythm which would be normal for advanced age.
+
+===========
+Cytology
+============
+Pleural fluids [**11-14**]
+ 	 NEGATIVE FOR MALIGNANT CELLS.
+
+============
+Cardiology
+============
+
+Stress test [**11-12**]
+ No anginal symptoms or ischemic ST segment changes to
+pharmacologic stress. Appropriate blood pressure response with
+flat
+heart rate response to Persantine infusion. Nuclear report sent
+separately.
+
+TTE [**11-14**]
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses and cavity size are normal. There is mild regional
+left ventricular systolic dysfunction with focal hypokinesis of
+the basal half of the inferior wall and mid-inferior septum and
+inferolateral walls. The remaining segments contract normally
+(LVEF = 50 %). The estimated cardiac index is normal
+(>=2.5L/min/m2). Right ventricular chamber size and free wall
+motion are normal. The diameters of aorta at the sinus,
+ascending and arch levels are normal. The aortic valve leaflets
+(3) are mildly thickened. No aortic regurgitation is seen. The
+mitral valve leaflets are structurally normal. Mild to moderate
+([**11-24**]+) mitral regurgitation is seen. [Due to acoustic shadowing,
+the severity of mitral regurgitation may be significantly
+UNDERestimated.] There is mild pulmonary artery systolic
+hypertension. There is an anterior space which most likely
+represents a fat pad.
+Compared with the prior study (images reviewed) of [**2125-11-5**],
+regional left ventricular systolic function is now improved. The
+estimated pulmonary artery systolic pressure is now higher.
+
+===========
+Micro
+===========
+[**2125-11-13**] 7:38 pm MRSA SCREEN:  No MRSA isolated.
+[**2125-11-24**] Urine culture:  YEAST.    10,000-100,000 ORGANISMS/ML
+==============
+Labs
+==============
+Admission Labs
+
+[**2125-11-9**] 06:00PM BLOOD WBC-8.5 RBC-3.35* Hgb-9.3* Hct-30.2*
+MCV-90 MCH-27.9 MCHC-30.9* RDW-18.7* Plt Ct-366
+[**2125-11-9**] 06:00PM BLOOD Neuts-83.5* Lymphs-9.4* Monos-6.4 Eos-0.5
+Baso-0.2
+[**2125-11-9**] 06:00PM BLOOD PT-16.0* PTT-31.4 INR(PT)-1.4*
+[**2125-11-9**] 06:00PM BLOOD Glucose-109* UreaN-13 Creat-1.2* Na-145
+K-3.7 Cl-108 HCO3-29 AnGap-12
+[**2125-11-9**] 06:00PM BLOOD ALT-20 AST-32 CK(CPK)-54 TotBili-0.5
+[**2125-11-9**] 06:00PM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2125-11-9**] 06:00PM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2125-11-9**] 06:00PM BLOOD Albumin-3.1* Calcium-8.3* Mg-1.3*
+
+Discharge labs:
+
+WBC-7.2 RBC-3.59* Hgb-10.6* Hct-33.2* MCV-93 MCH-29.4 MCHC-31.8
+RDW-18.0* Plt Ct-324
+Glucose-179* UreaN-17 Creat-1.1 Na-141 K-4.3 Cl-99 HCO3-33*
+AnGap-13
+Calcium-8.9 Phos-3.7 Mg-1.8
+
+Brief Hospital Course:
+75 year old woman with a history of Afib s/p ablation, HTN, DM,
+spinal stenosis, with recent hospitalization for osteomyelitis
+who presents with altered mental status and worsening tremor.
+She had been discharged from [**Hospital1 **] following hospitalization from
+presumed sepsis and hypotension on [**2125-11-5**] to rehab. On the
+evening of [**11-9**] a moonlighter was called for increasing
+agitation. It is unclear at what point she received 0.5mg of
+ativan. The patient was confused (oriented x1) with a question
+of increasing tremor and possibly slurred speech and was
+transferred to [**Hospital1 **] for concern of seizures v. sepsis with AMS. On
+the day of admission, patient was transferred to the MICU for an
+episode of unresponsiveness on the floor. The patient rapidly
+improved in regards to her mental status upon admission to the
+MICU. CT head and MRI were negative, and Neuro felt this event
+was likely toxic/metabolic in nature. She was called out to the
+floor where an EEG was performed and negative. She underwent
+diagnosistc thoracentesis which was transudative in nature on
+[**11-12**]. Post-thoracentesis CXR detected a left hemidiaphagm and
+repeat film several hours later was performed while the patient
+was having another episode of shaking. She became unresponsive
+and was noted to have shallow breathing. The xray technicians at
+the patient's side were unable to palpate a pulse so CPR was
+initiated and a code was called. Code team immediately noted
+that patient was in A fib, and CPR was stopped. Patient at this
+time was awake but delirious. Her oxygen saturation began to
+plummet and decreased breath sounds were noted on the left side.
+CXR revealed a large hydrothorax, and patient was transferred
+back to the MICU. A chest tube was placed and blood tinged
+sanguinous fluid returned. Patient was intubated for airway
+protection.
+
+Patient remained in the MICU from [**11-12**] through [**11-18**]. While in
+the MICU she was extubated on [**11-14**]. She required pressors from
+[**11-12**] through [**11-15**]. Her hypotension was felt to be due to
+hypovolemia secondary to dramatic chest tube fluid output. Chest
+tube drained between 2 and 4 L per day of ascitic fluid from
+presumed hepatic hydrothorax. Cardiac enzymes were slightly
+elevated, but consistent with her level of renal dysfunction and
+was felt not to have ACS. She had several TTEs which showed
+improving systolic function from EF 35 to 50%.  The patient
+required 2 untis of PRBC transfusion in the unit and multiple
+albumin bags for resuscitation. Thoracic surgery was consulted
+on [**11-16**] for assistance on hydrothorax management, and they
+advised no surgical intervention. Instead the chest tube was
+placed to waterseal on [**11-17**] and diuresis was initiated with
+lasix drip per thoracic surgery recommendations. A diaphragmatic
+defect was not felt to be responsible. The patient was able to
+maintain her pressures, and she tolerated diuresis with these
+maneuvers. Her course in the MICU was also complicated by
+intermittent episodes of sinus tachycardia to has high as 140s
+bpm which responded transiently to carotid massage. Her sinus
+tach was felt to be due to [**Last Name (un) 3041**] shifts and anxiety. She was
+transferred out of the MICU on [**11-18**]. No clear cause for her
+change in mental status was found while in the MICU. A repeat
+EEG was again negative, and Neurology once again felt that this
+was likely multifactorial toxic/metabolic insults in the setting
+of acute on chronic renal failure, liver disease, chf, dm and
+hypoxia from chronic pleural effusions.
+
+Back on the medical floor, she continued to improve.
+
+# Altered mental status: Her altered mental status was likely
+related to medication side effects or hepatic encephalopathy.
+Her Elavil was decreased for possible anticholinergic side
+effects.  If her mental status worsens, suggest changing patient
+over to nortripytline and checking levels.
+
+# Tachycardia: Her sinus tachycardia improved after adding
+metoprolol back to her medication regimen.
+
+# Anemia: She had a hematocrit drop while in the MICU without
+clear source and was guaiac negative. After 2 units pRBCs on
+[**11-15**], her hematocrit was stable.
+
+# Osteomyelitis: Patient is on long term vanco/metronidazole
+since previous hospitalization for L2 osteo and is followed by
+ID as an outpatient. She is to continue vancomycin until [**2125-12-16**]
+and flagyl until [**2125-12-20**].
+
+# Mild systolic congestive heart failure: She was diuresed as
+above. Patient's most recent EF 50%.
+
+# NASH Cirrhosis: She was seen by hepatology during this
+admission.  She had a low MELD.  Patient was started on
+aldactone and diuresed as above.  She is to follow-up with the
+liver center as an outpatient.
+
+# Inverted nipple noted on exam: Patient will need follow up
+with PCP for this issue.
+
+# DM: She was continued on an insulin sliding scale.
+
+# Communication: daughter [**Name (NI) **] [**Telephone/Fax (1) 40153**], son [**Name (NI) **]
+[**Telephone/Fax (1) 40152**], [**Name2 (NI) **] [**Telephone/Fax (1) 40154**]
+
+Full code
+
+Medications on Admission:
+Per last D/C sum:
+Acetaminophen 325 mg prn q6
+Amitriptyline 75mg qHS
+Bisacodyl 10 mg dailr prn
+Docusate Sodium 100 mg [**Hospital1 **] prn
+Ferrous Sulfate 325 mg (65 mg Iron) daily
+Furosemide 40 mg daily
+Heparin SC 5,000 Units TID
+Lidocaine 5 %(700 mg/patch) daily prn
+Megestrol 40 mg TID
+Metoprolol Tartrate 25 mg [**Hospital1 **]
+Metronidazole 500 mg q8
+Miconazole Nitrate 2 % Powder [**Hospital1 **]
+Pantoprazole 40 mg Daily
+Sennosides [**Hospital1 **] prn
+Simvastatin 40 mg daily
+Trifluoperazine 2 mg daily
+Vancomycin 500 mg IV Q 24H
+Insulin SS
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+3. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+4. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): 12
+hours on and 12 hours off.
+5. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day): Hold for SBP<100, HR<60  .
+6. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO TID (3
+times a day): Hold for > 4 BM per day  .
+7. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day) as needed for skin irritation.
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+9. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H
+(every 8 hours): Continue until [**2125-12-20**].
+11. Vancomycin 750 mg Recon Soln Sig: One (1) dose Intravenous
+once a day: Until [**2125-12-16**].
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+13. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+14. Trifluoperazine 2 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. Spironolactone 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): Hold for SBP<100  .
+16. Furosemide 10 mg/mL Solution Sig: Sixty (60) milligrams
+Injection [**Hospital1 **] (2 times a day).
+17. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+18. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for fever or pain: Do not exceed 2grams daily.
+
+19. Lantus 100 unit/mL Solution Sig: Ten (10) units Subcutaneous
+at bedtime.
+20. Insulin
+Please continue humalog insulin sliding scale as attached.
+21. Heparin (Porcine) 5,000 unit/mL Syringe Sig: 5000 (5000)
+units Injection three times a day.
+22. Fluconazole 200 mg Tablet Sig: One (1) Tablet PO once a day:
+last day [**2125-12-8**]
+.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+Altered mental status
+Urinary tract infection
+Hydrothorax
+Osteomyelitis
+Cirrhosis
+
+
+Discharge Condition:
+Level of Consciousness:Alert and interactive (but intermittent
+as patient may wx and wane)
+Activity Status:Ambulatory - requires assistance or aid (walker
+or cane)
+Mental Status:Confused - sometimes (waxes and wanes but alert
+and oriented currently)  Questionable hospitalization delirium
+
+
+Discharge Instructions:
+You were admitted to the hospital for confusion.  During your
+hospital stay, you had 2 episodes of decreased responsiveness
+prompting stays in the intensive care unit.  We suspect your
+first episode was from medications causing sedation and that
+your second episode was from difficulty breathing because you
+had fluid accumulating around your left lung.  You improved
+after draining the fluid with a cathether and taking medications
+to clear the fluid from your body.  You were stable to be
+discharged to a rehab facility to work on regaining your
+strength.  Please follow-up with your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 40075**].
+
+The following changes were made to your medications:
+Decreased Elavil from 75mg to 25mg as it may have worsened your
+confusion
+Increased lasix to 60mg IV twice a day.  This will be tapered to
+meet your goal Ins and Outs
+Increased vancomycin to 750mg for therapeutic level
+Decreased metoprolol from 25mg [**Hospital1 **] to 12.5mg [**Hospital1 **]
+Started fluconazole 200 mg daily for fungus in your urine for 14
+days (last day [**2125-12-8**])
+Started Lactulose 30mg TID and aldactone to help control your
+liver cirrhosis.
+Started full dose aspirin for your atrial fibrillation
+Stopped megace
+
+Followup Instructions:
+Please follow-up with your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 40075**].  You can call
+[**Telephone/Fax (1) 40076**] to schedule an appointment.
+
+Please follow-up with Dr. [**Last Name (STitle) 497**] in the liver center.  You will
+be called about appointment scheduling but if you do not hear
+from them, please call ([**Telephone/Fax (1) 1582**].
+
+
+                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 2285**]
+

@@ -1,0 +1,335 @@
+T1	Drug 9225 9232	calcium
+T2	Drug 9491 9501	ranitidine
+T3	Drug 7575 7583	Levaquin
+T4	Strength 7584 7590	750 mg
+T5	Duration 7594 7604	for 5 days
+T7	Drug 8312 8321	albuterol
+T8	Drug 6942 6949	flonase
+T9	Drug 9887 9896	Trazodone
+T10	Strength 9897 9903	200 mg
+T11	Drug 8739 8749	fluoxetine
+T12	Drug 9124 9133	Vitamin D
+T13	Drug 171 177	Biaxin
+T14	Drug 9772 9785	Carbamazepine
+T15	Strength 9786 9792	200 mg
+T16	Drug 5165 5174	albuterol
+T17	Drug 8751 8760	trazodone
+T18	Drug 9138 9145	Calcium
+T19	Drug 180 188	Protonix
+T20	Drug 8777 8790	carbamazepine
+T21	Drug 7481 7489	Atrovent
+T22	Frequency 7495 7498;7499 7502	q6h prn
+T23	Drug 8762 8771	thorazine
+T24	Drug 10655 10663	Atrovent
+T25	Drug 6332 6338	advair
+T26	Drug 9674 9680	Advair
+T27	Drug 703 712	albuterol
+T28	Drug 5756 5765	albuterol
+T29	Drug 5570 5579	albuterol
+T30	Drug 4931 4941	prednisone
+T31	Drug 5381 5390	albuterol
+T33	Drug 10694 10701	calcium
+T34	Drug 1413 1425	levofloxacin
+T35	Drug 9932 9942	Ranitidine
+T36	Strength 9943 9949	150 mg
+T37	Drug 587 595	nystatin
+T38	Drug 8908 8918	naltrexone
+T39	Drug 6222 6232	prednisone
+T40	Strength 6233 6237	50mg
+T41	Strength 9821 9826	20 mg
+T42	Drug 9810 9819;9819 9820	Fluoxetin e
+T43	Drug 5454 5462	levaquin
+T44	Drug 214 225	Risperidone
+T45	Drug 9566 9575	Albuterol
+T46	Strength 9580 9587	2 puffs
+T47	Frequency 9588 9591;9592 9595	qid prn
+T48	Drug 7904 7912	Levaquin
+T49	Drug 228 237	Linezolid
+T50	Drug 6631 6637	Ativan
+T51	Strength 6638 6641	2mg
+T52	Drug 5395 5401	heliox
+T53	Drug 9833 9843	Naltrexone
+T54	Strength 9844 9849	50 mg
+T55	Drug 10706 10715	vitamin D
+T56	Drug 240 251	Clindamycin
+T57	Drug 8945 8953	nystatin
+T58	Drug 1011 1021	prednisone
+T59	Drug 1396 1407	ipratropium
+T60	Drug 254 262	Rifampin
+T61	Drug 1385 1394	magnesium
+T62	Drug 9464 9471	heparin
+T63	Drug 8569 8578	albuterol
+T64	Strength 9733 9738	10 mg
+T65	Drug 9722 9731;9731 9732	Loratadin e
+T66	Drug 9211 9220	vitamin D
+T67	Drug 9596 9603	Flonase
+T68	Drug 9854 9863	Thorazine
+T69	Strength 9864 9869	50 mg
+T70	Drug 9429 9439	ranitidine
+T71	Reason 688 696	wheezing
+T72	Drug 191 211	Sulfa (Sulfonamides)
+T73	Reason 541 552	sore throat
+T74	Frequency 713 725;726 729	> 10 times a day
+T75	Reason 669 682	worsening SOB
+T76	Frequency 1022 1038	4-5 times a year
+T77	Reason 1043 1049;1050 1056	asthma flares
+T78	Drug 1349 1358	albuteral
+T79	Route 1359 1363	nebs
+T80	Drug 1365 1384	methylprednisolone,
+T81	Reason 1442 1454	lingular PNA
+T82	Route 5175 5178	neb
+T83	Drug 5348 5358	solumedrol
+T84	Route 5371 5380	nebulized
+T85	Reason 5410 5429	asthma exacerbation
+T86	Reason 5476 5485	pneumonia
+T87	Frequency 5580 5583	q1h
+T88	Drug 5784 5791	xoponex
+T89	Frequency 5792 5795	q1h
+T90	Drug 5800 5812	ipratroprium
+T91	Frequency 5813 5816	q4h
+T93	Drug 6183 6193	solumedrol
+T94	Strength 6194 6199	125mg
+T95	Frequency 6200 6203	q8h
+T96	Route 6219 6221	PO
+T97	Drug 6278 6290	ipratroprium
+T98	Frequency 6291 6294	q4h
+T99	Drug 6300 6307	xoponex
+T100	Route 6308 6312	nebs
+T101	Frequency 6313 6320	q1h prn
+T103	Drug 6593 6603	solumedrol
+T104	Strength 6604 6609	125mg
+T105	Drug 6614 6623	Combivent
+T107	Reason 6691 6698	anxiety
+T109	Drug 6809 6817	steroids
+T110	Drug 6847 6859	ipratroprium
+T111	Frequency 6860 6863	q4h
+T112	Drug 6868 6875	xoponex
+T113	Route 6876 6880	nebs
+T114	Frequency 6881 6888	q1h prn
+T115	Frequency 6902 6909;6910 6913	roughly q4h
+T116	Drug 6927 6937	loratidine
+T117	Reason 6980 6989	allergies
+T118	Drug 7297 7304	steroid
+T119	Dosage 7305 7310	taper
+T120	Strength 7312 7316	50mg
+T121	Strength 7333 7337	40mg
+T122	Strength 7354 7358	30mg
+T123	Strength 7375 7379	20mg
+T124	Strength 7399 7403	10mg
+T125	Frequency 7404 7410	qdaily
+T126	Frequency 7380 7386	qdaily
+T127	Frequency 7359 7365	qdaily
+T128	Frequency 7338 7344	qdaily
+T129	Frequency 7317 7323	qdaily
+T130	Duration 7324 7331	x 5days
+T131	Duration 7345 7352	x 5days
+T132	Duration 7366 7373	x 5days
+T133	Duration 7387 7394	x 5days
+T134	Route 7490 7494	nebs
+T135	Reason 7508 7517	Pneumonia
+T136	Route 8322 8326	nebs
+T137	Drug 8412 8420	steroids
+T138	ADE 8535 8546	tachycardia
+T139	Drug 8620 8628	steroids
+T140	Reason 8649 8664	Bipolar Disease
+T141	Reason 8796 8803	Bulimia
+T142	Reason 8924 8930	Thrush
+T143	Reason 8959 8973	Hypothyroidism
+T144	Drug 9012 9025	levothyroxine
+T145	Drug 9073 9080	vit B12
+T146	Frequency 9081 9088	monthly
+T147	Reason 9045 9059	B12 Deficiency
+T148	Drug 9182 9190	steroids
+T149	Strength 9391 9396	40meq
+T150	Drug 9397 9400	KCl
+T151	Frequency 9472 9474	sc
+T152	Reason 9445 9448	PPx
+T153	Route 9576 9579	INH
+T154	Frequency 9604 9609	daily
+T155	Drug 9610 9617	Flovent
+T156	Drug 9681 9687	Advair
+T157	Strength 9618 9625	110 mcg
+T158	Strength 9688 9697	500/50mcg
+T159	Dosage 9626 9627	1
+T160	Dosage 9698 9699	1
+T161	Form 9628 9632	puff
+T162	Form 9700 9704	puff
+T163	Frequency 9739 9744	daily
+T164	Drug 9745 9758	Levothyroxine
+T165	Strength 9759 9765	50 mcg
+T166	Frequency 9766 9771	daily
+T167	Frequency 9650 9653	prn
+T168	Frequency 9827 9832	daily
+T169	Frequency 9850 9853	qhs
+T170	Frequency 9904 9907	qhs
+T171	Drug 9908 9914	VitB12
+T172	Strength 9915 9923	1000 mcg
+T173	Frequency 9924 9931	monthly
+T174	Route 10627 10636	nebulized
+T176	Drug 10779 10786	steroid
+T177	ADE 10743 10763	risk of osteoporosis
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Duration-Drug Arg1:T5 Arg2:T3
+R4	Strength-Drug Arg1:T10 Arg2:T9
+R5	Strength-Drug Arg1:T15 Arg2:T14
+R6	Frequency-Drug Arg1:T22 Arg2:T21
+R7	Strength-Drug Arg1:T36 Arg2:T35
+R8	Strength-Drug Arg1:T40 Arg2:T39
+R9	Strength-Drug Arg1:T41 Arg2:T42
+R10	Strength-Drug Arg1:T46 Arg2:T45
+R11	Frequency-Drug Arg1:T47 Arg2:T45
+R12	Strength-Drug Arg1:T51 Arg2:T50
+R13	Strength-Drug Arg1:T54 Arg2:T53
+R14	Strength-Drug Arg1:T64 Arg2:T65
+R15	Strength-Drug Arg1:T69 Arg2:T68
+R16	Reason-Drug Arg1:T73 Arg2:T37
+R17	Reason-Drug Arg1:T71 Arg2:T27
+R18	Reason-Drug Arg1:T75 Arg2:T27
+R19	Reason-Drug Arg1:T77 Arg2:T58
+R20	Frequency-Drug Arg1:T76 Arg2:T58
+R21	Route-Drug Arg1:T79 Arg2:T78
+R22	Reason-Drug Arg1:T81 Arg2:T80
+R23	Reason-Drug Arg1:T81 Arg2:T61
+R24	Reason-Drug Arg1:T81 Arg2:T59
+R25	Reason-Drug Arg1:T81 Arg2:T34
+R26	Reason-Drug Arg1:T81 Arg2:T78
+R27	Route-Drug Arg1:T82 Arg2:T16
+R29	Route-Drug Arg1:T84 Arg2:T31
+R30	Reason-Drug Arg1:T85 Arg2:T31
+R31	Reason-Drug Arg1:T85 Arg2:T83
+R32	Reason-Drug Arg1:T85 Arg2:T52
+R33	Reason-Drug Arg1:T86 Arg2:T43
+R34	Frequency-Drug Arg1:T87 Arg2:T29
+R35	Frequency-Drug Arg1:T89 Arg2:T88
+R36	Frequency-Drug Arg1:T91 Arg2:T90
+R37	Frequency-Drug Arg1:T95 Arg2:T93
+R38	Strength-Drug Arg1:T94 Arg2:T93
+R40	Route-Drug Arg1:T96 Arg2:T39
+R41	Frequency-Drug Arg1:T98 Arg2:T97
+R42	Route-Drug Arg1:T100 Arg2:T99
+R43	Frequency-Drug Arg1:T101 Arg2:T99
+R45	Reason-Drug Arg1:T107 Arg2:T50
+R46	Strength-Drug Arg1:T104 Arg2:T103
+R48	Frequency-Drug Arg1:T111 Arg2:T110
+R49	Route-Drug Arg1:T113 Arg2:T112
+R50	Frequency-Drug Arg1:T114 Arg2:T112
+R51	Frequency-Drug Arg1:T115 Arg2:T112
+R52	Reason-Drug Arg1:T117 Arg2:T116
+R53	Reason-Drug Arg1:T117 Arg2:T8
+R54	Dosage-Drug Arg1:T119 Arg2:T118
+R55	Strength-Drug Arg1:T120 Arg2:T118
+R56	Frequency-Drug Arg1:T129 Arg2:T118
+R57	Duration-Drug Arg1:T130 Arg2:T118
+R58	Strength-Drug Arg1:T121 Arg2:T118
+R59	Frequency-Drug Arg1:T128 Arg2:T118
+R60	Duration-Drug Arg1:T131 Arg2:T118
+R61	Strength-Drug Arg1:T122 Arg2:T118
+R62	Frequency-Drug Arg1:T127 Arg2:T118
+R63	Duration-Drug Arg1:T132 Arg2:T118
+R64	Strength-Drug Arg1:T123 Arg2:T118
+R65	Frequency-Drug Arg1:T126 Arg2:T118
+R66	Duration-Drug Arg1:T133 Arg2:T118
+R67	Strength-Drug Arg1:T124 Arg2:T118
+R68	Frequency-Drug Arg1:T125 Arg2:T118
+R69	Route-Drug Arg1:T134 Arg2:T21
+R70	Reason-Drug Arg1:T135 Arg2:T3
+R71	Route-Drug Arg1:T136 Arg2:T7
+R72	ADE-Drug Arg1:T138 Arg2:T63
+R73	Reason-Drug Arg1:T140 Arg2:T11
+R74	Reason-Drug Arg1:T140 Arg2:T20
+R75	Reason-Drug Arg1:T140 Arg2:T17
+R76	Reason-Drug Arg1:T140 Arg2:T23
+R77	Reason-Drug Arg1:T141 Arg2:T38
+R78	Reason-Drug Arg1:T142 Arg2:T57
+R79	Reason-Drug Arg1:T143 Arg2:T144
+R80	Reason-Drug Arg1:T147 Arg2:T145
+R81	Frequency-Drug Arg1:T146 Arg2:T145
+R82	Strength-Drug Arg1:T149 Arg2:T150
+R83	Reason-Drug Arg1:T152 Arg2:T2
+R84	Reason-Drug Arg1:T152 Arg2:T62
+R85	Frequency-Drug Arg1:T151 Arg2:T62
+R86	Route-Drug Arg1:T153 Arg2:T45
+R87	Frequency-Drug Arg1:T154 Arg2:T67
+R88	Strength-Drug Arg1:T165 Arg2:T164
+R89	Frequency-Drug Arg1:T166 Arg2:T164
+R90	Strength-Drug Arg1:T157 Arg2:T155
+R91	Dosage-Drug Arg1:T159 Arg2:T155
+R92	Form-Drug Arg1:T161 Arg2:T155
+R93	Frequency-Drug Arg1:T167 Arg2:T155
+R94	Strength-Drug Arg1:T158 Arg2:T156
+R95	Dosage-Drug Arg1:T160 Arg2:T156
+R96	Form-Drug Arg1:T162 Arg2:T156
+R97	Frequency-Drug Arg1:T163 Arg2:T65
+R98	Frequency-Drug Arg1:T168 Arg2:T42
+R99	Frequency-Drug Arg1:T169 Arg2:T53
+R100	Frequency-Drug Arg1:T170 Arg2:T9
+R101	Strength-Drug Arg1:T172 Arg2:T171
+R102	Frequency-Drug Arg1:T173 Arg2:T171
+R103	Route-Drug Arg1:T174 Arg2:T24
+R106	ADE-Drug Arg1:T177 Arg2:T176
+T178	Drug 8633 8643	nebulizers
+T180	Drug 4922 4926	nebs
+T181	Reason 4974 4977	SOB
+T182	Reason 5101 5110	tachypnea
+T183	Reason 5983 6002	Asthma exacerbation
+T184	Dosage 6611 6612	1
+T185	ADE 8142 8153	Tachycardia
+T186	Reason 8590 8602	exacerbation
+T188	Dosage 9402 9403	1
+T189	Reason 7236 7265	Minimal upper-airway wheezing
+T190	Route 1006 1010	oral
+T191	Frequency 5154 5164	continuous
+T192	Frequency 5360 5370	continuous
+T193	Frequency 5745 5755	continuous
+T194	ADE 5662 5679	sinus tachycardia
+T195	Drug 6358 6374	systemic steroid
+T196	Dosage 6577 6579	4L
+T197	Drug 6580 6582	O2
+T198	Route 6586 6588	NC
+T199	Reason 6451 6466	short of breath
+T200	Drug 7171 7186	supplemental O2
+T201	Drug 7721 7724	ABX
+T202	Frequency 8301 8311	continuous
+T203	ADE 8276 8287	tachycardia
+T204	Route 9089 9092	inj
+T205	Reason 9156 9190	recurrent use of systemic steroids
+T206	Drug 10415 10423	steroids
+T207	Drug 10510 10521	antibiotics
+T208	Reason 10466 10474;10475 10484	probable pneumonia
+T209	Drug 10546 10554	steroids
+T210	Drug 10858 10869	supplements
+R107	Route-Drug Arg1:T198 Arg2:T197
+R108	Dosage-Drug Arg1:T196 Arg2:T197
+R109	Reason-Drug Arg1:T199 Arg2:T197
+R110	Reason-Drug Arg1:T208 Arg2:T207
+R111	Reason-Drug Arg1:T181 Arg2:T180
+R112	Reason-Drug Arg1:T186 Arg2:T178
+R113	Frequency-Drug Arg1:T74 Arg2:T27	
+R114	Reason-Drug Arg1:T182 Arg2:T16	
+R115	Frequency-Drug Arg1:T192 Arg2:T83	
+R116	ADE-Drug Arg1:T194 Arg2:T28	
+R117	Reason-Drug Arg1:T183 Arg2:T93	
+R119	Dosage-Drug Arg1:T184 Arg2:T103	
+R120	Reason-Drug Arg1:T189 Arg2:T118	
+R121	ADE-Drug Arg1:T185 Arg2:T7	
+R122	ADE-Drug Arg1:T203 Arg2:T7	
+R123	Route-Drug Arg1:T204 Arg2:T145	
+R126	Dosage-Drug Arg1:T188 Arg2:T150	
+R3	Reason-Drug Arg1:T205 Arg2:T12	
+R28	Reason-Drug Arg1:T205 Arg2:T18	
+T6	Route 6180 6182	IV
+R39	Route-Drug Arg1:T6 Arg2:T93	
+T32	Route 6628 6630	IV
+R44	Route-Drug Arg1:T32 Arg2:T50	
+T92	Route 6806 6808	IV
+R47	Route-Drug Arg1:T92 Arg2:T109	
+T102	Route 7591 7593	IV
+R104	Route-Drug Arg1:T102 Arg2:T3	
+T106	Route 5345 5347	IV
+R105	Route-Drug Arg1:T106 Arg2:T83	
+T108	Route 6590 6592	IV
+R118	Route-Drug Arg1:T108 Arg2:T103	
+R124	Route-Drug Arg1:T190 Arg2:T58	
+R125	Frequency-Drug Arg1:T191 Arg2:T16	
+R127	Frequency-Drug Arg1:T193 Arg2:T28	
+R128	Frequency-Drug Arg1:T202 Arg2:T7	

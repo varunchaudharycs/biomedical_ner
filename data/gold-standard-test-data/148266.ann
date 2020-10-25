@@ -1,0 +1,148 @@
+T1	Drug 8972 8977	taxol
+T2	Drug 6343 6354	ceftazidime
+T3	Drug 6600 6609	MS Contin
+T4	Drug 9548 9555	insulin
+T5	Drug 8462 8470	Fentanyl
+T6	Drug 6801 6807	Narcan
+T7	Drug 8978 8989	carboplatin
+T8	Drug 9814 9821	Lipitor
+T9	Strength 9822 9827	80 mg
+T10	Dosage 9832 9835	one
+T11	Route 9846 9854	by mouth
+T12	Drug 8471 8480	Midazolam
+T13	Drug 8415 8423	Propofol
+T14	Drug 9953 9962	Metformin
+T15	Strength 9963 9971	1,000 mg
+T16	Dosage 9976 9979	one
+T17	Route 9990 9998	by mouth
+T18	Drug 164 174	Lisinopril
+T19	Drug 6571 6579	morphine
+T20	Form 9772 9781	Eye Drops
+T21	Form 9786 9790	drop
+T22	Dosage 9782 9785	one
+T23	Strength 9912 9918	325 mg
+T24	Dosage 9923 9926	one
+T25	Route 9937 9945	by mouth
+T26	Drug 8628 8636	dopamine
+T27	Drug 9182 9190	Fentanyl
+T28	Form 9733 9737	drop
+T29	Dosage 9729 9732	one
+T30	Drug 766 771	taxol
+T31	Reason 5553 5571	The patient's pain
+T32	Drug 751 764	carboplatinum
+T34	Drug 5595 5611	pain medications
+T35	Drug 5629 5639	analgesics
+T36	Route 5624 5628	oral
+T37	Drug 6338 6342	vanc
+T38	Duration 6314 6319	8 day
+T39	Reason 6816 6826	somnolence
+T40	ADE 7291 7302	hypercapnia
+T41	Drug 7317 7326	narcotics
+T42	ADE 7331 7338;7339 7352	altered mental status
+T43	Drug 7542 7559	broad antibiotics
+T44	Drug 8301 8303	NS
+T46	Form 8304 8309;8310 8317	fluid boluses
+T47	Drug 8511 8526	pain medication
+T48	Frequency 9750 9755	daily
+T49	Drug 9705 9712	Betimol
+T50	Strength 9713 9718	0.5 %
+T51	Form 9719 9728	Eye Drops
+T52	Drug 9756 9763	Xalatan
+T53	Strength 9764 9771	0.005 %
+T54	Frequency 9803 9813	at bedtime
+T55	Form 9828 9831	Tab
+T56	Frequency 9855 9869	in the evening
+T57	Drug 9870 9878	Fish Oil
+T58	Strength 9879 9887	1,000 mg
+T59	Form 9888 9891	Cap
+T60	Drug 9904 9911	Aspirin
+T61	Form 9919 9922	Tab
+T62	Frequency 9946 9951	daily
+T63	Form 9972 9975	Tab
+T64	Frequency 9999 10004	daily
+R1	Strength-Drug Arg1:T9 Arg2:T8
+R2	Dosage-Drug Arg1:T10 Arg2:T8
+R3	Route-Drug Arg1:T11 Arg2:T8
+R4	Strength-Drug Arg1:T15 Arg2:T14
+R5	Dosage-Drug Arg1:T16 Arg2:T14
+R6	Route-Drug Arg1:T17 Arg2:T14
+R8	Reason-Drug Arg1:T31 Arg2:T34
+R9	Route-Drug Arg1:T36 Arg2:T35
+R10	Duration-Drug Arg1:T38 Arg2:T37
+R11	Duration-Drug Arg1:T38 Arg2:T2
+R12	Reason-Drug Arg1:T39 Arg2:T6
+R13	ADE-Drug Arg1:T40 Arg2:T41
+R14	ADE-Drug Arg1:T42 Arg2:T41
+R16	Form-Drug Arg1:T46 Arg2:T44
+R17	Strength-Drug Arg1:T50 Arg2:T49
+R18	Form-Drug Arg1:T51 Arg2:T49
+R19	Dosage-Drug Arg1:T29 Arg2:T49
+R20	Form-Drug Arg1:T28 Arg2:T49
+R21	Frequency-Drug Arg1:T48 Arg2:T49
+R22	Frequency-Drug Arg1:T54 Arg2:T52
+R23	Form-Drug Arg1:T21 Arg2:T52
+R24	Dosage-Drug Arg1:T22 Arg2:T52
+R25	Form-Drug Arg1:T20 Arg2:T52
+R26	Strength-Drug Arg1:T53 Arg2:T52
+R27	Form-Drug Arg1:T55 Arg2:T8
+R28	Frequency-Drug Arg1:T56 Arg2:T8
+R29	Strength-Drug Arg1:T58 Arg2:T57
+R30	Form-Drug Arg1:T59 Arg2:T57
+R31	Strength-Drug Arg1:T23 Arg2:T60
+R32	Form-Drug Arg1:T61 Arg2:T60
+R33	Dosage-Drug Arg1:T24 Arg2:T60
+R34	Route-Drug Arg1:T25 Arg2:T60
+R35	Frequency-Drug Arg1:T62 Arg2:T60
+R36	Frequency-Drug Arg1:T64 Arg2:T14
+R37	Form-Drug Arg1:T63 Arg2:T14
+T66	Reason 638 648;649 711;712 734	metastatic poorly differentiated adenocarcinoma, unknown primary possibly lung, w/ mets to spine
+T67	Dosage 1436 1440	2.5L
+T68	Drug 1441 1445	IVFs
+T69	Drug 1466 1470	vanc
+T70	Drug 1475 1481	ceftaz
+T71	Reason 1352 1375	hypotension w/ BP 90/60
+T72	Route 5465 5476	Intravenous
+T73	Drug 5477 5488	antibiotics
+T74	Duration 5508 5513	24hrs
+T75	Drug 6275 6278	abx
+T76	ADE 6657 6666	somnolent
+T77	ADE 7413 7428	hypoventilation
+T78	ADE 8354 8375	Transient hypotension
+T79	Route 8617 8627	peripheral
+T80	Reason 8853 8912;8913 8932	Metastatic Adenocarcinoma: Suspected lung primary and known bony and liver mets
+T81	Form 9191 9198	boluses
+T82	Frequency 9565 9567;9568 9574	as needed
+T83	Form 9836 9842	Tablet
+T84	Form 9980 9986	Tablet
+T85	Form 9927 9933	Tablet
+T87	Drug 6080 6091	antibiotics
+T88	Dosage 8294 8297;8298 8300	two 1L
+T89	Reason 8428 8436	sedation
+T90	Reason 8641 8649;8650 8657	pressure support
+T91	Reason 9123 9127	pain
+R39	Dosage-Drug Arg1:T67 Arg2:T68
+R40	Reason-Drug Arg1:T71 Arg2:T68
+R41	Route-Drug Arg1:T72 Arg2:T73
+R42	Duration-Drug Arg1:T74 Arg2:T73
+R43	Reason-Drug Arg1:T66 Arg2:T32	
+R44	Reason-Drug Arg1:T66 Arg2:T30	
+R45	ADE-Drug Arg1:T76 Arg2:T19	
+R46	ADE-Drug Arg1:T76 Arg2:T3	
+R47	ADE-Drug Arg1:T77 Arg2:T41	
+R15	Dosage-Drug Arg1:T88 Arg2:T44	
+R48	ADE-Drug Arg1:T78 Arg2:T13	
+R49	Reason-Drug Arg1:T89 Arg2:T13	
+R50	Route-Drug Arg1:T79 Arg2:T26	
+R51	Reason-Drug Arg1:T90 Arg2:T26	
+R52	Reason-Drug Arg1:T80 Arg2:T1	
+R53	Reason-Drug Arg1:T80 Arg2:T7	
+R54	Reason-Drug Arg1:T91 Arg2:T27	
+R55	Form-Drug Arg1:T81 Arg2:T27	
+R56	Frequency-Drug Arg1:T82 Arg2:T4	
+R57	Form-Drug Arg1:T83 Arg2:T8	
+R58	Form-Drug Arg1:T85 Arg2:T60	
+R59	Form-Drug Arg1:T84 Arg2:T14	
+T33	Route 5592 5594	IV
+R7	Route-Drug Arg1:T33 Arg2:T34	
+T45	Route 6077 6079	IV
+R38	Route-Drug Arg1:T45 Arg2:T87	

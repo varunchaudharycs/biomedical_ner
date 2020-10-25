@@ -1,0 +1,298 @@
+Admission Date:  [**2105-4-28**]              Discharge Date:   [**2105-5-13**]
+
+Date of Birth:  [**2075-11-29**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+Headache, right-sided weakness and drowsiness.
+
+
+Major Surgical or Invasive Procedure:
+Intubation.
+Tracheostomy
+PEG tube
+
+
+History of Present Illness:
+Patient admitted from: [**Hospital1 18**] ER
+History obtained from Medical records, mother and [**Name (NI) 6435**] nurse.
+Patient unable to provide history: Sedated
+
+HPI:
+29 yo M with hx HTN (per mother diagnosed at age 8, on
+medications since age 17, on four anti-hypertensive agents at
+home but unsure of meds, and unclear etiology of HTN), presents
+with headache, right-sided weakness, and drowsiness.
+
+Per mother likely not always compliant with meds listed to the
+right. He has been hypertensive since 8 years, with low sodium
+diet effective until age of 17, then medications started. Since
+that time his  PCP has been: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 89664**], South JP
+Health, [**Telephone/Fax (1) 37648**].
+
+Per EMS he was having intercourse and at 9:15 PM he developed
+sudden-onset headache and then developed right facial droop and
+right-sided weakness.  He was non-verbal and appeared somnolent.
+A code-stroke was called.
+
+ROS unobtainable.
+
+Events Since Admission:
+Called PCP [**Name Initial (PRE) 3726**]. PCP away until [**Name9 (PRE) 766**], but nurse will call
+neuro team back.
+Then: Nurse returned call. No known cause for hypertension. Has
+seen Cardiology (Dr. [**Last Name (STitle) 29204**], [**Hospital1 756**]), confirmed medications.
+Last BP on office visit was 127/72.
+
+
+Past Medical History:
+- Hypertension as above
+- Asthma
+
+
+Social History:
+Occupation: supervisor at [**Last Name (un) 89665**] liquor store
+Drugs: None.
+Tobacco: None.
+Alcohol: Rare
+
+
+Family History:
+-father died at age 48 from heart disease, mother and sister
+with
+hypertension
+
+
+Physical Exam:
+Vital Signs:
+Flowsheet Data as of [**2105-4-29**] 07:57 AM
+Tmax: 36.9 ??????C (98.4 ??????F)
+Tcurrent: 36.9 ??????C (98.4 ??????F)
+HR: 86 (78 - 96) bpm
+BP: 150/76(93) {123/56(72) - 155/96(109)} mmHg
+RR: 24 (19 - 25) insp/min
+SpO2: 99%
+Heart rhythm: SR (Sinus Rhythm)
+Wgt (current): 95.9 kg (admission): 95.9 kg
+
+Fluid Balance (24 hours; since midnight)
+ 0 mL; 593 mL
+
+Ventilator - intubated, CPAP
+O2 Delivery Device: Endotracheal tube
+Ventilator mode: CPAP/PSV
+Vt (Spontaneous): 428 (428 - 520) mL
+PS : 10 cmH2O
+RR (Spontaneous): 22
+PEEP: 5 cmH2O
+FiO2: 60%
+RSBI Deferred: FiO2 > 60%, Hemodynamic Instability
+PIP: 16 cmH2O
+SpO2: 99%
+ABG: ///28/
+Ve: 9 L/min
+
+Physical Examination:
+
+Gen lying in bed, eyes closed, NAD
+CV: RRR, no murmurs
+Pulm: CTA anteriorly
+Abd: soft, nt, nd
+Extr: no edema
+
+Neurologic:
+
+Sedated on Propofol. Awakens with cessation of sedation. Normal
+breathing pattern.
+
+Level of arousal normal, but not alert. Not following commands
+(but had for nurse with longer break in sedation  with squeezing
+left hand). Attempted to reach for tube when released from
+restraint.
+
+Mild anisocoria with slightly smaller pupil on right, but
+otherwise near equal and both react. EOM limited - did not look
+to left, gaze mildly disconjugate. Right facial droop.
+
+Tone flaccid on right. Left arm and leg are antigravity.
+Reflexes mildly brisker for left arm (brachiradialis only) and
+Troemner in left hand. Reflexes symmetric for the LE's with
+upgoing toe on left and equivocal on right.
+
+
+Pertinent Results:
+[**2105-5-1**] 02:23AM BLOOD WBC-9.1 RBC-4.61 Hgb-13.5* Hct-38.7*
+MCV-84 MCH-29.4 MCHC-35.0 RDW-14.5 Plt Ct-226
+[**2105-4-29**] 03:40AM BLOOD PT-13.2 PTT-23.0 INR(PT)-1.1
+[**2105-5-1**] 02:23AM BLOOD Glucose-116* UreaN-13 Creat-0.9 Na-137
+K-3.1* Cl-101 HCO3-30 AnGap-9
+[**2105-4-29**] 03:40AM BLOOD ALT-41* AST-23 CK(CPK)-179 AlkPhos-58
+TotBili-0.3
+[**2105-4-29**] 03:40AM BLOOD CK-MB-4 cTropnT-<0.01
+[**2105-4-28**] 09:35PM BLOOD CK-MB-5 cTropnT-<0.01
+[**2105-5-1**] 02:23AM BLOOD Calcium-8.9 Phos-4.0 Mg-2.0
+[**2105-4-28**] 09:35PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2105-4-28**] 09:43PM BLOOD Lactate-2.4*
+[**2105-4-30**] 07:58PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.004
+[**2105-4-30**] 07:58PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+[**2105-4-28**] 10:45PM URINE RBC-0 WBC-<1 Bacteri-NONE Yeast-NONE
+Epi-0
+[**2105-4-28**] 11:00PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+CT (head) [**2105-5-7**]
+Since the prior study, slight evolution of the blood products
+seen in the pons without change in the mass effect. No
+hydrocephalus seen.
+
+TTE: [**2105-5-6**]
+Mild symmetric left ventricular hypertrophy. Hyperdynamic left
+ventricular systolic function with a mild mid cavitary resting
+gradient. No significant valvular abnormality.
+
+CT (head): [**2105-4-28**]
+13 x 16 mm left pontine hemorrhage. An MR should be obtained for
+further
+evaluation to rule out an underlying mass lesion.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 29-year-old man with severe hypertension. He
+has undergone work-up by his primary care doctor, a renal
+physician and cardiology, without known cause. Hypertension
+appears to be familial, present in his father and sister, both
+from a young age. It is possible that whatever underlying
+predisposition he has is inherited in an autosomally dominant
+fashion, although this cannot be concluded given our limited
+knowledge of his pedigree. Further outpatient work-up seems
+warranted.
+
+There was no underlying vascular malformation or other lesion
+from which this hemorrhage has arisen, at least at the
+resolution of CT. His compliance has been good but imperfect, so
+we think that his hemorrhage was most likely hypertensive during
+the exertions of sexual activity. As such, a primary goal has
+been to control his blood pressure, which is now quite adequate.
+
+
+The hemorrhage was in the basis pontis on the left, with
+apparent vasogenic edema of the overlying tegmentum. Although
+there is not frank hemorrhage into the midline pontine
+tegmentum, edema and mass effect in this area most likely
+accounts for drowsiness. He initially demonstrated Troemner's
+and Babinksi's signs on the left, suggesting some mass effect to
+the right basis pontis, but this is now resolved. Eye movement
+abnormality is partially explained by lesion of the tract of the
+sixth nucleus, with nuclear sparing. In addition, adbuction to
+the right is incomplete and the reason for this is only
+speculative. He demonstrates loss of voluntary cough and
+swallow, with preservation of brisk involuntary cough, likely
+due to the effect of the lesion on the dorsal midline portion of
+basis pontis, with preserved nucleus ambiguus and lateral
+medulla.
+
+Drowsiness resulted in intubation while at the scanner after
+arrival at the ED. He was extubated successfully on [**2105-4-28**], with
+some difficult managing secretion, but not oxygenation.
+
+When extubated and with controlled pressure he was transferred
+to the neurology step-down unit. Atenolol was stopped and
+replaced with metoprolol tartrate given better 24 hour coverage
+and conversion to the succinate salt is intended at discharge.
+
+After PEG placement he had desaturations to the low 80s and was
+sent back to the ICU. His CXR showed low lung volumes and the
+etiology was thought to be from the abdominal binder and
+restrictive lung disease. He was able to be weaned to trach mask
+with low O2 requirements and sent back to the floor. His blood
+pressure was stable for 48 hours prior to discharge in the
+120s-130s systolic.
+
+He will follow up in clinic with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+
+Medications on Admission:
+Amlodipine 10 mg
+Atenolol 50 mg
+Lisinopril/HCTZ 20/25 mg [**Hospital1 **]
+Doxazosin QHS - dose unknown
+
+Discharge Medications:
+1. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) ml
+Injection TID (3 times a day).
+2. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO QNOON ().
+3. hydrochlorothiazide 50 mg Tablet Sig: One (1) Tablet PO once
+a day.
+4. metoprolol tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day).
+5. lisinopril 30 mg Tablet Sig: One (1) Tablet PO twice a day.
+6. doxazosin 4 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+
+7. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Four (4) Puff Inhalation Q4H (every 4 hours) as needed for
+wheezing.
+8. ipratropium bromide 0.02 % Solution Sig: One (1) NEB
+Inhalation Q4H (every 4 hours) as needed for sob, wheezing.
+9. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) NEB Inhalation Q4H (every 4 hours) as
+needed for SOB/Wheezing.
+10. baclofen 10 mg Tablet Sig: 0.5 Tablet PO twice a day.
+11. famotidine(PF) in [**Doctor First Name **] (iso-os) 20 mg/50 mL Piggyback Sig:
+Fifty (50) ml Intravenous Q12H (every 12 hours).
+12. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+QHS (once a day (at bedtime)).
+13. senna 8.8 mg/5 mL Syrup Sig: Five (5) ml PO BID (2 times a
+day).
+14. docusate sodium 50 mg/5 mL Liquid Sig: Ten (10) ml PO BID (2
+times a day).
+15. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+dose PO DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 85**] - [**Location (un) 86**]
+
+Discharge Diagnosis:
+Pontine hemorrhage
+
+
+Discharge Condition:
+Mental Status: Clear and coherent. - unable to speak
+Level of Consciousness: Alert and interactive. - unable to speak
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+You were admitted to the neurology service stroke service after
+you developed sudden onset of headache and right sided weakness.
+On examination you had a flaccid paralysis on your right side
+and your eyes were unable to look to the left. You also had
+significant bulbar weakness which limited your ability to speak.
+Your understanding of language was intact. Your imaging showed a
+left sided pontine hemorrhage. The etiology of the bleed was
+likely related to longstanding hypertensive which was not always
+controlled. You were started on several antihypertensives with a
+current goal of being normotensive. You had difficulty
+protecting your airway and eating and had a trach and PEG
+placed. You are being discharged to rehab with a plan to
+follow-up with Dr. [**Last Name (STitle) **].
+1. Continue antihypertensive regimen at rehab facilty
+2. F/U w/ [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in 6 weeks
+3. Please follow-up with your PCP after discharge from rehab
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 640**] [**Last Name (NamePattern4) 3445**], MD Phone:[**Telephone/Fax (1) 2574**]
+Date/Time:[**2105-6-29**] 2:30
+
+
+
+Completed by:[**2105-5-13**]

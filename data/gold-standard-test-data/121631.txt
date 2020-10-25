@@ -1,0 +1,259 @@
+Admission Date:  [**2108-11-12**]              Discharge Date:   [**2108-11-20**]
+
+Date of Birth:  [**2042-12-3**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Lisinopril / Diovan / Opioid Analgesics
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Coronary artery disease
+
+Major Surgical or Invasive Procedure:
+Cardiac Catherization [**2108-11-12**]
+Coronary Artery Bypass Graft x4 (left internal mammary artery >
+left anterior descending, saphenous vein graft > diagonal,
+saphenous vein graft > obtuse marginal, saphenous vein graft >
+posterior descending artery) [**2108-11-16**]
+
+
+History of Present Illness:
+Ms. [**Known lastname **] is a 65 F with HTN, + FH of early CAD, + smoker and
+little recent medical care transferred from CMI service
+following cath yesterday. Up until last month, she had had no
+medical followup. She recently decided to have cataract surgery
+and the following events occurred as a result of preop workup.
+She has had at least a two year history of gradually worsening
+exertional angina and dyspnea on exertion but never sought
+medical attention. Symptoms also occured with times of emotional
+stress. She initially attributed her symptoms to stress and
+anxiety. Over the last couple months, her exertional chest pain
+sometimes took hours before going away (initially responded
+quickly to rest). Symptoms (CP and dyspnea) also occurring at
+rest with minor emotional stressors.
+.
+She had persantine MIBI on [**2108-10-18**] which showed possible mild
+lateral wall ischemia. She also developed hypertension to
+210/120 during stress and required presentation to OSH ED. She
+was started on an antihypertensive regimen with prn SLNTG. In
+the two weeks PTA she has taken at least 5 per day.
+.
+She was admitted for cath yesterday. Found to have 99% LCx
+lesion that could not be stented. Also had disease of RCA, LAD
+(see below). Got Plavix 600 x 1 pre cath. Cardiac [**Doctor First Name **]
+consulted; plan for CABG after Plavix washout.
+.
+Following cath started on heparin gtt (since continued mild CP
+and ST depressions/TWI in lateral leads). Also has been on nitro
+gtt for CP. Reports CP during cardiac cath; following this has
+had intermittent 0.5-1/10 CP with one increase to [**8-7**] last
+night, responsive to increase in nitro gtt. Reports severe
+anxiety, relieved by benzos.
+.
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, black stools or
+red stools. All of the other review of systems were negative.
+Cardiac review of systems is notable for absence of paroxysmal
+nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope
+or presyncope.
+
+
+Past Medical History:
+-HTN
+-Anxiety with panic attacks
+-Depression
+-Discoid lupus (diagnosed by biopsy of nonhealing ulcers 15 yrs
+ago), no treatment or other known manifestations of SLE
+-TMJ
+-Cataracts
+-s/p ovarian cyst removal
+-s/p tonsillectomy
+.
+Cardiac Risk Factors: (-)Diabetes,(-)Dyslipidemia,
+(+)Hypertension
+.
+Cardiac History: None previously known
+
+
+Social History:
+Social history is significant for the current tobacco use (1 to
+1-1/2 PPD x 50 yrs). There is no history of alcohol abuse.
+
+Family History:
+There is significant family history of premature coronary artery
+disease. Sister with MI at 32 and CABG at 34; other sister with
+MI at 48 and cardiac arrest; other sister with hypertension and
+died at 59 during stress test. Father with fatal MI at 56.
+
+Physical Exam:
+VS - T 98.6; BP 99/63(range 99-133); P 82(range 66-82); R22;
+95-97%RA
+Gen: WDWN middle aged female in NAD. Oriented x3. Appears
+slightly anxious.
+HEENT: NCAT. Sclera anicteric. PERRL. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa.
+Neck: Supple with no noted JVP elevation. No carotid bruits.
+CV: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness.
+Ext: No c/c/e. R groin with moderate ecchymoses, slightly firm
+over pubis. No active ooze or obvious hematoma.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+.
+Pulses:
+Right: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+Initial EKG ([**11-12**] AM) demonstrated NSR at 97, normal
+axis/intervals, ST depressions V4-V6, I; TWI aVL. ECG [**11-13**] AM
+(during CP) also with NSR at 76, lateral ST depressions and TWI
+(V5, V6, I, aVL).
+.
+2D-ECHOCARDIOGRAM performed on [**2108-11-13**] demonstrated: Mild
+symmetric left ventricular hypertrophy with normal cavity size.
+Regional left ventricular wall motion is normal. Left
+ventricular systolic function is hyperdynamic (EF>75%). There is
+an abnormal systolic flow contour at rest (likely due to a
+hyperdynamic LV function).
+.
+ETT performed on [**2108-10-18**] demonstrated: + chest and jaw pain with
+hypertension to 210/120; imaging showing ?mild lateral wall
+ischemia vs. artifact.
+.
+CARDIAC CATH performed on [**2108-11-12**] demonstrated: 99% mid LCx
+lesion (failed attempt to stent), 100% OM1 and 90% OM2; 50% mid
+LAD and 80% D1 (also aneurysmal); 60% mid RCA. Patent renals. 3
+cm infrarenal AAA.
+.
+
+[**2108-11-19**] 11:05AM BLOOD WBC-9.1 RBC-2.93* Hgb-9.4* Hct-27.3*
+MCV-93 MCH-32.1* MCHC-34.5 RDW-14.3 Plt Ct-311
+[**2108-11-18**] 05:30AM BLOOD WBC-11.3* RBC-2.69* Hgb-8.9* Hct-25.2*
+MCV-94 MCH-33.1* MCHC-35.4* RDW-14.0 Plt Ct-234
+[**2108-11-12**] 12:13PM BLOOD WBC-7.4 RBC-3.77* Hgb-11.7* Hct-34.1*
+MCV-91 MCH-31.1 MCHC-34.4 RDW-13.7 Plt Ct-342
+[**2108-11-19**] 11:05AM BLOOD Plt Ct-311
+[**2108-11-12**] 12:13PM BLOOD Plt Ct-342
+[**2108-11-12**] 12:13PM BLOOD PT-14.1* PTT-150* INR(PT)-1.2*
+[**2108-11-19**] 11:05AM BLOOD Glucose-107* UreaN-17 Creat-1.1 Na-140
+K-4.2 Cl-105 HCO3-28 AnGap-11
+[**2108-11-12**] 12:13PM BLOOD Glucose-142* UreaN-15 Creat-0.9 Na-135
+K-2.8* Cl-99 HCO3-25 AnGap-14
+[**2108-11-12**] 12:13PM BLOOD ALT-19 AST-18 AlkPhos-80 TotBili-0.4
+
+CHEST (PA & LAT)  [**2108-11-20**] 12:21 PM
+FINDINGS: In comparison with study of [**11-18**], the small apical
+pneumothorax appears to be even less than on the previous study.
+
+Brief Hospital Course:
+She was taken to the operating room on [**11-16**] where she underwent
+a CABG x4. She was transferred to the ICU in critical but stable
+condition. She was extuabted later that same day. She was
+transferred to the floor on POD #1. She developed a small left
+apical pneumothorax after her chest tubes were pulled that
+remained stable on subsequent chest xray. She also developed a
+pruritic generalized  rash for which her lasix was discontinued
+and she was treated with sarna lotion. She otherwise did well
+postoperatively and was ready for discharge home on POD #4.
+
+
+Medications on Admission:
+Meds at home:
+hydralazine 25 [**Hospital1 **]
+HCTZ 25 mg daily
+Norvasc 10 mg daily
+Oxazepam 10 mg TID
+ASA 325 mg (or ?650 mg) daily
+Chantix (prescribed, not started)
+SLNTG prn
+.
+Currents meds here:
+Metoprolol 25 [**Hospital1 **]
+ASA 325 mg daily
+heparin gtt
+NTG gtt (current at 0.3 mcg/kg/min)
+Amlodipine 10 mg daily
+HCTZ 25 mg daily
+Hydralazine 25 mg [**Hospital1 **]
+Diazepam 10 mg Q6h
+Lorazepam 0.5-1 prn
+Nicotine patch
+Simethicone, maalox
+Zolpidem prn
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+every four (4) hours as needed for itching.
+Disp:*qs qs* Refills:*2*
+4. Oxazepam 10 mg Capsule Sig: One (1) Capsule PO TID (3 times a
+day).
+5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+6. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every four
+(4) hours as needed for pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+Coronary artery disease s/p CABG
+Anxiety
+Depression
+Hypertension
+TMJ
+Discoid lupus
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 170**]
+Continue to use sarna lotion for rash - if the itching increases
+or the rash does not continue to improve please call
+[**Telephone/Fax (1) 170**]
+Smoking cessation - please continue to refrain from smoking if
+you are having difficulty please follow up with PCP
+
+Followup Instructions:
+Please call to schedule all appointments
+Dr [**Last Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 170**])
+Dr [**Last Name (STitle) 10543**] in [**1-31**] weeks ([**Telephone/Fax (1) 4475**])
+Wound check appointment [**Hospital Ward Name 121**] 2 as instructed by nurse
+([**Telephone/Fax (1) 3633**])
+
+
+
+Completed by:[**2108-11-20**]

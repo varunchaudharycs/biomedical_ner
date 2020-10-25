@@ -1,0 +1,38 @@
+T1	Drug 740 747	Levoxyl
+T2	Drug 4840 4853	ciprofloxacin
+T3	Drug 714 728	spironolactone
+T4	Drug 3405 3414	meropenem
+T5	Drug 3856 3866	argatroban
+T6	Drug 2262 2269	heparin
+T7	Drug 2456 2464	Levophed
+T8	Drug 3396 3401	Zosyn
+T9	Drug 730 735	Lasix
+T10	Drug 3871 3880	lepirudin
+T11	Drug 701 712	propranolol
+T12	Drug 4958 4968	vancomycin
+T13	Drug 4799 4808	meropenem
+T14	Reason 2469 2491	blood pressure control
+T17	ADE 2215 2218	HIT
+T18	Drug 3234 3239	fluid
+T20	Reason 3334 3345	Pseudomonas
+T21	Reason 3834 3849	anticoagulation
+T22	Reason 4710 4720;4721 4760	ventilator acquired pneumonia with the Pseudomonas
+T23	Reason 4881 4901;4902 4925	blood cultures which had gram-positive cocci
+R1	ADE-Drug Arg1:T17 Arg2:T6
+R2	Reason-Drug Arg1:T14 Arg2:T7
+R4	Reason-Drug Arg1:T20 Arg2:T4
+R5	Reason-Drug Arg1:T21 Arg2:T5
+R6	Reason-Drug Arg1:T21 Arg2:T10
+R7	Reason-Drug Arg1:T22 Arg2:T13
+R8	Reason-Drug Arg1:T22 Arg2:T2
+R9	Reason-Drug Arg1:T23 Arg2:T12
+T24	Reason 2749 2760;2761 2768	nutritional support
+T25	Drug 2530 2535	fluid
+T26	Reason 2536 2549	resuscitation
+T27	Drug 2741 2744	TPN
+T28	Drug 3984 3999	anticoagulation
+T29	Drug 3206 3213	albumin
+R10	Reason-Drug Arg1:T26 Arg2:T25
+R11	Reason-Drug Arg1:T24 Arg2:T27
+T15	Route 3232 3233	V
+R3	Route-Drug Arg1:T15 Arg2:T18	

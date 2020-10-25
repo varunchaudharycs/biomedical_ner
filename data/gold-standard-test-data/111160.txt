@@ -1,0 +1,467 @@
+Admission Date:  [**2141-6-14**]              Discharge Date:   [**2141-7-6**]
+
+Date of Birth:  [**2070-6-26**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3256**]
+Chief Complaint:
+Transfer from [**Hospital1 **] with necrotizing pancreatitis and ARDS
+
+Major Surgical or Invasive Procedure:
+Mechanical ventilation/ intubation x2
+
+
+History of Present Illness:
+EAST HOSPITAL MEDICINE ATTENDING ADMISSION NOTE
+
+Date: [**2141-7-3**]
+Time: 04:13
+
+The patient is a Pt is a 70F with PMH of HTN, PVD and [**Hospital **]
+transferred from outside hospital with severe pancreatitis and
+respiratory failure requiring intubation. History was obtained
+from family and the medical record.
+
+Two days prior to admission, pt began experiencing sharp RUQ
+pain, nausea, nonbloody, nonbilious vomitus and diarrhea. The
+family denies any fevers, cough or chills and states she was in
+her normal state of health prior to developing pain. She did not
+want to go see her MD, but one day prior to transfer her pain
+worsened and she finally went to [**Hospital6 **].  At
+LGH intital labs were notable for a lipase of 2254 which trended
+upward to 8117, normal Cr and WBC of 22. Initial BUN was 22 but
+subsequently trended upward to 30. RUQ US revealed common bile
+duct dilitation and an abnormal appearance of her pancreas. She
+was given metronidazole and levofloxacin and admitted to the
+general medical floor where she was kept NPO and given IVF. CT
+scan of her abdomen and pelvis was performed and was concerning
+for necrosis, therefore were was transferred to the ICU where
+aggressive fluid repletion was initiated (at the time of
+transfer she has recieved 7 L. HCT demonstrated
+hemoconcentration (54) which remained stable despite fluids.
+Antitbiotics were broadened to imipenem. She remained
+hemodynamically stable, afebrile, with UOP of 60 cc/hr
+overnight.
+
+Initial plan was for ERCP however the afternoon of transfer the
+patient developed an acute desaturation event to 88% on 5L NC.
+Saturations improved to 96% with 50% FiO2 via a venti mask. ABG
+at that time was 7.17/46.2/81.7 bicarb of 17. She was intubated
+prior to transfer to [**Hospital1 18**]. On transport she was noted to be
+transiently hypotensive to the 80s requiring peripheral levophed
+which was weaned off on arrival to the [**Hospital Unit Name 153**]. No ROS was obtained
+due to the patient being unconcious.
+
+Of note [**First Name8 (NamePattern2) **] [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] records the patient has a history
+of chronic nausea and intolerance of greasy food, however the
+family denies any previous diagnosis of gallbladder disease. The
+patient does not drink alcohol, has no new medication but does
+have HL for which she has been on pravastatin.
+
+On arrival to the MICU on [**2141-6-14**], patient's VS 157/79 105 18 95%
+on CMV with RR 16, Vt 400, FiO2 60%. The patient was intubated
+and sedated due to ARDS. LIJ central venous catheter was placed
+given access issues. She was extubated on [**2141-6-20**] and was
+transfered to the medicine floor and was treated for VAP from
+[**Date range (3) 112125**] with zosyn and vancomycin (cipro was started
+initially, but subsequently discontinued). On [**2141-6-23**], she was
+transfered back to the ICU, re-intubated for hypoxia thought to
+be due to atelectasis, bilateral pleural effusions and a
+questionable infarct in the [**Date Range **] without thrombus, which was not
+anticoagulated. On [**2141-6-24**], she was noted to have ARF with rare
+eos (AIN), which was thought to be due to medications/contrast
+dye exposure. Several potential offending agents were
+discontinued. On ECHO on [**6-26**] was wnl. Her initial tachycardia
+later improved with verapamil. A LUQ u/s showed no gallstones
+and minimal sludge.
+
+Past Medical History:
+Type II DM
+HTN
+HL
+PVD
+Chronic low back pain
+
+
+Social History:
+Patient is married, former smoker, but not currently.  She does
+not drink and does not do drugs.  She lives with her husband and
+has three children.
+
+
+Family History:
+Skin cancer in a grandfather
+
+
+Physical Exam:
+VS: 98.6 132/68 107 22 95% RA; 0/10  pain
+
+
+GEN: No apparent distress, somnolent
+HEENT: no trauma, pupils round and reactive to light and
+accommodation, no LAD, oropharynx clear, no exudates
+CV: regular rate and rhythm, no murmurs/gallops/rubs
+PULM: Clear to auscultation bilaterally, no
+rales/crackles/rhonchi
+GI: soft, non-tender, non-distended; no guarding/rebound
+EXT: no clubbing/cyanosis/edema; 2+ distal pulses; peripheral IV
+present
+NEURO: Alert to person and situation; CN II-XII grossly intact,
+global muscle weakness
+DERM: no lesions appreciated
+
+Pertinent Results:
+[**2141-6-14**]
+Na 146 K 4.6 Cl 116 C02 20 BUN 30 Cr 0.7
+Alb 2.6 Alk Phos 91 Bilirubin 0.7 (direct 0.1) AST 171 ALT 286
+Tpro  6.3 Lipase 8117
+[**6-14**] 1434
+WBC 20.7 HgB 17.2 HCT 53.7 PLT 168
+ABG BiPAP (PEEP 5, PS 5)7.20/41/85
+Venti mask 10L  7.17/47/82
+
+Micro:  urine cx [**Hospital1 487**] [**2141-6-13**] > 100,000 colonies of beta
+hemolytic group B strep
+
+[**Hospital3 **] Imaging
+CT Abdomen Pelvis with contrast
+Severe acute pancreatitis with suggestion of early pancreatic
+necrosis
+Mildly distended gallbladder containing sludge and stones no
+definite CBD stone identified
+
+US Gallbladder: Markedly abnormal appearance of the pancreas and
+gallbladder with prominent common bile duct.
+CT Abdomen/Pelvis
+
+CXR  [**Hospital1 487**]: Bilateral lower lobe infiltrates R > L No
+effusions, No pneumothroax
+CXR ([**Hospital1 18**] my read) Bilateral pleural effusions, some vasular
+prominence no focal consolidations
+
+EKG: sinus at 137 Bpm LAD, isolated Q in V1
+
+Admission labs:
+[**2141-6-15**] 12:05AM BLOOD WBC-16.8* RBC-5.27 Hgb-15.1 Hct-48.1*
+MCV-91 MCH-28.6 MCHC-31.3 RDW-14.4 Plt Ct-214
+[**2141-6-15**] 12:05AM BLOOD Neuts-75* Bands-10* Lymphs-3* Monos-8
+Eos-0 Baso-0 Atyps-1* Metas-3* Myelos-0
+[**2141-6-15**] 12:05AM BLOOD PT-14.4* PTT-64.8* INR(PT)-1.3*
+[**2141-6-15**] 12:05AM BLOOD Glucose-229* UreaN-35* Creat-0.7 Na-141
+K-3.8 Cl-112* HCO3-17* AnGap-16
+[**2141-6-15**] 12:05AM BLOOD ALT-176* AST-87* AlkPhos-68 TotBili-0.7
+[**2141-6-15**] 04:55AM BLOOD ALT-154* AST-71* LD(LDH)-793* AlkPhos-65
+TotBili-0.7
+[**2141-6-15**] 12:05AM BLOOD Lipase-980*
+[**2141-6-15**] 12:05AM BLOOD Albumin-2.7* Calcium-6.7* Phos-2.6*
+Mg-1.5*
+[**2141-6-15**] 01:23AM BLOOD Type-ART Temp-37.4 Rates-/16 Tidal V-400
+PEEP-5 FiO2-60 pO2-96 pCO2-41 pH-7.23* calTCO2-18* Base XS--9
+-ASSIST/CON Intubat-INTUBATED
+[**2141-6-14**] 11:23PM   TYPE-ART TEMP-37.4
+[**2141-6-14**] 11:23PM   LACTATE-1.5
+
+[**2141-6-14**]
+CT abdomen/pelvis
+IMPRESSION:
+1.  Extensive necrotizing pancreatitis without gas formation.
+2.  Peripancreatic inflammatory fat stranding and free fluid in
+the
+retroperitoneum, pelvis and perihepatic locations.  Distended
+gallbladder with
+sludge and possibly stones, though no ductal dilatation is seen.
+
+3.  Patent portal venous system, though the splenic artery is
+attenuated.
+
+RUQ U/S
+[**2141-6-15**]
+IMPRESSION:
+1.  Gallbladder filled with sludge and gallstones.  No evidence
+of
+choledocholithiasis or definite cholecystitis at this time.
+2.  Rounded heterogeneous segment II liver lesion without
+correlation to CT two days prior.  This could be focal fatty
+sparing but other lesions such as FNH could be missed on CT in
+equilibrium phase.  When the patient's condition improves, a
+repeat ultrasound should be obtained.
+3.  Echogenic liver is most consistent with fatty deposition.
+More advanced liver disease such as fibrosis or cirrhosis can
+not be excluded on this study.
+
+CT abdomen and pelvis [**2141-6-18**]
+IMPRESSION:
+1. Redemonstration of necrotizing pancreatitis with unchanged
+distribution of pancreatic necrosis. Interval increase in
+peripancreatic fluid around on the tail of the pancreas and
+gastric greater curvature, but fluid collections do not appear
+organized.
+2. Moderate nonhemorrhagic pleural effusions with associated
+atelectasis.
+
+Echo [**2141-6-26**]
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF >55%). Doppler parameters are
+indeterminate for left ventricular diastolic function. There is
+no ventricular septal defect. Right ventricular chamber size and
+free wall motion are normal. The aortic valve leaflets (3) are
+mildly thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. The estimated pulmonary artery systolic pressure is
+normal. There is no pericardial effusion.
+
+LENIs [**6-26**]
+The visualized vessels are patent and compressible with normal
+flow
+and augmentation. No thrombus is identified. There is normal
+phasicity
+within the common femoral veins bilaterally.
+IMPRESSION: No evidence of bilateral lower extremity DVT.
+
+[**2141-6-27**]: renal US:
+IMPRESSION: No hydronephrosis.
+
+CT chest from [**6-25**]
+Pulmonary nodules measuring up to 7 mm, for which a followup CT
+in three to six months is recommended if the patient is high
+risk for malignancy and 6 to 12 months if low risk for
+malignancy based on [**Last Name (un) 8773**] study guidance.
+
+
+Brief Hospital Course:
+#. Severe, necrotizing gallstone pancreatitis: Resolved. Most
+likely gallstone pancreatitis though LFT pattern not c/w
+prolonged obstruction. Imaging at outside hospital demonstrated
+the presence of stones in addition to common bile duct
+dilitation. She was initially treated with meropenem  which was
+discontinued after several days. Surgery and ERCP services were
+consulted and suggested supportive medical management of
+pancreatitis. ERCP was deferred during acute disease state given
+that no obstructing stones were identified on CT and RUQ U/S.
+After acute disease state resolves, she will require lap
+cholecystectomy or ERCP with sphincterotomy (in 2-3months).
+
+#. Hypoxemic/hypercarbic Respiratory Failure: Resolved. Initial
+episode of respiratory failure was thought to be due to ARDS, as
+well as bilateral effusions and some vascular congestion,
+suggesting volume overload in the setting of aggressive volume
+resuscitation. After pt's pancreatitis started to improve, she
+was aggressively diuresed and weaned off of sedation and the
+ventilator. She did not have a cuff [**Last Name (LF) 3564**], [**First Name3 (LF) **] she was given
+steroids for 24hrs and was ultimately extubated.
+
+After extubation, pt was called out to general medical floor on
+[**6-23**]. Within 24hrs, she developed worsening mental status and
+increased work of breathing. She was found to be hypercarbic on
+ABG. Despite aggressive diuresis and a trial of bipap, pt's CO2
+did not improve, so she was re-intubated in the [**Hospital Unit Name 153**]. After
+intubation, a bronchoscopy was performed that did not reveal any
+evidence of lobar infiltrate consistent with aspiration or pna.
+BAL cx was negative. A CTA was performed that revealed relative
+[**Name (NI) 20534**] of [**Name (NI) **] consistent with ischemic changes, but no
+thrombus was identified. LENIs were performed and did not
+demonstrate any evidence of clot and echo did not show right
+heart strain. She was also noted to have persistent bilateral
+pleural effusions. Due to the fact that no definitive clot was
+found and she clinically improved, a decision was made to not
+anticoagulate. She was extubated on [**2141-6-28**], and approximately
+15min after, she developed stridor and increased wob. She was
+treated with steroids, racemic epinephrine and heliox for
+presumed laryngeal edema. After several hours her respiratory
+status improved and within 24 hrs she was weaned to nasal
+cannula. Chest X-ray showed improvement in bilateral effusion
+despite persistent ataelectasis. On discharge she was
+comfortable at rest and with ambulation on room air.
+
+#. Ventilator associated pneumonia: On [**2141-6-20**], she developed
+worsening fevers and increased sputum production. Other sources
+of infection were investigated (normal U/A, abdomen imaging
+unchanged, no diarrhea), so she was empirically treated for VAP
+with vancomycin, zosyn and ciprofloxicin. Pt completed a 8 day
+treatment course for VAP. No current evidence of infectious
+process
+
+#. Acute renal failure: Thought to be AIN after being exposed to
+cipro and zosyn, both of which can cause AIN. Renal U/S was
+performed and did not reveal any signs of hydronephrosis. Pt's
+cr continued to improve (last 1.2) and she continued to have
+good urine output.
+
+#. Tachycardia: Improved with treatment of acute disease and
+with restarting her home verapamil and metoprolol (PCP confirmed
+that both are for hypertension).
+
+#. Insomnia/delerium: Was previously on olanzapine for steroid
+vs. ICU induced delerium. She responded well however complained
+of increased insomnia. Olanzapine was discontinued and Trazodone
+was ordered.
+
+#. Diabetes: She has had fluctuating blood sugars. Initial
+hyperglycemia treated with SSI and lantus resulted in next day
+hypoglycemia. Resolution of hypoglycemia achieved with D5W and
+holding insulin. Hyperglycemic again on [**2141-7-2**] with glucose in
+400s. She was continued on gentle HISS while NPO. She was
+ultimately transition back to glargine and HISS. The diabetes
+service saw the patient and also adjusted her insulin dosing.
+
+#. Hypertension, benign: Held home amlodpine, lisinopril and
+verapamil initially on admission. She was restarted on verapamil
+and metoprolol.
+
+#. Peripheral Vascular Disease:
+- Continue home dose of ASA
+
+# Anemia: Hct on admission in the 40's, now 23. Improved from
+yesterday. Iron studies c/w anemia of CD with ferritin of 859.
+Normocytic. LDH is elevated, but bili is normal and coags are
+normal so hemolysis and DIC seem less likely causes.
+-consider transfusion if hct <21
+
+# Leukocytosis, thrombocytosis: Peaked on [**6-30**]. UA negative.
+Afebrile. Suspect that this may have been related to aspiration
+as her WBC and platelets are now improving.
+
+. Access: PIV
+. Prophylaxis: Heparin sub-Q 5000 Units TID for VTE prophylaxis.
+. Precautions: None
+. Communication: Patient, daughter [**Name (NI) 1787**] and Husband [**Name (NI) 24039**]
+. Dispo: Pending clinical improvement
+. CODE: Full (confirmed on this admission)
+
+Transitional:
+- cholecystectomy or ERCP with sphincterotomy in the future
+- aspiration: on a dysphagia diet of ground solids and
+nectar-thick liquids
+- nutrition: continue tube feeds pending re-eval by nutritionist
+- CT chest: Pulmonary nodules measuring up to 7 mm, for which a
+followup CT in three to six months is recommended if the patient
+is high risk for malignancy and 6 to 12 months if low risk for
+malignancy based on [**Last Name (un) 8773**] study guidance.
+- please uptitrate metoprolol to home dose (100mg)
+- uptitrate lisinopril to 40mg as tolerated
+- once diet is stable (and off TF) restart pt's outpatient
+diabetes regimen (actos and metformin)
+
+
+Medications on Admission:
+Actos 15 mg daily
+Amlodipine 2.5 mg daily
+Aspirin 81 mg daily
+Galantamine 8 mg daily with food
+Lasix 20 mg PO daily
+lisinopril 40 mg daily
+Loratadine 10 mg daily
+metformin 500 mg [**Hospital1 **]
+Metoprolol tartrate 100 mg daily
+omeprazole 40 mg daily
+Pravastain 40 mg daily
+Verapamil 240 mg daily
+
+Medications on Transfer
+Acetaminophen 650 PR q 4 PRN
+Calcium gluconate 1,000 q 6 PRN
+Heparin subQ
+insulin aspart
+meropenam 1 gram q 8 day 1 =[**6-14**]
+levofloxacin 750 mg IV daily day 1 = [**2141-6-14**]
+metoprolol 25 mg [**Hospital1 **]
+morphine 4 mg q 4 hr PRN pain
+ondansetron 4 mf q 8 PRN nausea
+Pantoprazole 40 mg IV daily
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. galantamine 8 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+4. lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.
+5. loratadine 10 mg Tablet Sig: One (1) Tablet PO once a day as
+needed for allergy symptoms.
+6. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for insomnia.
+8. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day. Capsule, Delayed
+Release(E.C.)(s)
+9. pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+10. verapamil 80 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours).
+11. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for SOB.
+12. senna 8.8 mg/5 mL Syrup Sig: One (1) Tablet PO BID (2 times
+a day) as needed for constipation.
+13. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+14. simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO QID (4 times a day) as needed for gas.
+15. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+16. insulin glargine 100 unit/mL Solution Sig: Twenty Five (25)
+u Subcutaneous once a day.
+17. insulin lispro 100 unit/mL Solution Sig: see attached
+sliding scale  Subcutaneous four times a day.
+18. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+19. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day): Please administer until patient
+is ambulation tid .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 85**] - [**Location (un) 86**]
+
+Discharge Diagnosis:
+Pancreatitis
+Cholelithiasis
+Aspiration pneumonitis
+Pneumonia, ventilator associated
+Diabetes mellitus, type II
+Hypertension
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+You were admitted with severe pancreatitis from gallstones. You
+were treated supportively during this and you improved. You
+required intubation (breathing tube) twice to support your
+breathing. You were treated for pneumonia, acute kidney failure
+and aspiration. You are now improving and being sent to an acute
+rehabilitation facility.
+
+In the future it will be important for you to have a
+cholecystectomy (gall bladder removal) in [**2-10**] months, once you
+have completely recovered from this hospitalization.
+
+You will also need to have follow up imaging (CT scan) of your
+lungs in 6 months given the pulmonary nodules found during this
+admission.
+
+Some of your medications have changed:
+We have stopped actos and metformin. These were changed to
+insulin while you were sick. Once you go home you can restart
+these.
+We have stopped amlodipine.
+We have halved your lisinopril.
+We have started trazodone, simethicone, senna, colace,
+bisacodyl, insulin and lidocaine patch.
+
+
+Followup Instructions:
+Please schedule a follow up appointment with your primary care
+doctor within 2 weeks of leaving rehab.
+
+

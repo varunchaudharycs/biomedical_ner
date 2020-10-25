@@ -1,0 +1,441 @@
+Admission Date:  [**2138-9-17**]              Discharge Date:   [**2138-10-28**]
+
+Date of Birth:  [**2068-3-23**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Iodine
+
+Attending:[**First Name3 (LF) 6169**]
+Chief Complaint:
+Bright Red Blood per rectum
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+70 yo female with myelodysplastic syndrome, chronic renal
+insufficiency secondary to cyclosporine, extensive GI bleeding
+over the past several years, presenting with multiple episodes
+of BRBPR starting on the morning of admission. Pt was initially
+admitted to the OMED service with a hct drop of 4 points and was
+transfused 2U PRBC and 3U pf HLA matched platelets for a
+platelet count of 14. She was also given DDAVP for presumed
+dysfunctional platelets. She was hemodynamically stable. Last
+night she was also found to be febrile and was started on
+Cefepime and Flagyl and then changed over to Zosyn as she
+complained of severe nausea on Flagyl.
+This am the patient developed worsening BRBPR and again had one
+bloody stool with associated abdominal pain as well as
+hypotension with a systolic BP of 90 and tachycardia. She was
+transfused another 3U PRBC and her BP and HR normalized again.
+The patient then went to nuclear medicine and subsequently was
+transferred to the ICU for closer monitoring.
+.
+ROS: negative for lightheadedness, chest pain, palpitations,
+SOB, dysuria or altered mental status. She reports fatigue, mild
+cramping abdominal pain, and increased number of echymoses
+across her abdomen, arms, and legs.
+
+
+Past Medical History:
+1) Aplastic anemia/Hypocellular myelodysplastic syndrome with
+trisomy 8 and 21. s/p high dose prednisone and gamma globulin,
+s/p Anti-thymocyte globulin therapy [**2126**], on cyclosporine since
+with renal insufficiency; started IVIG q3 weeks [**2138-7-10**]
+2) s/p terminal ileum resection [**3-26**] for multiple bleeding
+ulcers
+3) h/o candidemia with [**Female First Name (un) 564**] parapsilosis
+4) Renal insufficiency (recent baseline Cr 1.2 - 1.6)
+5) Hypertension
+6) h/o hypercholesterolemia
+
+Past Surgical History:
+- TAH/BSO [**2-21**] fibroids
+- Appendectomy
+- Venous stripping LLE
+
+Social History:
+Married, 5 children. Does not smoke, drink alcohol or coffee
+
+
+Family History:
+Mother died of scleroderma, father died of CAD
+
+Physical Exam:
+Vital signs: T:100.4, HR 80, RR 20, Sats 94% ra
+General: Awake, alert, NAD.
+HEENT: NC/AT, PERRL, EOMI, no scleral icterus noted, MMM, white
+patches on oropharynx consistent with thrush.
+Neck: supple, no JVD no lymphadenopathy
+Pulmonary: Lungs CTA bilaterally, no crackles or wheezes. equal
+aeration bilaterally.
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted. purpura across her abdomen
+Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses
+b/l.
+Lymphatics: No cervical, supraclavicular, axillary or inguinal
+lymphadenopathy noted.
+Skin: purpura and echymoses across arms, legs and abdomen.
+Neurologic:
+-mental status: Alert, oriented x 3. Able to relate history
+without difficulty.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. No abnormal
+movements noted.
+-sensory: No deficits to light touch throughout.
+-cerebellar: No nystagmus, dysarthria, intention or action
+tremor
+-DTRs: Plantar response was flexor bilaterally.
+
+
+Pertinent Results:
+[**2138-9-17**] 09:31PM URINE  COLOR-Yellow APPEAR-SlHazy SP [**Last Name (un) 155**]-1.018
+[**2138-9-17**] 09:31PM URINE  BLOOD-SM  NITRITE-POS PROTEIN-TR
+GLUCOSE-TR KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-TR
+[**2138-9-17**] 09:31PM URINE  RBC-2 WBC-6* BACTERIA-MOD YEAST-NONE
+EPI-3
+[**2138-9-17**] 07:31PM   WBC-2.1* RBC-2.68* HGB-9.5* HCT-26.9*
+MCV-101* MCH-35.3* MCHC-35.1* RDW-21.0*
+[**2138-9-17**] 07:31PM   PLT COUNT-19*
+[**2138-9-17**] 02:05PM   PLT COUNT-36*#
+[**2138-9-17**] 11:50AM   GLUCOSE-129* UREA N-42* CREAT-1.7*
+SODIUM-131* POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-21* ANION
+GAP-13
+[**2138-9-17**] 11:50AM   ALT(SGPT)-81* AST(SGOT)-39 LD(LDH)-265* ALK
+PHOS-38* TOT BILI-1.0 DIR BILI-0.5* INDIR BIL-0.5
+[**2138-9-17**] 11:50AM   ALBUMIN-3.1* CALCIUM-8.0* PHOSPHATE-2.2*
+MAGNESIUM-1.5*
+[**2138-9-17**] 11:50AM   WBC-2.5*# RBC-2.35* HGB-8.4* HCT-24.8*
+MCV-105* MCH-35.7* MCHC-33.9 RDW-20.3*
+[**2138-9-17**] 11:50AM   NEUTS-93* BANDS-0 LYMPHS-4* MONOS-3 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2138-9-17**] 11:50AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+[**2138-9-17**] 11:50AM   PLT SMR-RARE PLT COUNT-14*#
+[**2138-9-17**] 11:50AM   PT-11.6 PTT-20.6* INR(PT)-1.0
+[**2138-9-17**] 11:50AM   GRAN CT-2325
+.
+Imaging:
+CXR: Single AP view of the chest reveals the tip of a port line
+in the SVC in satisfactory position.  The mediastinum is
+midline.  There is peribronchial thickening and increased
+markings in both lung bases without gross consolidation however
+early pneumonitis in the left lower lobe cannot be excluded.
+.
+Nuclear bleeding scan: negative per oral report
+
+CHEST (PORTABLE AP)
+
+Reason: progression of opacities, likely PCP [**Name Initial (PRE) 1064**]
+
+[**Hospital 93**] MEDICAL CONDITION:
+70 year old woman with myelodysplastic syndrome, with fever and
+neutropenia, with decreased o2 sats and SOB.
+REASON FOR THIS EXAMINATION:
+progression of opacities, likely PCP pneumonia
+HISTORY: Fever. Shortness of breath.
+
+Single portable radiograph of the chest demonstrates similar
+cardiomediastinal contour to that seen on [**2138-10-15**]. Right-sided
+Port-A-Cath remains unchanged. Increased opacity involving the
+bilateral lungs remains similar in appearance. There is very
+mild blunting of the bilateral costophrenic angles. Trachea is
+midline.
+
+IMPRESSION:
+
+No interval change.
+
+CT CHEST W/O CONTRAST  [**2138-9-28**] 3:47 PM
+
+CT CHEST W/O CONTRAST
+
+Reason: please evaluate for infiltrates
+
+[**Hospital 93**] MEDICAL CONDITION:
+70 year old woman with MDS fevers, acute hypoxia
+REASON FOR THIS EXAMINATION:
+please evaluate for infiltrates
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+STUDY: CT of the chest without contrast.
+
+INDICATION: 70-year-old female with history of myelodysplastic
+syndrome presenting with fevers, acute hypoxia. Assess for
+infiltrates.
+
+COMPARISONS: [**2138-9-24**].
+
+TECHNIQUE: MDCT axial images of the lungs are acquired. Coronal
+and sagittal reformatted images were then obtained.
+
+CT OF THE CHEST WITHOUT INTRAVENOUS CONTRAST: There are several,
+subcentimeter mediastinal lymph nodes. No pathologically
+enlarged axillary or hilar lymph nodes are present. A small
+pericardial effusion is relatively unchanged in size compared to
+the examination four days prior. A moderate- to large-sized
+hiatal hernia is also again noted.
+
+Lung windows demonstrate dramatic interval change with diffuse,
+ground-glass opacities present throughout both lungs, mostly new
+compared to the previous examination. A few pulmonary nodules
+within the right lung are again noted and unchanged compared to
+the previous examination. Incidental note is also made of
+bibasilar atelectasis.
+
+No lytic or blastic lesions within the osseous structures are
+noted. Limited views of the upper abdomen are unremarkable.
+
+IMPRESSION: Multifocal air-space process throughout both lungs
+dramatically new compared to examination from four days prior.
+Given the non-pathologic but prominent mediastinal
+lymphadenopathy, infectious etiologies including atypical
+infections if the patient is immunocompromised should be
+considered. ARDS given the timing of these findings is also a
+diagnostic consideration. Clinical correlation is advised. No
+pleural effusion.
+
+Findings were discussed with Dr. [**Last Name (STitle) **] at 4:55 pm by Dr.
+[**First Name (STitle) 7747**] over the telephone on [**2138-9-28**].
+
+[**2138-10-28**]
+HCT 28.8
+platelet 67
+wbc 3.5
+Na 130
+creat 1.9
+BUN 25
+K 4.5
+
+Brief Hospital Course:
+A/P: 70 y.o. woman with myelodysplastic syndrome and resultant
+pancytopenia and recurrent GIB associated with ulcerations in
+her small intestine.
+.
+# GI Bleeding: Likely due from previously discovered small
+intestinal ulcerations, with increased propensity for bleeding
+given thrombocytopenia. No evidence of UGIB. Baseline hct 32,
+was 22 on admission.  On the second day of hospitalization the
+patient had further bleeding per rectum, became hypotensive, and
+had sinus tachycardia to 140.  She was soon transferred to the
+MICU.  While in the ICU, Angiography did not show active bleed,
+although unable to catheterize the [**Female First Name (un) 899**].  Tagged RBC study also
+did not show site of bleed.  At present, there are no surgical
+or endoscopic options, so will continue with supportive care.
+NG lavage was negative.  The patient received numerous PRBC
+transfusions.  Platelets remain above 50 after many platelent
+transufsions.  After stabilization, the patient was transferred
+to the floor where she remained hemodynamically stable for the
+remainder of her hospitalization.  She did have occasional
+BRBPR, and always remained guaiac positive.  She continued to
+receive prbc's nearly every other day to maintain a stable
+hematocrit, and she received HLA matched platelets on nearly a
+daily basis to maintain her platelet count over 50.
+.
+# Neutropenic fever: The patient finished her 5th day of
+decitabine for MDS treatment on [**9-12**].  Previous to decitabine
+therapy the patient had adequate cell counts, and after
+decitabine the patient became progressively  neutropenic.  On
+return to the floor form the MICU the patient proceeded to spike
+daily fevers as high as 103.0, with associated rigors.  The
+source of fever was not identified.  Daily blood cultures were
+negative. stool was C.Diff negative.  The patient placed  on
+several antibiotics, including vancomycin, Zosyn, Flagyl, and
+fluconazole, and continued to spike. CT chest/Abdomen/Pelvis on
+[**9-24**] did not reveal a source of fevers. CT Pelvis
+revealed fat stranding and questionable external iliac [**Last Name (un) **]
+thrombus, followup MRI showed fat stranding but no thrombus.
+Antibiotics eventually switched to Vanc/Cefepime/Flagyl
+(cefepime was discontinued secondary to drug rash), to
+Vanc/Aztreonam/Caspofungin. The patient desaturated on [**9-28**] to
+78%, and CT chest showed extensive infiltrates.  Clinical
+suspicion for PCP was high, and after consulting ID, the patient
+was maintained on Vanc/Caspo/Meropenem, and the patient was
+begun on Bactrim and steroids empirically, unable to perform
+bronchoscopy with the high likelihood of being unable to
+extubate her.  Soon after Bactrim administration her fevers
+stopped. She was continued with a full 14 day course of IV
+Bactrim. After completing this course she was transitioned to
+Bactrim DS 3 times weekly.
+
+.
+#O2 desaturation-Patient began to desat on [**9-26**]. Thought
+initially to be due to fluid overload in setting of increased
+platelet and prbc transfusions, and CT on [**9-24**] showing bibasilar
+atelectasis.  Oxygen improved with lasix on [**9-26**] and [**9-27**], and
+patient was saturating at 94% on room air on [**9-27**].  Patient
+desaturated to 78% on [**9-28**].  CT chest showed extensive
+infiltrates.  ID reccomended broad antibiotic coverage, and
+biggest concern was for PCP in the setting of an
+immunocompromised patient.  She was subsequently begun on
+Bactrim and steroids.  Soon after bactrim administration the
+patient stopped spiking fevers, however she persisted with low
+oxygen saturation and required 6L O2 by nasal cannula.  The
+patient's O2 saturation ranged from 89-94%, and appeared to
+improve with lasix administration.  She occasionally required
+masked ventilation to maintain O2 saturation over 90%.  After
+six days of bactrim therapy, her bactrim was discontinued out of
+concern that it was contributing to the patient's neutropenia.
+Primaquine and clindamycin were begun instead.  Her neutrophil
+count slowly increased over a period of four days from 40 to
+170, she remained afebrile, but her oxygenation did not improve.
+ On [**10-12**] the patient was transferred back to the ICU after
+having another acute oxygen desaturation of 78% on 6LNC. Patient
+was stabilized and transeferred back to the floor on NRB 100%,
+she continued on IV antibiotic regimen of meropenem and Bactrim.
+She remained afebrile and was continued on Bactrim and
+voriconazole. She was able to be weaned to 99% on 3L nasal
+cannula prior to discharge. Her prednisone dose was tapered, she
+was discharge on Prednisone 30mg AM, 10mg PM per Dr. [**First Name (STitle) 1557**] who
+will follow her at the rehabilitation facility. Given her risk
+of GIB it was very important to taper her steroid dose.
+
+# MDS: The patient is s/p decitabine treatment from [**9-12**], and
+gradually became neutropenic.  While in the hospital her
+cyclosporine was discontinued.  She was administered neupogen
+and her counts eventually recovered slowly. Her last ANC on the
+day of discharge was 3100. Further treatment for underlying
+disease at Dr.[**Name (NI) 6168**] discretion.
+
+# Hyponatremia: Urine electrolytes consistent with SIADH, likely
+from the pulmonary process. She was fluid restricted to 1L, it
+was diffucult to mantain this restriction given the IV
+medications. Once she was taken off the IV meds her sodium level
+rose, 130 upon dishcharge. She was continued on salt tabs.
+
+#Sundowning: Her mental status would wax and wane at nighttime,
+multifactorial etiology of undrlying infection, hypoxia,
+hyponatremia and medications. Her medication list was reviewed
+and with treatment of her underlying disease her mental status
+improved. She was alert and oriented at discharge.
+
+Medications on Admission:
+Home Medications:
+1. Cyclosporine 50 mg twice daily
+2. IVIG finished 9 week therapy 3 weeks ago.
+3. Prednisone 20 mg daily, 15mg qam, 5mg qpm
+4. Decitabine c1 [**Date range (3) 51772**]
+5. Metoprolol 50mg twice daily
+6. Aranesp PRN
+7. Vitamin B6
+8. Folic Acid
+9. Danazol 200g Daily
+10. Protonix 40mg Daily
+11. Potassium 20mEq twice daily
+12. Mg supplements.
+.
+Medications on transfer:
+Meperidine 25-50 mg IV Q6H:PRN
+Acetaminophen 325-650 mg PO Q6H:PRN
+Nystatin Oral Suspension 5 ml PO QID:PRN
+CycloSPORINE (Sandimmune) 50 mg PO Q12H
+Pantoprazole 40 mg PO Q12H
+Danazol 200 mg PO QD
+DiphenhydrAMINE 25 mg PO Q6H:PRN
+FoLIC Acid 1 mg PO DAILY
+HYDROmorphone (Dilaudid) 0.5 mg IV Q4H:PRN pain
+Zolpidem Tartrate 10 mg PO HS:PRN
+Hydrocortisone Na Succ. 100 mg IV Q8H
+Lorazepam 0.5 mg PO Q8H:PRN
+Zosyn 2.25mg Q6h
+
+
+Discharge Medications:
+1. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain/fever.
+2. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+Inhalation Q2H (every 2 hours) as needed for wheezing.
+3. Danazol 200 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+
+4. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed for cough.
+5. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+6. Isosorbide Dinitrate 10 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+7. Mupirocin Calcium 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2
+times a day).
+8. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed.
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+11. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO
+BID (2 times a day).
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+13. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H
+(every 8 hours) as needed for constipation.
+14. Voriconazole 200 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours).
+15. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**1-21**] Sprays Nasal
+[**Hospital1 **] (2 times a day) as needed for dry nose.
+16. Sodium Chloride 1 gram Tablet Sig: Two (2) Tablet PO BID (2
+times a day) as needed for hyponatremia.
+17. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO MWF (Monday-Wednesday-Friday).
+18. Ondansetron HCl (PF) 4 mg/2 mL Solution Sig: One (1)
+Injection Q8H (every 8 hours) as needed for nausea.
+19. Prednisone 20 mg Tablet Sig: 0.5 Tablet PO QPM for 5 days.
+20. Prednisone 20 mg Tablet Sig: 1.5 Tablets PO QAM for 5 days.
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+NE [**Hospital1 41724**]
+
+Discharge Diagnosis:
+Primary:Aplastic anemia/Hypocellular myelodysplastic syndrome
+with trisomy 8 and 21. s/p high dose prednisone and gamma
+globulin, s/p Anti-thymocyte globulin therapy [**2126**], on
+cyclosporine since with renal insufficiency; started IVIG q3
+weeks [**2138-7-10**]
+
+Empiric tx for PCP [**Name Initial (PRE) 1064**]
+
+s/p terminal ileum resection [**3-26**] for multiple bleeding
+ulcers
+
+h/o candidemia with [**Female First Name (un) 564**] parapsilosis
+
+Renal insufficiency (recent baseline Cr 1.2 - 1.6)
+
+Hypertension
+
+h/o hypercholesterolemia
+
+Past Surgical History:
+- TAH/BSO [**2-21**] fibroids
+- Appendectomy
+- Venous stripping LLE
+
+
+Discharge Condition:
+Stable, ambulating with assistance, alert and oriented
+
+
+Discharge Instructions:
+You were admitted with GI bleeding, you were in the ICU and
+transfused. Your hospital course was further complicated by
+hypoxia which was treated as PCP [**Name Initial (PRE) 1064**]. This led to 2
+transfers to the ICU for problems [**Name (NI) 51773**] your oxygen status.
+You completed treatment for PCP pneumonia and your oxygen was
+weaned to 3 liter by nasal canula. You have an appointment with
+Dr. [**First Name (STitle) 1557**] on [**2138-10-31**] at 11 am for follow up. Take all of your
+medications as prescribed.
+
+Followup Instructions:
+Provider: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) **], M.D. Phone:[**Telephone/Fax (1) 1983**]
+Date/Time:[**2138-11-28**] 12:30
+Provider: [**First Name11 (Name Pattern1) 1730**] [**Last Name (NamePattern4) 6175**], MD Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2138-10-31**] 11:00
+
+
+

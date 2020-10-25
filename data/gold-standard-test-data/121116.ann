@@ -1,0 +1,183 @@
+T1	Drug 6210 6222	levofloxacin
+T2	Drug 388 399	epinephrine
+T3	Form 400 409	injection
+T4	Drug 9403 9413;9413 9424	Albuterol- Ipratropium
+T5	Form 9446 9453	Aerosol
+T6	Frequency 9486 9498;9499 9502	four times a day
+T7	Drug 9990 9997	aspirin
+T8	Drug 8907 8917	Clonazepam
+T9	Strength 8918 8922	1 mg
+T10	Form 8943 8949	Tablet
+T11	Route 8950 8952	PO
+T12	Drug 5549 5556	Lipitor
+T13	Drug 8594 8604	Fluoxetine
+T14	Strength 8605 8610	20 mg
+T15	Route 8611 8613	po
+T16	Drug 5846 5853	aspirin
+T17	Drug 8665 8674	Anafranil
+T18	Strength 8675 8681	250 mg
+T19	Route 8682 8684	po
+T20	Drug 1005 1016	epinephrine
+T21	Drug 6553 6562	Anafranil
+T22	Drug 9999 10007	Excedrin
+T23	Drug 8734 8744;8745 8748	Fluoxetine HCl
+T24	Strength 8749 8754	20 mg
+T25	Form 8776 8783	Capsule
+T26	Route 8784 8786	PO
+T27	Drug 8805 8815	Sucralfate
+T28	Strength 8816 8819	1 g
+T29	Form 8840 8846	Tablet
+T30	Route 8847 8849	PO
+T31	Drug 6173 6185	vanco/unasyn
+T32	Drug 1637 1644	Actonel
+T33	Drug 8999 9011;9012 9015	Clomipramine HCl
+T34	Strength 9016 9021	50 mg
+T35	Form 9044 9051	Capsule
+T36	Route 9052 9054	PO
+T37	Drug 4520 4527	Actonel
+T38	Drug 8617 8624	Lipitor
+T39	Strength 8625 8630	20 mg
+T40	Route 8631 8633	po
+T41	Drug 9259 9269;9270 9279	Salmeterol Xinafoate
+T42	Strength 9280 9286;9286 9291	50 mcg /Dose
+T43	Drug 8688 8695	Actonel
+T44	Strength 8696 8700	5 mg
+T45	Route 8701 8703	po
+T46	Drug 9073 9085;9086 9092	Pantoprazole Sodium
+T47	Strength 9093 9098	40 mg
+T48	Form 9099 9105;9105 9129	Tablet , Delayed Release (E.C.)
+T49	Drug 6526 6536	Fluoxetine
+T50	Drug 760 768	Excedrin
+T51	Frequency 9344 9348;9349 9365	Q12H (every 12 hours)
+T52	Drug 6538 6548	clonazepam
+T53	Reason 8987 8994	anxiety
+T54	Drug 1021 1029	atropine
+T55	ADE 4341 4344	PUD
+T56	Drug 4362 4368	NSAIDs
+T57	Drug 4391 4394	PPI
+T59	Route 4429 4433	oral
+T60	Drug 4509 4515	NSAIDS
+T61	Drug 4672 4675	PPI
+T62	Drug 4816 4822	NSAIDs
+T63	Reason 6248 6257	pneumonia
+T64	Frequency 8614 8616	QD
+T65	Frequency 8634 8636	QD
+T66	Drug 8637 8645	Klonipin
+T67	Strength 8646 8650	1 mg
+T68	Frequency 8685 8687	QD
+T69	Frequency 8704 8706	QD
+T70	Form 8755 8762	Capsule
+T71	Dosage 8768 8775	One (1)
+T72	Frequency 8787 8792;8793 8800	DAILY (Daily)
+T73	Form 8820 8826	Tablet
+T74	Dosage 8832 8839	One (1)
+T75	Frequency 8850 8864;8865 8869	QID (4 times a day)
+T76	Form 8923 8929	Tablet
+T77	Dosage 8935 8942	One (1)
+T78	Frequency 8953 8967;8968 8982	TID (3 times a day) as needed
+T79	Form 9022 9029	Capsule
+T80	Dosage 9035 9043	Five (5)
+T81	Frequency 9055 9060;9061 9068	DAILY (Daily)
+T82	Dosage 9135 9142	One (1)
+T83	Form 9143 9173	Tablet, Delayed Release (E.C.)
+T84	Route 9174 9176	PO
+T85	Frequency 9177 9198	Q12H (every 12 hours)
+T86	Form 9292 9308	Disk with Device
+T87	Dosage 9314 9317;9318 9321	One (1)
+T88	Route 9322 9343	inhalation Inhalation
+T89	Strength 9425 9445	103-18 mcg/Actuation
+T90	Route 9475 9485	Inhalation
+T91	Drug 9982 9988	NSAIDs
+R1	Form-Drug Arg1:T3 Arg2:T2
+R2	Form-Drug Arg1:T5 Arg2:T4
+R3	Frequency-Drug Arg1:T6 Arg2:T4
+R4	Strength-Drug Arg1:T9 Arg2:T8
+R5	Form-Drug Arg1:T10 Arg2:T8
+R6	Route-Drug Arg1:T11 Arg2:T8
+R7	Strength-Drug Arg1:T14 Arg2:T13
+R8	Route-Drug Arg1:T15 Arg2:T13
+R9	Strength-Drug Arg1:T18 Arg2:T17
+R10	Route-Drug Arg1:T19 Arg2:T17
+R11	Strength-Drug Arg1:T24 Arg2:T23
+R12	Form-Drug Arg1:T25 Arg2:T23
+R13	Route-Drug Arg1:T26 Arg2:T23
+R14	Strength-Drug Arg1:T28 Arg2:T27
+R15	Form-Drug Arg1:T29 Arg2:T27
+R16	Route-Drug Arg1:T30 Arg2:T27
+R17	Strength-Drug Arg1:T34 Arg2:T33
+R18	Form-Drug Arg1:T35 Arg2:T33
+R19	Route-Drug Arg1:T36 Arg2:T33
+R20	Strength-Drug Arg1:T39 Arg2:T38
+R21	Route-Drug Arg1:T40 Arg2:T38
+R22	Strength-Drug Arg1:T42 Arg2:T41
+R23	Strength-Drug Arg1:T44 Arg2:T43
+R24	Route-Drug Arg1:T45 Arg2:T43
+R25	Strength-Drug Arg1:T47 Arg2:T46
+R26	Form-Drug Arg1:T48 Arg2:T46
+R27	Frequency-Drug Arg1:T51 Arg2:T41
+R28	ADE-Drug Arg1:T55 Arg2:T56
+R29	Route-Drug Arg1:T59 Arg2:T57
+R31	Reason-Drug Arg1:T63 Arg2:T1
+R32	Frequency-Drug Arg1:T69 Arg2:T43
+R33	Frequency-Drug Arg1:T68 Arg2:T17
+R34	Strength-Drug Arg1:T67 Arg2:T66
+R35	Frequency-Drug Arg1:T65 Arg2:T38
+R36	Frequency-Drug Arg1:T64 Arg2:T13
+R37	Frequency-Drug Arg1:T72 Arg2:T23
+R38	Dosage-Drug Arg1:T71 Arg2:T23
+R39	Form-Drug Arg1:T70 Arg2:T23
+R40	Frequency-Drug Arg1:T75 Arg2:T27
+R41	Dosage-Drug Arg1:T74 Arg2:T27
+R42	Form-Drug Arg1:T73 Arg2:T27
+R43	Reason-Drug Arg1:T53 Arg2:T8
+R44	Frequency-Drug Arg1:T78 Arg2:T8
+R45	Dosage-Drug Arg1:T77 Arg2:T8
+R46	Form-Drug Arg1:T76 Arg2:T8
+R47	Frequency-Drug Arg1:T81 Arg2:T33
+R48	Dosage-Drug Arg1:T80 Arg2:T33
+R49	Form-Drug Arg1:T79 Arg2:T33
+R50	Frequency-Drug Arg1:T85 Arg2:T46
+R51	Route-Drug Arg1:T84 Arg2:T46
+R52	Form-Drug Arg1:T83 Arg2:T46
+R53	Dosage-Drug Arg1:T82 Arg2:T46
+R54	Route-Drug Arg1:T88 Arg2:T41
+R55	Dosage-Drug Arg1:T87 Arg2:T41
+R56	Form-Drug Arg1:T86 Arg2:T41
+R57	Route-Drug Arg1:T90 Arg2:T4
+R58	Strength-Drug Arg1:T89 Arg2:T4
+T92	Form 6401 6410	nebulizer
+T95	Drug 6449 6464	bronchodilators
+T97	Drug 1256 1259	IVF
+T98	Reason 926 938	unresponsive
+T99	Reason 943 958;959 965	brady'd down to 30-40s
+T100	Dosage 1253 1255	2L
+T101	Drug 1243 1248	PRBCs
+T102	Dosage 1239 1242	5 U
+T103	Drug 1227 1229	Ca
+T104	Drug 1231 1237	bicarb
+T105	Drug 1377 1382	NSAID
+T106	ADE 1334 1347	gastric ulcer
+T107	ADE 1352 1372	duodenal bulb ulcers
+T108	ADE 1383 1391	toxicity
+T109	ADE 4325 4339	Upper GI Bleed
+T110	ADE 4618 4644	Gastrin level was elevated
+T111	ADE 5563 5576	transaminitis
+T113	Reason 6502 6513	Pyschiatric
+T114	Frequency 8651 8664	up to tid prn
+T115	Form 9469 9474	puffs
+R59	Dosage-Drug Arg1:T102 Arg2:T101
+R60	Dosage-Drug Arg1:T100 Arg2:T97
+R61	ADE-Drug Arg1:T108 Arg2:T105
+R62	ADE-Drug Arg1:T106 Arg2:T105
+R63	ADE-Drug Arg1:T107 Arg2:T105
+R64	Form-Drug Arg1:T92 Arg2:T95
+R65	Reason-Drug Arg1:T98 Arg2:T20	
+R66	Reason-Drug Arg1:T99 Arg2:T20	
+R68	ADE-Drug Arg1:T109 Arg2:T56	
+R69	ADE-Drug Arg1:T110 Arg2:T37	
+R70	ADE-Drug Arg1:T111 Arg2:T12	
+R71	Reason-Drug Arg1:T113 Arg2:T49	
+R72	Frequency-Drug Arg1:T114 Arg2:T66	
+T58	Route 4406 4408	IV
+R30	Route-Drug Arg1:T58 Arg2:T57	
+R67	Form-Drug Arg1:T115 Arg2:T4	

@@ -1,0 +1,65 @@
+T1	Drug 1043 1053	Penicillin
+T2	ADE 1072 1076	rash
+R1	ADE-Drug Arg1:T2 Arg2:T1
+T3	Drug 1096 1102	Toprol
+T4	Strength 1103 1106	100
+R2	Strength-Drug Arg1:T4 Arg2:T3
+T5	Drug 1112 1119	Lipitor
+T6	Strength 1120 1122	10
+R3	Strength-Drug Arg1:T6 Arg2:T5
+T7	Frequency 1123 1126	q.d
+R4	Frequency-Drug Arg1:T7 Arg2:T5
+T8	Drug 1132 1139	Cardura
+T9	Strength 1140 1141	2
+R5	Strength-Drug Arg1:T9 Arg2:T8
+T10	Frequency 1142 1145	q.d
+R6	Frequency-Drug Arg1:T10 Arg2:T8
+T11	Drug 2834 2846	Levofloxacin
+T12	Drug 2848 2856	steroids
+T13	Form 2861 2870	nebulized
+R7	Form-Drug Arg1:T13 Arg2:T14
+T14	Drug 2871 2880	Albuterol
+T15	Drug 2885 2893	Atrovent
+T16	Reason 2903 2922;2923 2953	chronic obstructive pulmonary disease exacerbation
+R8	Reason-Drug Arg1:T16 Arg2:T11
+R9	Reason-Drug Arg1:T16 Arg2:T12
+R10	Reason-Drug Arg1:T16 Arg2:T14
+R11	Reason-Drug Arg1:T16 Arg2:T15
+T17	Drug 3117 3129	Levofloxacin
+T18	Reason 3920 3926;3927 3939	atrial fibrillation
+R12	Reason-Drug Arg1:T18 Arg2:T19
+R13	Reason-Drug Arg1:T18 Arg2:T20
+T19	Drug 4011 4020	Diltiazem
+T20	Drug 4049 4058	Diltiazem
+T21	Route 4059 4063	drip
+R14	Route-Drug Arg1:T21 Arg2:T20
+T22	Dosage 4090 4097	boluses
+R15	Dosage-Drug Arg1:T22 Arg2:T23
+T23	Drug 4101 4110	Diltiazem
+T24	Route 4200 4202	po
+R16	Route-Drug Arg1:T24 Arg2:T25
+T25	Drug 4203 4213	Metoprolol
+T27	Reason 4318 4334;4335 4346	supraventricular tachycardia
+T28	Drug 4403 4411	pressers
+T29	Frequency 4471 4476	b.i.d
+R19	Frequency-Drug Arg1:T29 Arg2:T30
+T30	Drug 4478 4488	Metoprolol
+T31	Drug 5081 5096	anticoagulation
+T34	Dosage 5499 5500;5501 5506	2 units
+R21	Dosage-Drug Arg1:T34 Arg2:T36
+T36	Drug 5510 5532	packed red blood cells
+T37	Drug 6246 6256	Metoprolol
+T38	Drug 6262 6268	Colace
+T39	Drug 6274 6283	Bisacodyl
+T40	Drug 6289 6297	Nicotine
+T41	Form 6298 6303	patch
+R23	Form-Drug Arg1:T41 Arg2:T40
+T42	Drug 6309 6318	Doxazosin
+T43	Drug 6324 6333	Albuterol
+T44	Drug 6339 6347	Atrovent
+T45	Drug 6352 6363	Fluticasone
+T26	Reason 4283 4313	paroxysmal atrial fibrillation
+R17	Reason-Drug Arg1:T27 Arg2:T25	
+R18	Reason-Drug Arg1:T26 Arg2:T25	
+T32	Reason 5105 5135	paroxysmal atrial fibrillation
+R20	Reason-Drug Arg1:T32 Arg2:T31	

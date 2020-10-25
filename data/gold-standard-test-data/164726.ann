@@ -1,0 +1,79 @@
+T1	Drug 1341 1344	TPA
+T3	Drug 1379 1384	nitro
+T4	Drug 1397 1404	heparin
+T5	Drug 1406 1413	aspirin
+T6	Reason 5420 5428	diuresis
+R2	Reason-Drug Arg1:T6 Arg2:T8
+R3	Reason-Drug Arg1:T6 Arg2:T9
+T8	Drug 5437 5442	lasix
+T9	Drug 5447 5453	diuril
+T10	Reason 5524 5548	hemodynamically unstable
+R6	Reason-Drug Arg1:T10 Arg2:T11
+T11	Drug 5580 5588	dopamine
+T12	Drug 5747 5755	dopamine
+T13	ADE 5849 5867	metabolic acidosis
+R7	ADE-Drug Arg1:T13 Arg2:T12
+T14	Drug 6364 6371	lipitor
+T15	Strength 6372 6376	80mg
+R8	Strength-Drug Arg1:T15 Arg2:T14
+T16	Frequency 6377 6382	daily
+R9	Frequency-Drug Arg1:T16 Arg2:T14
+T17	Drug 6383 6389	plavix
+T18	Strength 6390 6394	75mg
+R10	Strength-Drug Arg1:T18 Arg2:T17
+T19	Frequency 6395 6400	daily
+R11	Frequency-Drug Arg1:T19 Arg2:T17
+T20	Drug 6401 6410	toprol xl
+T21	Strength 6411 6415	50mg
+R12	Strength-Drug Arg1:T21 Arg2:T20
+T22	Frequency 6416 6421	daily
+R13	Frequency-Drug Arg1:T22 Arg2:T20
+T23	Drug 6422 6429	zestril
+T24	Strength 6430 6433	5mg
+R14	Strength-Drug Arg1:T24 Arg2:T23
+T25	Frequency 6434 6439	daily
+R15	Frequency-Drug Arg1:T25 Arg2:T23
+T26	Drug 6440 6445	alsix
+T27	Strength 6446 6450	80mg
+R16	Strength-Drug Arg1:T27 Arg2:T26
+T28	Frequency 6451 6456	daily
+R17	Frequency-Drug Arg1:T28 Arg2:T26
+T29	Drug 6457 6464	aspirin
+T30	Strength 6465 6469	81mg
+R18	Strength-Drug Arg1:T30 Arg2:T29
+T31	Frequency 6470 6475	daily
+R19	Frequency-Drug Arg1:T31 Arg2:T29
+T33	Drug 6498 6505	heparin
+T34	Strength 6509 6518	600u/hour
+R21	Strength-Drug Arg1:T34 Arg2:T33
+T36	Drug 6522 6527	nitro
+T37	Strength 6531 6542	30mcg / min
+R23	Strength-Drug Arg1:T37 Arg2:T36
+T38	Drug 6543 6546	asa
+T39	Strength 6547 6552	325mg
+R24	Strength-Drug Arg1:T39 Arg2:T38
+T40	Drug 6554 6561	lipitor
+T41	Strength 6562 6566	20mg
+R25	Strength-Drug Arg1:T41 Arg2:T40
+T42	Frequency 6567 6572	daily
+R26	Frequency-Drug Arg1:T42 Arg2:T40
+T43	Drug 6573 6578	lasix
+T44	Strength 6579 6583	80mg
+R27	Strength-Drug Arg1:T44 Arg2:T43
+T45	Route 6584 6586	po
+R28	Route-Drug Arg1:T45 Arg2:T43
+T46	Drug 6587 6593	plavix
+T47	Strength 6594 6598	75mg
+R29	Strength-Drug Arg1:T47 Arg2:T46
+T48	Drug 6599 6606	zestril
+T49	Strength 6607 6610	5mg
+R30	Strength-Drug Arg1:T49 Arg2:T48
+T50	Drug 7067 7074	pressor
+T2	Route 1376 1378	IV
+R1	Route-Drug Arg1:T2 Arg2:T3	
+T7	Route 5434 5436	IV
+R4	Route-Drug Arg1:T7 Arg2:T8	
+T32	Route 6495 6497	IV
+R5	Route-Drug Arg1:T32 Arg2:T33	
+T35	Route 6519 6521	IV
+R20	Route-Drug Arg1:T35 Arg2:T36	

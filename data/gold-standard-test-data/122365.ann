@@ -1,0 +1,180 @@
+T1	Drug 13188 13199	simvastatin
+T2	Strength 13200 13205	10 mg
+T3	Form 13226 13232	Tablet
+T4	Route 13233 13235	PO
+T5	Drug 14577 14587	LISINOPRIL
+T6	Drug 14449 14457	coumadin
+T7	Strength 14283 14287	10mg
+T8	Frequency 14288 14292;14293 14300	once per day
+T9	Drug 14216 14224;14225 14235	COUMADIN (WARFARIN)
+T10	Strength 14252 14257	7.5mg
+T11	Drug 13836 13843	heparin
+T12	Drug 906 913	heparin
+T13	Drug 13387 13394	heparin
+T14	Drug 9676 9683	Heparin
+T15	Drug 10193 10200	heparin
+T16	Drug 12817 12825;12826 12832	docusate sodium
+T17	Strength 12833 12839	100 mg
+T18	Form 12861 12868	Capsule
+T19	Route 12869 12871	PO
+T20	Drug 12270 12281	Simvastatin
+T21	Strength 12282 12286	10mg
+T22	Drug 9874 9881	heparin
+T23	Drug 14489 14497	coumadin
+T24	Drug 11972 11982	lisinopril
+T25	Drug 11355 11365	argatroban
+T26	Drug 9372 9379	heparin
+T27	Drug 11578 11586	coumadin
+T28	Drug 12192 12202	lisinopril
+T29	Drug 12001 12011	Lisinopril
+T30	Drug 9442 9452	argatroban
+T31	Drug 165 172	Heparin
+T32	Drug 9495 9503	coumadin
+T33	Drug 13800 13807	heparin
+T34	Drug 9066 9073	heparin
+T35	Drug 941 948	lovenox
+T36	Drug 14001 14009	coumadin
+T37	Drug 12428 12439	simvastatin
+T38	Drug 11396 11406	argatroban
+T39	Drug 13946 13953	heparin
+T40	Drug 12990 12998	warfarin
+T41	Strength 12999 13005	2.5 mg
+T42	Form 13027 13033	Tablet
+T43	Frequency 13037 13043;13044 13047	once a day
+T44	Route 13034 13036	PO
+T45	Drug 9967 9977	argatroban
+T47	Reason 12973 12985	Constipation
+T48	Reason 886 900	anticoagulated
+T49	Drug 953 961	warfarin
+T50	Reason 848 861	bilateral PEs
+T51	Dosage 1179 1186	4 units
+T52	Drug 1187 1191	PRBC
+T53	Dosage 1230 1236	1 unit
+T54	Drug 1237 1246	platelets
+T55	Dosage 1272 1279	2 units
+T56	Drug 1283 1287	PRBC
+T57	Reason 1321 1332	hypotension
+T58	Route 9074 9077	gtt
+T59	Reason 9033 9048	anticoagulation
+T60	ADE 9388 9404	thrombocytopenia
+T61	Reason 9461 9464	DVT
+T62	ADE 9692 9708	Thrombocytopenia
+T63	Reason 11375 11378	DVT
+T64	Reason 11332 11336	PE's
+T65	Duration 11587 11599;11600 11608	for at least 6 months
+T66	Reason 11857 11869	Hypertension
+T67	Reason 12256 12268	Dyslipidemia
+T68	Frequency 12287 12290	qhs
+T69	Form 12840 12847	Capsule
+T70	Dosage 12853 12860	One (1)
+T71	Frequency 12872 12878;12879 12891	BID (2 times a day)
+T72	Drug 12896 12901	senna
+T73	Strength 12902 12908	8.6 mg
+T74	Form 12909 12915	Tablet
+T75	Form 12929 12935	Tablet
+T76	Dosage 12921 12928	One (1)
+T77	Route 12936 12938	PO
+T78	Frequency 12939 12953;12954 12968	BID (2 times a day) as needed
+T79	Form 13006 13012	Tablet
+T80	Dosage 13018 13026	Four (4)
+T81	Strength 13073 13079	7.5 mg
+T82	Dosage 13081 13082	3
+T83	Form 13083 13087	tabs
+T84	Form 13206 13212	Tablet
+T85	Frequency 13236 13241;13242 13249	DAILY (Daily)
+T86	Dosage 13218 13225	One (1)
+T87	ADE 13403 13419	thrombocytopenia
+T88	Reason 13360 13385	right lower extremity DVT
+T89	Reason 13709 13731	blood clot in your leg
+T90	Route 13975 13979	oral
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Route-Drug Arg1:T4 Arg2:T1
+R4	Strength-Drug Arg1:T7 Arg2:T9
+R5	Frequency-Drug Arg1:T8 Arg2:T9
+R6	Strength-Drug Arg1:T10 Arg2:T9
+R7	Strength-Drug Arg1:T17 Arg2:T16
+R8	Form-Drug Arg1:T18 Arg2:T16
+R9	Route-Drug Arg1:T19 Arg2:T16
+R10	Strength-Drug Arg1:T21 Arg2:T20
+R11	Strength-Drug Arg1:T41 Arg2:T40
+R12	Form-Drug Arg1:T42 Arg2:T40
+R13	Frequency-Drug Arg1:T43 Arg2:T40
+R14	Route-Drug Arg1:T44 Arg2:T40
+R15	Reason-Drug Arg1:T48 Arg2:T49
+R16	Reason-Drug Arg1:T48 Arg2:T35
+R17	Reason-Drug Arg1:T48 Arg2:T12
+R18	Reason-Drug Arg1:T50 Arg2:T49
+R19	Reason-Drug Arg1:T50 Arg2:T35
+R20	Reason-Drug Arg1:T50 Arg2:T12
+R21	Dosage-Drug Arg1:T51 Arg2:T52
+R22	Dosage-Drug Arg1:T55 Arg2:T56
+R23	Reason-Drug Arg1:T57 Arg2:T56
+R24	Reason-Drug Arg1:T59 Arg2:T34
+R25	Route-Drug Arg1:T58 Arg2:T34
+R26	ADE-Drug Arg1:T60 Arg2:T26
+R27	Reason-Drug Arg1:T61 Arg2:T30
+R28	ADE-Drug Arg1:T62 Arg2:T14
+R29	Reason-Drug Arg1:T64 Arg2:T25
+R30	Reason-Drug Arg1:T63 Arg2:T38
+R31	Duration-Drug Arg1:T65 Arg2:T27
+R32	Reason-Drug Arg1:T66 Arg2:T29
+R33	Reason-Drug Arg1:T66 Arg2:T24
+R34	Reason-Drug Arg1:T66 Arg2:T28
+R35	Reason-Drug Arg1:T67 Arg2:T20
+R36	Frequency-Drug Arg1:T68 Arg2:T20
+R37	Frequency-Drug Arg1:T71 Arg2:T16
+R38	Dosage-Drug Arg1:T70 Arg2:T16
+R39	Form-Drug Arg1:T69 Arg2:T16
+R40	Reason-Drug Arg1:T47 Arg2:T72
+R41	Frequency-Drug Arg1:T78 Arg2:T72
+R42	Route-Drug Arg1:T77 Arg2:T72
+R43	Form-Drug Arg1:T75 Arg2:T72
+R44	Dosage-Drug Arg1:T76 Arg2:T72
+R45	Form-Drug Arg1:T74 Arg2:T72
+R46	Strength-Drug Arg1:T73 Arg2:T72
+R47	Form-Drug Arg1:T83 Arg2:T40
+R48	Dosage-Drug Arg1:T82 Arg2:T40
+R49	Strength-Drug Arg1:T81 Arg2:T40
+R50	Dosage-Drug Arg1:T80 Arg2:T40
+R51	Form-Drug Arg1:T79 Arg2:T40
+R52	Frequency-Drug Arg1:T85 Arg2:T1
+R53	Dosage-Drug Arg1:T86 Arg2:T1
+R54	Form-Drug Arg1:T84 Arg2:T1
+R55	Reason-Drug Arg1:T88 Arg2:T13
+R56	ADE-Drug Arg1:T87 Arg2:T13
+R57	Reason-Drug Arg1:T89 Arg2:T33
+R58	Route-Drug Arg1:T90 Arg2:T36
+T92	Reason 1033 1059;1060 1073	intrahepatic hematoma with extravasation
+T93	Drug 1555 1570	anticoagulation
+T94	Drug 1676 1691	anticoagulation
+T95	Drug 2100 2102	O2
+T96	Dosage 2114 2116	4L
+T97	Drug 2458 2473	anticoagulation
+T98	Reason 2291 2303	full RLE DVT
+T99	Drug 2859 2874	anticoagulation
+T100	Drug 3003 3006	IVF
+T101	Dosage 2994 2999	1.5 L
+T102	Drug 2975 2980	blood
+T103	Drug 8391 8406	anticoagulation
+T104	Reason 8283 8308	Right Lower Extremity DVT
+T105	Drug 8887 8901	anticoagulated
+T106	Reason 8766 8769	DVT
+T107	Drug 10406 10421	anticoagulation
+T108	ADE 10371 10396	subcapsular hepatic bleed
+T109	Drug 11075 11091	anti-coagulation
+T110	Drug 11503 11518	anticoagulation
+T111	Drug 12038 12053	anticoagulating
+T113	Reason 13980 13985;13986 13993	blood thinner
+T114	Drug 14649 14678	anti-hypertensive medications
+T116	ADE 9849 9852	HIT
+R59	Dosage-Drug Arg1:T96 Arg2:T95
+R60	Reason-Drug Arg1:T98 Arg2:T97
+R61	Dosage-Drug Arg1:T101 Arg2:T100
+R62	Reason-Drug Arg1:T104 Arg2:T103
+R63	Reason-Drug Arg1:T106 Arg2:T105
+R64	ADE-Drug Arg1:T108 Arg2:T107
+R65	Reason-Drug Arg1:T92 Arg2:T49	
+R66	Dosage-Drug Arg1:T53 Arg2:T52	
+R67	ADE-Drug Arg1:T116 Arg2:T22	
+R68	Reason-Drug Arg1:T113 Arg2:T36	

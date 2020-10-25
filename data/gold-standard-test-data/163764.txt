@@ -1,0 +1,158 @@
+Admission Date:  [**2200-8-28**]              Discharge Date:   [**2200-8-29**]
+
+Date of Birth:  [**2142-4-26**]             Sex:   M
+
+Service: [**Hospital Unit Name 196**]
+
+Allergies:
+Penicillins / Tetracyclines
+
+Attending:[**First Name3 (LF) 2704**]
+Chief Complaint:
+elective catheterization with aspirin desentization
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+
+
+History of Present Illness:
+58 yo white male w/ h/o CAD s/p catheterization in 3/99 who now
+presnts for aspirin desentization and repeat cath s/p positive
+MIBI study. Pt presented with CP in 3/99 and had angioplasty of
+80% stenosed RCA (vessel too small for stents) and states 6
+months afterwards he had the same vessel angioplastied again.
+States since then he has felt well up until 6 months ago when he
+began having CP again. C/o SSCP that comes on when he walks
+about a block. States the pain only lasts a few minutes and
+accompanied by SOB but no N/V/diaphoresis. No radiation. Pain
+resolves if he stops to rest. States he does not take SL Nitro
+b/c the pain resolves on its own. He had a stress test [**2200-5-27**]
+which showed mild to moderate, partially reversible myocardial
+perfusion defects involving the anterior wall, apex, and septum,
+with transient ischemic dilatation of the LV and global
+hypokinesis (LVEF 30%). Pt now returns for repeat cath.
+     Pt states approx 25 years ago he took an aspirin and
+shortly after developed hives and profuse vomiting. Since then
+he has not tried to take aspirin again. He is now admitted for
+aspirin desensitization before catheterization.
+
+Past Medical History:
+CAD - s/p cath [**2-/2195**] with RCA 80% stenosed - angioplasty but too
+small for stent.
+HYPERCHOLESTEROLEMIA
+HYPOTHYROIDISM
+ANEMIA
+OSTEOARTHRITIS
+TINEA PEDIS
+ONYCHOMYCOSIS
+s/p APPENDECTOMY
+COLON POLYPS
+LEFT BUNDLE BRANCH BLOCK
+HYPERTENSION
+
+
+Social History:
+Lives with wife. Smoked 1 ppd x 15 years. Quit 5 years ago. EtOH
+- drinks 1-2 beers qnight. Denies withdrawal symptoms. No other
+drug use.
+
+Family History:
+Mother died at age 62 of colon cancer.
+Father died at age 71 of PNA
+Sister has CAD.
+
+
+Physical Exam:
+t: 98.7 BP: 157/66 HR:79 RR:20 O2sat:97% RA
+Gen: in NAD
+HEENT: PERRLA, EOMI, no sceral icterus
+Neck: supple, no lymphadenopathy
+CV: RRR, II/VI holosystolic murmur heard best at LLSB.
+Lungs: CTA bilaterally. No wheezes or crackles
+Abd: obese, S/NT/ND. +BS. No HSM
+Ext: no c/c/e. Pulses 2+ bilaterally DP/PT. R femoral 2+. L
+femoral not palpated. Bruit auscultated in L groin.
+Neuro: A&Ox3. non-focal. strength 5/5 throughout. Sensation in
+tact to light touch.
+
+
+Pertinent Results:
+Cardiac catheterization ([**2200-8-26**]):
+1. Selective coronary angiography revealed a right dominant
+system. The
+LMCA was angiographically normal. The LAD had a 50% lesion after
+the
+takeoff of D1. The D1 had a 60% lesion proximally. The LCX had a
+50%
+lesion after the high OM1 (which bifurcates). The RCA has
+diffuse
+irregularities, which are <50%.
+2. Limited hemodynamics on entry show mildly elevated left-sided
+filling
+pressures (LVEDP 20 mm Hg).
+3. Left ventriculography showed a globally hypokinetic ventricle
+with a
+LVEF of 26%. There was no gradient across the LV on pullback.
+
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Severe systolic ventricular dysfunction. Mild diastolic
+ventricular
+dysfunction.
+
+
+Brief Hospital Course:
+58 yo M with h/o CAD s/p angioplasty in '[**94**] who now returns for
+repeat cath and aspirin desentization.
+1. CV:
+A. CAD - Continue Plavix, Lipitor, Metoprolol, Lisinopril. H/o
+aspirin allergy - pt underwent aspirin desensitization the night
+before his catheterization. He tolerated the protocol well with
+no complications. Similarly, his catheterization was tolerated
+well with no complications and it was felt that the pt has
+diffusely mild disease that did not require intervention at this
+time. After the procedure the pt's groin had good hemostasis. No
+hematomas were found.
+B. HTN - continue Imdur, Norvasc, Metoprolol, Lisinopril.
+2. Endo: continue Levoxyl.
+3. PPX: on protonix.
+4. Dispo: Pt remained in the MICU the night before his
+catheterization and was stable after the procedure and was sent
+home with followup instructions.
+FULL CODE.
+
+
+Medications on Admission:
+IMDUR 60MG--One by mouth every day
+LIPITOR 80MG--One by mouth every day
+METOPROLOL 100MG--One by mouth twice a day
+NITROGLYCERIN 0.4MG--Use as directed
+NORVASC 5MG--One by mouth every day
+OMEPRAZOLE 20MG--One every day
+PLAVIX 75MG--One by mouth every day
+PROTONIX 40MG--Take one by mouth every day
+ZESTRIL 20MG--One by mouth twice a day
+LEVOXYL 137 mcg--1 tablet(s) by mouth once a day
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Coronary Artery Disease
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Do not do any heavy lifting for the next week.
+
+Avoid injury to your groin site -- do not bicycle, perform
+squats or sharp bending at the groin for the next few weeks
+
+
+Followup Instructions:
+Your primary care physician and Dr. [**Last Name (STitle) **] per your routine.
+
+
+

@@ -1,0 +1,122 @@
+T1	Drug 3456 3465	linezolid
+T2	Drug 4425 4432	Bactrim
+T3	Drug 3533 3542	oxacillin
+T4	Drug 3922 3931	Oxacillin
+T5	Drug 4564 4571	bactrim
+T6	Strength 4572 4578	1000mg
+T7	Drug 537 542	sarna
+T8	Drug 3226 3233	Bactrim
+T9	Drug 3547 3558	clindamycin
+T10	Drug 732 744	levofloxacin
+T11	Drug 5341 5353	azithromycin
+T12	Drug 2816 2823	Bactrim
+T13	Drug 2981 2988	Bactrim
+T14	Drug 3298 3305	Bactrim
+T15	Drug 547 555	benadryl
+T16	Drug 165 172	Bactrim
+T17	Drug 5547 5554	BACTRIM
+T18	Strength 5109 5115	100 mg
+T19	Route 5116 5118	po
+T20	Drug 5101 5107;5107 5108	dapson e
+T21	Drug 2542 2549	BACTRIM
+T22	Drug 5167 5179	azithromycin
+T23	Drug 5046 5053	Bactrim
+T24	Drug 3767 3775	morphine
+T25	Drug 4920 4927	Bactrim
+T26	Reason 2828 2843	PCP prophylaxis
+T27	Reason 4931 4942	prophylaxis
+T28	Reason 5058 5073	PCP prophylaxis
+T29	Drug 450 455	HAART
+T30	Reason 408 411	HIV
+T31	Reason 503 519	purigo nodularis
+T32	Drug 722 727	vanco
+T33	ADE 2527 2538	ANAPHYLAXIS
+T34	ADE 2569 2574	fever
+T35	ADE 2575 2586	tachycardia
+T36	ADE 2587 2598	hypotension
+T37	ADE 2874 2886	diffuse rash
+T38	ADE 3010 3015	fever
+T39	ADE 3016 3027	tachycardia
+T40	ADE 3028 3039	hypotension
+T41	ADE 3268 3285;3286 3294	anaphylactic-type reaction
+T42	Drug 3446 3451	vanco
+T43	Reason 3495 3499	MRSA
+T44	Reason 3742 3746	Pain
+T45	Frequency 3763 3766	prn
+T46	Reason 3936 3949	MSSA coverage
+T47	Drug 3954 3960	Clinda
+T48	Reason 4006 4036	prevention of toxin production
+T49	Drug 4063 4069	clinda
+T50	Drug 4110 4116	Diclox
+T51	Route 4117 4119	PO
+T52	Drug 4347 4352	vanco
+T53	ADE 4386 4402	red man syndrome
+T55	ADE 4662 4683	anaphylactic reaction
+T56	Drug 4768 4773	HAART
+T57	Reason 4690 4698	HIV/AIDS
+T58	Drug 4830 4835	HAART
+T59	ADE 4981 5006	skin became pink all over
+T60	Frequency 5119 5124	Daily
+T61	ADE 5532 5543	ANAPHYLAXIS
+R1	Strength-Drug Arg1:T6 Arg2:T5
+R2	Strength-Drug Arg1:T18 Arg2:T20
+R3	Route-Drug Arg1:T19 Arg2:T20
+R4	Reason-Drug Arg1:T30 Arg2:T29
+R5	Reason-Drug Arg1:T31 Arg2:T7
+R6	Reason-Drug Arg1:T31 Arg2:T15
+R7	ADE-Drug Arg1:T33 Arg2:T21
+R8	ADE-Drug Arg1:T36 Arg2:T21
+R9	ADE-Drug Arg1:T35 Arg2:T21
+R10	ADE-Drug Arg1:T34 Arg2:T21
+R11	Reason-Drug Arg1:T26 Arg2:T12
+R12	ADE-Drug Arg1:T37 Arg2:T12
+R13	ADE-Drug Arg1:T40 Arg2:T13
+R14	ADE-Drug Arg1:T39 Arg2:T13
+R15	ADE-Drug Arg1:T38 Arg2:T13
+R16	ADE-Drug Arg1:T41 Arg2:T14
+R17	Reason-Drug Arg1:T43 Arg2:T3
+R18	Reason-Drug Arg1:T44 Arg2:T24
+R19	Frequency-Drug Arg1:T45 Arg2:T24
+R20	Reason-Drug Arg1:T48 Arg2:T47
+R21	Reason-Drug Arg1:T46 Arg2:T4
+R22	Route-Drug Arg1:T51 Arg2:T50
+R23	ADE-Drug Arg1:T53 Arg2:T52
+R25	ADE-Drug Arg1:T55 Arg2:T5
+R26	Reason-Drug Arg1:T57 Arg2:T56
+R27	Reason-Drug Arg1:T27 Arg2:T25
+R28	ADE-Drug Arg1:T59 Arg2:T25
+R29	Reason-Drug Arg1:T28 Arg2:T23
+R30	Frequency-Drug Arg1:T60 Arg2:T20
+R31	ADE-Drug Arg1:T61 Arg2:T17
+T62	Reason 585 599;600 612	right arm pain and swelling
+T63	ADE 2858 2869	hypotension
+T65	Drug 4142 4153	antibiotics
+T66	Route 4139 4141	PO
+T67	ADE 4238 4242	rash
+T68	Form 4339 4346	infused
+T69	Duration 4366 4373	2 hours
+T70	Reason 5192 5207	MAC prophylaxis
+T71	Drug 5613 5623	antibotics
+T72	Route 5608 5612	oral
+T73	Reason 5516 5531	MSSA Cellulitis
+T74	Reason 3362 3372	cellulitis
+T75	Reason 3373 3380	abscess
+T76	Reason 3412 3416	MSSA
+T77	Duration 4056 4062	5 days
+T78	ADE 4594 4605	hypotensive
+T80	Reason 5272 5290	Mycolytic cultures
+R32	Route-Drug Arg1:T66 Arg2:T65
+R33	Route-Drug Arg1:T72 Arg2:T71
+R34	Reason-Drug Arg1:T73 Arg2:T71
+R35	Reason-Drug Arg1:T62 Arg2:T15	
+R36	ADE-Drug Arg1:T63 Arg2:T12	
+R37	Reason-Drug Arg1:T74 Arg2:T42	
+R38	Reason-Drug Arg1:T75 Arg2:T1	
+R39	Reason-Drug Arg1:T76 Arg2:T42	
+R40	Duration-Drug Arg1:T77 Arg2:T49	
+R41	ADE-Drug Arg1:T67 Arg2:T65	
+R42	Form-Drug Arg1:T68 Arg2:T52	
+R43	Duration-Drug Arg1:T69 Arg2:T52	
+R44	ADE-Drug Arg1:T78 Arg2:T5	
+R45	Reason-Drug Arg1:T70 Arg2:T22	
+R46	Reason-Drug Arg1:T80 Arg2:T22	

@@ -1,0 +1,386 @@
+Admission Date:  [**2183-1-7**]              Discharge Date:   [**2183-1-10**]
+
+Date of Birth:  [**2105-3-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors
+
+Attending:[**First Name3 (LF) 633**]
+Chief Complaint:
+lightheadiness
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+77 yo M with CHF, afib and HTN presented to the ED from
+[**Hospital **] clinic for hypotension. He was found on INR check
+today to have a blood pressure about 40s on palp. In the ED,
+found to have a blood pressure in the 80s. Inital vitals were
+97.2 56 86/63 16 100% 4L. Received 250cc of fluid with increase
+to 110s. Hypotensive again to the 80s, received 500cc with
+return to 110s.
+
+He reports feeling fatigued and lightheaded over the last couple
+days. He reports drinking a glass or two of wine daily over the
+weekend. His son reports that he sounded drunk on Sunday. He
+denies any sick symptoms or contacts.
+
+On arrival to the ICU, patient feels well and has no complaints.
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+Past Medical History:
+congestive heart failure
+CAD
+atrial fibrillation
+stroke in [**2162**]
+hypertension
+hyperlipidemia
+dysphagia
+
+
+Social History:
+He was born in [**Country 3587**] and then lived in [**Country 48229**].
+
+Living in [**Hospital3 400**] in [**Location (un) 686**].
+- Tobacco:  None
+- Alcohol:  [**11-18**] glass wine/day
+- Illicits:  None
+
+
+Family History:
+Non contributory.
+
+Physical Exam:
+Admission Physical Exam:
+VS: 97.3 83 90/70 97% 16
+General: Alert, oriented, no acute distress
+HEENT: MMM
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi
+CV: Irreg irreg, normal S1 + S2, no murmurs, rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+Admission Labs:
+[**2183-1-7**] 11:50AM BLOOD WBC-7.7 RBC-4.83 Hgb-14.8 Hct-43.5
+MCV-90# MCH-30.6 MCHC-33.9 RDW-12.9 Plt Ct-302
+[**2183-1-7**] 11:50AM BLOOD Neuts-71.2* Lymphs-18.9 Monos-8.5 Eos-0.9
+Baso-0.5
+[**2183-1-7**] 11:50AM BLOOD PT-31.9* PTT-36.8* INR(PT)-3.1*
+[**2183-1-7**] 11:50AM BLOOD Glucose-77 UreaN-59* Creat-2.6* Na-130*
+K-4.0 Cl-88* HCO3-31 AnGap-15
+[**2183-1-7**] 11:50AM BLOOD cTropnT-< 0.01
+[**2183-1-7**] 11:50AM BLOOD proBNP-949*
+[**2183-1-7**] 11:50AM BLOOD Calcium-8.9 Phos-3.8 Mg-2.3
+[**2183-1-7**] 11:57AM BLOOD Lactate-1.4
+[**2183-1-7**] 01:30PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.010
+[**2183-1-7**] 01:30PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-0.2 pH-6.0 Leuks-NEG
+[**2183-1-7**] 01:30PM URINE Hours-RANDOM Creat-52 Na-40 K-17 Cl-32
+[**2183-1-7**] 01:30PM URINE Osmolal-248
+
+Micro:
+Blood cultures pending x2
+
+CHEST (PORTABLE AP): IMPRESSION: No acute cardiopulmonary
+process. Stable cardiomegaly.
+.
+[**1-7**] EKG:
+Atrial fibrillation with controlled ventricular response rate.
+Intraventricular conduction delay of left bundle-branch block
+morphology.
+Probable prior inferior myocardial infarction. T wave inversions
+in the
+lateral and high lateral leads consistent with possible
+ischemia. Clinical
+correlation is suggested. Compared to the previous tracing of
+[**2183-1-7**] the
+findings are similar.
+.
+EKG [**1-7**]:
+Atrial fibrillation with slow ventricular response. Left axis
+deviation.
+Intraventricular conduction delay of left bundle-branch block
+type. Since the previous tracing of [**2176-6-6**] the rate is slower.
+QRS voltage is more prominent in the limb leads. ST-T wave
+abnormalities may be more prominent. Clinical correlation is
+suggested.
+.
+CT HEAD W/O CONTRAST Study Date of [**2183-1-7**] 1:41 PM
+There is no evidence of acute hemorrhage, edema, mass, mass
+effect,
+or new infarction. There is slit-like encephalomalacia in the
+region of the right basal ganglia suggesting prior hemorrhage
+with ex vacuo dilitation of the rigth lateral ventricle.
+Prominent periventricular white matter hypodensities are seen,
+most commonly due to chronic small vessel ischemic disease. The
+basal cisterns appear patent and there is preservation of
+[**Doctor Last Name 352**]-white differentiation elsewhere.
+No fracture is identified. The paranasal sinuses, mastoid air
+cells and
+middle ear cavities are clear. No facial or cranial soft tissue
+abnormalities are present.
+IMPRESSION:
+1. No evidence of acute intracranial process.
+2. Slit-like encephalomalacia in the area of the right basal
+ganglia is
+suggestive of prior hemorrhage.
+3. White matter hypodensities most commonly due to chronic small
+vessel
+ischemic disease.
+.
+ECHO [**1-8**]:
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is mildly
+dilated. There is severe global left ventricular hypokinesis
+(LVEF = 20-25%). Overall left ventricular systolic function is
+severely depressed (LVEF= 20-25%). No masses or thrombi are seen
+in the left ventricle. Right ventricular chamber size is normal
+with mild global free wall hypokinesis. The ascending aorta is
+mildly dilated. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+stenosis. Trace aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild (1+) mitral regurgitation is
+seen. The estimated pulmonary artery systolic pressure is
+normal. There is no pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Severe global left
+ventricular hypokinesis with severely depressed systolic
+function (EF 20-25%). Normal right ventricular size with mild
+right ventricular hypokinesis. Mildly dilated ascending aorta.
+Mild mitral regurgitation
+.
+
+[**2183-1-10**] 06:30AM BLOOD WBC-6.8 RBC-4.71 Hgb-14.7 Hct-42.5 MCV-90
+MCH-31.2 MCHC-34.5 RDW-12.7 Plt Ct-304
+[**2183-1-9**] 05:45AM BLOOD WBC-7.2 RBC-4.54* Hgb-14.3 Hct-41.1
+MCV-91 MCH-31.5 MCHC-34.8 RDW-12.8 Plt Ct-318
+[**2183-1-7**] 11:50AM BLOOD WBC-7.7 RBC-4.83 Hgb-14.8 Hct-43.5
+MCV-90# MCH-30.6 MCHC-33.9 RDW-12.9 Plt Ct-302
+[**2183-1-7**] 11:50AM BLOOD Neuts-71.2* Lymphs-18.9 Monos-8.5 Eos-0.9
+Baso-0.5
+[**2183-1-10**] 06:30AM BLOOD Plt Ct-304
+[**2183-1-10**] 06:30AM BLOOD PT-23.1* PTT-31.8 INR(PT)-2.2*
+[**2183-1-9**] 05:45AM BLOOD Plt Ct-318
+[**2183-1-9**] 05:45AM BLOOD PT-26.6* PTT-35.6 INR(PT)-2.6*
+[**2183-1-8**] 09:05AM BLOOD PT-30.5* INR(PT)-3.0*
+[**2183-1-7**] 11:50AM BLOOD Plt Ct-302
+[**2183-1-7**] 11:50AM BLOOD PT-31.9* PTT-36.8* INR(PT)-3.1*
+[**2183-1-10**] 06:30AM BLOOD Glucose-82 UreaN-28* Creat-1.3* Na-134
+K-4.3 Cl-98 HCO3-29 AnGap-11
+[**2183-1-9**] 05:45AM BLOOD Glucose-90 UreaN-34* Creat-1.4* Na-136
+K-4.6 Cl-99 HCO3-31 AnGap-11
+[**2183-1-8**] 05:38AM BLOOD Glucose-90 UreaN-42* Creat-1.6* Na-134
+K-4.1 Cl-99 HCO3-27 AnGap-12
+[**2183-1-9**] 05:45AM BLOOD CK(CPK)-190
+[**2183-1-9**] 05:45AM BLOOD CK-MB-3 cTropnT-<0.01
+[**2183-1-7**] 11:50AM BLOOD cTropnT-< 0.01
+[**2183-1-7**] 11:50AM BLOOD proBNP-949*
+[**2183-1-7**] 11:57AM BLOOD Lactate-1.4
+[**2183-1-10**] 06:30AM BLOOD Calcium-8.9 Phos-2.8 Mg-1.8
+
+Brief Hospital Course:
+A/P: 77-year-old male with a history of systolic CHF with EF of
+20%, atrial fibrillation on Coumadin, COPD, CAD who was admitted
+to the MICU [**1-7**] with hypotension thought to be due to
+hypovolemia now resolved after iv hydration.
+.
+#Hypotension: likely hypovolemia due to dehydration from
+diuretic use and drinking of ETOH at home. Pt did not have any
+infectious symptoms such as fever, leukocytosis or other
+localizing symptoms. Hypotension resolved with 2L IVF. EKG not
+suggestive of ischemia and cardiac enzymes were negative. TSH
+and cortisol not pursued as pt's symptoms resolved after IV
+fluids. However, BP still ranged at times from high 90's-110's
+and pt was asymptomatic and ambulating without dizziness or
+difficulty. Orthostatics were negative after IV hydration. Pt's
+lasix, spironolactone, HCTZ, and [**Last Name (un) **] were held during admission
+as well as tamsulosin. He was advised to continue to hold these
+medications upon discharge. Carvedilol was restarted. ECHO was
+repeated to ensure that cardiac function had not worsened and
+was found to be similiar to prior with EF 20-25%. Pt will be
+discharged on half dose of his valsartan 80mg daily.
+++could have been due to increased ETOH prior to admit. Pt did
+not have any suggestion of ETOH withdrawal during admission and
+it did not appear that drinking ETOH is the norm for the
+patient, but that he had more drinks than normal weekend prior
+to admission. However, he should be continually advised to
+refrain from excess ETOH given his CHF. Pt did not display signs
+of clinical CHF during admission.
+.
+#acute on chronic renal failure-Presented with Cr 2.6. Baseline
+1.2-1.5. Thought to be due to hypovolemia in the setting of
+diuretic use. Improved during admission to baseline of 1.3 with
+IVF and holding diuretics. Will continue to hold lasix, HCTZ,
+spironolactone upon DC. Resumed valsartan at 80mg (1/2home dose)
+upon DC.  Pt should have repeat labs at his PCP appointment on
+[**2183-1-16**] to ensure stability of renal function.
+.
+#Systolic heart failure: EF 20%. Pt did not appear to have acute
+heart failure during admission. Repeat ECHO was unchanged from
+prior. Carvedilol was restarted. Pt was given an rx for
+valsartan 80mg daily ([**11-18**] home dose) upon discharge. His lasix,
+spironolactone, and HCTZ were not restarted during admission. He
+was set up with VNA services upon discharge to help monitor for
+signs of clinical heart failure in this setting of medication
+adjustment.  BP range high 90's-110s during admission off these
+agents. Pt should follow up with PCP and cardiology
+(appointments listed below) in order to continue further
+titration of these medications prn.  Pt should have repeat
+chemistry panel at upcoming PCP [**Name Initial (PRE) 648**]. Daily weights.
+.
+#Afib: rate controlled. Continued Carvedilol. INR initially
+slightly supratherapeutic, but then starting [**1-8**] his home
+regimen of 4mg alternating with 2mg daily was started. Started
+with 4mg daily on [**1-8**]. INR can be rechecked at PCP's
+appointment on [**2183-1-16**]. INR 3.1, 2, 2.6, 2.2 on day of DC.
+.
+#HLD: continued pravastatin
+.
+#BPH: held tamsulosin for now. Continued finasteride
+.
+#Reactive airways, ?COPD- continued inhalers, no sign of acute
+exacerbation.
+.
+#FEN: cardiac diet
+.
+#PPX:
+--therapeutic INR
+.
+FULL CODE
+Emergency contact: [**Name (NI) **] (son) [**Telephone/Fax (1) 48232**]
+.
+Transitional issues
+-close monitoring of volume status with lasix, HCTZ, and
+spironolactone being held. Restart prn
+-monitoring of chemistries, INR on [**2183-1-16**] PCP appointment
+[**Name9 (PRE) 48233**] further discussion about ETOH intake
+-consider TSH, cortisol should low grade hypotension continue to
+be an issue
+
+Medications on Admission:
+Albuterol 2 puffs q4 hours SOB
+Carvedilol 3.125mg [**Hospital1 **]
+Finasteride 5mg daily
+Fluticasone 50mcg per nostril [**Hospital1 **] runny nose
+Fluticaseone 110mcg 2 puffs [**Hospital1 **]
+Furosemide 20mg daily
+Combivent 2 puffs PRB dyspnea
+Pravastatin 40mg daily
+Sildenafil 25mg 1/2-1 tab PRN
+Spironolactone-HCTZ 25-25mg daily
+Tamsulosin 0.4mg qHS
+Valsartan 320mg tab, [**11-18**] tab daily
+Warfarin 4mg QOD, 2mg QOD
+Acetaminophen 650mg TID
+
+Discharge Medications:
+1. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q4H (every 4 hours) as needed for dyspnea.
+
+2. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. fluticasone 110 mcg/actuation Aerosol Sig: One (1) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+5. fluticasone 110 mcg/actuation Aerosol Sig: One (1)
+Inhalation twice a day.
+6. Combivent 18-103 mcg/actuation Aerosol Sig: [**11-18**]  Inhalation
+every 4-6 hours as needed for shortness of breath or wheezing.
+7. pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+8. valsartan 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+9. warfarin 2 mg Tablet Sig: One (1) Tablet PO QOD ().
+10. warfarin 4 mg Tablet Sig: One (1) Tablet PO every other day.
+
+11. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO every
+eight (8) hours as needed for pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Laboure Center VNS
+
+Discharge Diagnosis:
+hypotension
+acute renal failure
+chronic systolic heart failure
+atrial fibrillation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted with low blood pressure, fatigue, and kidney
+injury. Your symptoms were thought to be due to dehydration
+along with taking your medications for your heart. Your symptoms
+improved with IV fluids and stopping some of your heart
+medications. You did not have any signs of infection. Some of
+your heart medications will continue to be held upon discharge.
+However, it will be very important that you follow up with your
+PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 8499**] and your cardiologist to determine when you
+may resume these medications.
+.
+Medication changes:
+1.stop lasix for now
+2.stop HCTZ for now
+3.stop spironolactone for now
+4.DECREASE VALSARTAN TO 80MG DAILY, stop your 160mg dose
+5.stop tamsulosin for now
+-please be sure to keep your PCP appointment below. You may need
+to restart some of these medications.
+.
+Please take all of your medications as prescribed and follow up
+with the appointments below.
+
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Department: [**Hospital1 7975**] ST HLTH CTR-KCSS
+When: THURSDAY [**2183-1-16**] at 11:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10134**], MD [**Telephone/Fax (1) 7980**]
+Building: [**Hospital1 7977**] ([**Location (un) 686**], MA) [**Location (un) **]
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+Department: CARDIAC SERVICES
+When: THURSDAY [**2183-1-23**] at 3:20 PM
+With: [**Doctor First Name 900**] [**Name8 (MD) 901**], M.D. [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: [**Hospital1 7975**] ST HLTH CTR-KCSS
+When: FRIDAY [**2183-2-28**] at 9:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10134**], MD [**Telephone/Fax (1) 7980**]
+Building: [**Hospital1 7977**] ([**Location (un) 686**], MA) [**Location (un) **]
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+
+

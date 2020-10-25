@@ -1,0 +1,261 @@
+Admission Date:  [**2119-2-8**]              Discharge Date:   [**2119-2-21**]
+
+Date of Birth:  [**2079-5-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1145**]
+Chief Complaint:
+cardiac arrest; transferred for cooling protocol
+
+Major Surgical or Invasive Procedure:
+ICD (defibrillator) placement [**2119-2-17**]
+
+
+History of Present Illness:
+This is a 39 yo male who was working on a construction site and
+was witnessed to fall from a standing position and lose
+consciousness. He was also reported to have ?seizure activity.
+Bystanders found him to be unresponsive/pulseless and initiated
+CPR for 10 minutes. EMS arrived and found him to be in VF arrest
+which was converted to sinus with 1 shock. He was intubated on
+the field and transferred to [**Hospital6 **]. On arrival he
+was unresponsive; and shortly went into PEA arrest and was
+?shocked? x 1 with resolution to sinus tach with LBBB.
+.
+He was taken to the cath lab which showed 100% RCA and 100% LCx;
+LAD 20% lesion which appeared "chronic"; EF 15%. When they tried
+to cross 1 lesion his HR increased to 180's ?VT; he was shocked
+with 200J x [**Street Address(2) 70830**] at 120's; he was also
+hypertensive to the 200's which was treated with ?nitro drip. At
+[**Hospital6 **] he received 600cc IVF; 325cc IV contrast;
+10mg ativan.
+.
+Post-cath he was noted again to have seizure-like activity
+(unsure of character) and was given 10mg ativan and taken to CT
+scan which was preliminarily read as negative (although on
+review here may be c/w sub-arachnoid hemorrhage)
+.
+On [**Hospital **] transfer to [**Hospital1 18**] he was noted to have decerebrate
+posturing and L-turning of head.
+
+
+Past Medical History:
+HTN
+heavy alcohol abuse-[**1-20**] vodka every day until 5 days PTA.
+
+
+Social History:
+very heave alcohol abuse. In [**Month (only) **] started to drink about [**1-20**]
+vodka/day until 5 days prior to admission; 2ppd smoker; +MJ,
+?cocaine; construction worker
+
+Family History:
+no early CAD in family
+
+Physical Exam:
+T 98 HR 107 BP 127/76 RR 30 SaO2 100%
+Vent settings: AC 12X 600, 100% fiO2, 15 peep
+Gen: Intubated, sedated
+HEENT: blood in mouth; poor dentition
+CV: tachy, no m/r/ ?S3+4?, no murmurs
+Pulm: CTA B
+Abd: s/nd/nt; no BS
+Ext: warm, trace to 1+ DP pulses; no edema
+neuro: PERRL 3-2.5mm; w/draws all extremities to pain; + corneal
+reflex; eyes wander (conjugate gaze); unable to assess
+dolls-head
+
+
+Pertinent Results:
+[**2119-2-8**] CT head: IMPRESSION: Slightly limited study due to
+patient motion. Allowing for this, no evidence of intra- or
+extra-axial hemorrhage.
+.
+The findings were discussed with Dr. [**First Name (STitle) **] [**Name (STitle) 1255**] [**Doctor Last Name **] at 9:40 p.m.
+on [**2119-2-8**]. The outside hospital CT scan was obtained on hard
+copy, and will be brought to the file room in the morning.
+Review of that examination at the time of attending review does
+show increased density of the tentorium, which presumably
+relates to the large volume of IV contrast used for what
+apparently was a cardiac catheterization at that facility, which
+also resulted in visualization of the vascular tributaries of
+the circle of [**Location (un) 431**] on this [**Hospital3 **] CT scan. This tentorial
+enhancement is no longer seen, likely due to the renal excretion
+of the contrast [**Doctor Last Name 360**].
+.
+[**2119-2-8**] CXR: 1. Successful intubation.
+2. Diffuse bilateral hazy ground-glass opacities. This is
+nonspecific, and may represent diverse etiologies depending on
+the patient's clinical situation, e.g. aspiration, hemorrhage,
+or PCP if the patient is immunocompromised. Followup is
+recommended.
+.
+[**2119-2-10**] CXR: Since the prior chest x-ray, the endotracheal tube
+and nasogastric tube have been removed. There has been no
+significant change since the prior film of six hours previous.
+The cardiomegaly, effusions, and some edema are still present.
+.
+IMPRESSION: Cardiac failure persists.
+.
+[**2119-2-10**] EKG: Sinus rhythm. Left axis deviation. Left
+bundle-branch block. Compared to the previous tracing sinus
+rhythm is now present.
+
+
+Brief Hospital Course:
+#) VF arrest/rhythm: Most likely a primary arrthymic event
+(based on story of falling, pulseless with CPR for 10min, and
+Vfib when EMS arrived) and secondary to ischemic scar from old
+infacts.  Does not appear to be ACS (low level CE, stenosis on
+cath appeared old).  ECGs during hospitalization showed sinus
+rhythm/sinus tach with LBBB (no old ECGs for comparison).  He
+was loaded with amiodarone and maintained on metoprolol for rate
+control.  He was monitored on telemetry and had no further Vfib
+events; rhythm strips obtained from EMS and the outside hospital
+did not capture any v-fib events. He had an ICD implanted on
+[**2119-2-17**] and tolerated the procedure well.  He will follow up in
+device clinic on [**2119-3-1**].
+.
+#) CAD/Ischaemia: He was taken for cardiac catheterization and
+was found to have RCA and LCx occlusion which was thought to be
+likely chronic. CE's were trended and peaked at low level
+(likely related to post-code and not consistent with ACS).  He
+was continued on aspirin, and was titrated up on metoprolol.  A
+statin was not started right away given his elevated LFTs, but
+once these normalized, he was started on a reduced-dose statin
+(20mg atorvastatin)
+.
+#) Pump: Cath report showed an EF 15%; Multifactorial; ?acute
+post code shock, ischemic cardiomyopathy, ?alcoholic
+cardiomyopathy. Hopefully he will recover some function.  A
+repeat echo showed an EF of 20-25% with no major valvular
+abnormalities.  He will need another echo in approximately one
+month to assess for recovery of his systolic function.
+.
+# fevers: He spiked fevers up to 102. He was initially started
+on levo/metronidazole and vanco before a known source was found
+to cover for likely aspiration pneumonia and line infections.
+He was then found to have strep pneumo in his sputum and
+continued to spike fevers until he was stabilized on an
+antibiotic regimen of ceftriaxone/azithromycin.  There was also
+concern that these fevers might be related to alcohol withdrawl
+and/or drug fever (from phenytoin, which was stopped on [**2-13**]).
+He completed a five day course of azithromycin and his
+ceftriaxone will be converted to cefpodoxime to complete a
+10-day course.
+.
+#) Altered mental status/EtOH withdrawl: This has a
+multifactorial origin: VF arrest, EtOH, sedation now. Per his
+sister (whom he lives with) that he drank about [**1-20**] vodka per
+night for 4 months and then stopped abruptly ~4 days prior to
+admission.  Neurology was consulted especially given question of
+seizure activity at the OSH.  An EEG was negative for seizures
+and an LP showed normal cell count, protein, and glucose with no
+evidence of infection.  A psychiatry consultation was obtained
+and they believed that his prolonged delirium may have been
+benzodiazepine intoxication.  He was maintained on standing
+Haldol and only short-acting benzo's (lorazepam) were used for
+his CIWA scale and his mental status gradually improved.  He
+worked with PT/OT to regain strength, balance, and functioning
+prior to discharge.
+.
+#) Transaminitis: Patient has mildly elevated alt > ast. GGT
+mildly elevated as well. Most likely secondary to mild shock
+liver in setting of code. Underlying liver disease from h/o
+recent heavy EtOH use, high triglycerides (150) could put him at
+risk for more damage.  His acetaminophen use was limited to
+2g/day and he was eventually started on a reduced dose of
+atorvastatin for his hyperlipidemia.
+.
+#) Elevated Cr: Initially had some ARF which was most-likely
+ATN/hypoperfusion from cardiac arrest. He was hydrated and
+received mucomyst for cath.  His Cr trended down and recovered.
+.
+#) FEN/GI: He was given protonix for GI ppx given alcohol use.
+He was also ordered for a speech and swallow eval after
+extubation given his still "cloudy" mental status to assess risk
+for aspiration.  He eventually passed a speech and swallow
+study, though was recommeded to have close supervision with
+meals given his distractability.  Heart healthy low sodium diet.
+
+Medications on Admission:
+none known
+
+Discharge Medications:
+1. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*60 Disk with Device(s)* Refills:*2*
+4. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: Two (2) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*60 Tablet Sustained Release 24HR(s)* Refills:*2*
+5. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+7. Nicotine 21 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24HR(s)* Refills:*2*
+8. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation Q4-6H (every 4 to 6 hours) as needed for
+shortness of breath or wheezing.
+Disp:*1 inhaler* Refills:*2*
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis: cardiac arrest due to ventricular
+fibrillation
+
+Secondary diagnoses: alcohol abuse, ischemic and alcoholic
+cardiomyopathy, coronary artery disease
+
+
+Discharge Condition:
+stable, alert and oriented x3, ambulatory.
+
+
+Discharge Instructions:
+You were admitted to the hospital with a cardiac arrest.  You
+had a defibrillator implanted to help keep your heart beating
+properly and prevent against such an arrhythmia.
+
+You were found to have severe disease of your coronary arteries
+(the arteries that supply your heart with oxygen).  For this,
+you should take one aspirin daily for the rest of your life.
+You were also started on medication for your cholesterol and
+blood pressure.  You are also finishing a course of antibiotics
+(cefpodoxime) for a possible pneumonia.
+
+In order to optimize the health of your heart, you should
+completely avoid both cigarettes and alcohol.  In order to help
+you decrease your craving for cigarretes, you have been
+prescribed the nicotine patch.  Do NOT smoke and have the patch
+on at the same time.  You will be contact[**Name (NI) **] by [**Name (NI) 2411**] [**Name (NI) 51086**] to
+talk with you about support systems to help avoid alcohol.
+
+If you experience loss of consciousness, chest pain, high
+fevers, or other concerning symptoms, you should seek medical
+attention.
+
+Followup Instructions:
+DEVICE CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2119-3-1**] 11:30 ([**Location (un) **] of [**Hospital Ward Name 23**] Building, [**Location (un) **])
+.
+You have a follow up appointment with Dr. [**Last Name (STitle) 23651**], ([**Telephone/Fax (1) 70831**], on Feburary 12th.  Have your primary doctor schedule a
+repeat echo in 4 weeks to assess your heart function.
+
+
+

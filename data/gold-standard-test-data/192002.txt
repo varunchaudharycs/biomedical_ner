@@ -1,0 +1,285 @@
+Admission Date:  [**2174-6-3**]              Discharge Date:   [**2174-6-7**]
+
+Date of Birth:  [**2099-9-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+Tachypnea
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+74 year old male with h/o DM, frequent aspiration, CVA (left
+weakness, at baseline unable to converse), presents to ED for
+tachypnea.
+
+Pt found at facility to be be congested, with difficulty
+breathing. chief complaint of lung congestion, difficulty
+breathing. Questionable seizure activity prior to being found.
+Confirmed DNR/DNI with family but confirmed otherwise aggressive
+care.
+.
+In the ED, initial vs were: 98.4 105 159/72 30s-40s 100 on 3-4L,
+with eventual spike to 101 rectally. Although CXR neg, exam
+revealed diffuse crackles, pt was treated for possible
+aspiration pneumonia with vanc and zosyn (levo planned but not
+yet administered). Labs sig for WBC 15.5, hyperglycemia and UA
+with SG 1.[**Telephone/Fax (1) 59607**] glucose, lactate 3.5. Head CT ucnhanged
+except newly dislocated lens in right eye. Stage 2 sacral decub
+appeared uninfected. EKG without ischemic changes.
+.
+VS on transfer: 101.2, 124/56, 100, 32, 98 4L
+
+Past Medical History:
+strokes from ruptured intracerebral aneurysms in [**2160**] and [**2162**]
+or [**2163**] with residual left sided deficits (has not been able to
+walk since the stroke in '[**63**]) and aphasia, PEG for dysphagia
+h/o seizure do
+dementia
+HTN
+h/o HepC hepatitis, apparently not active
+h/o neurosyphilis, treated in [**2163**]
+hypothyroidism
+
+
+Social History:
+Nursing home resident ([**Hospital3 2558**]) since [**2163**]. Sent here
+with no personal belongings.
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Vitals: T: afeb BP: 120/69 P: 102 R: 26 18 O2:
+General: NAD
+HEENT: Sclera anicteric, PERRLA, MMM
+Neck: supple, no LAD
+Lungs: Diffuse ronchi, no resp distress
+CV: Tachy, no murmurs
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly, G tube in
+palce
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: Opens eyes slightly to command, withdraws to pain on
+right, no movement on left
+
+Pertinent Results:
+[**2174-6-3**] 12:00PM   WBC-15.5* RBC-4.19* HGB-12.4* HCT-38.3*
+MCV-91 MCH-29.6 MCHC-32.4 RDW-15.0
+[**2174-6-3**] 12:00PM   NEUTS-76* BANDS-1 LYMPHS-12* MONOS-10 EOS-0
+BASOS-0 ATYPS-1* METAS-0 MYELOS-0
+[**2174-6-3**] 12:00PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+[**2174-6-3**] 12:00PM   PLT SMR-NORMAL PLT COUNT-146*
+[**2174-6-3**] 12:00PM   PTT-32.8
+[**2174-6-3**] 12:00PM   cTropnT-<0.01
+[**2174-6-3**] 12:00PM   GLUCOSE-327* UREA N-23* CREAT-0.9 SODIUM-139
+POTASSIUM-4.8 CHLORIDE-107 TOTAL CO2-21* ANION GAP-16
+[**2174-6-3**] 12:40PM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 155**]-1.029
+[**2174-6-3**] 12:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25
+GLUCOSE-1000 KETONE-TR BILIRUBIN-NEG UROBILNGN-4* PH-6.0
+LEUK-NEG
+[**2174-6-3**] 12:40PM URINE  RBC-0 WBC-0-2 BACTERIA-FEW YEAST-NONE
+EPI-0-2
+[**2174-6-3**] 12:40PM URINE  HYALINE-[**6-30**]*
+
+EEG: FINDINGS:
+ROUTINE SAMPLING: The background activity was slow reaching a
+maximum
+of about 6 Hz biposteriorly in the most awake parts of this
+recording.
+In addition, there was focal slowing in the delta and theta
+range seen
+in the right central area. There were sharp waves seen
+independently in
+the right frontal, right central parietal, as well as left
+fronto-temporal areas.
+SPIKE DETECTION PROGRAMS: Showed some of the above-mentioned
+right and
+left sharp waves.
+SEIZURE DETECTION PROGRAMS: Captured periods of muscle artifact
+as well
+as blinking artifact but not ongoing seizure activity.
+PUSHBUTTON ACTIVATIONS: There were no entries in these files.
+SLEEP: The patient progressed from wakefulness to sleep. The
+above-mentioned sharp waves were seen more frequently in sleep.
+CARDIAC MONITOR: Showed a generally regular rhythm.
+IMPRESSION: This telemetry captured no ongoing seizure activity.
+
+Interictally, it captured epileptic discharges independently in
+the
+right frontal, right central parietal, and left fronto-temporal
+areas.
+The background activity was slow suggestive of diffuse
+encephalopathy
+with additional focal slowing seen in the right central area
+suggestive
+of subcortical dysfunction in that region.
+
+CT Head: IMPRESSION:
+1. No acute intracranial process.
+2. Chronic left pontine lacunar infarct, new compared to [**Month (only) **]
+[**2172**].
+3. Posterior dislocation of the right ocular lens, new since [**Month (only) **]
+[**2172**].
+
+CTA Chest:
+IMPRESSION:
+1. No central, segmental or large subsegmental pulmonary
+embolism.
+2. Bibasilar consolidations, could reflect atelectasis or
+pneumonia.
+3. Left thyroid lobe nodule.
+4. Coronary artery disease.
+5. Indeterminant right hepatic lobe lesion most likely cyst or
+hemangioma
+
+Micro:
+[**2174-6-5**] URINE URINE CULTURE negative
+[**2174-6-5**] URINE Legionella Urinary Antigen negative
+[**2174-6-5**] STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B
+TEST negative
+[**2174-6-4**] MRSA SCREEN MRSA SCREEN-positive
+[**2174-6-3**] BLOOD CULTURE Blood Culture, pending
+[**2174-6-3**] BLOOD CULTURE Blood Culture, pending
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 4587**] is a 74 yo M with h/o strokes resultant in minimal
+responsiveness, aphagia, frequent aspiration, who presented from
+[**Hospital3 **] with tachypnea and question of seizure-like
+activity.
+
+# ?Aspiration Pneumonia:
+Patient presented with tachypnea, fever, tachycardia, elevated
+WBC and was admitted to the MICU. He was started empirically on
+Vancomycin and Zosyn for aspiration pneumonia.  Chest CT-A ruled
+out PE, as he was not on any DVT prophylaxis at the nursing
+facility.  Chest CT also showed bibasilar atelectasis vs
+consolidation. Patient was transitioned to azithromycin and
+transferred to floor when hemodynamically stable.  On the floor,
+he was restarted on Vancomycin and Zosyn for concern of
+aspiration pneumonia, re-evaluating bibasilar consolidations on
+Chest CT, likely secondary to chronic aspiration from tube
+feeds.  Pt was discharged bac kto the facility to continue IV
+antibiotics for a total of 7 days.  Pt was without fevers or
+leukocytosis at the time of discharge.
+
+# History of Seizures:
+Patient was reported to have had seizure-like activity prior to
+presentation. Corrected Dilantin level was within therapeutic
+range. Pt was continued on seizure ppx, and had no clinically
+evident seizure activity. A 48 hr EEG was performed which showed
+no seizure activity, only epileptic interictal discharges,
+consistent with past stroke.
+
+# Diabetes Mellitus:
+Patient was continued on home insulin regimen.
+
+# Hypertension:
+Patient was continued on BB, Hydralazine and Lisinopril.
+
+# Anemia: Is normocytic, likely secondary to chronic disease.
+Hct was stable, a fecal occult blood was ordered.
+.
+# Patient was DNR/DNI during this hospitalization.  Pt has a
+left PICC for IV access. Pt was maintained on SC Heparin for DVT
+ppx. Pt was on tube feeds for nutrition.
+
+Medications on Admission:
+Lisinopril 60mg via G tube daily
+KCL elixir 20Meq twice daily
+Novolin 4 SS
+Lantus 26U daily
+Dilantin 25mg at 10am, 50mg 50mg at bedtime
+Enulose 30ml via G tube BIC
+Docusate liquid 150mg [**Hospital1 **]
+Metoprolol 10mg [**Hospital1 **]
+Hydralazine 40mg [**Name (NI) **]
+MOM 30mg NGT TIW
+Albuterol nasal neb q6h prn SOB
+
+Discharge Medications:
+1. Lisinopril 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+2. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+3. Hydralazine 25 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6
+hours).
+4. Phenytoin 50 mg Tablet, Chewable Sig: 0.5 Tablet, Chewable PO
+DAILY (Daily) as needed for 10am.
+5. Phenytoin 50 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO QHS (once a day (at bedtime)).
+6. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for SOB.
+7. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+8. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO BID (2
+times a day).
+9. Vancomycin in D5W 1 gram/200 mL Piggyback Sig: One (1)
+Intravenous Q 12H (Every 12 Hours) for 5 days.
+10. Piperacillin-Tazobactam-Dextrs 4.5 gram/100 mL Piggyback
+Sig: One (1)  Intravenous Q8H (every 8 hours) for 5 days.
+11. Potassium Chloride 20 mEq Packet Sig: One (1)  PO twice a
+day.
+12. Novolin R 100 unit/mL Solution Sig: Four (4) units Injection
+four times a day: sliding scale.
+13. Lantus 100 unit/mL Solution Sig: Twenty Six (26) units
+Subcutaneous once a day.
+14. Milk of Magnesia 400 mg/5 mL Suspension Sig: Thirty (30) mg
+PO three times a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 2558**] - [**Location (un) **]
+
+Discharge Diagnosis:
+Aspiration Pneumonia
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Bedbound.
+
+
+Discharge Instructions:
+Mr. [**Known lastname 4587**] was admitted to the hospital because he was having
+difficulty breathing.  He was initially in the ICU, where he was
+started on IV antibiotics for aspiration pneumonia.  Pt was then
+transferred to the medicine floor.  An EEG was performed which
+showed no seizure activity.  Pt was then discharged back to the
+facility.
+
+He needs immediate medical attention if he experiences
+difficulty breathing, has fevers or any other concerning
+symptoms.
+
+Please make th following changes to his medications:
+START Piperacillin-Tazobactam 4.5 g IV every 8 hours for 5 more
+days
+START Vancomycin 1000 mg IV every 12 hours for 5 more days
+
+You will need to have your thyroid nodule followed up.
+
+Followup Instructions:
+You will be followed by doctors at the facility.  They will
+provide you with a follow-up appointment with your primary care
+doctor in the future.
+
+
+
+Completed by:[**2174-6-7**]

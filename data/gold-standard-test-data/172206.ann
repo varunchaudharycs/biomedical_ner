@@ -1,0 +1,161 @@
+T1	Drug 10165 10172	lovenox
+T2	Reason 10222 10237;10238 10246	prevent further clotting
+R1	Reason-Drug Arg1:T2 Arg2:T1
+T3	Route 10255 10261	inject
+R2	Route-Drug Arg1:T3 Arg2:T1
+T4	Frequency 10302 10313	twice a day
+R3	Frequency-Drug Arg1:T4 Arg2:T1
+T5	Reason 10458 10463;10464 10482	blood clot complications
+T6	Drug 10577 10584	Lovenox
+T7	Reason 1553 1556	DVT
+R4	Reason-Drug Arg1:T7 Arg2:T9
+T9	Drug 1623 1630	heparin
+T10	Reason 1717 1722	fever
+R6	Reason-Drug Arg1:T10 Arg2:T11
+T11	Drug 1764 1772	cefepime
+T12	Drug 477 488	carboplatin
+T13	Drug 493 498	Taxol
+T15	Drug 553 565	chemotherapy
+T16	Route 571 586	intraperitoneal
+R8	Route-Drug Arg1:T16 Arg2:T17
+T17	Drug 587 596	cisplatin
+T18	Route 640 655	intraperitoneal
+R9	Route-Drug Arg1:T18 Arg2:T19
+T19	Drug 656 661	Taxol
+T20	Drug 6846 6853	lovenox
+T21	Reason 6867 6888	large DVT clot burden
+R10	Reason-Drug Arg1:T21 Arg2:T20
+T22	Drug 719 731	chemotherapy
+T24	Drug 7386 7393	heparin
+T26	Reason 7458 7462	clot
+R12	Reason-Drug Arg1:T26 Arg2:T24
+T27	Drug 7600 7607	lovenox
+T28	Reason 7612 7637	long-term anticoagulation
+R13	Reason-Drug Arg1:T28 Arg2:T27
+T29	Drug 778 790	chemotherapy
+T30	Drug 8145 8152	lovenox
+T31	Drug 8157 8165	coumadin
+T32	Route 8426 8437	Intravenous
+R14	Route-Drug Arg1:T32 Arg2:T34
+T33	Route 8442 8457	intraperitoneal
+R15	Route-Drug Arg1:T33 Arg2:T34
+T34	Drug 8458 8470	chemotherapy
+T35	Reason 8499 8502	HTN
+R16	Reason-Drug Arg1:T35 Arg2:T36
+R17	Reason-Drug Arg1:T35 Arg2:T37
+T36	Drug 8523 8526	CCB
+T37	Drug 8531 8539	diuretic
+T38	ADE 8545 8555	Leukopenia
+R18	ADE-Drug Arg1:T38 Arg2:T39
+T39	Drug 8577 8589	chemotherapy
+T40	Reason 8710 8724	Hyperlipidemia
+R19	Reason-Drug Arg1:T40 Arg2:T41
+T41	Drug 8740 8746	statin
+T42	ADE 8770 8789	LFT's were elevated
+R20	ADE-Drug Arg1:T42 Arg2:T43
+T43	Drug 8818 8830	chemotherapy
+T44	Drug 8947 8954	Norvasc
+T45	Strength 8955 8959	5 mg
+R21	Strength-Drug Arg1:T45 Arg2:T44
+T46	Route 8960 8962	po
+R22	Route-Drug Arg1:T46 Arg2:T44
+T47	Frequency 8963 8965	QD
+R23	Frequency-Drug Arg1:T47 Arg2:T44
+T48	Strength 9022 9027	10 mg
+R24	Strength-Drug Arg1:T48 Arg2:T44
+T49	Route 9028 9030	po
+R25	Route-Drug Arg1:T49 Arg2:T44
+T50	Frequency 9031 9033	QD
+R26	Frequency-Drug Arg1:T50 Arg2:T44
+T51	Drug 9036 9043	Lipitor
+T52	Strength 9044 9049	10 mg
+R27	Strength-Drug Arg1:T52 Arg2:T51
+T53	Route 9050 9053	p.o
+R28	Route-Drug Arg1:T53 Arg2:T51
+T54	Frequency 9055 9059;9060 9065	once daily
+R29	Frequency-Drug Arg1:T54 Arg2:T51
+T56	Drug 9067 9076	Compazine
+T58	Drug 9078 9097	hydrochlorothiazide
+T59	Strength 9098 9105	12.5 mg
+R31	Strength-Drug Arg1:T59 Arg2:T58
+T60	Route 9106 9109	p.o
+R33	Route-Drug Arg1:T60 Arg2:T58
+T62	Frequency 9111 9121	once daily
+R36	Frequency-Drug Arg1:T62 Arg2:T58
+T64	Drug 9123 9139	milk of magnesia
+T65	Drug 9169 9179	Amlodipine
+T66	Strength 9180 9184	5 mg
+R38	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 9185 9191	Tablet
+R39	Form-Drug Arg1:T67 Arg2:T65
+T68	Dosage 9197 9204	One (1)
+R40	Dosage-Drug Arg1:T68 Arg2:T65
+T69	Form 9205 9211	Tablet
+R41	Form-Drug Arg1:T69 Arg2:T65
+T70	Route 9212 9214	PO
+R42	Route-Drug Arg1:T70 Arg2:T65
+T71	Frequency 9215 9220	DAILY
+R43	Frequency-Drug Arg1:T71 Arg2:T65
+T72	Drug 9234 9246	Atorvastatin
+T73	Strength 9247 9252	10 mg
+R44	Strength-Drug Arg1:T73 Arg2:T72
+T74	Form 9253 9259	Tablet
+R45	Form-Drug Arg1:T74 Arg2:T72
+T75	Dosage 9265 9272	One (1)
+R46	Dosage-Drug Arg1:T75 Arg2:T72
+T76	Form 9273 9279	Tablet
+R47	Form-Drug Arg1:T76 Arg2:T72
+T77	Route 9280 9282	PO
+R48	Route-Drug Arg1:T77 Arg2:T72
+T78	Frequency 9283 9288	DAILY
+R49	Frequency-Drug Arg1:T78 Arg2:T72
+T79	Drug 9301 9320	Hydrochlorothiazide
+T80	Strength 9321 9326	25 mg
+R50	Strength-Drug Arg1:T80 Arg2:T79
+T81	Form 9327 9333	Tablet
+R51	Form-Drug Arg1:T81 Arg2:T79
+T82	Dosage 9339 9342	0.5
+R52	Dosage-Drug Arg1:T82 Arg2:T79
+T83	Form 9343 9349	Tablet
+R53	Form-Drug Arg1:T83 Arg2:T79
+T84	Route 9350 9352	PO
+R54	Route-Drug Arg1:T84 Arg2:T79
+T85	Frequency 9353 9358	DAILY
+R55	Frequency-Drug Arg1:T85 Arg2:T79
+T86	Drug 9371 9390	Magnesium Hydroxide
+T88	Strength 9391 9402	400 mg/5 mL
+R57	Strength-Drug Arg1:T88 Arg2:T86
+T89	Form 9403 9413	Suspension
+R58	Form-Drug Arg1:T89 Arg2:T86
+T90	Dosage 9419 9430	Thirty (30)
+R59	Dosage-Drug Arg1:T90 Arg2:T86
+T91	Form 9431 9433	ML
+R60	Form-Drug Arg1:T91 Arg2:T86
+T92	Route 9434 9436	PO
+R61	Route-Drug Arg1:T92 Arg2:T86
+T93	Frequency 9437 9440	Q6H
+R62	Frequency-Drug Arg1:T93 Arg2:T86
+T94	Drug 9471 9481	Enoxaparin
+T96	Strength 9482 9494	80 mg/0.8 mL
+R64	Strength-Drug Arg1:T96 Arg2:T94
+T97	Form 9495 9502	Syringe
+R65	Form-Drug Arg1:T97 Arg2:T94
+T98	Dosage 9508 9515	One (1)
+R66	Dosage-Drug Arg1:T98 Arg2:T94
+T99	Route 9517 9529	Subcutaneous
+R67	Route-Drug Arg1:T99 Arg2:T94
+T100	Frequency 9530 9534	Q12H
+R68	Frequency-Drug Arg1:T100 Arg2:T94
+R30	Reason-Drug Arg1:T5 Arg2:T6	
+T8	Route 550 552	IV
+R5	Route-Drug Arg1:T8 Arg2:T15	
+T14	Route 1620 1622	IV
+R7	Route-Drug Arg1:T14 Arg2:T9	
+T23	Drug 4639 4647	CONTRAST
+T25	Route 4636 4638	IV
+R11	Route-Drug Arg1:T25 Arg2:T23	
+T55	Drug 6076 6084	CONTRAST
+T57	Route 6073 6075	IV
+R32	Route-Drug Arg1:T57 Arg2:T55	
+T61	Route 7383 7385	IV
+R34	Route-Drug Arg1:T61 Arg2:T24	

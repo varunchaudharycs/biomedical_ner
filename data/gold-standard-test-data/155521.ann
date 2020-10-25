@@ -1,0 +1,213 @@
+T1	Drug 10183 10200	antihypertensives
+T2	Drug 2864 2872	Propofol
+T3	Drug 7163 7171	Atenolol
+T4	Drug 7202 7221	metoprolol tartrate
+T5	Drug 7838 7848	Amlodipine
+T6	Strength 7849 7854	10 mg
+R1	Strength-Drug Arg1:T6 Arg2:T5
+T7	Drug 7855 7863	Atenolol
+T8	Strength 7864 7869	50 mg
+R2	Strength-Drug Arg1:T8 Arg2:T7
+T9	Drug 7870 7885	Lisinopril/HCTZ
+T10	Strength 7886 7894	20/25 mg
+R3	Strength-Drug Arg1:T10 Arg2:T9
+T11	Drug 7912 7921	Doxazosin
+T12	Frequency 7922 7925	QHS
+R4	Frequency-Drug Arg1:T12 Arg2:T11
+T13	Drug 7968 7985	heparin (porcine)
+T14	Strength 7986 7999	5,000 unit/mL
+R5	Strength-Drug Arg1:T14 Arg2:T13
+T15	Form 8000 8008	Solution
+R6	Form-Drug Arg1:T15 Arg2:T13
+T17	Dosage 8014 8024	One (1) ml
+R7	Dosage-Drug Arg1:T17 Arg2:T13
+T18	Route 8025 8034	Injection
+R8	Route-Drug Arg1:T18 Arg2:T13
+T20	Frequency 8035 8054	TID (3 times a day)
+R9	Frequency-Drug Arg1:T20 Arg2:T13
+T21	Drug 8059 8069	amlodipine
+T22	Strength 8070 8074	5 mg
+R10	Strength-Drug Arg1:T22 Arg2:T21
+T23	Form 8075 8081	Tablet
+R11	Form-Drug Arg1:T23 Arg2:T21
+T24	Dosage 8087 8094	Two (2)
+R12	Dosage-Drug Arg1:T24 Arg2:T21
+T25	Form 8095 8101	Tablet
+R13	Form-Drug Arg1:T25 Arg2:T21
+T26	Route 8102 8104	PO
+R14	Route-Drug Arg1:T26 Arg2:T21
+T27	Frequency 8105 8110	QNOON
+R15	Frequency-Drug Arg1:T27 Arg2:T21
+T28	Drug 8118 8137	hydrochlorothiazide
+T29	Strength 8138 8143	50 mg
+R16	Strength-Drug Arg1:T29 Arg2:T28
+T30	Form 8144 8150	Tablet
+R17	Form-Drug Arg1:T30 Arg2:T28
+T31	Dosage 8156 8163	One (1)
+R18	Dosage-Drug Arg1:T31 Arg2:T28
+T32	Form 8164 8170	Tablet
+R19	Form-Drug Arg1:T32 Arg2:T28
+T33	Route 8171 8173	PO
+R20	Route-Drug Arg1:T33 Arg2:T28
+T34	Frequency 8174 8178;8179 8184	once a day
+R21	Frequency-Drug Arg1:T34 Arg2:T28
+T35	Drug 8189 8208	metoprolol tartrate
+T36	Strength 8209 8214	50 mg
+R22	Strength-Drug Arg1:T36 Arg2:T35
+T37	Form 8215 8221	Tablet
+R23	Form-Drug Arg1:T37 Arg2:T35
+T38	Dosage 8227 8234	Two (2)
+R24	Dosage-Drug Arg1:T38 Arg2:T35
+T39	Form 8235 8241	Tablet
+R25	Form-Drug Arg1:T39 Arg2:T35
+T40	Route 8242 8244	PO
+R26	Route-Drug Arg1:T40 Arg2:T35
+T41	Frequency 8245 8248	TID
+R27	Frequency-Drug Arg1:T41 Arg2:T35
+T42	Drug 8269 8279	lisinopril
+T43	Strength 8280 8285	30 mg
+R28	Strength-Drug Arg1:T43 Arg2:T42
+T44	Form 8286 8292	Tablet
+R29	Form-Drug Arg1:T44 Arg2:T42
+T45	Dosage 8298 8305	One (1)
+R30	Dosage-Drug Arg1:T45 Arg2:T42
+T46	Form 8306 8312	Tablet
+R31	Form-Drug Arg1:T46 Arg2:T42
+T47	Route 8313 8315	PO
+R32	Route-Drug Arg1:T47 Arg2:T42
+T48	Frequency 8316 8327	twice a day
+R33	Frequency-Drug Arg1:T48 Arg2:T42
+T49	Drug 8332 8341	doxazosin
+T50	Strength 8342 8346	4 mg
+R34	Strength-Drug Arg1:T50 Arg2:T49
+T51	Form 8347 8353	Tablet
+R35	Form-Drug Arg1:T51 Arg2:T49
+T52	Dosage 8359 8366	Two (2)
+R36	Dosage-Drug Arg1:T52 Arg2:T49
+T53	Form 8367 8373	Tablet
+R37	Form-Drug Arg1:T53 Arg2:T49
+T54	Route 8374 8376	PO
+R38	Route-Drug Arg1:T54 Arg2:T49
+T55	Frequency 8377 8379	HS
+R39	Frequency-Drug Arg1:T55 Arg2:T49
+T56	Drug 8398 8415	albuterol sulfate
+T57	Strength 8416 8432	90 mcg/Actuation
+R40	Strength-Drug Arg1:T57 Arg2:T56
+T58	Form 8433 8452	HFA Aerosol Inhaler
+R41	Form-Drug Arg1:T58 Arg2:T56
+T59	Dosage 8458 8466	Four (4)
+R42	Dosage-Drug Arg1:T59 Arg2:T56
+T60	Form 8467 8471	Puff
+R43	Form-Drug Arg1:T60 Arg2:T56
+T61	Route 8472 8482	Inhalation
+R44	Route-Drug Arg1:T61 Arg2:T56
+T62	Frequency 8483 8512	Q4H (every 4 hours) as needed
+R45	Frequency-Drug Arg1:T62 Arg2:T56
+T63	Reason 8517 8525	wheezing
+R46	Reason-Drug Arg1:T63 Arg2:T56
+T64	Drug 8530 8549	ipratropium bromide
+T65	Strength 8550 8554	0.02 
+R47	Strength-Drug Arg1:T65 Arg2:T64
+T66	Form 8557 8565	Solution
+R48	Form-Drug Arg1:T66 Arg2:T64
+T67	Dosage 8571 8578	One (1)
+R49	Dosage-Drug Arg1:T67 Arg2:T64
+T68	Form 8579 8582	NEB
+R50	Form-Drug Arg1:T68 Arg2:T64
+T69	Route 8583 8593	Inhalation
+R51	Route-Drug Arg1:T69 Arg2:T64
+T70	Frequency 8594 8623	Q4H (every 4 hours) as needed
+R52	Frequency-Drug Arg1:T70 Arg2:T64
+T71	Reason 8633 8641	wheezing
+R53	Reason-Drug Arg1:T71 Arg2:T64
+T72	Drug 8646 8663	albuterol sulfate
+T73	Strength 8664 8676	2.5 mg /3 mL
+R54	Strength-Drug Arg1:T73 Arg2:T72
+T74	Form 8687 8699;8700 8712	Solution for Nebulization
+R55	Form-Drug Arg1:T74 Arg2:T72
+T75	Dosage 8718 8725	One (1)
+R56	Dosage-Drug Arg1:T75 Arg2:T72
+T76	Form 8726 8729	NEB
+R57	Form-Drug Arg1:T76 Arg2:T72
+T77	Route 8730 8740	Inhalation
+R58	Route-Drug Arg1:T77 Arg2:T72
+T78	Frequency 8741 8763;8764 8770	Q4H (every 4 hours) as needed
+R59	Frequency-Drug Arg1:T78 Arg2:T72
+T79	Reason 8779 8787	Wheezing
+R60	Reason-Drug Arg1:T79 Arg2:T72
+T80	Drug 8793 8801	baclofen
+T81	Strength 8802 8807	10 mg
+R61	Strength-Drug Arg1:T81 Arg2:T80
+T82	Form 8808 8814	Tablet
+R62	Form-Drug Arg1:T82 Arg2:T80
+T83	Dosage 8820 8823	0.5
+R63	Dosage-Drug Arg1:T83 Arg2:T80
+T84	Form 8824 8830	Tablet
+R64	Form-Drug Arg1:T84 Arg2:T80
+T85	Route 8831 8833	PO
+R65	Route-Drug Arg1:T85 Arg2:T80
+T86	Frequency 8834 8845	twice a day
+R66	Frequency-Drug Arg1:T86 Arg2:T80
+T87	Drug 8851 8861	famotidine
+T88	Strength 8903 8914	20 mg/50 mL
+R67	Strength-Drug Arg1:T88 Arg2:T87
+T89	Form 8915 8924	Piggyback
+R68	Form-Drug Arg1:T89 Arg2:T87
+T90	Dosage 8930 8940	Fifty (50)
+R69	Dosage-Drug Arg1:T90 Arg2:T87
+T92	Route 8944 8955	Intravenous
+R71	Route-Drug Arg1:T92 Arg2:T87
+T93	Frequency 8956 8960	Q12H
+R72	Frequency-Drug Arg1:T93 Arg2:T87
+T94	Drug 8983 8992	bisacodyl
+T95	Strength 8993 8998	10 mg
+R73	Strength-Drug Arg1:T95 Arg2:T94
+T96	Form 8999 9010	Suppository
+R74	Form-Drug Arg1:T96 Arg2:T94
+T97	Dosage 9016 9023	One (1)
+R75	Dosage-Drug Arg1:T97 Arg2:T94
+T98	Form 9024 9035	Suppository
+R76	Form-Drug Arg1:T98 Arg2:T94
+T99	Route 9036 9042	Rectal
+R77	Route-Drug Arg1:T99 Arg2:T94
+T100	Frequency 9043 9046	QHS
+R78	Frequency-Drug Arg1:T100 Arg2:T94
+T101	Drug 9078 9083	senna
+T102	Strength 9084 9095	8.8 mg/5 mL
+R79	Strength-Drug Arg1:T102 Arg2:T101
+T103	Form 9096 9101	Syrup
+R80	Form-Drug Arg1:T103 Arg2:T101
+T104	Dosage 9107 9115	Five (5)
+R81	Dosage-Drug Arg1:T104 Arg2:T101
+T105	Route 9119 9121	PO
+R82	Route-Drug Arg1:T105 Arg2:T101
+T106	Frequency 9122 9125	BID
+R83	Frequency-Drug Arg1:T106 Arg2:T101
+T107	Drug 9147 9162	docusate sodium
+T108	Strength 9163 9173	50 mg/5 mL
+R84	Strength-Drug Arg1:T108 Arg2:T107
+T109	Form 9174 9180	Liquid
+R85	Form-Drug Arg1:T109 Arg2:T107
+T111	Dosage 9186 9197	Ten (10) ml
+R86	Dosage-Drug Arg1:T111 Arg2:T107
+T112	Route 9198 9200	PO
+R87	Route-Drug Arg1:T112 Arg2:T107
+T113	Frequency 9201 9204	BID
+R88	Frequency-Drug Arg1:T113 Arg2:T107
+T114	Drug 9226 9250	polyethylene glycol 3350
+T115	Strength 9251 9263	17 gram/dose
+R89	Strength-Drug Arg1:T115 Arg2:T114
+T116	Form 9264 9270	Powder
+R90	Form-Drug Arg1:T116 Arg2:T114
+T117	Dosage 9276 9283	One (1)
+R91	Dosage-Drug Arg1:T117 Arg2:T114
+T118	Form 9284 9288	dose
+R92	Form-Drug Arg1:T118 Arg2:T114
+T119	Route 9289 9291	PO
+R93	Route-Drug Arg1:T119 Arg2:T114
+T120	Frequency 9292 9297	DAILY
+R94	Frequency-Drug Arg1:T120 Arg2:T114
+T16	Reason 8775 8778	SOB
+R70	Reason-Drug Arg1:T16 Arg2:T72	
+T19	Reason 8628 8631	sob
+R95	Reason-Drug Arg1:T19 Arg2:T64	

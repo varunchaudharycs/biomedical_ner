@@ -1,0 +1,224 @@
+T1	Drug 1243 1245	O2
+T2	Strength 1259 1261	.3
+R1	Strength-Drug Arg1:T2 Arg2:T4
+T3	Route 1262 1264	sc
+R2	Route-Drug Arg1:T3 Arg2:T4
+T4	Drug 1265 1268	epi
+T5	Drug 1340 1350	solumedrol
+T6	Strength 1351 1356	125mg
+R3	Strength-Drug Arg1:T6 Arg2:T5
+T7	Dosage 1359 1360	1
+R4	Dosage-Drug Arg1:T7 Arg2:T5
+T8	Drug 1362 1368	heliox
+T9	Dosage 1607 1616	high dose
+R5	Dosage-Drug Arg1:T9 Arg2:T10
+T10	Drug 1617 1624	steroid
+T11	Drug 162 169	Aspirin
+T12	Strength 1646 1648;1649 1651	80 mg
+R6	Strength-Drug Arg1:T12 Arg2:T13
+T13	Drug 1652 1662	prednisone
+T14	Frequency 1663 1668	daily
+R7	Frequency-Drug Arg1:T14 Arg2:T13
+T15	Drug 1674 1682	decadron
+T16	Strength 1683 1686	4mg
+R8	Strength-Drug Arg1:T16 Arg2:T15
+T17	Frequency 1687 1692	daily
+R9	Frequency-Drug Arg1:T17 Arg2:T15
+T18	Drug 1839 1849	prednisone
+T19	Strength 1850 1855	20 mg
+R10	Strength-Drug Arg1:T19 Arg2:T18
+T20	Frequency 1856 1859	qod
+R11	Frequency-Drug Arg1:T20 Arg2:T18
+T21	Drug 3342 3351	albuterol
+T22	Reason 3599 3605	Asthma
+R12	Reason-Drug Arg1:T22 Arg2:T25
+R13	Reason-Drug Arg1:T22 Arg2:T24
+R14	Reason-Drug Arg1:T22 Arg2:T27
+R15	Reason-Drug Arg1:T22 Arg2:T26
+R16	Reason-Drug Arg1:T22 Arg2:T29
+T24	Drug 3761 3773	theophylline
+T25	Drug 3775 3786	montelukast
+T26	Drug 3788 3799	fluticasone
+T27	Drug 3801 3811	salumedrol
+T28	Strength 3861 3864	125
+R17	Strength-Drug Arg1:T28 Arg2:T29
+T29	Drug 3865 3883	methylprednisolone
+T30	Frequency 3884 3887	q8h
+R18	Frequency-Drug Arg1:T30 Arg2:T29
+T31	Drug 3950 3957	insulin
+T33	Drug 3964 3972	steroids
+T34	Drug 4095 4105	prednisone
+T35	Dosage 4106 4111	taper
+R20	Dosage-Drug Arg1:T35 Arg2:T34
+T36	Strength 4124 4128	60mg
+R21	Strength-Drug Arg1:T36 Arg2:T34
+T37	Frequency 4129 4133	qday
+R22	Frequency-Drug Arg1:T37 Arg2:T34
+T38	Strength 4147 4151	30mg
+R23	Strength-Drug Arg1:T38 Arg2:T34
+T39	Frequency 4152 4156	qday
+R24	Frequency-Drug Arg1:T39 Arg2:T34
+T40	Drug 4186 4194	protonix
+T41	Reason 4204 4208	GERD
+R25	Reason-Drug Arg1:T41 Arg2:T40
+T42	ADE 4219 4240	exacerbate her asthma
+R26	ADE-Drug Arg1:T42 Arg2:T40
+T43	Drug 4382 4394	Theophylline
+T44	Strength 4395 4400	300mg
+R27	Strength-Drug Arg1:T44 Arg2:T43
+T45	Form 4401 4403	SR
+R28	Form-Drug Arg1:T45 Arg2:T43
+T46	Drug 4421 4432	Montelukast
+T47	Strength 4433 4437	10mg
+R29	Strength-Drug Arg1:T47 Arg2:T46
+T48	Frequency 4438 4442	qday
+R30	Frequency-Drug Arg1:T48 Arg2:T46
+T49	Drug 4443 4452	Albuterol
+T50	Dosage 4453 4456	1-2
+R31	Dosage-Drug Arg1:T50 Arg2:T49
+T51	Form 4457 4462	puffs
+R32	Form-Drug Arg1:T51 Arg2:T49
+T52	Frequency 4463 4466	q4h
+R33	Frequency-Drug Arg1:T52 Arg2:T49
+T53	Drug 4467 4478	Fluticasone
+T54	Dosage 4479 4480	2
+R34	Dosage-Drug Arg1:T54 Arg2:T53
+T55	Form 4481 4486	puffs
+R35	Form-Drug Arg1:T55 Arg2:T53
+T56	Drug 4504 4514	salmeterol
+T57	Dosage 4515 4516	1
+R36	Dosage-Drug Arg1:T57 Arg2:T56
+T58	Form 4517 4521	puff
+R37	Form-Drug Arg1:T58 Arg2:T56
+T59	Frequency 4522 4526	qday
+R38	Frequency-Drug Arg1:T59 Arg2:T56
+T60	Drug 4527 4536	albuterol
+T61	Form 4537 4541	nebs
+R39	Form-Drug Arg1:T61 Arg2:T60
+T62	Drug 4559 4569	prednisone
+T63	Strength 4570 4574	20mg
+R40	Strength-Drug Arg1:T63 Arg2:T62
+T64	Frequency 4575 4578	qod
+R41	Frequency-Drug Arg1:T64 Arg2:T62
+T65	Drug 4606 4624	Montelukast Sodium
+T66	Strength 4625 4630	10 mg
+R42	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 4631 4637	Tablet
+R43	Form-Drug Arg1:T67 Arg2:T65
+T68	Dosage 4643 4650	One (1)
+R44	Dosage-Drug Arg1:T68 Arg2:T65
+T69	Form 4651 4657	Tablet
+R45	Form-Drug Arg1:T69 Arg2:T65
+T70	Route 4658 4660	PO
+R46	Route-Drug Arg1:T70 Arg2:T65
+T71	Frequency 4661 4666;4667 4674	DAILY (Daily)
+R47	Frequency-Drug Arg1:T71 Arg2:T65
+T72	Drug 4679 4691	Theophylline
+T73	Strength 4692 4698	300 mg
+R48	Strength-Drug Arg1:T73 Arg2:T72
+T74	Form 4699 4726	Capsule, Sust. Release 12HR
+R49	Form-Drug Arg1:T74 Arg2:T72
+T75	Dosage 4732 4739	One (1)
+R50	Dosage-Drug Arg1:T75 Arg2:T72
+T76	Form 4740 4767	Capsule, Sust. Release 12HR
+R51	Form-Drug Arg1:T76 Arg2:T72
+T77	Route 4768 4770	PO
+R52	Route-Drug Arg1:T77 Arg2:T72
+T78	Frequency 4771 4790	BID (2 times a day)
+R53	Frequency-Drug Arg1:T78 Arg2:T72
+T79	Form 4792 4800;4801 4822	Capsule, Sust. Release 12HR(s)
+R54	Form-Drug Arg1:T79 Arg2:T72
+T80	Drug 4826 4848	Fluticasone Propionate
+T81	Strength 4849 4866	110 mcg/Actuation
+R55	Strength-Drug Arg1:T81 Arg2:T80
+T82	Form 4867 4874	Aerosol
+R56	Form-Drug Arg1:T82 Arg2:T80
+T83	Dosage 4880 4887	Two (2)
+R57	Dosage-Drug Arg1:T83 Arg2:T80
+T84	Form 4888 4892	Puff
+R58	Form-Drug Arg1:T84 Arg2:T80
+T85	Route 4893 4903	Inhalation
+R59	Route-Drug Arg1:T85 Arg2:T80
+T86	Reason 492 505	asthma attack
+T87	Frequency 4922 4935	2 times a day
+R60	Frequency-Drug Arg1:T87 Arg2:T80
+T88	Drug 4941 4961	Salmeterol Xinafoate
+T89	Strength 4962 4973	50 mcg/Dose
+R61	Strength-Drug Arg1:T89 Arg2:T88
+T90	Form 4974 4990	Disk with Device
+R62	Form-Drug Arg1:T90 Arg2:T88
+T91	Dosage 4996 4999;5000 5003	One (1)
+R63	Dosage-Drug Arg1:T91 Arg2:T88
+T92	Form 5004 5020	Disk with Device
+R64	Form-Drug Arg1:T92 Arg2:T88
+T93	Route 5021 5031	Inhalation
+R65	Route-Drug Arg1:T93 Arg2:T88
+T94	Frequency 5032 5053	Q12H (every 12 hours)
+R66	Frequency-Drug Arg1:T94 Arg2:T88
+T95	Drug 5058 5077	Ipratropium Bromide
+T96	Strength 5078 5082	0.02 
+R67	Strength-Drug Arg1:T96 Arg2:T95
+T97	Form 5085 5093	Solution
+R68	Form-Drug Arg1:T97 Arg2:T95
+T98	Dosage 5099 5117;5118 5121	Five Hundred (500) mcg
+R69	Dosage-Drug Arg1:T98 Arg2:T95
+T99	Route 5122 5132	Inhalation
+R70	Route-Drug Arg1:T99 Arg2:T95
+T100	Frequency 5133 5162	every six (6) hours as needed
+R71	Frequency-Drug Arg1:T100 Arg2:T95
+T101	Reason 5167 5179;5180 5186	shortness of breath
+R72	Reason-Drug Arg1:T101 Arg2:T95
+T102	Reason 5190 5198	wheezing
+R73	Reason-Drug Arg1:T102 Arg2:T95
+T103	Drug 5231 5241	Prednisone
+T104	Strength 5242 5247	20 mg
+R74	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 5248 5254	Tablet
+R75	Form-Drug Arg1:T105 Arg2:T103
+T106	Form 5273 5279	Tablet
+R76	Form-Drug Arg1:T106 Arg2:T103
+T107	Route 5280 5282	PO
+R77	Route-Drug Arg1:T107 Arg2:T103
+T108	Frequency 5283 5289;5290 5293	once a day
+R78	Frequency-Drug Arg1:T108 Arg2:T103
+T109	Dosage 5300 5301	3
+R79	Dosage-Drug Arg1:T109 Arg2:T103
+T110	Form 5302 5306	tabs
+R80	Form-Drug Arg1:T110 Arg2:T103
+T111	Duration 5313 5323	for 2 days
+R81	Duration-Drug Arg1:T111 Arg2:T103
+T112	Dosage 5336 5337	2
+R82	Dosage-Drug Arg1:T112 Arg2:T103
+T113	Form 5338 5342	tabs
+R83	Form-Drug Arg1:T113 Arg2:T103
+T114	Duration 5349 5354;5355 5359	for 2 days
+R84	Duration-Drug Arg1:T114 Arg2:T103
+T115	Dosage 5372 5384	1 and a half
+R85	Dosage-Drug Arg1:T115 Arg2:T103
+T116	Form 5385 5392	tablets
+R86	Form-Drug Arg1:T116 Arg2:T103
+T117	Drug 5493 5512	Pantoprazole Sodium
+T118	Drug 551 561	prednisone
+T119	Strength 5513 5518	40 mg
+R87	Strength-Drug Arg1:T119 Arg2:T117
+T120	Form 5519 5549	Tablet, Delayed Release (E.C.)
+R88	Form-Drug Arg1:T120 Arg2:T117
+T121	Dosage 5555 5562	One (1)
+R89	Dosage-Drug Arg1:T121 Arg2:T117
+T122	Form 5563 5593	Tablet, Delayed Release (E.C.)
+R90	Form-Drug Arg1:T122 Arg2:T117
+T123	Route 5594 5596	PO
+R91	Route-Drug Arg1:T123 Arg2:T117
+T124	Frequency 5597 5618	Q24H (every 24 hours)
+R92	Frequency-Drug Arg1:T124 Arg2:T117
+T125	Strength 562 566	20mg
+R93	Strength-Drug Arg1:T125 Arg2:T118
+T126	Route 567 569	po
+R94	Route-Drug Arg1:T126 Arg2:T118
+T127	Frequency 570 573	qod
+R95	Frequency-Drug Arg1:T127 Arg2:T118
+R96	Reason-Drug Arg1:T86 Arg2:T118	
+T128	Dosage 1382 1385	10L
+T129	Route 1369 1373;1374 1378	mask vent
+R97	Route-Drug Arg1:T129 Arg2:T8	
+R98	Dosage-Drug Arg1:T128 Arg2:T8	

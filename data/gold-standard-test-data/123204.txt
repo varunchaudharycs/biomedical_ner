@@ -1,0 +1,274 @@
+Admission Date:  [**2182-6-19**]              Discharge Date:   [**2182-6-21**]
+
+Date of Birth:  [**2105-9-9**]             Sex:   F
+
+Service: EMERGENCY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2565**]
+Chief Complaint:
+hypoxemia, hypotension
+
+Major Surgical or Invasive Procedure:
+endotracheal intubation, mechanical ventilation
+arterial/venous line placement
+
+History of Present Illness:
+76 yo F with h/o metastatic breast CA on chemotherapy who
+initially was admitted to the OMED service with diarrhea who is
+now transferred to the [**Hospital Unit Name 153**] for hypotension and hypoxia. Patient
+states she had been feeling constipated for 1 week after chemo
+on [**6-6**] and then took laxatives until she had several large BMs.
+A few days later she develope large volume, non-bloody dairrhea
+that was associated with some lightheadedness. She denied
+fevers, chills, rashes. Reports poor appetite but states she was
+drinking lot of water and trying to eat salty foods; however
+this was limited by worsening mucositis over the past few days.
+Due to concern for dehydration and contniued diarrhea, the
+patient was admitted directly from the oncology clinic.
+.
+Upon arrival to the floor, pt AF with BP 120/74, HR 116, RR 24,
+O2 sat 94% 2L NC. She was given 2L IVFs, started on po flagyl
+empirically for c. diff adn had stool cultures sent for possible
+OIs. Upon vitals check at 0400, pt's BP noted to be 78/54, HR
+98, RR 20s, O2 sat 86% RA --> 93% 3L NC. Given 500 cc IVF bolus
+X 2 with response in SBP to 86/40s, however, RR rose to upper
+20-30s with O2 sats 90% 6L NC --> 95% NRB. ABG 7.51/25/114/21.
+CXR revealed likely pulmonary edema with worsening bilateral
+pleural effusions and possible retrocardiac opacity. She was
+transferred to the [**Hospital Unit Name 153**] where code status was confirmed as full
+and pt was intubated. Peri-intubation required dopamine at 20
+mcg/kg/min, which was transitioned over to levophed gtt once
+triple lumen catheter placed.
+
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+[**Known firstname **] [**Known lastname 1617**] was previously treated for breast cancer in the
+late [**2153**]. At that time she was diagnosed with a left-sided
+infiltrating ductal carcinoma on [**2160-7-30**]. Repeat biopsy
+showed persistent DCIS, and she underwent left mastectomy on
+[**2160-9-20**]. Two of three lymph nodes were involved. She was
+treated with 6 cycles of adjuvant oral CMF chemotherapy, which
+completed in [**2161**], and then eight years of tamoxifen as the
+tumor was ER positive, PR negative. Since that
+time Ms. [**Known lastname 1617**] was also diagnosed with a left renal cell
+carcinoma and underwent partial nephrectomy in 03/[**2178**]. Her
+medical course has been complicated by coronary artery disease
+status post MI in [**9-/2179**] and atrial fibrillation. More
+recently, a CT of the chest noted ground-glass abnormalities,
+raising concern for bronchoalveolar carcinoma. This has not been
+biopsied or formally diagnosed. In [**2-/2182**] liver function
+studies were noted to be elevated, and liver ultrasound and
+abdominal CT showed numerous lesions in the liver. CT-guided
+core liver biopsy on [**2182-2-25**] showed metastatic breast
+adenocarcinoma staining positive for mammoglobin, negative for
+GCDFP, ER, and PR. The tumor overexpressed HER-2/neu. Tumor
+markers drawn on [**2182-2-18**] were elevated with CEA 20 ng/mL and
+CA 27.29 278 u/mL. PET scan performed on [**2182-3-6**] showed
+numerous heterogeneous liver lesions, sclerotic lesions in the
+left anterior rib and right ilium that were FDG avid and
+concerning for metastatic foci, and FDG avid left pelvic side
+wall lymph node. On [**2182-3-20**] mammogram and ultrasound of the
+right breast showed a 1.9-cm right breast nodule. Pathology from
+a core breast biopsy showed invasive ductal carcinoma grade I
+that was HER-2/neu negative and ER/PR positive. Ms. [**Known lastname 1617**],
+therefore, appears to have a new right breast tumor that is
+ER/PRpositive, HER-2/neu negative, and liver metastases that are
+ER/PR negative and HER-2/neu positive. She began Herceptin on
+[**2182-4-16**], and Navelbine was added on [**2182-6-6**]. Also had L
+thoracocentesis in [**5-11**] with malignant cells (adenocarcinoma) on
+cytology.
+.
+PAST MEDICAL HISTORY:
+1. History of left-sided breast cancer as discussed above,
+metastatic to
+2. History of renal cell carcinoma status post partial left
+nephrectomy, 03/[**2178**].
+3. Coronary artery disease status post MI [**2179-9-11**] with PCI x2.
+4. Atrial fibrillation.
+5. Diet-controlled diabetes mellitus.
+6. Hypertension.
+7. GERD.
+8. Hyperlipidemia.
+9. History of lung imaging abnormalities concerning for BAC.
+10. History of a right ovarian dermoid cyst resected at age 32.
+
+11. Osteoporosis.
+12. History of TMJ syndrome.
+13. Cataracts.
+14. H/o C.difficile infection.
+15. H/o Grp A beta-Strep bacteremia.
+
+Social History:
+The patient is married and lives in [**Location 745**], [**State 350**]. She
+was previously a schoolteacher and is now retired. She denies
+tobacco or alcohol use, although, admits to a history of
+secondhand tobacco exposure as a child.
+
+Family History:
+There is no family history of breast cancer.
+The patient's son is currently being treated for metastatic
+renal cell carcinoma. She has another son who is without health
+concerns. Her mother died of a stroke at 61 years and father
+died of congestive heart failure at 78 years.
+
+Physical Exam:
+Vitals - 98.5 120/74 116 24 94% on 2L
+GENERAL: moderate distress [**2-4**] tachypnea and SOB, speaking in
+full sentences without much difficulty, able to lie flat for
+Foley insertion but with mild difficulty
+HEENT: Dry MM, + mucositis, no LAD, cracked lips, JVP
+approximately 12 cm above sternal notch
+CARDIAC: Irregular, II/VI SEM
+LUNG: CTAB with decreased BS at bilateral bases, no wheezes,
+rhonchi, rales appreciated
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+M/S: 2+ LE edema bilat with L > R LE, moving all extremities
+well, no cyanosis, clubbing, no obvious deformities
+NEURO: CN II-XII intact
+
+
+Pertinent Results:
+LABS ON ADMISSION:
+[**2182-6-19**] 10:57AM BLOOD WBC-0.5*# RBC-3.18* Hgb-10.5* Hct-29.3*
+MCV-92 MCH-33.2* MCHC-36.0* RDW-13.9 Plt Ct-374#
+[**2182-6-19**] 12:30PM BLOOD PT-32.1* INR(PT)-3.2*
+[**2182-6-19**] 12:30PM BLOOD UreaN-26* Creat-0.7 Na-121* K-4.4 Cl-84*
+HCO3-26 AnGap-15
+[**2182-6-20**] 12:15AM BLOOD ALT-21 AST-33 LD(LDH)-243 AlkPhos-130*
+TotBili-1.1 DirBili-0.6* IndBili-0.5
+[**2182-6-19**] 12:30PM BLOOD Albumin-3.4 Calcium-8.9 Mg-1.5*
+.
+URINE:
+[**2182-6-20**] 08:48AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.014
+[**2182-6-20**] 08:48AM URINE Blood-NEG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+[**2182-6-20**] 08:48AM URINE RBC-1 WBC-4 Bacteri-FEW Yeast-NONE Epi-1
+[**2182-6-20**] 08:48AM URINE Hours-RANDOM UreaN-795 Creat-89 Na-LESS
+THAN
+.
+MICROBIOLOGY:
+bl cx - GNR in [**4-6**] bottles
+.
+CARDIOLOGY:
+TTE:
+Conclusions
+The left atrium is moderately dilated. No atrial septal defect
+is seen by 2D or color Doppler. Left ventricular wall
+thicknesses and cavity size are normal. There is moderate to
+severe global left ventricular hypokinesis (LVEF = 30 %). No
+masses or thrombi are seen in the left ventricle. There is no
+ventricular septal defect. The right ventricular cavity is
+moderately dilated with moderate global free wall hypokinesis.
+The ascending aorta is mildly dilated. The aortic valve leaflets
+(3) appear structurally normal with good leaflet excursion and
+no aortic regurgitation. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. Moderate [2+] tricuspid
+regurgitation is seen. The pulmonary artery systolic pressure
+could not be determined. There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2182-3-19**],
+biventricular systolic funciton is now significantly depressed.
+
+.
+RADIOLOGY:
+LLE U/S: IMPRESSION: No evidence of left lower extremity DVT.
+.
+CXR:
+Comparison is made with prior study [**2182-5-10**].
+Mild cardiomegaly is unchanged. Mild left pleural effusion has
+increased.
+Small right pleural effusion is unchanged. There is mild
+pulmonary edema.
+There is atelectasis in the right lower lobe. Multiple surgical
+clips are in the left upper quadrant abdomen. There is no
+pneumothorax.
+
+Brief Hospital Course:
+In short, Ms [**Known lastname 1617**] is a 76F with h/o metastatic breast CA C1D15
+of navelbine/herceptin admitted with diarrhea and weakness,
+transferred to [**Hospital Unit Name 153**] in septic shock, expired [**2-4**] overwhelming
+GNR bacteremia.
+.
+# Septic shock: overwhelming GNR bacteremia w
+cardiogenic/distributive/hypovolemic components in the setting
+of febrile neutropenia. DDx for the infection included the gut
+(given diarrhea) vs the lung vs other. Pt treated w aggressive
+fluid resuscitation, dopamine, norepinepherine and vasopressin
+pressors, broad-spectrum antibiotics. TTE revealed decreased
+LVEF confirming the suspicion of acute heart failure in the
+setting of sepsis.
+.
+# Hypoxic respiratory failure: Hypoxia progressed relatively
+rapidly in the setting of receiving IVFs, CXR with evidence
+supporting pulmonary edema. Furthermore, pt's known malignant
+pleural effusion appears to be worsening and is also likely
+contributing. No known aspiration events. Given neutropenia and
+other vitals concerning for sepsis, infection also remains on
+differential. PE also considered, but less likely. Treated for
+sepsis as above.
+.
+# Hyponantremia: Na 120, improved to 130 w fluid resuscitation.
+Does have prior h/o hyponatremia. Suspect that hypovolemia is
+primary etiology.
+.
+# Diarrhea: Possibly infectious etiology given neutropenia vs
+could be [**2-4**] chemo. Given refractory hypotension in the setting
+of sepsis, possibly developing ischemic colitis.
+.
+# Pancytopenia: likely [**2-4**] chemotherapy - neutropenic, anemic w
+underlying combined iron-deficiency anemia and anemia of chronic
+disease. No evidence of hemolysis. Thrombocytopenia. Transfused
+w pRBCs and FFP.
+.
+# Metastatic breast CA: With known mets to liver and likely to
+lung and bone based off of PET scan and pleural fluid cytology.
+.
+# Atrial fibrillation: INR supratherapeutic on admission. Afib w
+RVR on transfer to ICU in the setting of hypovolemia, sepsis and
+pressors.
+
+Medications on Admission:
+1. Amlodipine 5 mg daily.
+2. Amoxicillin prior to dental procedures.
+3. Atenolol 50 mg b.i.d.
+4. Furosemide 10 mg daily.
+5. Lisinopril 40 mg daily.
+6. Potassium chloride 20 mEq daily.
+7. Multivitamin one capsule daily.
+8. Warfarin 2 mg daily.
+9. Aspirin 81 mg daily.
+10. Calcium plus vitamin D b.i.d.
+11. Glucosamine chondroitin three capsules daily.
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+septic shock
+cardiogenic shock
+GNR bacteremia
+repiratory failure
+metastatic breast cancer
+atrial fibrillation
+
+
+Discharge Condition:
+expired
+
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+
+
+Completed by:[**2182-6-21**]

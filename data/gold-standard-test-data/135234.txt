@@ -1,0 +1,343 @@
+Admission Date:  [**2174-7-26**]              Discharge Date:   [**2174-7-29**]
+
+Date of Birth:  [**2095-8-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Coumadin
+
+Attending:[**First Name3 (LF) 3276**]
+Chief Complaint:
+chest pain, lactic acidosis
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname 100424**] is a 78 year old gentleman with metastatic NSCLC
+admitted for elevated lactate. The patient presented to
+Radiation Oncology today for WBXRT (session [**5-3**] today), and
+while at clinic developed 2-3 minutes of chest pain described as
+sternal chest pressure rated as [**4-29**] that resolved with
+supplemental oxygen.  The patient denied any associated SOB,
+n/v, palpitations, pain radiating to jaw, arm, or back that
+resolved with supplmental oxygen.  He was then sent to the [**Hospital1 18**]
+ED for further evaluation.
+.
+In the [**Hospital1 18**] ED, VS 97.9 143/89 68 16 100%RA. The patient
+received vanco and levofloxacin over concern for pneumonia as
+well as 3L IVF with an increase in his lactate from 4.1 to 4.7.
+A CTA was negative for PE, but demonstrated diffuse ground glass
+opacities, right base consolidation, and persistent infiltrates
+largely unchanged from a recent PET-CT. The patient was then
+admitted to the [**Hospital Unit Name 153**] for further evaluation.
+.
+On admission to the [**Hospital Unit Name 153**], the patient was resting comfortably
+without complaints. Denies any f/c/s, n/v/d, CP/SOB,
+palpitations, cough, orthopnea, PND, or hemoptysis.
+
+
+Past Medical History:
+1. Recurrent adenocarcinoma s/p RLL ([**2168**]) and RML ([**2170**])
+resection, and CyberKnife therapy ([**2172**])
+2. Hypertension
+3. DMII
+4. COPD
+5. Hypercholesterolemia
+6. CAD s/p MI ("several years ago)
+7. Psoriasis
+8. TIA ([**2156**])
+
+PSH:
+1. Carotid endarterectomy in [**2161**].
+2. Bilateral cataracts.
+3. Ischiorectal surgery in the [**2115**].
+4. Appendectomy.
+5. RLL ([**2168**]) and RML ([**2170**]) resection
+
+Social History:
+Retired electronic store owner. Splits time between MA and FL
+with wife. Social alcohol use ([**2-22**] drinks/week). Smoked 1-2ppd x
+58 yrs, quit in [**2168**].
+
+
+Family History:
+No history of lung cancer.
+
+Physical Exam:
+VS: 98.1 67 145/71 88 19 97%RA
+Gen: Age appropriate male in NAD
+HEENT: Perrl, eomi, sclerae anicteric. MMM, OP clear without
+lesions, exudate or erythema. Neck supple.
+CV: Nl S1+S2, no m/r/g. JVP <10 cm. No pre-cordial heave or
+laterally displaced PMI.
+Pulm: Diffuse expiratory wheezes. Decreased breaths sounds on
+right with dullness to percussion and vocal fremitus.
+Abd: S/NT/ND +bs
+Ext: No c/c/e.
+Neuro: AO x3, CN II-XII intact
+
+
+Pertinent Results:
+[**2174-7-26**] 01:05PM BLOOD WBC-14.8* RBC-5.22 Hgb-16.5 Hct-47.5
+MCV-91 MCH-31.6 MCHC-34.7 RDW-14.1 Plt Ct-ERROR
+[**2174-7-29**] 06:40AM BLOOD WBC-13.7* RBC-5.05 Hgb-16.0 Hct-45.9
+MCV-91 MCH-31.7 MCHC-34.9 RDW-14.2 Plt Ct-95*
+[**2174-7-26**] 01:05PM BLOOD Neuts-85* Bands-0 Lymphs-12* Monos-3
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2174-7-26**] 01:05PM BLOOD PT-11.8 PTT-20.5* INR(PT)-1.0
+[**2174-7-29**] 06:40AM BLOOD Plt Smr-LOW Plt Ct-95*
+[**2174-7-26**] 01:05PM BLOOD Glucose-285* UreaN-41* Creat-0.9 Na-138
+K-4.7 Cl-98 HCO3-25 AnGap-20
+[**2174-7-29**] 06:40AM BLOOD Glucose-177* UreaN-31* Creat-0.8 Na-140
+K-4.7 Cl-102 HCO3-27 AnGap-16
+[**2174-7-26**] 01:05PM BLOOD ALT-68* AST-28 CK(CPK)-38 AlkPhos-51
+TotBili-0.5
+[**2174-7-26**] 01:05PM BLOOD Lipase-71*
+[**2174-7-26**] 01:05PM BLOOD cTropnT-<0.01
+[**2174-7-27**] 04:47AM BLOOD CK-MB-4 cTropnT-<0.01
+[**2174-7-29**] 06:40AM BLOOD Calcium-8.9 Phos-3.5 Mg-2.2
+[**2174-7-29**] 07:35AM BLOOD Lactate-2.7*
+[**2174-7-26**] 03:51PM BLOOD Lactate-4.1*
+[**2174-7-26**] 05:17PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.048*
+[**2174-7-26**] 05:17PM URINE Blood-NEG Nitrite-NEG Protein-TR
+Glucose-1000 Ketone-TR Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+[**2174-7-26**] 05:17PM URINE RBC-0 WBC-0-2 Bacteri-NONE Yeast-NONE
+Epi-0
+
+Blood Culture, Routine (Final [**2174-8-1**]):    NO GROWTH.
+
+CTA
+1. Innumerable ground-glass nodules and peribronchial lesions in
+both lungs,
+right greater than left. Consolidation in the posterior segment
+of the right
+upper lobe. Changes appear stable compared to [**2174-7-15**] PET
+CT.
+2. No evidence of acute pulmonary emboli. No dissection in the
+thoracic
+aorta.
+3. Fatty liver. Calcifications within the spleen and liver,
+likely from
+remote granulomatous infection.
+4. Old right sixth rib fracture and eighth rib sclerosis.
+5. Scattered lung nodules.
+
+CXR
+Interval worsening in size of right pleural effusion with
+associated atelectasis and overall decreasing right upper lobe
+aeration
+compared to radiograph of [**2173-8-14**].
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 100424**] is a 78 year old gentleman with stage IV NSCLC
+admitted for lactic acidosis.
+.
+# Lactic acidosis: Anion gap of 15 on admission. During recent
+admission ([**6-28**]), no lactate was measured although AG ranged
+from [**1-2**] and bicarb 24-26 during admission with albumin >4.
+Differential includes type A lactic acidosis (hypoperfusion)
+from SIRS in setting of pneumonia or cardiogenic shock from ACS
+versus type B lactic acidosis from metformin/diabetes or active
+malignancy.  No evidence of liver mets or decreased synthetic
+function to suggest inability to clear lactate.  While in the
+ICU, the patient's metformin was held, venous lactate levels and
+anion gap were followed.  He received maintenence fluids.  His
+lactate was downtrending on transfer to the floor.
+.
+# Chest pain/CAD: Low suspicion for ACS given ECG in ED
+unchanged without ST-T wave abnormalities. CTA negative for PE
+and patient was CP free throughout his stay in the ICU.  His
+home meds including ASA, statin, lisinopril, and nadolol were
+continued.
+.
+# Leukocytosis: likely secondary to dexamethasone, WBC and fever
+curve were stable in ICU.
+.
+# Lung CA: Per primary oncologist, Dr [**Last Name (STitle) 3274**], Decadron was
+continued.  The patient received whole brain XRT while in the
+ICU, with plans to receive another dose the day after ICU
+discharge
+.
+# Ground glass opacities: Patchy ground glass opacities on CT
+present in 6/[**2174**].  Given heteregenous nature, unlikely to be
+edema.  Less likely to be blood, and low likelihood given
+clinical presentation for bacterial infection.  Given recent
+dexamethasone therapy, concern for PCP given lack of
+prophylaxis, although ground glass present prior to initiation
+of dexamethasone makes this less likely.  Pt was started on PCP
+prophylaxis with Bactrim
+.
+# COPD: Advair, tiotropium, and albuterol were continued.
+.
+# HTN: Home regimen of amlodipine and lisinopril was continued.
+.
+# Diabetes, type 2: Metformin given lactic acidosis and contrast
+load, pt was covered with ISS with accuchecks.
+.
+# Hypercholesterolemia: Statin was continued, ezetimibe held
+given lack of data regarding benefit.
+.
+# GERD: PPI Continued
+
+
+Medications on Admission:
+Tylenol #3 [**1-21**] tab PO Q6-8 hours prn
+Albuterol INH
+Amlodipine 5mg PO daily
+Brimonidine 0.1% drops 1 drop each eye daily
+Escitalopram 20mg PO daily
+Ezetimibe 10mg PO daily
+Fenofibrate 145mg PO daily
+Fexofenadine-pseudoephedrine 120/60mg PO Q12 hours
+Fluticasone-Salmeterol 500/50 1 puff [**Hospital1 **]
+Ipratroprium INH 2 squirts daily
+Lisinopril 40mg PO BID
+Metformin 1000mg PO BID
+Nadolol 5mg PO daily
+Dexamthasone 4 mg PO Q6H
+Simvastatin 60mg PO daily
+Tamsulosin 0.4mg PO daily
+Tiotropium 18mcg PO daily
+ASA 81mg PO daily
+Omeprazole 20mg PO daily
+
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+3. Docusate Sodium 50 mg/5 mL Liquid Sig: [**1-21**] 5 ml PO BID (2
+times a day).
+4. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q6H (every 6 hours) as needed for wheezing.
+
+5. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+6. Nadolol 20 mg Tablet Sig: 0.25 Tablet PO DAILY (Daily).
+7. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+8. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q8H
+(every 8 hours).
+10. Escitalopram 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+11. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+12. Simvastatin 40 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+
+13. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+14. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+15. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+16. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+17. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+18. Acetaminophen-Codeine 300-30 mg Tablet Sig: 1-2 Tablets PO
+Q6H (every 6 hours) as needed for headache.
+19. Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q8H (every
+8 hours).
+Disp:*qs 30 days Tablet(s)* Refills:*2*
+20. Glipizide 5 mg Tablet Extended Rel 24 hr (2) Sig: One (1)
+Tablet Extended Rel 24 hr (2) PO BID (2 times a day).
+Disp:*60 Tablet Extended Rel 24 hr (2)(s)* Refills:*2*
+21. Lantus 100 unit/mL Solution Sig: One (1) 30 units
+Subcutaneous once a day.
+Disp:*qs 30 days * Refills:*3*
+22. Easy Comfort Insulin Syringe 1 mL 30 x [**6-4**]  Syringe Sig:
+One (1) Syringe Miscellaneous once a day.
+Disp:*30 Syringe* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA [**Location (un) 270**] East
+
+Discharge Diagnosis:
+Primary: Metastatic Lung Cancer
+Secondary:
+Superficial bladder cancer
+- Hypertension
+- Diabetes Mellitus
+- COPD, last exacerbation [**2174-5-20**], treated with prednisone
+- Hypercholesterolemia
+- CAD s/p MI ("several years ago")
+- Psoriasis
+- TIA ([**2156**])
+- BPH
+- glaucoma
+- GERD
+- adenoma of the descending colon
+
+
+Discharge Condition:
+afebrile, tolerating diet, comfortable
+
+
+Discharge Instructions:
+You were admitted because you were found in clinic to be short
+of breath with chest pain. A heart related cause was ruled out
+with testing, however another test showed that you had too much
+lactic acid. This is usually a seroius sign that your body is
+not getting enough oxygen. Thus, you spent a night in the ICU.
+It was discovered also that your blood sugar was far too high.
+Accordingly, your lactic acid may be the result of uncontrolled
+diabetes and the pill (metformin) you were using to treat it. We
+followed your labs and you gradually improved. At the same time,
+you were able to receive radiation therapy.
+.
+You were discharged with a new diabetes treatment regimen:
+NEW Lantus 20 units in the morning
+NEW Glypizide 5 mg twice a day
+NEW Bactrim - to prevent a lung infection when on steroids
+STOP Metformin
+HOLD Ezetimibe, Fenofibrate - discuss instead starting a statin
+(such as simvastatin) with your primary care doctor.
+Your sugars are elevated due to your steroids - once your
+steroids are decreased this diabetes regimen will need to be
+adjusted. Therefore it is very important to follow-up with your
+primary care doctor. Call your primary care doctor, [**Doctor Last Name **],[**Doctor Last Name **]
+S. [**Telephone/Fax (1) 14148**], for an appointment in [**1-21**] weeks for diabetes
+management. Take your blood sugar as directed by your primary
+doctor. If you have low blood sugar drink apple juice and
+crackers and call your primary care doctor.
+.
+Return to the hospital if you have chest pain, high fevers,
+dizziness, weakness or any other symptoms that concern you.
+.
+Call your primary care doctor, [**Doctor Last Name **],[**Doctor Last Name **] S. [**Telephone/Fax (1) 14148**], for
+an appointment in [**1-21**] weeks for diabetes management.
+Provider: [**First Name8 (NamePattern2) 251**] [**Name11 (NameIs) **], MD Phone:[**0-0-**]
+Date/Time:[**2174-8-23**] 10:00
+Provider: [**Name10 (NameIs) 1571**] FUNCTION LAB Phone:[**Telephone/Fax (1) 609**]
+Date/Time:[**2174-9-28**] 1:40
+Provider: [**Name10 (NameIs) 1570**],INTERPRET W/LAB NO CHECK-IN [**Name10 (NameIs) 1570**] INTEPRETATION
+BILLING Date/Time:[**2174-9-28**] 2:00
+
+
+Followup Instructions:
+Call your primary care doctor, [**Doctor Last Name **],[**Doctor Last Name **] S. [**Telephone/Fax (1) 14148**], for
+an appointment in [**1-21**] weeks for diabetes management.
+RADIATION - in [**Hospital1 **] at 12:15pm
+Provider: [**First Name8 (NamePattern2) 251**] [**Name11 (NameIs) **], MD Phone:[**0-0-**]
+Date/Time:[**2174-8-23**] 10:00
+Provider: [**Name10 (NameIs) 1571**] FUNCTION LAB Phone:[**Telephone/Fax (1) 609**]
+Date/Time:[**2174-9-28**] 1:40
+Provider: [**Name10 (NameIs) 1570**],INTERPRET W/LAB NO CHECK-IN [**Name10 (NameIs) 1570**] INTEPRETATION
+BILLING Date/Time:[**2174-9-28**] 2:00
+
+
+                             [**First Name8 (NamePattern2) 251**] [**Name8 (MD) **] MD [**MD Number(1) 3282**]
+
+Completed by:[**2174-12-2**]

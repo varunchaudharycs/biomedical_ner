@@ -1,0 +1,351 @@
+Admission Date:  [**2202-10-17**]              Discharge Date:   [**2202-10-22**]
+
+Date of Birth:  [**2143-12-3**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+Vicodin / Roxicet / Sirolimus
+
+Attending:[**First Name3 (LF) 1032**]
+Chief Complaint:
+Mental status changes
+
+Major Surgical or Invasive Procedure:
+Endotracheal intubation
+Lumbar puncture with moderate sedation
+Radial arterial line insertion
+
+History of Present Illness:
+58y/o RHM with history of liver transplant, Hepatitis C, chronic
+renal disease and multiple asymptomatic strokes, presented with
+sudden decline in his mental status. His wife witnessed him be
+struggling get out from bed, decline in his
+awareness. His wife spoke to him with appropriate condition
+around 6:05PM. Around 6:25PM, she heard that the patient started
+to say non-sence, act inappropriately, unable to exchange
+conversation. His wife recalled some "shaking" at the right arm.
+He was brought into [**Hospital1 18**] ED above time and Neurology was
+consulted for code stroke.
+
+In ED, while Neurology was examining patient, he developed right
+arm, leg clonic seizure with head deviation and gaze deviation
+toward to left. He responded with moan when his name was called,
+then developed left arm clonic seizure (secondary
+generalization) and became unresponsive. Ativan 2mg IV was given
+to stop. Patient was intubated subsequently to have further
+neuroradiological evaluation.
+
+HPI ADDENDUM:
+Further history was obtained from the patient's wife the morning
+following his admission. She reports the patient was well until
+returning from a same-day-surgical procedure on [**10-14**] for repair
+of left eye retinal detachment. The patient was vague with his
+reported symptoms, but complained of "feeling lousy" with poor
+appetite and fatigue. He did not eat or drink very much Friday
+or Saturday following. On Saturday evening he began to vomit
+quite frequently. They had a small breakfast Sunday morning and
+the patient was still feeling unwell, but altogether normal per
+his wife. She left for a few hours during the day, returned home
+and heard him yelling out of frustration after having dropped
+something in his room, however the yelling continued and she
+went to see him and noted that he had a great amount of
+difficulty getting himself upright to the edge of his bed. She
+then noted his right arm was shaking. He was brought to [**Hospital1 18**] ED
+where the above described event occurred.
+
+
+Past Medical History:
+- ETOH/HCV cirrhosis s/p Liver Transplant [**2195**] on
+immunosuppression.  Course c/b recurrent hep C viremia, CRI, LFT
+abnl, acute rejection and hepatic artery thrombosis ([**2196**])
+- Polymyositis - diagnosed in [**2196**] after hepatic artery
+thrombosis, Bx showed inflammatory myositis
+- HTN
+- CRI (baseline 2.0)
+- DM on insulin - post-transplant, related to steroid treatment
+- IVDU
+- Multiple strokes - [**2195**] prior to transplant left corona
+radiata
+and posterior putaminal infarct, periventricular white matter
+disease.  [**8-12**] MRI with evidence of chronic cerebellar infarcts.
+- Seizure - single event 3 days prior to transplant while in
+hospital. However chart review reveals pt may have had seizures
+associated with prior infarcts in [**2195**].
+
+
+Social History:
+Lives with his wife. Does not smoke. Quit ETOH use several years
+prior to transplant.
+
+Family History:
+No FH of stroke or neurological disease
+
+Physical Exam:
+Vitals: T ?  HR 64, reg  BP 243/123 RR 17  SO2 97% r/a
+Gen:NAD.
+HEENT:MMM. Sclera clear. OP clear. Extra ear canals, ear drums
+clear.
+Neck: No Carotid bruits
+CV: RRR, Nl S1 and S2, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+Abd: Horizontal surgical scar. Soft, flat, no tenderness
+Ext: No arthralgia, no deformities, no edema
+
+Neurologic examination:
+MS- Opening eyes to voice. Non-verbal. Vocalize non identifiable
+sound. No following command.
+
+CN- Pupils left sclera injected, surgical. Right pupil also
+surgical. Left gaze preference. Left head turning. No facial
+droop with grimacing. Gag+. Cough+.
+
+Motor/Sensory- Normal bulk. R foot clonus x7-9 beats. Left
+negative. No
+withdrawal at R arm, leg, L leg. Withdrawal at R arm.
+Response to the noxious stimuli at left arm. None at right arm,
+leg and left leg.
+
+Reflexes: B T Br Pa Ankle
+Right     2 2 2  3   3
+Left      2 2 2  2   2
+
+Toes were upgoing at the right, down at the left.
+
+Coordination:Unable to examine due to inattention.
+Meningeal sign: Negative Brudzinski sign. No nuchal rigidity.
+
+
+Pertinent Results:
+ADMISSION LABS:
+138  99  42  AGap=18
+ ------------<140
+3.9  25  2.3
+
+estGFR: 29/36 (click for details)
+
+11.2  >15.9/46.6<  127
+N:64.7 L:24.7 M:9.9 E:0.6 Bas:0.2
+
+PT: 11.7  PTT: 31.0  INR: 1.0
+
+Head CT:
+No hemorrhage.
+
+Head MRI/MRA: MRA: The intracranial vertebral and internal
+carotid arteries and their major branches appear normal with no
+evidence of significant stenosis, occlusion, or aneurysms. MRI:
+Unchanged appearance of punctate hemorrhagic areas in bilateral
+cerebral hemispheres and brainstem suggestive of chronic
+process. Amyloid angiopathy is one of the conditions that can
+predispose to tiny punctate hemorrhages. No acute hemorrhage,
+masses, infarct.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 2809**] is a 58 year old gentleman s/p liver transplant
+related to chronic HCV infection, myopathy (? steroid induced),
+history of prior multiple asymptomatic embolic infarcts prior to
+transplantation, who presents with three day prodrome of general
+malaise, poor appetite, nausea/vomiting, followed by acute
+change in mental status with witnessed partial complex seizure
+in the [**Hospital1 18**] ED.
+
+1) Neuro:
+* SEIZURE - Initially a code stroke was called in the ED, but CT
+imaging and later, MRI, showed no evidence of acute infarction.
+Initial labs notable for presence of only serum benzodiazepines
+on tox screening and acute on chronic renal failure. Etiology of
+seizure was thought to be areas of prior cortical infarcts in
+setting of gastrointestinal illness. The patient was intubated
+in the emergency department and promptly extubated at 2am in the
+Neuro ICU the same evening. The morning following admission the
+patient's examination was notable for marked encephalopathy. He
+was changed from phenytoin to oxcarbazepine (Trileptal) given
+multiple long term side effects of phenytoin, and with normal
+hepatic function, but renal impairment and keppra did not seem a
+wise choice. Lumbar puncture was attempted with light sedation
+without success. It was re-attempted with fentanyl and midazolam
+for monitored conscious sedation and revealed 1 WBC, 0 RBC,
+normal protein and glucose. He was transferred to the floor
+after an EEG done on the [**7-18**] revealed no
+abnormalities and showed a normal background.
+* ENCEPHALOPATHY - On the floor, the patient's exam was notable
+for continued encephalopathy, but he was evidently not
+delerious. His main abnormalities were frontal dysfunction (as
+exhibited by impulsiveness, stimulus-bound behaviors,
+desinhibition, bilateral grasp and palmomental reflexes, a
+marked inability to switch mindset) and memory (as exhibited by
+anososgnosia, orientation to place and time, as well as not
+imprinting new information, and working memory (the patient
+stayed in-task, and had sufficent attention to perform, but
+couldn't complete the tasks). Clinically he continued to improve
+slowly but surely, an EEG done on [**10-21**] showed 7 Hz background,
+but otherwise normal. Per his wife, his level of cognitive
+functioning at home was high, as for example he was able to
+discuss politics.
+
+2) Cardio:
+* NSTEMI - Patient was noted to have elevated troponin enzymes
+to 0.31 with EKG without ischemic changes. He was started on
+aspirin, beta blocker, atorvastatin. Cardiology consultation was
+obtained and additionally recommended echocardiogram which
+revealed moderate symmetric left ventricular hypertrophy, no
+focal wall motion abnormalities (poor data quality though),
+LVEF>55%, mild aortic valve stenosis. His NSTEMI was thought
+related to demand related ischemia in the setting of
+catecholamine surge associated with seizure. He should be
+scheduled for an exercise stress test as an outpatient.
+
+3) FEN
+* Acute Renal Failure - Patient's has prior hepato-renal
+syndrome now with baseline creatinine of 1.9-2. Admission
+creatinine notable for 2.4. He was noted to have low urine
+output. He received vigorous IV hydration with improved Cr to
+1.6, however this was likely a sampling error because all the
+lines of his cellcount were down on this blooddraw as well,
+repeat labs showed a creat of 2.0 and his [**Hospital1 **] back to the old
+values. His medications were renally dosed. He was started on
+Thiamine, Folate and MVI.
+
+4) Liver transplantation
+Transaminase levels on admission were WNL. Hepatology
+consultation was obtained and recommended continuing with his
+prior regimen of immunosuppressive agents. No changes were made.
+
+
+5) ID
+A broad spectrum of CSF studies were sent despite the normal
+cell count. Varicella PCR and CMV PCR negative, remainder
+pending. MRSA isolation negative. VRE swab negative.
+Cryptococcal antigen GRAM STAIN, FLUID CULTURE, FUNGAL
+CULTURE-PRELIMINARY,ACID FAST CULTURE, VIRAL CULTURE were all
+(preliminary) negative.
+
+6) PPx, reactivation and reconditioning
+For prophylaxis, he was put on Heparin, pneumoboots, TEDs, and
+PT and OT were consulted to evaluate and treat him.
+
+Medications on Admission:
+Prograf 1mg [**Hospital1 **]
+Imuran 50mg [**Hospital1 **]
+Cellcept (mycophenidate mofetil) 1000mg [**Hospital1 **]
+bactrim
+metoprolol 50mg [**Hospital1 **]
+Clindagel
+asa 81mg daily
+fosamax 35mg q fri
+marinol 5mg qpm and qhs
+simethicone 80mg [**Hospital1 **]
+calcum 500mg + D [**Hospital1 **]
+Ambien (zolpidem) 5mg qhs
+doxazosin 1.5mg qhs
+hydroxyzine hcl 50mg [**Hospital1 **]
+ritalin 15mg qam
+remeron 7.5 qhs
+prilosec 20mg daily
+Effexor 37.5mg daily
+Florinef 0.1mg daily
+Lasix 20mg daily
+Kayexylate
+Lipitor 10mg daily
+Lisinopril 5mg daily
+Percocet one tab qid prn
+Cosopt one drop to left eye [**Hospital1 **]
+Alphagan 0.15% to left eye [**Hospital1 **]
+Ofloxacin 0.3% eye drop to left eye qid
+Prednisolone 1% eye drop to left eye qid
+Homatropine 5% eye drop to left eye [**Hospital1 **]
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+3. Tacrolimus 1 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+4. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+twice a day.
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+6. Alendronate 35 mg Tablet Sig: One (1) Tablet PO QFRI (every
+Friday).
+7. Doxazosin 1 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).
+8. Hydroxyzine HCl 25 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+9. Venlafaxine 37.5 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO DAILY (Daily).
+10. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection [**Hospital1 **] (2 times a day).
+12. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO MWF (Monday-Wednesday-Friday) as needed for ppx.
+13. Oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+14. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic [**Hospital1 **] (2 times a day).
+15. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q 12H
+(Every 12 Hours).
+16. Ofloxacin 0.3 % Drops Sig: One (1)  Ophthalmic four times
+daily ().
+17. Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop
+Ophthalmic QID (4 times a day).
+18. Homatropine HBr 5 % Drops Sig: One (1)  Ophthalmic twice
+daily ().
+19. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+20. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO
+BID (2 times a day).
+21. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+22. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+23. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+24. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1107**] [**Hospital **] [**Hospital 1108**] Rehab Unit at
+[**Hospital6 1109**] - [**Location (un) 1110**]
+
+Discharge Diagnosis:
+Complex partial seizure with secondary generalization.
+
+Discharge Condition:
+Stable, improving cognitively.
+
+Discharge Instructions:
+You have been admitted with an epileptic seizure, most likely
+related to small scars in your brain from old small strokes,
+possibly in the setting mild dehydration. After this you have
+been confused for a while, which is not unusual with a fragile
+brain, a post-seizure state and a lot of medications on board.
+Your medications such as Remeron and Methylphenidate have been
+temporarily discontinued - please follow up with your doctor to
+perhaps reverse these changes when you are back to your
+baseline.
+
+Please take all medications as directed, and attend all your
+follow-up appointments. If you experience any signs or symptoms
+of concern, please contact your doctor immediately, or in case
+of urgency go directly to the emergency room - for example in
+case of recurrence of seizures.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2202-11-17**] 8:40
+Provider: [**Name10 (NameIs) **] XRAY (SCC 2) Phone:[**Telephone/Fax (1) 1228**]
+Date/Time:[**2202-12-14**] 4:10
+Provider: [**Name10 (NameIs) 8741**] [**Name11 (NameIs) **], MD Phone:[**Telephone/Fax (1) 1228**] Date/Time:[**2202-12-14**]
+4:30
+
+Provider: [**First Name8 (NamePattern2) 539**] [**Last Name (NamePattern1) 540**] MD Phone:[**Telephone/Fax (1) 541**]
+Date/Time:[**2202-11-17**] 2:30
+
+
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD, [**MD Number(3) 1041**]
+

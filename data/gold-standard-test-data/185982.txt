@@ -1,0 +1,301 @@
+Admission Date:  [**2166-12-10**]              Discharge Date:   [**2167-1-2**]
+
+Date of Birth:  [**2123-9-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Dilantin
+
+Attending:[**First Name3 (LF) 358**]
+Chief Complaint:
+vomiting/confused
+
+Major Surgical or Invasive Procedure:
+1/24 L MCA coiling and EVD placement
+
+
+History of Present Illness:
+HPI: (history obtained from boyfriend)
+43 year old female presents to the ER today after feeling sick
+since Saturday. She vomited on Saturday and the family thought
+she had a virus. The patient refused to eat and seemed confused
+today so her boyfriend called 911. She was brought to [**Hospital1 18**]
+where
+a CT scan shows a left frontal ICH with extension in the
+ventricles. The patient does report a headache currently. She
+does not have any dizziness, numbness, tingling anywhere.
+
+
+Past Medical History:
+PMHx:unknown
+
+Social History:
+Social Hx: works as a tech in this hospital
+
+
+Family History:
+unknown
+
+Physical Exam:
+PHYSICAL EXAM:
+T:98.8  BP:125/64    HR:54    RR:20       O2Sats:99% 3L NC
+Gen: Patient is sleepy, confused as to why she is here.
+HEENT: Pupils: PERRL         EOMs-intact
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, flat
+affect.
+Orientation: Oriented to person, place, and year. She thought is
+was [**11-6**].
+Language: Speech is slowed.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 1 mm
+bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power [**3-23**] throughout except hamstrings on
+right [**2-21**]. No pronator drift.
+
+Sensation: Intact to light touch bilaterally.
+
+Pertinent Results:
+CT head:
+Preliminary Report !! Wet Read !!
+(Findings just rev'd, w/Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) 3271**], in detail.)
+Lrg, acute parench bleed, centered L frontal deep [**Male First Name (un) 4746**], w/sign
+assoc vasogen edema. Process appears centered on 12 mm round,
+rel
+hyperdense lesion: ?aneurysm/?mass.
+Bld dissects into ventric chain, w/early [**Last Name (un) **] hydroceph and dil
+temp horns. Min shift of midline; no evid herniation.
+
+Labs:
+PT: 13.4  PTT: 23.6  INR: 1.1
+
+Na 142  Cl 106  BUN 25   Glu 112
+K  4.0  CO2 22  Cr  0.6
+
+WBC 15.7  Hbg 14.3  Hct 39.5  Plts 323
+ N:83.8 L:11.9 M:3.6 E:0.3 Bas:0.4
+
+
+Brief Hospital Course:
+A/P: 43 yo woman with left MCA aneurysm rupture.
+.
+Hospital course:
+.
+Patient was admitted from ED to Neuro ICU for q1 hour neuro
+checks.  She had CTA/MRA/MRI which showed evolving L IPH of L
+basal ganglia and frontal lobe with IVH and evidence of
+obstructive hydrocephalus.  She had a L MCA coiling performed
+and an external ventricular drain placed on [**12-11**]. Started on
+cefazolin as prophylaxis for the drain. She remained intubated
+until POD 3. She spiked a temperature on POD3. Pan cultures and
+CSF sent.  CSF was concerning for infection with 250 WBCs.
+Started on empiric Vancomycin and Ceftriaxone.  Infectious
+disease was consulted and recommended cipro and c.diff checks.
+Continued to spike temps over her hospitalization and multiple
+blood, csf, and urine cx have been negative except for two urine
+cx's that grew GPR and Lactobacillus.  UTI's treated
+appropriately but continued to spike fevers. MRI was not
+concerning for infection. Eventually it was decided to hold abx
+for a presumed drug fever.  After stopping antibiotics patient
+remained afebrile.  She had hyponatremia and leukopenia on labs.
+ Patient was fluid restricted and started on salt tabs.
+Patient's hct then steadily declined no source defined - guaiac
+negative.  Her neuro exam markedly improved and was doing very
+well with physical therapy. Patient was transferred to medicine
+service for workup of anemia and treatment of metabolic issues.
+.
+On the medicine service:
+.
+# Leukopenia:  The patient had a leukopenia on transfer. An ANC
+was checked when the WBC dropped to 1.8, with an ANC of 700.
+Etiology of leukopenia was likely lab error versus medication
+effect (Keppra, vancomycin).  She will have her WBC monitored as
+an outpatient.
+.
+# Anemia: On the day of transfer from neurosurgery, she was
+noted to have a 10-point hct drop from 30 to 20.  This drop was
+from lab error, as the repeat check was 26%.  Hemolysis labs
+were negative and reticulocytes were normal with an retic index
+of 1.8. There was no sign of bleeding and she was guaiac
+negative.
+.
+# Aneurysm rupture: Was stable on transfer. Coil stable without
+new pathology seen on MRI/MRA [**12-24**]. Patient's memory and weakness
+deficits were improving daily per boyfriend's report. The
+nimodipine was discontinued on [**1-2**] and the keppra was continued
+(will be on this until 1 month follow-up with neurosurgery.  She
+was discharged on Plavix 75 mg po qday and aspirin for coil per
+neurosurgery directions.  She was asked to arrange a follow-up
+MRI/MRA in one month and then see Dr. [**First Name (STitle) **] after that.
+.
+# Right-hand weakness/Cognitive deficits: Improving per patient
+and boyfriend. Only minimal weakness noted on exam with wrist
+extensors, all other strength was equal bilaterally. Patient is
+right handed and was still having significant difficulty writing
+at the time of discharge. Per OT notes, the patient's RUE
+function was improving and recommended outpatient rehab as soon
+as appropriate. Concerning the cognitive function, she was not
+at baseline at the time of discharge. She had improved during
+her hospitalization but experienced delayed responses and
+speech. She was discharged with plans for outpatient OT, PT and
+speech therapy.
+.
+# Anorexia: Patient reported having no appetite since the
+aneurysm bleed, but eating because she knows she needs to eat.
+Likely related to the aneurysm rupture, and should improve with
+time. Considered an appetite stimulant and suggested starting as
+an outpatient is appetite did not improve. Did not appear to be
+secondary to depression. She was encouraged to take in high
+calorie, smaller meals supplemented with ensure. Weight was
+stable.
+.
+# DVT: Right calf vein DVT at the level of the peroneal vein
+seen on doppler on [**12-24**]. On transfer to medicine was on ASA,
+plavix, and SQ heparin.  Neurosurgery requested that she not be
+started on coumadin for now, but aggreed to theraputic lovenox
+for a course of [**1-22**] months. She will continue lovenox until her
+neurosurgery follow-up visit and the issue of coumadin
+transition can be discussed at that time.
+
+Medications on Admission:
+Medications prior to admission: unknown
+
+Discharge Medications:
+1. Outpatient Occupational Therapy
+2. Outpatient Physical Therapy
+3. Outpatient Speech/Swallowing Therapy
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+6. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+Disp:*120 Tablet(s)* Refills:*1*
+7. Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) 80mg syringe
+Subcutaneous Q12H (every 12 hours).
+Disp:*60 80mg syringe* Refills:*1*
+8. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+9. Outpatient Lab Work
+CBC
+LFTs
+
+Within 1-2 weeks.  Have results send to: REYMOND,[**Last Name (un) 76114**] K
+[**Telephone/Fax (1) 76115**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Primary:
+1. Left MCA aneurysm rupture
+2. Deep Vein Thrombosis
+3. Hyperglycemia
+4. Hyponatremia
+5. Adverse reaction to antibiotics (cephalosporins)
+6. Anemia
+7. Leukopenia
+8. Anorexia
+
+
+Discharge Condition:
+Improved: Vital signs stable, right hand weakness improving,
+cognitive function improving.
+
+
+Discharge Instructions:
+You were admitted to the hospital for a ruptured brain anurysm.
+The aneurysm was coiled and the bleeding was stopped. You
+developed post-op fever and were treated with antibiotics for
+suspected infection. These antibiotics were stopped when you
+developed a rash. The rash was likely due to ceftriaxone or
+ceftazidime, both of which are part of a group of medications
+called cephalosporins. You should not take cephalosporins for
+infection in the future. Your cognitive deficits have improved
+since the aneurysm bleeding was stopped and your right arm/hand
+weakness is improving.
+
+You were started on an antiseizure medication (Keppra) due to
+the bleed and will need to take this until directed to stop by
+your neurosurgeon. For the coil, you were also started on
+aspirin and plavix. You will continue to the aspirin
+indefinetely. You will take the plavix for one more week and
+then can stop this medication. It was discovered that you
+developed a DVT in your right leg. You were started on a blood
+thinning medication (lovenox) and will need to take this until
+directed to stop.
+
+DISCHARGE INSTRUCTIONS FOR CRANIOTOMY/HEAD INJURY
+
+??????	Have a family member check your incision daily for signs of
+infection
+??????	Take your pain medicine as prescribed
+??????	Exercise should be limited to walking; no lifting, straining,
+excessive bending
+??????	You may wash your hair only after sutures and/or staples have
+been removed
+??????	You may shower before this time with assistance and use of a
+shower cap
+??????	Increase your intake of fluids and fiber as pain medicine
+(narcotics) can cause constipation
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, aspirin, Advil,
+Ibuprofen etc.
+??????	If you have been prescribed an anti-seizure medicine, take it
+as prescribed and follow up with laboratory blood drawing as
+ordered
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING:
+
+??????	New onset of tremors or seizures
+??????	Any confusion or change in mental status
+??????	Any numbness, tingling, weakness in your extremities
+??????	Pain or headache that is continually increasing or not
+relieved by pain medication
+??????	Any signs of infection at the wound site: redness, swelling,
+tenderness, drainage
+??????	Fever greater than or equal to 101?????? F
+
+Followup Instructions:
+PLEASE CALL [**Telephone/Fax (1) **] TO SCHEDULE AN APPOINTMENT WITH DR.
+[**First Name (STitle) **] TO HAVE AN ANGIOGRAPHIC STUDY PERFORMED IN ONE MONTH TO
+ASSESS YOUR ANEURYSM. YOU WILL NEED TO SCHEDULE AN APPOINTMENT
+TO MEET WITH HIM AFTER THIS IMAGING STUDY HAS BEEN PERFORMED.
+YOU WILL NEED A CAT SCAN OF THE BRAIN WITHOUT CONTRAST. YOU
+WILL/WILL NOT NEED AN MRI OF THE BRAIN WITH OR WITHOUT
+GADOLIDIUM
+
+Please follow-up with your primary care doctor in [**11-19**] weeks
+regarding your hospitalization.
+
+You should have a CBC and LFTs drawn at you follow-up
+appointment with your PCP.
+
+
+
+Completed by:[**2167-1-10**]

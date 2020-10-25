@@ -1,0 +1,187 @@
+T1	Strength 9227 9233	2.5 mg
+T2	Form 9254 9260	Tablet
+T3	Frequency 9264 9270;9271 9274	once a day
+T4	Route 9261 9263	PO
+T5	Drug 9216 9225;9225 9226	Lisinopri l
+T6	Drug 8128 8135	insulin
+T7	Drug 10063 10069	Plavix
+T8	Drug 8747 8754	Aspirin
+T9	Strength 8755 8761	325 mg
+T10	Form 8762 8768;8768 8792	Tablet , Delayed Release (E.C.)
+T11	Drug 7177 7187	Lisinopril
+T12	Drug 8653 8663	Omeprazole
+T13	Strength 8664 8669	20 mg
+T14	Drug 7056 7068	Atorvastatin
+T15	Strength 7069 7074	80 mg
+T16	Drug 10129 10135;10136 10138	Toprol XL
+T17	Strength 10139 10144	50 mg
+T18	Drug 1876 1884	coumadin
+T19	Drug 7127 7133	Plavix
+T20	Strength 7134 7139	75 mg
+T21	Drug 8858 8869	Clopidogrel
+T22	Strength 8870 8875	75 mg
+T23	Form 8896 8902	Tablet
+T24	Route 8903 8905	PO
+T25	Drug 9051 9057;9058 9060	Toprol XL
+T26	Strength 9061 9066	50 mg
+T27	Form 9067 9073;9074 9097	Tablet Sustained Release 24 hr
+T28	Strength 9322 9327	20 mg
+T29	Form 9328 9335;9335 9358	Capsule , Delayed Release(E.C.)
+T30	Drug 9311 9320;9320 9321	Omeprazol e
+T31	Drug 10256 10263	aspirin
+T32	Strength 10264 10270	325 mg
+T33	Drug 9955 9962	Plavix.
+T34	Drug 8956 8967	Simvastatin
+T35	Strength 8968 8973	80 mg
+T36	Form 8994 9000	Tablet
+T37	Frequency 9004 9010;9011 9014	once a day
+T38	Route 9001 9003	PO
+T39	Drug 8358 8366	Nicotine
+T40	Form 8367 8375	lozenges
+T41	Drug 1335 1341	plavix
+T42	Drug 7720 7727	Plavix.
+T43	Drug 809 816	heparin
+T44	Drug 7658 7668	Integrilin
+T45	Drug 7100 7109	Captopril
+T46	Strength 7086 7092	325 mg
+T47	Frequency 7118 7121	TID
+T48	Drug 1298 1304	plavix
+T49	Drug 6985 6991;6992 6994	Toprol XL
+T50	Strength 6995 7000	50 mg
+T51	Drug 6448 6454	Plavix
+T52	Drug 6952 6962	Metoprolol
+T54	Drug 10217 10228	Simvastatin
+T55	Drug 1145 1150	lasix
+T56	Drug 8634 8645	Propranolol
+T57	Strength 8646 8652	120 mg
+T58	Drug 10172 10182	Lisinopril
+T59	Strength 10183 10189	2.5 mg
+T60	Drug 11018 11026	nicotine
+T61	Form 11027 11032	patch
+T62	Drug 774 777	asa
+T63	Drug 779 792	nitrogliceryn
+T64	Drug 794 804	integrelin
+T66	Strength 1137 1141	40mg
+T67	Strength 1289 1294	300mg
+T68	Dosage 1659 1662	1 L
+T69	Drug 1666 1672	saline
+T70	Reason 1840 1843	CVA
+T71	Drug 7082 7085	ASA
+T72	Frequency 7093 7098	daily
+T73	Strength 7110 7117	6.25 mg
+T74	Frequency 7140 7145	daily
+T75	Strength 7170 7176	2.5 mg
+T76	Frequency 7188 7193	daily
+T77	Dosage 8114 8127	sliding scale
+T78	Drug 8623 8627	HCTZ
+T79	Strength 8628 8633	25 mg
+T80	Dosage 8798 8805	One (1)
+T81	Form 8806 8836	Tablet, Delayed Release (E.C.)
+T82	Route 8837 8839	PO
+T83	Frequency 8840 8853	DAILY (Daily)
+T84	Form 8876 8882	Tablet
+T85	Dosage 8888 8895	One (1)
+T86	Frequency 8906 8911;8912 8919	DAILY (Daily)
+T87	Form 8974 8980	Tablet
+T88	Dosage 8986 8993	One (1)
+T89	Dosage 9103 9110	One (1)
+T90	Form 9111 9141	Tablet Sustained Release 24 hr
+T91	Route 9142 9144	PO
+T92	Frequency 9145 9155	once a day
+T93	Form 9234 9240	Tablet
+T94	Dosage 9246 9253	One (1)
+T95	Dosage 9364 9371	One (1)
+T96	Form 9372 9402	Capsule, Delayed Release(E.C.)
+T97	Route 9403 9405	PO
+T98	Frequency 9406 9416	once a day
+T99	Frequency 10145 10150	daily
+T100	Frequency 10190 10195	daily
+T101	Frequency 10229 10234	daily
+T102	Frequency 10271 10276	daily
+R1	Strength-Drug Arg1:T1 Arg2:T5
+R2	Form-Drug Arg1:T2 Arg2:T5
+R3	Frequency-Drug Arg1:T3 Arg2:T5
+R4	Route-Drug Arg1:T4 Arg2:T5
+R5	Strength-Drug Arg1:T9 Arg2:T8
+R6	Form-Drug Arg1:T10 Arg2:T8
+R7	Strength-Drug Arg1:T13 Arg2:T12
+R8	Strength-Drug Arg1:T15 Arg2:T14
+R9	Strength-Drug Arg1:T17 Arg2:T16
+R10	Strength-Drug Arg1:T20 Arg2:T19
+R11	Strength-Drug Arg1:T22 Arg2:T21
+R12	Form-Drug Arg1:T23 Arg2:T21
+R13	Route-Drug Arg1:T24 Arg2:T21
+R14	Strength-Drug Arg1:T26 Arg2:T25
+R15	Form-Drug Arg1:T27 Arg2:T25
+R16	Strength-Drug Arg1:T28 Arg2:T30
+R17	Form-Drug Arg1:T29 Arg2:T30
+R18	Strength-Drug Arg1:T32 Arg2:T31
+R19	Strength-Drug Arg1:T35 Arg2:T34
+R20	Form-Drug Arg1:T36 Arg2:T34
+R21	Frequency-Drug Arg1:T37 Arg2:T34
+R22	Route-Drug Arg1:T38 Arg2:T34
+R23	Form-Drug Arg1:T40 Arg2:T39
+R24	Frequency-Drug Arg1:T47 Arg2:T45
+R25	Strength-Drug Arg1:T50 Arg2:T49
+R27	Strength-Drug Arg1:T57 Arg2:T56
+R28	Strength-Drug Arg1:T59 Arg2:T58
+R29	Form-Drug Arg1:T61 Arg2:T60
+R31	Strength-Drug Arg1:T66 Arg2:T55
+R32	Strength-Drug Arg1:T67 Arg2:T48
+R33	Dosage-Drug Arg1:T68 Arg2:T69
+R34	Reason-Drug Arg1:T70 Arg2:T18
+R35	Strength-Drug Arg1:T46 Arg2:T71
+R36	Frequency-Drug Arg1:T72 Arg2:T71
+R37	Strength-Drug Arg1:T73 Arg2:T45
+R38	Frequency-Drug Arg1:T74 Arg2:T19
+R39	Frequency-Drug Arg1:T76 Arg2:T11
+R40	Strength-Drug Arg1:T75 Arg2:T11
+R41	Dosage-Drug Arg1:T77 Arg2:T6
+R42	Strength-Drug Arg1:T79 Arg2:T78
+R43	Dosage-Drug Arg1:T80 Arg2:T8
+R44	Frequency-Drug Arg1:T83 Arg2:T8
+R45	Route-Drug Arg1:T82 Arg2:T8
+R46	Form-Drug Arg1:T81 Arg2:T8
+R47	Form-Drug Arg1:T84 Arg2:T21
+R48	Dosage-Drug Arg1:T85 Arg2:T21
+R49	Frequency-Drug Arg1:T86 Arg2:T21
+R50	Form-Drug Arg1:T87 Arg2:T34
+R51	Dosage-Drug Arg1:T88 Arg2:T34
+R52	Dosage-Drug Arg1:T89 Arg2:T25
+R53	Form-Drug Arg1:T90 Arg2:T25
+R54	Route-Drug Arg1:T91 Arg2:T25
+R55	Frequency-Drug Arg1:T92 Arg2:T25
+R56	Form-Drug Arg1:T93 Arg2:T5
+R57	Dosage-Drug Arg1:T94 Arg2:T5
+R58	Form-Drug Arg1:T96 Arg2:T30
+R59	Dosage-Drug Arg1:T95 Arg2:T30
+R60	Route-Drug Arg1:T97 Arg2:T30
+R61	Frequency-Drug Arg1:T98 Arg2:T30
+R62	Frequency-Drug Arg1:T99 Arg2:T16
+R63	Frequency-Drug Arg1:T100 Arg2:T58
+R64	Frequency-Drug Arg1:T101 Arg2:T54
+R65	Frequency-Drug Arg1:T102 Arg2:T31
+T103	Reason 8298 8315	smoking cessation
+T106	Reason 6906 6917	tachycardic
+T108	Duration 1885 1898	for "7 years"
+T109	Reason 1899 1908	Gastritis
+T110	Form 1928 1932	pill
+T111	Frequency 7075 7080	daily
+T112	Reason 7919 7934	Type 2 Diabetes
+T113	Reason 8253 8270	Smoking Cessation
+T120	Reason 602 636	substernal chest pain on extertion
+T121	Drug 1923 1927	acid
+R66	Form-Drug Arg1:T110 Arg2:T121
+R67	Reason-Drug Arg1:T109 Arg2:T121
+R68	Duration-Drug Arg1:T108 Arg2:T18	
+R69	Reason-Drug Arg1:T106 Arg2:T52	
+R70	Reason-Drug Arg1:T112 Arg2:T6	
+R71	Reason-Drug Arg1:T113 Arg2:T39	
+R72	Reason-Drug Arg1:T103 Arg2:T39	
+T53	Route 1142 1144	IV
+R26	Route-Drug Arg1:T53 Arg2:T55	
+T65	Route 6963 6965	IV
+R30	Route-Drug Arg1:T65 Arg2:T52	
+R73	Frequency-Drug Arg1:T111 Arg2:T14	
+R74	Reason-Drug Arg1:T120 Arg2:T63	
+R75	Reason-Drug Arg1:T120 Arg2:T62	

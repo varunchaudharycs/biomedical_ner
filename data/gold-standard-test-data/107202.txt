@@ -1,0 +1,373 @@
+Admission Date:  [**2135-1-21**]              Discharge Date:   [**2135-1-31**]
+
+Date of Birth:  [**2085-2-3**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Hurricaine
+
+Attending:[**Last Name (NamePattern1) 1838**]
+Chief Complaint:
+Called by Emergency Department as a Code Stroke for Left-sided
+weakness and aphasia
+
+Major Surgical or Invasive Procedure:
+IV-tPA
+MERCI clot retrieval
+
+History of Present Illness:
+NIH Stroke Scale score was 0: 17
+1a. Level of Consciousness: 0
+1b. LOC Question: 1
+1c. LOC Commands: 0
+2. Best gaze: 2
+3. Visual fields: 2
+4. Facial palsy: 2
+5a. Motor arm, left: 4
+5b. Motor arm, right: 0
+6a. Motor leg, left: 4
+6b. Motor leg, right: 0
+7. Limb Ataxia: 0
+8. Sensory: 1
+9. Language: 0
+10. Dysarthria: 0
+11. Extinction and Neglect: 1
+
+
+HPI:
+
+Ms. [**Known lastname 104742**] is a 49 y/o woman with a PMH significant for
+myelodysplastic syndrome, HTN and hypothyroidism, who presents
+with left sided weakness. She reportedly went to bed in her
+normal state of health at 2300. Her partner heard her thrashing
+in bed at 0130 and at that time, he noted her speech to be
+slurred and her left side to be weak, though apparently still
+able to move. As it seems that the thrashing likely was around
+the time of onset of the stroke, we considered 0130 to be the
+last known well time. She was initially taken to OSH, where she
+had a CT head that was negative for hemorrhage; it was there
+determined that she was "out of the tPA window" and she was
+transferred to [**Hospital1 18**] for further care.
+
+Full ROS unable to be obtained as patient very agitated and
+seemingly confused when providing her own history. However, she
+does not appear to have any recent febrile illnesses and there
+is
+no current chest pain, shortness of breath, palpitations or
+abdominal pain.
+
+
+Past Medical History:
+-HTN
+-gout
+-hypothyroidism
+-myelodysplastic syndrome
+-alcohol abuse
+-lumbar surgery (exact nature of surgery unknown)
+
+
+Social History:
+She was previously employed as a hairdresser,
+though says she hasnt worked in 4 years. Not reported by
+patient,
+but there is apparently a history of alochol abuse.
+
+
+Family History:
+unknown
+
+
+Physical Exam:
+on admission:
+
+Vitals: T: 97 P: 67  BP: 138/49 SaO2: 99% NC
+
+General: Awake, agitated
+HEENT: no oral lesions
+Neck: Supple
+Pulmonary: Lungs CTA bilaterally
+Cardiac: RRR, S1S2
+Abdomen: soft, +BS
+Extremities: warm, well perfused
+
+Neurologic:
+
+-Mental Status: Alert, oriented to person, "hospital", and year
+but not month.  Naming generally intact, with some errors on low
+frequency objects. Left sided neglect.
+
+-Cranial Nerves: PEERL 6-->4 mm b/l. Gaze deviation to right.
+Left sided hemianopia. Would not cross midline to commands but
+is
+able to track acorss midline. Left facial droop. Sensory loss
+left face.
+
+Motor: L hemiparesis- no antigravity ability at all on left.
+Right sided strength full.
+
+Sensory: Light touch intact at times when testing sensation, but
+sometimes she would not realize when someone was holding her
+left
+arm, indicating a possible sensory componenent. Dimimihed
+pinprick on left.
+
+Reflexex: Patellar reflexes 2+ b/l. Biceps reflex 2+ on right,
+remaining reflexes 1+. Toe upgoing on left and mute on right.
+
+Coordination: finger-nose intact on right
+
+
+Pertinent Results:
+[**2135-1-21**] 06:20PM   TYPE-ART PO2-104 PCO2-33* PH-7.45 TOTAL
+CO2-24 BASE XS-0
+[**2135-1-21**] 05:02PM   TYPE-ART TEMP-37.1 RATES-/25 TIDAL VOL-500
+PEEP-5 O2-40 PO2-148* PCO2-30* PH-7.47* TOTAL CO2-22 BASE XS-0
+INTUBATED-INTUBATED VENT-SPONTANEOU
+[**2135-1-21**] 05:02PM   GLUCOSE-82 K+-3.7
+[**2135-1-21**] 05:02PM   freeCa-1.08*
+[**2135-1-21**] 10:44AM   TYPE-ART TEMP-35.0 RATES-15/ TIDAL VOL-500
+PEEP-5 PO2-139* PCO2-35 PH-7.42 TOTAL CO2-23 BASE XS-0
+[**2135-1-21**] 10:44AM   GLUCOSE-124*
+[**2135-1-21**] 10:44AM   freeCa-1.07*
+[**2135-1-21**] 08:39AM   TYPE-ART PO2-187* PCO2-34* PH-7.44 TOTAL
+CO2-24 BASE XS-0 INTUBATED-INTUBATED VENT-CONTROLLED
+[**2135-1-21**] 08:39AM   HGB-9.5* calcHCT-29
+[**2135-1-21**] 07:38AM   TYPE-ART PO2-169* PCO2-36 PH-7.44 TOTAL
+CO2-25 BASE XS-1 INTUBATED-INTUBATED VENT-CONTROLLED
+[**2135-1-21**] 07:38AM   GLUCOSE-146* LACTATE-1.5 NA+-135 K+-3.0*
+CL--101
+[**2135-1-21**] 07:38AM   HGB-10.2* calcHCT-31
+[**2135-1-21**] 07:38AM   freeCa-1.10*
+[**2135-1-21**] 04:35AM   GLUCOSE-119* UREA N-24* CREAT-1.4* SODIUM-138
+POTASSIUM-3.7 CHLORIDE-99 TOTAL CO2-26 ANION GAP-17
+[**2135-1-21**] 04:35AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2135-1-21**] 04:35AM URINE  HOURS-RANDOM
+[**2135-1-21**] 04:35AM   WBC-11.3* RBC-4.08* HGB-11.7* HCT-36.2 MCV-89
+MCH-28.6 MCHC-32.3 RDW-17.7*
+[**2135-1-21**] 04:35AM   PLT COUNT-523*
+[**2135-1-21**] 04:35AM   PT-12.2 PTT-21.3* INR(PT)-1.0
+[**2135-1-21**] 04:35AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.017
+[**2135-1-21**] 04:35AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-25
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2135-1-21**] 04:35AM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE
+EPI-0-2
+
+CTA head/neck [**1-21**]:
+Occlusion of the right middle cerebral artery near its origin.
+Likely retrograde collateral flow present, reconstituting more
+distal branches of this vascular distribution. Evolving infarct
+within the right basal ganglia region.
+
+CT head [**1-21**]:Hyperdense regions within the head of the right
+caudate nucleus and right lentiform nucleus. The findings are of
+concern for either hemorrhagic transformation of the infarct,
+versus extravascular accumulation of contrast material. A
+followup MR study may be of help in differentiating between
+these two entities.
+
+rpt CT head [**1-22**]:
+1. Evolving right basal ganglia hemorrhage with underlying
+infarct with
+intraventricular extension of hemorrhage and 3 mm leftward
+shift.
+2. Persistent moderate left subgaleal hematoma, felt to be due
+to
+anticoagulants on earlier studies- correlate clinically.
+3. Paranasal sinus disease.
+
+rpt CT head [**1-23**]:
+
+1. No new foci of acute intracranial hemorrhage.
+2. Expected interval evolution of the known right basal ganglia
+hemorrhagic conversion, with interval decreased attenuation of
+the hyperdense hemorrhagic foci but increase of peri-hemorrhagic
+edema.
+3. Essentially unchanged mild leftward shift of normally midline
+structures, with persistent effacement of the right frontal
+[**Doctor Last Name 534**].
+4. Unchanged trace intraventricular hemorrhagic extension at the
+right
+occipital [**Doctor Last Name 534**] without developing hydrocephalus.
+5. Interval decreased soft tissue swelling and hematoma in the
+left temporal and frontal region.
+6. Paranasal sinus disease as described above.
+
+[**1-26**]: attempted MRI
+Incomplete examination due to lack of patient cooperation. Right
+basal
+ganglia hemorrhage/hematoma is again noted.
+
+
+Brief Hospital Course:
+Initial Assessment:
+
+Ms. [**Known lastname 104742**] is a 49 y/o woman with a PMH significant for
+myelodysplastic syndrome, HTN and hypothyroidism, who presents
+with sudden onset left sided weakness. On her exam, her NIHSS is
+17 and she has a dense left sided hemiparesis as well as right
+gaze deviation, left hemianopia and neglect. Her imaging shows
+an
+occlusion of R MCA near its origin. Her history, exam and
+imaging
+are consistent with acute embolic stroke in R MCA. The time of
+onset was taken to be 0130; the time of her thrashing, and so
+when she was seen here, she remained within the window for IV
+tPA. The decision was made to proceed with the IV tPA. The plan
+at this time is to proceed with tPA infusion and if clinical
+exam
+remains unchanged in 30 minutes, then plan is to proceed with
+angio for IA tPA vs. Merci.
+
+Neuro:
+Ms. [**Known lastname 104742**] was admitted to the neurology ICU, attending Dr.
+[**Last Name (STitle) **].
+There was no improvement with tPA, and she developed hematomas
+of the right knee, left scalp, and left clavicular area, so IV
+TPA was stopped. The team proceeded with angio and MERCI device
+was used. This resulted in opening of inferior division of the
+right MCA, but opening of the superior division was
+unsuccessful.  She was monitored in the ICU and then was
+transferred to the step down unit, then to the floor for further
+management. She was started on Aspirin 81mg and Lovenox 40mg
+daily (given possible MDS/malignancy.)  Her CT scans showed
+hemorrhagic conversion in the Right striatum and white matter.
+An MRI was attempted, but she was unable to tolerate this.
+There was no need to attempt repeating this MRI, per Dr. [**First Name (STitle) **]
+stroke attending. Imaging otherwise as above.
+
+CVR:
+Blood pressure was controlled metoprolol 25mg TID and as needed
+hydralazine.  Her metoprolol was increased to 50mg TID prior to
+discharge.  She had an transthoracic echocardiogram which showed
+no ASD or LV thrombus. There was normal global and regional
+biventricular systolic function.  There was mild pulmonary
+hypertension.  A bubble study was not done.  A transesophageal
+echocardiogram was attempted, however Ms. [**Known lastname 104742**] developed
+methemoglobinemia (level 29) after receiving benzocaine spray.
+She received Methylene blue 140mg IV by anesthesia and had rapid
+clinical improvement. Her methemoglobinemia level was zero
+before returning to the neurology floor.  A transthoracic echo
+with bubble was later done which showed No atrial septal defect
+or patent foramen ovale is seen by 2D, color Doppler or saline
+contrast with maneuvers.  She had lower extremity doppler
+studies which were negative for DVT.  Hypercoagulable work up is
+pending at the time of discharge: antithrombin 3, prothrombin
+gene mutation, factor v leiden.
+
+Heme: Due to her myelodysplastic syndrome and bleeding with tPA,
+heme-onc was consulted, and they did not believe there were any
+restrictions on her stroke management due to her MDS.
+Additionally, the team spoke with her outpatient hematologist
+who confirmed no need for epo or aranesp while in the hospital.
+Her HCT was stable during her hospitalization.
+
+FEN/GI: She was initially NPO.  She was followed closely by
+speech and language team and was started on NGT feeds.  When
+able, a regular diet was initiated and advanced.  At the time of
+discharge she was tolerating a regular diet with nectar-thick
+liquids.  Her electrolytes were monitored carefully, and
+repleted as necessary.
+She received Famotidine for GI prophylaxis.
+
+Psych/ETOH:  Initially Ms. [**Known lastname 104742**] had significant alcohol
+withdrawal.  She was on a CIWA scale and received multiple doses
+of Ativan in addition to Valium q12.  She also received thiamine
+and folate.  CIWA was discontinued and she had no further
+symptoms prior to discharge. She received Trazadone for sleep.
+
+MSK:  Ms. [**Known lastname 104742**] had intermittent pain, especially in left
+shoulder.  She had an XR which showed no evidence of cortical
+disruptions suggestive of fracture or AC separation.  Pain was
+treated with tylenol and oxycodone.
+
+Medications on Admission:
+-amlodipine 5mg daily
+-omeprazole 20mg daily
+-atenolol 50mg daily
+-levothyroxine 50mcg daily
+-vit B-12 1000mcg daily
+-vit B1 100mg [**Hospital1 **]
+-folic acid 1mg daily
+
+
+Discharge Medications:
+1. enoxaparin 40 mg/0.4 mL Syringe Sig: Forty (40) MG
+Subcutaneous DAILY (Daily).
+2. senna 8.8 mg/5 mL Syrup Sig: Five (5) ML PO BID (2 times a
+day) as needed for constipation.
+3. docusate sodium 50 mg/5 mL Liquid Sig: Ten (10) ML PO BID (2
+times a day).
+4. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+5. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain.
+7. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for insomnia.
+8. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+12. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 85**] - [**Location (un) 86**]
+
+Discharge Diagnosis:
+Primary diagnosis:
+-Stroke (Right PCA+MCA-territory infarction)
+
+Secondary diagnoses:
+- EtOHism / withdrawal
+- chronic LBP
+- chronic mild anemia, possible MDS
+- methemoglobinemia secondary to benzocaine spray.
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+You were admitted to [**Hospital1 18**] after you had a large stroke.  You
+initially received TPA in attempt to break up the clot in your
+brain, however this did not improve your symptoms and you
+developed bruising.  You then had a MERCI retrieval which was
+able to open up part of your blood vessels.  You were started on
+medication, Lovenox, and Aspirin, to prevent further clots and
+strokes. You were also started on a blood pressure medication.
+You had multiple tests including head CT scans, attempted brain
+MRI, echocardiograms, and ultrasounds of your legs to determine
+the cause of your stroke.  Additionally, multiple laboratory
+tests were sent which are still pending.
+
+While you were in the hospital you were treated for alcohol
+withdrawal.  You also developed a reaction to benzocaine spray,
+called methemoglobinemia, in which you developed breathing
+problems requiring treatment in the ICU.
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 640**] [**Last Name (NamePattern4) 3445**], MD Phone:[**Telephone/Fax (1) 2574**]
+Date/Time:[**2135-3-14**] 1:30
+
+The following tests are pending at the time of discharge:
+antithrombin 3, factor v leiden, prothrombin gene mutation.
+
+
+

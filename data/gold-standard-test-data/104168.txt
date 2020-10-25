@@ -1,0 +1,367 @@
+Admission Date:  [**2184-5-27**]              Discharge Date:   [**2184-6-9**]
+
+Date of Birth:  [**2139-8-7**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5119**]
+Chief Complaint:
+Nausea and Vomiting
+
+Major Surgical or Invasive Procedure:
+[**5-30**]: Stereotactic brain biopsy
+
+
+History of Present Illness:
+44yo F with recent dx of lung lesion (3wks ago...currently
+undergoing outpt w/u) admitted for nausea & vomiting.  Per
+patient she has not been feeling quite herself recently
+(mentally) and it got to a point on [**5-27**] where she soughtmedical
+treatment.  Does not report any difficulty with motor skills,
+gait, sensation, or vision at the time of presentation.  She
+reports her current state in very vague terms as "not feeling
+right".
+
+
+Past Medical History:
+-Asthma
+-Recent tooth infection/extractions ( [**2184-2-15**].)
+-metaphalangeal subluxation following an injury on [**2178-6-17**]
+-Obesity
+
+
+Social History:
+Lives with three children and Fiancee in [**Location (un) 1411**].
+Originally from Sicily, [**Country 2559**]. Moved to US in 60s.
+Travels include [**Country 2559**], Caribbean and US.
+US travels ( [**State 108**], NC, [**State 350**].)
+TB risk factors: prior incarceration for one day during teens.
+Hx
+of homelesness during teens.
+Hx + BCG, has had negative PPDs in past (used to work in health
+
+care facility.)
+Recurrently on disability after injury at work. Used to work in
+
+health care field.
+
+Tob:One pack daily x 30 years.
+EtOH: N
+IVDU: past cocaine (snorting) and IVDU in teens. None recent.
+Sexual history: 3 lifetime sexual partners. Genital warts.
+HIV neg in [**2177**].
+Exposures: + sick contact. Fiance with cold symptoms.
+Pets: + dog
+
+
+Family History:
+-No hx htn, cad/mi, cancer
+-Diabetes--mother, grandfather, grandmother
+-Father passed away at 76 due to "natural causes'
+-Mother is 76
+
+Physical Exam:
+On Admission:
+Vitals: T 99.5 BP 187/79 (180-217/70-85) HR 68 RR 18 SaO2 96%ra
+
+General: no acute distress, sitting in bed talking on phone,
+comfortable and appropriate
+HEENT: NC/AT, sclerae anicteric, MMM, no exudates in oropharynx
+
+Neck: supple, no nuchal rigidity, no bruits
+Lungs: clear to auscultation
+CV: regular rate and rhythm, no MMRG
+Abdomen: soft, non-tender, non-distended, bowel sounds present
+Ext: warm, no edema, pedal pulses appreciated
+Skin: no rashes
+
+Neurologic Examination:
+Mental Status:
+Awake and alert, following all commands, slightly odd affect
+Oriented to person, place, time
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, to
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors, or asterixis. Strength full power [**6-15**] throughout. No
+pronator drift
+
+Sensation: Intact to light touch bilaterally.
+
+Reflexes:  B T Br Pa Ac
+Right      1 1 1  3  1
+Left       2 2 2  3  2
+
+Coordination: normal on finger-nose-finger, rapid alternating
+movements, heel to shin
+
+Exam on Discharge:
+XXXXXXXXXXXXXXXXX
+
+Pertinent Results:
+Labs on Admission:
+[**2184-5-27**] 11:00PM BLOOD WBC-10.3 RBC-3.95* Hgb-11.5* Hct-34.2*
+MCV-87 MCH-29.0 MCHC-33.6 RDW-14.0 Plt Ct-425
+[**2184-5-27**] 11:00PM BLOOD Neuts-71.6* Lymphs-19.4 Monos-3.2
+Eos-5.1* Baso-0.8
+[**2184-5-28**] 05:20AM BLOOD PT-14.9* PTT-33.1 INR(PT)-1.3*
+[**2184-5-27**] 11:00PM BLOOD Glucose-89 UreaN-7 Creat-0.7 Na-143 K-3.4
+Cl-103 HCO3-28 AnGap-15
+[**2184-5-27**] 11:00PM BLOOD ALT-17 AST-14 LD(LDH)-281* AlkPhos-80
+Amylase-29 TotBili-0.5
+.
+Imaging:
+EKG [**5-27**]:
+Sinus bradycardia. Poor R wave progression. Cannot rule out
+prior
+anteroseptal myocardial infarction. Compared to the previous
+tracing of [**2184-5-14**] there is no significant diagnostic change.
+ 	Intervals	Axes
+Rate	PR	QRS	QT/QTc	P	QRS	T
+56	142	82	468/461	56	75	59
+.
+CXR 4.17:
+FINDINGS: Heart size unchanged. Right upper lobe opacification
+and right
+mediatinal fullness corresponds to thick walled upper lobe
+cavity and
+mediastinal lymphadenopathy with differential including
+Wegener's, SCC/cancer, and fungal infection. No new focus of
+consolidation is seen. There is no effusion or pneumothorax.
+IMPRESSION: Unchanged highly abnormal chest radiograph.
+.
+MRI Head [**5-29**]:
+IMPRESSION: Multiple enhancing lesions are identified in the
+brain as
+described above. Although metastatic disease is a consideration,
+given the
+restricted diffusion on the diffusion-weighted images, infection
+needs to be considered in the differential diagnosis. The
+appearances could also be
+secondary to multiple tuberculomas given a cavitary lesion in
+the lung.
+.
+CT Torso [**5-30**]:
+IMPRESSION:
+1. Findings consistent with extensive metastatic disease,
+including pulmonary nodules, bilateral adrenal masses, and
+bilateral renal masses. Lymphadenopathy in mediastinal, right
+greater than left hilar, retroperitoneal, and mesenteric
+locations, consistent with nodal spread of neoplastic disease.
+Bronchoscopic biopsy is recommended.
+2. Cavitary pulmonary nodule in the posterior segment of the
+right upper
+lobe, suspicious for primary lung carcinoma. Please see the
+differential
+discussion in the prior chest CTA report for less likely
+considerations.
+3. Right upper lobe pulmonary interstitial thickening,
+suspicious for
+lymphangetic spread.
+4. Subtle sclerosis in the T4 vertebral body. While
+indeterminate, osseous
+metastasis is not excluded. If there will be a change in
+clinical management, then a bone scan may be helpful.
+5. Wedge-shaped peripheral opacity in the right middle lobe,
+evolving since
+the prior chest CTA. Second evolving process in the right upper.
+While these may be secondary to infection, the morphology of the
+right middle lobe opacity raises the possibility of a pulmonary
+infarct.
+6. Aberrant right subclavian artery.
+.
+Head CT [**5-30**](post-bx):
+IMPRESSION: Post-surgical changes from recent resection of the
+left frontal
+lesion with minimal high attenuation in the resection bed and
+moderate
+perilesional vasogenic edema causing effacement of the left
+frontal [**Doctor Last Name 534**] of
+the left lateral ventricle without shift of midline structures.
+.
+ECHO [**2184-6-1**]
+Conclusions
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF >55%). The estimated cardiac
+index is normal (>=2.5L/min/m2). Right ventricular chamber size
+and free wall motion are normal. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic regurgitation. The mitral valve appears structurally
+normal with trivial mitral regurgitation. The estimated
+pulmonary artery systolic pressure is normal. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: No valveular pathology or pathologic flow
+identified. Normal biventricular cavity sizes and regiona/global
+systolic function.
+.
+[**2184-6-4**] CT head
+IMPRESSION: Extensive bilateral areas of vasogenic edema, from
+known brain
+metastasis. Compared to [**2184-5-30**], the overall appearance
+is not
+significantly changed.
+.
+Labs on discharge:
+***************
+
+
+Brief Hospital Course:
+Patient was admitted to [**Hospital1 18**] after complaints of nausea,
+vomiting, and not "feeling herself".  Of significance, she is
+status post diagnosis of lung mass for which she was being
+worked up on an outpatient basis.
+.
+1. NSCLC, metastatic to brain/nausea/vomiting/headache -- Upon
+admission a head CT was performed which identified multiple
+infra and supra tentorial brain lesions, including the brain
+stem.  High dose steroid therapy was initiated to treat
+associated vasogenic edema.  A left stereotactic brain biopsy
+was performed on [**5-30**].  Post-operatively a head CT was done, and
+determined to be stable.  She was then returned to the ICU
+pending diagnosis and further management.  She was initiated on
+whole brain radiation on [**2184-6-2**] and was monitored in the ICU
+for signs and symptoms of increased ICP.  She was subsequently
+transferred to the hospitalist service for the remainder of her
+course.
+During initiation of her brain radiation treatments, patient had
+intractable nausea, vomiting, headache, and hypertension, but
+repeat CT head did not show increased edema.  She continued on
+IV dexamethasone 6 mg q6 hours, IV keppra 1000mg q12 hours, and
+IV hydralazine for blood pressure control (see below).
+For nausea control, she was kept on compazine, zofran, ativan,
+phenergen PRN.
+Oncology, neuro-oncology, and neurosurgery was involved
+throughout her hospital course.  Her symptoms gradually subsided
+and she was transitioned to po meds.  She will complete the
+remainder of her radiation treatments as an outpatient.  She has
+follow up scheduled with thorcaic oncology and neuro-oncology.
+.
+2. Hypertension -- While unable to tolerate po, she was treated
+with IV hydralazine for goal SBP of less than 130 mmHg.  When
+able to tolerate po, she was transitioned to Lisinopril.  The
+patient was instructed to followup with her PCP regarding her
+blood pressure.
+.
+3. Asthma -- remained stable throughout her course, continued
+prn albuterol.
+.
+4. Hyperglycemia -- associated with high dose steroids and
+managed with a sliding scale without difficulty.
+.
+5. Dispo:  The patient ambulated without difficulty and was
+discharged home in stable conition.
+
+Medications on Admission:
+albuterol, percocet
+
+Discharge Medications:
+1. Levetiracetam 1,000 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+Disp:*60 Tablet(s)* Refills:*2*
+2. Dexamethasone 6 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) for 20 days.
+Disp:*80 Tablet(s)* Refills:*0*
+3. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for anxiety.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Tylenol 325 mg Tablet Sig: Two (2) Tablet PO every four (4)
+hours as needed for fever or pain.
+6. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q4H (every 4 hours) as needed for shortness of breath.
+7. Percocet 5-325 mg Tablet Sig: One (1) Tablet PO q6h prn pain.
+Disp:*20 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Non-small cell lung cancer with multiple brain metastases
+2. Hypertension
+
+
+Discharge Condition:
+Neurologically Stable
+
+
+Discharge Instructions:
+You were admitted with altered mental status secondary to your
+newly [**First Name9 (NamePattern2) 106995**] [**Last Name (un) **] metastasis.  You underwent brain biopsy and
+whole brain radiation.  You should attend follow up appointments
+with the thoracic oncologist and neuro-oncolgist.
+.
+- Take lisinopril for high blood pressure.  Your PCP should
+follow up on your blood pressure.
+- Take lorazepam at night as needed for anxiety.
+.
+General Instructions/Information
+??????       Have a friend/family member check your incision daily
+for signs of infection.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	Use a shower cap to cover your head if you are going to
+shower.
+??????	You have been prescribed Keppra for anti-seizure medicine,
+take it as prescribed
+??????	You are being sent home on steroid medication, make sure you
+are taking a medication to protect your stomach (Prilosec,
+Protonix, or Pepcid), as these medications can cause stomach
+irritation.  Make sure to take your steroid medication with
+meals, or a glass of milk.
+??????	[**Male First Name (un) **] NOT DRIVE.  Clearance to drive and return to work will be
+addressed at your post-operative office visit.
+.
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING
+??????	New onset of tremors or seizures.
+??????	Any confusion or change in mental status.
+??????	Any numbness, tingling, weakness in your extremities.
+??????	Pain or headache that is continually increasing, or not
+relieved by pain medication.
+??????	Any signs of infection at the wound site: increasing redness,
+increased swelling, increased tenderness, or drainage.
+??????	Fever greater than or equal to 101?????? F.
+
+Followup Instructions:
+Follow-Up Appointment Instructions:
+- Follow up with your PCP on [**Name9 (PRE) 766**] [**6-14**] at 6pm regarding
+this hospitalization.  Please call and reschedule if you cannot
+make this appointment.
+- Please call the neurosurgery clinic to arrange an appointment
+for removal of your sutures and a wound check. This appointment
+can be made with the Nurse Practitioner.  Please make this
+appointment by calling [**Telephone/Fax (1) 1669**]. If you live quite a
+distance from that office, please make arrangements for the
+same, with your PCP.
+[**Name10 (NameIs) 106996**] your radiation treatments as scheduled at 12pm on [**3-17**], [**6-14**] and [**6-15**].
+- Thoracic oncology clinic:  Provider: [**Name10 (NameIs) **] [**Name8 (MD) 831**], MD
+Phone:[**0-0-**] Date/Time:[**2184-6-22**] -10:30
+- [**Hospital **] clinic.  Provider: [**First Name11 (Name Pattern1) 640**] [**Last Name (NamePattern4) 4861**], MD
+Phone:[**Telephone/Fax (1) 1844**] Date/Time:[**2184-6-28**] 3:00.  The Brain [**Hospital 341**]
+Clinic is located on the [**Hospital Ward Name 516**] of [**Hospital1 18**], in the [**Hospital Ward Name 23**]
+Building. Their phone number is [**Telephone/Fax (1) 1844**]. Please call if you
+need to change your appointment, or require additional
+directions.
+
+
+                             [**First Name7 (NamePattern1) 1569**] [**Initial (NamePattern1) **] [**Name8 (MD) **] MD [**MD Number(2) 5122**]
+
+Completed by:[**2184-6-9**]

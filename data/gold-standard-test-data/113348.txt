@@ -1,0 +1,247 @@
+Admission Date:  [**2133-6-12**]              Discharge Date:   [**2133-7-1**]
+
+Date of Birth:  [**2073-11-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 9569**]
+Chief Complaint:
+Lower Back Pain with LE weakness beginning [**2133-6-8**]
+
+Major Surgical or Invasive Procedure:
+Laminectomy T12-L2
+Single wire pacemaker placed
+
+
+History of Present Illness:
+Pt is a 59 y/o Cantonese female with a h/o Atrial fibrillation
+and mechanical MVR (Bjork-Shiley) secondary to RHD experienced
+low back pain and LE weakness beginning on [**2133-6-8**]. MRI of the
+lumbar spine revealed a cystic mass at the T12-L2, which was
+found to be a hematoma upon surgical exploration on [**2133-6-12**] and
+was subsequently evacuated. Pt has been on Coumadin and digoxin
+due to her cardiac hx and initially her INR was 3.5. During the
+operation the pt experienced episodes of bradycardia with right
+neck manipulation and swan-ganz catheter placement c/w vagal
+etiology, however bradycardia and pauses continued for following
+the surgery. Permanent v-lead pacemaker was placed on [**2133-6-14**]. Pt
+demonstrated NSVT believed to be d/t digoxin toxicity (1.1).
+Currently pt c/o pain in right leg from the buttock down to the
+ankle on the lateral calf, diminishing distally. No c/o CP other
+than at the incision site for the pacemaker, no SOB, no LH.
+Difficulty with using bedside commode due to pain and reports no
+BM, but positive flatus.
+
+Past Medical History:
+MVR secondary to RHD with Bjork-Shiley valve in [**3-/2108**]
+Atrial fibrillation
+HTN
+
+Social History:
+Visiting brother in US, lives in [**Name (NI) 651**], speaks predominantly
+Cantonese and some English. No tobacco, alcohol, or recreational
+drugs.
+
+Family History:
+Mother with HTN.
+
+Physical Exam:
+VS:  HR - 103  RR - 20  T - 98.8  BP - 124/78
+  O2 sat - 95% on RA  Pain - [**4-21**]
+
+Gen: WN, WD thin woman who appears her age. Appears to be
+uncomfortable and is diaphoretic.
+HEENT: EOMI
+NECK: JVP noted b/l, no JVD
+CV: Irregularly irregular, tachycardic; Loud S1, S2, no M/R/G/C
+noted; heart beat noted visibly across the chest and by
+palpation. No carotid bruits.
+Resp: CTA b/l A/P, no W/R/R
+Abd: +BSx4, soft, NT/ND, no HSM
+Ext: PP present and symmetric, except dorsalis pedis R>L. Ext
+warm, with no cyanosis or edema. No right leg tenderness.
+Neuro: AOx3; observed exam by Dr. [**First Name (STitle) 1022**] (ortho) - weakness in
+right hallux extension; left LE weakness improving, left knee
+extension at 2/5 strength.
+
+
+Pertinent Results:
+[**2133-6-12**] 12:20AM   DIGOXIN-1.1
+[**2133-6-12**] 12:20AM   PT-23.0* PTT-31.6 INR(PT)-3.5
+[**2133-6-12**] 12:20AM   WBC-8.8 RBC-4.13* HGB-13.6 HCT-39.2 MCV-95
+MCH-33.0* MCHC-34.8 RDW-13.4
+[**2133-6-12**] 12:20AM   GLUCOSE-137* UREA N-18 CREAT-0.6 SODIUM-135
+POTASSIUM-3.8 CHLORIDE-96 TOTAL CO2-28 ANION GAP-15
+
+MRI L-Spine [**2133-6-12**]:
+IMPRESSION: Extramedullary hematoma, which may be intradural or
+epidural, compressing the conus and cauda equina from T11/12
+through L1/2. Associated large veins are suggestive of a
+vascular malformation. If the hematoma is intradural, a spinal
+cord arteriovenous malformation is likely. A conventional
+angiogram is recommended for assessment of vascular
+malformation. Follow-up lumbar spine MRI is also recommended to
+evaluate the surgical decompression.
+
+MRI L-Spine [**2133-6-13**]:
+IMPRESSION: Status post decompression of a large dorsal epidural
+hematoma, there is soft tissue swelling which continues to
+impress the distal cord and proximal cauda equina.
+
+CXR [**2133-6-15**]:
+IMPRESSION:
+1. Pacing leads in the expected position of the right ventricle.
+No evidence of pneumothorax. 2. Massive enlargement of the left
+atrium
+
+Echo [**2133-6-16**]:
+IMPRESSION: Normal functioning mitral valve prosthesis. Mild
+aortic stenosis. Mild aortic regurgitation. Severe biatrial
+enlargement. Preserved biventricular systolic function.
+Pulmonary artery hypertension.
+
+PM Interrogation [**2133-6-24**]:
+PM functioning properly
+
+
+Brief Hospital Course:
+59 yo Cantonese F with history of Atrial fibrillation, Mitral
+valve replacement presented with epidural hematoma and lower
+extremity weakness. Patient is s/p epidural hematoma evacuation
+on [**2133-6-12**] and s/p single wire pacer placement on [**2133-6-14**]
+sceondary to periop brady/pause. Patient was found to have
+NSVT/?junctional tachycardia likely secondary to digoxin
+toxicity.
+.
+The patient p/w spontaneous epidural hematoma and LE weakness on
+[**2133-6-12**]. Following diagnositic evaluation, the patient was taken
+to surgery for a T12-L2 laminectomy and subsequent evacuation of
+the hematoma. At the time of admission the patient's INR was 3.5
+as she was taking 3.5mg coumadin PO Qhs for prophylactic
+anticoagulation due to her h/o afib and MVR. Her coumadin was
+held and her INR monitored following surgery. She was placed on
+coumadin 3.0mg Qhs once her INR dropped below 2.0 and she was
+bridged with a heparin drip. Coumadin was increased to 4.0mg on
+[**2133-6-17**] and as her INR rose to 2.8 on [**6-22**], decreased to 3.0mg.
+Subsequent to her INR dropping from 2.5 to 2.1 on [**6-25**] and then
+to 1.9 on [**6-26**] the coumadin dose was increased to 4.0mg and
+5.0mg repectively. Coumadin continued to be titrated to a dose
+of 3.5mg (her dose PTA) giving an INR of 2.4 at discharge.
+
+In the perioperative period the patient began having episodes of
+bradycardia and pauses for which a single wire pacemaker was
+placed on [**2133-6-14**], with confirmation of proper lead placement by
+CXR. The PM was interrogated on [**2133-6-24**] and found to be
+functioning properly. Additionally in this time she developed
+mild anemia likely due to the spontaneous hematoma and surgical
+blood loss for which she received a total of 2 units of PRBCs
+and has since resolved.
+
+During this time the patient was continued on Lanoxin for her
+atrial fibrillation and developed a NSVT/? junctional
+tachycardia likely due to digoxin toxicity. Her digoxin was
+discontinued and per EP's recommendations was not restarted and
+will be held indefinitely. In order to maintain K levels above
+4.0 to avoid potential dysrhytmias from hypokalemia,
+spironolactone 25mg PO daily was started. On this regimen the
+patient required 40mEq of KCl PO daily to maintain her K levels
+and this was reduced to 20mEq daily as the K level on the day
+prior to discharge was 4.5. On discharge the K level was 4.3.
+
+For heartrate control metoprolol was increased over time to an
+eventual dose of 75mg PO BID the day prior to discharge, during
+which time the patient's BP was stable at SBP=110s to 130s. On
+the day of discharge metoprolol 75mg [**Hospital1 **] was increased to Toprol
+XL 200mg to help control SBP that were in the upper 120s.
+
+Following evacuation of her epidural hematoma she developed
+right LE pain, which was attributed to a radiculpathy and was
+successfully treated with Neurontin 100mg TID. Due to
+predominately left LE weakness, PT was consulted and recommended
+that the pt be discharged to an extended care factility where
+she could receive further care from PT. The patient continued to
+improve during the course of her stay, but was it was still
+considered necessary that the pt receive rehab upon d/c. Prior
+to discharge the patient was prescribed an AFO left foot splint.
+
+In addition she spiked a temperature to 100.3, for which an
+infection work-up was began. Urine Cx showed Proteus Mirabilis,
+Bld Cx negative. She was treated impirically on Vacnomycin,
+which was d/c after the Bld Cx came back negative, and
+Ciprofloxacin. P. mirabilis was found to be intermediately
+sensitive to ciprofloxacin and Tx was switched to a sensitive
+antibiotic, Ceftriaxone 500mg po Q12H for 10 days. Ceftriaxone
+was stopped on [**2133-6-29**] and the patient remained afebrile and
+asymptomatic. Both incisions healed well without current
+drainage, erythema, edema, or tenderness.
+
+Lastly during her hospital course she developed some bladder
+irritation/spasms and hematuria likely due to foley catheter
+trauma. The catheter was d/c'ed and she was treated with Detrol
+for a couple of days.  She has since been asymmptomatic and
+without hematuria.
+
+Medications on Admission:
+Lanoxin 0.25mg po daily
+Coumadin
+Flexeril
+Vicodin
+Mehtylprednislone dose back
+Apo-amilizide 50/5 mg po daily
+Tensiomin (Chinese med) 25 mg po daily
+Take chinese herbs and teas
+
+Discharge Medications:
+1. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Warfarin Sodium 1 mg Tablet Sig: 3.5 Tablets PO HS (at
+bedtime).
+3. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours).
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed for pain.
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for Constipation.
+6. Potassium Chloride 20 mEq Packet Sig: One (1) packet PO once
+a day.
+7. Toprol XL 200 mg Tablet Sustained Release 24HR Sig: One (1)
+Tablet Sustained Release 24HR PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 85**] - [**Location (un) 86**]
+
+Discharge Diagnosis:
+Epidural hematoma s/p evacuation, periop brady/pause s/p single
+wire pacemaker placement, non-sustained ventricular tachycardia
+secondary to digoxin toxicity
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please take all medications as prescribed. Contact primary care
+physician or return to hospital if experience chest pain,
+shortness of breath, palpitations, worsening lower extremity
+weakness, or other concerns.
+
+Followup Instructions:
+The following appointments have been scheduled for you:
+
+1. [**Company 191**] Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name12 (NameIs) **], MD Where: [**Hospital 273**] [**Hospital3 249**] Phone:[**Telephone/Fax (1) 250**]
+Date/Time:[**2133-7-24**] 3:00
+
+2.
+Provider: [**Name10 (NameIs) 900**] [**Name8 (MD) 901**], M.D. Where: [**Hospital6 29**]
+CARDIAC SERVICES Phone:[**Telephone/Fax (1) 902**] Date/Time:[**2133-8-10**] 11:30
+
+
+
+Completed by:[**2133-7-1**]

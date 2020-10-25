@@ -1,0 +1,165 @@
+T1	ADE 2741 2750	UGI bleed
+R1	ADE-Drug Arg1:T1 Arg2:T3
+T2	Duration 2783 2789	7 days
+R2	Duration-Drug Arg1:T2 Arg2:T3
+T3	Drug 2793 2798	nsaid
+T4	Reason 2807 2815	GI bleed
+R3	Reason-Drug Arg1:T4 Arg2:T7
+R4	Reason-Drug Arg1:T4 Arg2:T9
+R5	Reason-Drug Arg1:T4 Arg2:T10
+R6	Reason-Drug Arg1:T4 Arg2:T11
+T5	ADE 2928 2936	GI bleed
+R7	ADE-Drug Arg1:T5 Arg2:T6
+T6	Drug 2964 2969	NSAID
+T7	Drug 3067 3077	octreotide
+T8	Dosage 3109 3116	2 units
+R8	Dosage-Drug Arg1:T8 Arg2:T9
+T9	Drug 3120 3126	PRBC's
+T10	Drug 3493 3501	carafate
+T11	Drug 3503 3511	protonix
+T13	Drug 3769 3774	blood
+T14	Drug 3996 4002	NSAIDS
+T15	Reason 4042 4058	Thrombocytopenic
+R10	Reason-Drug Arg1:T15 Arg2:T17
+R11	Reason-Drug Arg1:T15 Arg2:T19
+T16	Dosage 4110 4117	1 Units
+R12	Dosage-Drug Arg1:T16 Arg2:T17
+T17	Drug 4121 4130	platelets
+T18	Dosage 4185 4192	3 units
+R13	Dosage-Drug Arg1:T18 Arg2:T19
+T19	Drug 4196 4205	platelets
+T20	Drug 4388 4395	nadalol
+T21	Duration 4426 4434	one week
+R14	Duration-Drug Arg1:T21 Arg2:T22
+T22	Drug 4438 4451	ciprofloxacin
+T23	Reason 4456 4471	SBP prophylaxis
+R15	Reason-Drug Arg1:T23 Arg2:T22
+T24	Reason 4797 4814	Smoking cessation
+R16	Reason-Drug Arg1:T24 Arg2:T25
+T25	Drug 4950 4958	nicotine
+T26	Form 4959 4964	patch
+R17	Form-Drug Arg1:T26 Arg2:T25
+T27	Drug 5043 5050	nadolol
+T28	Strength 5051 5056	60 mg
+R18	Strength-Drug Arg1:T28 Arg2:T27
+T29	Route 5057 5059	po
+R19	Route-Drug Arg1:T29 Arg2:T27
+T30	Frequency 5060 5065	daily
+R20	Frequency-Drug Arg1:T30 Arg2:T27
+T31	Drug 5066 5075	lactulose
+T32	Drug 5076 5079	mvi
+T33	Drug 5107 5117	Sucralfate
+T34	Strength 5118 5121	1 g
+R21	Strength-Drug Arg1:T34 Arg2:T33
+T35	Form 5122 5128	Tablet
+R22	Form-Drug Arg1:T35 Arg2:T33
+T36	Dosage 5134 5141	One (1)
+R23	Dosage-Drug Arg1:T36 Arg2:T33
+T37	Duration 514 519	7 day
+R24	Duration-Drug Arg1:T37 Arg2:T46
+T38	Form 5142 5148	Tablet
+R25	Form-Drug Arg1:T38 Arg2:T33
+T39	Route 5149 5151	PO
+R26	Route-Drug Arg1:T39 Arg2:T33
+T40	Frequency 5152 5166;5167 5171	QID (4 times a day)
+R27	Frequency-Drug Arg1:T40 Arg2:T33
+T41	Drug 5209 5228	Pantoprazole Sodium
+T42	Strength 5229 5234	40 mg
+R28	Strength-Drug Arg1:T42 Arg2:T41
+T43	Form 5235 5265	Tablet, Delayed Release (E.C.)
+R29	Form-Drug Arg1:T43 Arg2:T41
+T44	Dosage 5271 5278	One (1)
+R30	Dosage-Drug Arg1:T44 Arg2:T41
+T45	Form 5279 5309	Tablet, Delayed Release (E.C.)
+R31	Form-Drug Arg1:T45 Arg2:T41
+T46	Drug 530 541	amoxicillin
+T47	Route 5310 5312	PO
+R32	Route-Drug Arg1:T47 Arg2:T41
+T48	Frequency 5313 5334	Q12H (every 12 hours)
+T49	Drug 5395 5407	Multivitamin
+T50	Form 5412 5419	Capsule
+R33	Form-Drug Arg1:T50 Arg2:T49
+T51	Dosage 5425 5432	One (1)
+R34	Dosage-Drug Arg1:T51 Arg2:T49
+T52	Form 5433 5436	Cap
+R35	Form-Drug Arg1:T52 Arg2:T49
+T53	Route 5437 5439	PO
+R36	Route-Drug Arg1:T53 Arg2:T49
+T54	Frequency 5440 5455	QD (once a day)
+R37	Frequency-Drug Arg1:T54 Arg2:T49
+T55	Drug 546 554	naprosyn
+T56	Drug 5461 5468	Nadolol
+T57	Strength 5469 5474	20 mg
+R38	Strength-Drug Arg1:T57 Arg2:T56
+T58	Form 5475 5481	Tablet
+R39	Form-Drug Arg1:T58 Arg2:T56
+T59	Dosage 5487 5496	Three (3)
+R40	Dosage-Drug Arg1:T59 Arg2:T56
+T60	Form 5497 5503	Tablet
+R41	Form-Drug Arg1:T60 Arg2:T56
+T61	Route 5504 5506	PO
+R42	Route-Drug Arg1:T61 Arg2:T56
+T62	Frequency 5507 5517;5518 5522	QD (once a day)
+R43	Frequency-Drug Arg1:T62 Arg2:T56
+T63	Drug 5527 5535	Nicotine
+T64	Strength 5536 5547	21 mg/24 hr
+R44	Strength-Drug Arg1:T64 Arg2:T63
+T65	Form 5548 5558	Patch 24HR
+R45	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 5564 5571	One (1)
+R46	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 5572 5582	Patch 24HR
+R47	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 5583 5594	Transdermal
+R48	Route-Drug Arg1:T68 Arg2:T63
+T69	Reason 559 568	toothache
+R49	Reason-Drug Arg1:T69 Arg2:T55
+R50	Reason-Drug Arg1:T69 Arg2:T46
+T70	Frequency 5595 5624	QHS (once a day (at bedtime))
+R51	Frequency-Drug Arg1:T70 Arg2:T63
+T71	Drug 5629 5642	Ciprofloxacin
+T72	Strength 5643 5649	500 mg
+R52	Strength-Drug Arg1:T72 Arg2:T71
+T73	Form 5650 5656	Tablet
+R53	Form-Drug Arg1:T73 Arg2:T71
+T74	Dosage 5662 5669	One (1)
+R54	Dosage-Drug Arg1:T74 Arg2:T71
+T75	Form 5670 5676	Tablet
+R55	Form-Drug Arg1:T75 Arg2:T71
+T76	Route 5677 5679	PO
+R56	Route-Drug Arg1:T76 Arg2:T71
+T77	Frequency 5680 5684;5685 5701	Q24H (every 24 hours)
+R57	Frequency-Drug Arg1:T77 Arg2:T71
+T78	Duration 5702 5712	for 3 days
+R58	Duration-Drug Arg1:T78 Arg2:T71
+T79	Drug 5748 5761	Oxycodone HCl
+T80	Strength 5762 5766	5 mg
+R59	Strength-Drug Arg1:T80 Arg2:T79
+T81	Form 5767 5773	Tablet
+R60	Form-Drug Arg1:T81 Arg2:T79
+T82	Dosage 5779 5786	One (1)
+R61	Dosage-Drug Arg1:T82 Arg2:T79
+T83	Form 5787 5793	Tablet
+R62	Form-Drug Arg1:T83 Arg2:T79
+T84	Route 5794 5796	PO
+R63	Route-Drug Arg1:T84 Arg2:T79
+T85	Frequency 5797 5809;5810 5826	Q6H (every 6 hours) as needed
+R64	Frequency-Drug Arg1:T85 Arg2:T79
+T86	Reason 5831 5835	pain
+R65	Reason-Drug Arg1:T86 Arg2:T79
+T87	Drug 5852 5859	Tylenol
+T88	Duration 6275 6281	3 days
+R66	Duration-Drug Arg1:T88 Arg2:T89
+T89	Drug 6285 6298	Ciprofloxacin
+T90	Dosage 951 953	1U
+R67	Dosage-Drug Arg1:T90 Arg2:T91
+T91	Drug 954 957	plt
+T92	Form 5183 5192	Tablet(s)
+R68	Form-Drug Arg1:T92 Arg2:T33	
+T93	Form 5345 5378	Tablet, Delayed Release (E.C.)(s)
+R69	Form-Drug Arg1:T93 Arg2:T41	
+R70	Frequency-Drug Arg1:T48 Arg2:T41	
+T94	Form 5722 5731	Tablet(s)
+R71	Form-Drug Arg1:T94 Arg2:T71	
+T95	Form 5870 5879	Tablet(s)
+R72	Form-Drug Arg1:T95 Arg2:T79	

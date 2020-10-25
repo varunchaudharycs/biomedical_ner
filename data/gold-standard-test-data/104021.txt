@@ -1,0 +1,467 @@
+Admission Date:  [**2196-1-28**]              Discharge Date:   [**2196-2-7**]
+
+Date of Birth:  [**2148-11-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1257**]
+Chief Complaint:
+Pericardial effusion
+
+Major Surgical or Invasive Procedure:
+vagus nerve stimulator generator replacement [**2196-1-28**]
+pericardiocentesis with pericardial drain [**2196-1-29**]
+
+History of Present Illness:
+Please see original Neurology Admission Note and MICU [**Location (un) **]
+Transfer Note for details.
+.
+Briefly, 47 y/o man with long standing history of epilepsy s/p
+right temporal lobectomy (at age 19) and VNS placement (7 years
+ago), h/o EtOH and cocaine abuse who was having increased
+seizure frequency in the setting of VNS malfunction. He was
+admitted on [**1-28**] for elective replacement of the vagus nerve
+stimulator generator.  The procedure went without complication.
+Overnight he developed AF with RVR to the 180s with hypotension
+to the 80s.  CIWA was 17 with last drink approximately 72 hours
+prior. Patient was also noted to be [**Doctor Last Name **] with a CIWA of 17
+and is thought that last EtOH drink was 72 hours ago.  He
+received 2mg IV ativan with somnolence and apenea afterwards.
+He was subsequently transferred to the MICU.
+.
+His MICU course was notable for an echocardiogram which showed a
+large pericardial effusion on [**1-29**].  He was seen by the
+cardiology fellow and subsequently underwent pericardial window.
+450cc of bloody pericardial fluid was drained. Patient developed
+SVT in the cath lab and was treated with 9 mg IV metoprolol. He
+was transferred to CCU postprocedurally for monitoring.
+.
+On arrival, patient complained of spinal back pain from lying on
+the operating table. He also reports that his lungs feel
+"collapsed" but denied shortness of breath.
+.
+Review of systems was otherwise negative.
+
+
+Past Medical History:
+- epilepsy and nonelectrographic seizures (petite mal with rare
+secondary generalization)
+- s/p right temporal lobectomy
+- s/p VNS placement
+- Mood disorder and likely borderline personality organization
+- Multiple suicide attempts in past (largely overdose)
+- DM due to medication, now apparently resolved
+- cervical strain
+- Rosacea
+- [**Last Name (un) 865**] esophagus
+- Polysubstance abuse: EtOH, MJ, cocaine/crack binges with
+resultant unsafe sexual practices
+- h/o atrial fibrillation (not on medication)
+
+Social History:
+Unemployed, lives alone. Smokes 1pk/day, occasional
+ETOH and OMR records indicate some history of Crack Cocaine use.
+
+Family History:
+States has FH of diabetes and 'cancer in everyone' but no FH of
+CAD, HTN, sudden death or cardiac dysrhythmias
+
+Physical Exam:
+ON TRANSFER TO CCU:
+VS: HR:90 BP:128/82 O2sat:93% 2L(NC)
+GEN: agitated, in fetal position, not tachypneic
+HEENT: PERRL. MM dry.
+NECK: neck supple. Left neck dressing with dried blood. No
+active bleeding or discharge. Mild tenderness on palpation.
+PULM: Moving air appropriately, diffuse crackles. Left upper
+chest (VNS) site c/d/i.
+CARD: Soft heart sound, RRR, s1/s2 present, no m/g/r, with
+pericardial window draining frank blood
+ABD: +bs, soft, NT/ND
+EXT: wwp, no edema, 2+PD bilaterally
+SKIN: warm
+BACK: tenderness to palpation along the spine
+NEURO: AOx3, agitated, but agreeable.
+
+On discharge:
+VS: 96.6 118/62 (94-130/64-90) 64 16 97% RA
+Tele: HR in 160s yesterday afternoon, otherwise 60s, sinus this
+morning, short runs of SVT to 130s <30 seconds
+GEN: AOx3, NAD
+HEENT: PERRLA, MMM
+NECK: neck supple
+PULM: CTAB
+CARD: RRR, normal s1/s2, no m/g/r
+ABD: soft, nontender, nondistended
+EXT: wwp no edema. L calf TTP, no swelling or cords noted.
+
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2196-1-28**] 07:11PM BLOOD WBC-9.3# RBC-4.12* Hgb-13.3* Hct-40.2
+MCV-98 MCH-32.3* MCHC-33.1 RDW-14.2 Plt Ct-189
+[**2196-1-28**] 07:11PM BLOOD Glucose-115* UreaN-25* Creat-1.1 Na-138
+K-4.4 Cl-102 HCO3-27 AnGap-13
+[**2196-1-28**] 07:11PM BLOOD Calcium-9.0 Phos-4.7* Mg-2.2
+[**2196-1-29**] 06:27AM BLOOD T4-4.7
+[**2196-1-29**] 06:27AM BLOOD TSH-5.8*
+
+CARDIAC BIOMARKERS
+.
+[**2196-1-29**] 05:55AM BLOOD CK-MB-2 cTropnT-<0.01
+[**2196-1-29**] 06:27AM BLOOD CK-MB-2 cTropnT-<0.01
+.
+MICRO:
+.
+-Urine cx [**1-29**]: neg
+-Pericardial fluid culture [**1-29**]: NGTD, but pending as of
+transfer to MICU
+-Pericardial fluid cytology: PND
+
+STUDIES:
+.
+ECHO [**2196-1-28**]:
+.
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Increased IVC diameter (>2.1cm)
+with 35-50% decrease during respiration (estimated RA pressure
+(10-15mmHg).
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Suboptimal technical quality, a focal LV wall motion abnormality
+cannot be fully excluded. Depressed LVEF. No resting LVOT
+gradient. No VSD.
+
+RIGHT VENTRICLE: Borderline normal RV systolic function.
+
+AORTIC VALVE: No AS.
+
+MITRAL VALVE: No MS. [**Name13 (STitle) **] MR.
+
+TRICUSPID VALVE: Indeterminate PA systolic pressure.
+
+PERICARDIUM: Moderate to large pericardial effusion. No RA
+diastolic collapse. No RV diastolic collapse.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+The rhythm appears to be atrial flutter. Echocardiographic
+patient.
+
+Poor image quality.The estimated right atrial pressure is
+10-15mmHg with IVC dilation (2.5 cm). Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. LV systolic function
+appears mildly depressed. There is no ventricular septal defect.
+RV with borderline normal free wall function. There is no aortic
+valve stenosis. No mitral regurgitation is seen. The pulmonary
+artery systolic pressure could not be determined. There is a
+moderate to large sized pericardial effusion (greatest
+anteriorly and best seen in the subcostal view). No right atrial
+diastolic collapse is seen. No right ventricular diastolic
+collapse is seen (mild RV compression in the subcostal view is
+suggestive of elevated intrapericardial pressure).
+.
+Cardiac cath [**1-29**]:
+COMMENTS:
+Under fluoroscopic guidance, 450 CC of bloody pericardial fluid
+was
+obtained through subxiphoid approach. Intrapericardial origin of
+fluid
+was confirmed with contrast injection and intrapericardial
+pressure
+measurement. Initial pericardial pressure was elevated at 21 mm
+Hg and
+dropped to 3 mm Hg after remorval of fluid. Pericaridal drain
+was
+sutured in place for 24 hours.
+
+FINAL DIAGNOSIS:
+1. Successful urgent pericardiocentesis through subxiphoid
+approach for
+impending pericardial temponade
+.
+ECHO [**2196-1-30**]
+IMPRESSION: Small amount of echodense pericardial material/fluid
+is seen. No evidence of tamponade. Probable regional LV systolic
+dysfunction. Moderately dilated and hypokinetic right ventricle.
+
+Compared with the prior studies (images reviewed) of [**2196-1-29**]
+and [**2194-7-23**], the appearance of the pericardium is similar to
+that of the post-tap echo yesterday. The basal to mid
+inferior/inferolateral hypokinesis was probably present in [**2194**]
+but image quality is poor on all studies. The right ventricle
+appears dilated on studies from yesterday and today - it was
+probably normal in [**2194**].
+
+.
+LENI'S [**2196-2-1**]
+BILATERAL LOWER EXTREMITY ULTRASOUND: Grayscale, color, and
+Doppler images of the bilateral common femoral, superficial and
+deep femoral, and popliteal veins were obtained. There is
+non-occlusive thrombus in the mid left popliteal vein and left
+peroneal veins, as well as the right posterior tibial vein. The
+bilateral common femoral, superficial femoral, and right
+popliteal veins demonstrated normal compressibility and
+wall-to-wall color flow.
+
+IMPRESSION: Non-occlusive thrombus in left popliteal, left
+peroneal, and
+right posterior tibial veins.
+.
+CT TORSO [**2196-2-1**] (PRELIM)
+1. Pulmonary embolism involving right lower [**Month/Day/Year 3630**] posterior basal
+segmental
+and subsegmental branches, and subsegmental branch of left lower
+[**Month/Day/Year 3630**] anterior
+basal pulmonary artery.
+2. Bilateral moderate-sized pleural effusions with adjacent
+atelectasis.
+3. Evidence of right heart strain, manifest as reflux of IV
+contrast into the
+IVC and hepatic veins.
+4. Mediastinal and right hilar adenopathy with right hilar soft
+tissue
+causing some narrowing of the airways and vessels, concerning
+for malignancy.  Bronchial wall thickening noted, particularly
+along right middle [**Month/Day/Year 3630**] and right lower [**Month/Day/Year 3630**] bronchi.
+5. Perifissural consolidation in posteromedial right middle
+[**Last Name (LF) 3630**], [**First Name3 (LF) **]
+represent atelectasis or infection; however, underlying tumor or
+extension of right hilar mass not excluded.
+6. 11 mm spiculated nodule in the right upper [**First Name3 (LF) 3630**] is suspicious
+for
+malignancy.
+7. Predominantly paraseptal emphysema in the right upper [**First Name3 (LF) 3630**]
+with largest
+bulla measuring 3.5 x 5.9 cm.
+8. Tiny pericardial fluid and possible pericardial thickening.
+9. No evidence of malignancy in the abdomen and pelvis.
+10. Intraabdominal findings include aortic and iliac artery
+calcifications, colonic diverticulosis, and tiny bubble of gas
+within the urinary bladder, which could be due to recent
+catheterization (correlate clinically).
+11. No bony destruction concerning for malignancy.
+12. Evidence of right femoral head avascular necrosis, without
+significant
+collapse.
+.
+
+CT HEAD [**2-2**]
+No evidence of an acute intracranial process. Postoperative
+changes of right temporal lobectomy.
+.
+Pathology, pericardial effusion:
+ POSITIVE FOR MALIGNANT CELLS,
+  Consistent with metastatic adenocarcinoma. 
+
+Repeat echo, [**2-2**]:
+LV systolic function appears depressed. The right ventricular
+cavity is borderline dilated with mild global free wall
+hypokinesis. There is a small pericardial effusion. The effusion
+is echo dense, consistent with blood, inflammation or other
+cellular elements. There are no echocardiographic signs of
+tamponade.
+
+
+Brief Hospital Course:
+47 yo M with history of epilepsy admitted for elective vagal
+nerve stimulator replacement, transferred to MICU for management
+of tachycardia, hypotension, and hypoxia, found to have
+pericardial effusion, now s/p pericardiocentiesis with drain in
+place, transferred to CCU for post-operative monitoring, with
+frequent agitation, now found to have bilateral PEs
+.
+# Pericardial effusion:  In the MICU, pt noted to be tachycardic
+with hypotension, and found to have pericardial effusion.  He
+underwent pericardiocentesis with drain placement with drainage
+of bloody fluid.  Hct stable despite profuse bloody drainage.
+Etiology is likely malignancy given that CT torso showing RUL
+lung spiculated nodule. Effusion cytology and micro showed cells
+c/w metastatic lung adenocarcinoma.  Drain was eventually pulled
+without complication and without any further hemodynamic
+instability.  Pulsus checked for several days after drain pulled
+and resolved effusion on Echo, was ~8 mmHg on discharge.
+.
+# PE/DVT:  Pt noted to have enlarged RV on repeat echo [**1-31**], so
+CTA was obtained for concern of PEs which confirmed b/l
+subsegmental PEs.  LENIs also positive for b/l DVTs.  He was
+started on heparin ggt in house and transitioned to an
+anticoagulation regimen of coumadin, with a lovenox bridge.  He
+will f/u with his PCP on [**Name9 (PRE) 2974**] [**2-12**] after discharge.
+.
+#  Agitation: Patient with history of EtOH, marijuana,
+cocaine/crack binges. He was significantly agitated throughout
+admission which was initially thought to be secondary to ETOH
+withdrawal.  He was maintained on a valium CIWA and klonipin 1mg
+TID.  However, agitation persisted despite being well out of the
+acute withdrawal window.  He had several code purples called for
+him and was often violent towards nurses. Of note, pt would be
+lucid and engaging often during the day with decompensation at
+night.  Psych was consulted who felt that this was less likely
+to be withdrawal and instead a behavioral issue/delerium, likely
+in setting of supratherapeutic valproate level.  They
+recommended haldol for his agitation which was continued 5mg PRN
+along with 10mg QHS standing, these were discontinued on
+discharge, takes no psych meds at home and delirium apparently
+cleared.  Evaluated by psychiatry prior to discharge, appeared
+to understand importance of f/u.  He was started on MVI,
+thiamine, folate.
+.
+# Afib with RVR: Patient oscillates between HR of 70s ?????? 170s
+with frequent episodes of RVR on tele, asymptomatic. Based on
+old records, has a history of Afib with RVR, a flutter, was
+treated with diltiazem and flecainide, and was supposed to be on
+Metoprolol.  Increased metoprolol to 75 mg po qid standing which
+has controlled rate well, though still with frequent episodes of
+rapid ventricular response that respond to IV lopressor 5 mg x
+1.  Because of continued episodes of RVR (likely in the setting
+of pericardial effusion and multiple PEs) pt started on
+diltiazem drip, weaned off and started on diltiazem ER 120 mg
+daily, and metoprolol changed to 200 mg of metoprolol succinate
+on discharge.  HR in the 60s with these changes, with short
+bursts of SVT to 130s prior to discharge.  Would consider
+uptitrating rate control as an outpatient.
+.
+#. h/o epilepsy and seizure activity: VNS placed and was
+re-activated about 1 week after placement.  He was continued
+home AEDs.   Depakote ER 1250/1500/1500 and Oxcarbazepine 600 mg
+[**Hospital1 **] which was often given IV due to inability to take POs from
+agitation.  Depakote level was found to be elevated in setting
+of delirium, however unclear if this was true trough.  Was
+discharged on home meds and advised to f/u with his outpatient
+neurologist for management of his depakote.
+.
+# Foley self-d/c:  Pt pulled own foley overnight [**1-30**].  Of note
+there was blood around the uerethral meatus after he pulled it.
+Urine output was monitored and foley ended up being replaced on
+[**2-2**] given that he was put back into 4pt restraints.  Foley
+dc'ed and was able to void on his own with no hematuria for
+remaineder of admission.
+
+
+Medications on Admission:
+- Clonazepam 1 mg QID
+- Divalproex 250 mg Sustained Release qAM
+- Depakote ER 500 mg tab- tabs qAM, 3 tabs in the afternoon and
+3
+tabs qPM
+- Omeprazole 20 mg delayed release daily
+- Oxcarbazepine 600 mg [**Hospital1 **]
+- ASA 81 mg daily (not taking as prescribed)
+
+Discharge Medications:
+1. Lovenox 100 mg/mL Syringe Sig: One (1)  Subcutaneous twice a
+day for 10 days.
+Disp:*20 syringe* Refills:*0*
+2. oxcarbazepine 600 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. clonazepam 1 mg Tablet Sig: One (1) Tablet PO four times a
+day.
+4. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+5. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+Disp:*30 Tablet(s)* Refills:*2*
+6. diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+7. divalproex 250 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO QAM: use in addition to the
+depakote 500 mg strength tabs for total dose of 1250/1500/1500
+mg .
+8. divalproex 500 mg Tablet Sustained Release 24 hr Sig: Three
+(3) Tablet Sustained Release 24 hr PO QAFTERNOON ().
+9. divalproex 500 mg Tablet Sustained Release 24 hr Sig: Three
+(3) Tablet Sustained Release 24 hr PO QHS (once a day (at
+bedtime)).
+10. divalproex 500 mg Tablet Sustained Release 24 hr Sig: Two
+(2) Tablet Sustained Release 24 hr PO QAM: take in addition to
+250 mg dose for a total 1250 mg every morning.
+11. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24 hr(s)* Refills:*2*
+12. metoprolol succinate 200 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+13. aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Seizure disorder
+Atrial fibrillation
+Lung adenocarcinoma, pericardial effusion
+Deep vein thrombosis, pulmonary embolism
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were seen in the hospital to have your vagal nerve
+stimulator replaced, which has been turned on again, for your
+seizures.
+
+You were also found to have a very fast heart rate from your
+atrial fibrillation (irregular heart rate) and for this we
+started diltiazem and metoprolol, which slow your heart rate.
+
+In addition, you were found to have a pericardial effusion
+(fluid around your heart) which is likely due to spreading of
+lung cancer, which was discovered on a CT scan.  You were seen
+by the oncologists here who recommended that you go to clinic
+for follow up to discuss further workup and treatment.
+
+You were also found to have a pulmonary embolism and deep vein
+thrombosis (blood clots in your lung and legs) for which you
+were started a blood thinner.  You will be taking a blood
+thinner called Coumadin to prevent more clots from forming and
+to treat the ones you already have, and you should take this
+medication every day.  You will be taking Lovenox, another blood
+thinner which works immediately, temporarily until your blood
+level of Coumadin reaches the therapeutic range.
+
+Changes to your medications:
+START diltiazem 120 mg every day
+START taking metoprolol 200 mg daily
+START taking warfarin 5 mg daily
+START taking lovenox shots twice a day until you are told to
+stop by your doctor
+
+Followup Instructions:
+In addition to the appointments below, the oncologists are
+trying to schedule you an appointment in clinic.  The phone
+number to call with questions is [**0-0-**].
+
+Department: [**Hospital3 249**]
+When: FRIDAY [**2196-2-12**] at 4:00 PM
+With: MARK [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], LICSW [**Telephone/Fax (1) 250**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: [**Hospital3 249**]
+When: FRIDAY [**2196-2-19**] at 3:00 PM
+With: MARK [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], LICSW [**Telephone/Fax (1) 250**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: [**Hospital3 249**]
+When: THURSDAY [**2196-3-17**] at 4:50 PM
+With: [**First Name11 (Name Pattern1) 1980**] [**Last Name (NamePattern4) 1981**], MD [**Telephone/Fax (1) 250**]
+Building: [**Hospital6 29**] [**Location (un) 895**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+
+Completed by:[**2196-2-7**]

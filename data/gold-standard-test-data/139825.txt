@@ -1,0 +1,25 @@
+Name:  [**Known lastname **], [**Known firstname **]              Unit No:  [**Numeric Identifier 5255**]
+
+Admission Date:  [**2189-9-8**]     Discharge Date:  [**2189-9-25**]
+
+Date of Birth:   [**2154-12-25**]     Sex:  F
+
+Service:  Gynecologic Oncology
+
+ADDENDUM:  1.  Left leg pain:  Additionally, the patient was
+also on Doxepin 10 mg daily per recommendation of the pain
+service.  This was discontinued after the patient had had her
+narcotic overdose episode.
+
+
+
+
+                          [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 4784**]
+
+Dictated By:[**Name8 (MD) 5256**]
+
+MEDQUIST36
+
+D:  [**2189-9-29**]  11:33
+T:  [**2189-9-29**]  12:08
+JOB#:  [**Job Number 5257**]

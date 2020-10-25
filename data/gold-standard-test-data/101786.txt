@@ -1,0 +1,236 @@
+Admission Date:  [**2184-10-22**]              Discharge Date:   [**2184-11-9**]
+
+Date of Birth:  [**2120-5-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6169**]
+Chief Complaint:
+Word finding difficulty
+
+Major Surgical or Invasive Procedure:
+Craniotomy and drainage
+
+
+History of Present Illness:
+Pt is a 64 y/o male with a h/o AML/MDS, DM2, and COPD who
+presented to clinic today for a routine visit with a complaint
+of a difficulty finding words over the past week. He states this
+came on suddenly. The primary trouble is with finding words to
+describe what he wants to say, not actually articulating the
+words. He denies any other neurologic symptoms, including
+weakness (no stumbling, dropping items), loss of sensation, or
+other confusion. Mr. [**Known lastname **] displays understanding of his
+current situation and location. He denies any specific symptoms,
+including fever/chills, headache, shortness of breath, chest
+pain/pressure, nausea/vomiting, diarrhea/constipation,
+melena/hematochezia, dysuria/hematuria, nosebleeds, and rashes.
+Hhis speech prompted the team in the clinic to investigate these
+symptoms, and an MRI/MRA demonstrated a left parietal fluid
+collection.
+
+In terms of his AML, Mr. [**Known lastname **] was treated with LODAC in [**2182**]
+and subsequent to that has been on hydrea and donazol and has
+been transfusion dependant.  He is currently on hydroxyurea
+only.
+
+Past Medical History:
+1.)AML, converted from MDS
+2.)DM-2
+3.)COPD
+
+
+Social History:
+Mr. [**Known lastname **] lives alone.  His sister lives about one block from
+him and is very supportive.  He uses [**Company 107361**] the ride to get to
+his [**Hospital1 107362**] clinic visits.  He lived in [**State 15946**] for many years
+where he worked at a VA.  He also has worked as a taxi driver.
+He smoked for many years but quit around 30 years ago.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+t 98.4, bp 114/68, hr 88, rr 14, spo2 95%ra
+gen- thin older male, appears frustrated and slightly confused
+heent- anicteric sclera, op clear with mmm
+neck- no jvd, no lad, no thyromegaly
+cv- rrr, s1s2, no m/r/g
+pul- moves air well, occasional wheeze, no rales/rhonchi
+abd- soft, nt, nad, nabs, no organomegaly
+extrm- decreased bulk/normal tone, no c/c/e, warm dry
+neuro- a&ox3 (knows situation, knows having trouble finding
+words); language: pt has naming difficulties, cannot find name
+for pen, chair; affect: approriately frustrated; cn: eomi,
+perrl, facial motion/sensation intact/symmetric, tongue midline
+and without fasiculations; motor: [**4-21**] distal strength all extrm,
+4+/5 in le with hip flexion, [**4-21**] LE knee flexion/extension, ue
+[**3-22**] proximal strenght, [**4-21**] distal, no pronator drift; sensation
+intact to light touch throughout; reflexes +2 and symmetric
+patellar, ankle, biceps; finger to nose normal, rapid
+alternating movements normal.
+
+Pertinent Results:
+[**2184-10-22**] 09:05AM BLOOD WBC-22.4* RBC-3.40* Hgb-10.3* Hct-30.0*
+MCV-88 MCH-30.2 MCHC-34.3 RDW-14.1 Plt Ct-6*#
+[**2184-10-29**] 12:30AM BLOOD WBC-15.5* RBC-3.20* Hgb-9.8* Hct-28.9*
+MCV-90 MCH-30.6 MCHC-33.8 RDW-14.4 Plt Ct-82*
+[**2184-11-9**] 05:45AM BLOOD WBC-14.9* RBC-2.87* Hgb-8.7* Hct-25.9*
+MCV-91 MCH-30.5 MCHC-33.7 RDW-14.7 Plt Ct-27*#
+[**2184-11-9**] 05:45AM BLOOD Glucose-83 UreaN-29* Creat-0.5 Na-140
+K-4.2 Cl-100 HCO3-34* AnGap-10
+[**2184-11-9**] 05:45AM BLOOD Calcium-10.2 Phos-4.6* Mg-2.3
+
+Brief Hospital Course:
+64 y/o male with AML progressed from MDS currently being treated
+with hydroxyurea who was admitted for a word finding difficulty
+and was found to have a subdural bleed in the setting of
+platelets of six.
+
+1.)Subdural bleed -- The patient was initially brought up to a
+platelet level of 50 and observed in the bone marrow unit.  On
+the second day of admission, he experienced a sudden, severe
+headache and had a stat head CT, showing no definite change in
+the size of the lesion or the degree of midline shift, yet due
+to his symptoms, neurosurgery was consulted.  They felt it
+appropriate to take Mr. [**Known lastname **] to the OR where the subdural
+bleed was drained; subsequent pathology demonstrated clotted
+blood.  He was kept in the neurosurgical ICU for two days where
+he did well with no post-operative complications and was then
+sent back to the bone marrow unit for further care.  By his
+return to BMT, his speech and confusion had greatly improved,
+and his family members agreed that he was back to his baseline.
+Throughout the remainder of the admission, he continued to
+experience a slight headache, much improved from admission, that
+was well relieved by 5mg of oxycodone.  His word-finding
+symptoms did not recur.
+The main challenge was maintaining his platelets at a an
+appropriate level due to his underlying myelodysplastic
+syndrome.  Per the neurosurgery team, his goal for platelets was
+around 50 for three weeks; at the time of discharge, he will
+require an additional week of platelets at this level, usually
+achievable by giving two bags of platelets each morning,
+checking a post transfusion count 30-60 minutes thereafter.
+After this week has finished, he will be maintained at his prior
+level, getting transfusion two to three times per week at
+[**Hospital1 1388**] hematology clinic under the care of Dr. [**First Name (STitle) 1557**].  He will
+follow-up with his hematologist, Dr. [**First Name (STitle) 1557**], for his AML in one
+week and with Dr. [**Last Name (STitle) 739**], a neurosurgeon, in two weeks
+(he will get a repeat CT scan at that time).
+
+2.)AML -- Mr. [**Known lastname **] is being treated with hydroxyurea and
+transfusions as needed.  His WBC at [**Hospital1 18**] ranged between 12 and
+28, generally around 14.  His goal hematocrit was over 25, and
+he generally required one unit of packed RBC's every three to
+four days.  Platelet requirements have been described above.
+
+3.)Type two diabetes -- The prednisone Mr. [**Known lastname **] takes makes
+his blood sugars somewhat difficult to control, however, a
+regimen of Humalog 75/25 with 45 units every morning and 25
+units at night seemed to work the best.  He was also covered
+with a routine regular insulin sliding scale for excessively
+high values (usually starting at 2 units of regular insulin for
+a glucose of 150-200, and going up by two units of insulin for
+every 50mg/dl of blood glucose increase).
+
+4.)COPD -- Mr. [**Known lastname **] was maintained on Advair 250/50, one
+puff twice a day.  He was also given an albuterol inhaler for
+shortness of breath/wheezing that he rarely needed.  He became
+wheezier in the middle of the admission, and was given twice
+daily scheduled albuterol nebs to which he responded well.  We
+would recommend continuing these for two more days, then
+stopping them, leaving him on only Advair and as needed
+albuterol inhalers.
+
+5.)Fever -- One week prior to discharge, Mr. [**Known lastname **] had a
+temperature to 101.  His blood and urine cultures were negative.
+ Clinically and radiographically, his most likely source was
+pulmonary, although the chest x-ray did not demonstrate an
+obvious pneumonia.  He was treated with levofloxacin, and will
+finish his course with seven more days of antibiotics.
+
+Medications on Admission:
+Humalog 75/25 40 units sc every AM and PM
+Furosemide 20mg po daily
+Advair 250/50 one puff twice daily
+Hydroxyurea 1000mg po once daily
+Pantoprazole 40mg po daily
+Prednisone 15mg po daily
+
+Discharge Medications:
+1. Humalog Mix 75-25 75-25 unit/mL Suspension Sig: Forty Five
+(45) Units Subcutaneous qAM.
+2. Albuterol Sulfate 0.083 % Solution Sig: One (1) Neb
+Inhalation twice a day.
+Disp:*qs qs* Refills:*2*
+3. Fexofenadine HCl 60 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 7 days.
+5. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Puff Inhalation [**Hospital1 **] (2 times a day).
+7. Hydroxyurea 500 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+8. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Oxycodone HCl 5 mg Tablet Sig: One (1) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+11. Prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+13. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: Two
+(2) Ml Intravenous  DAILY (Daily) as needed. Ml
+14. Humalog Mix 75-25 75-25 unit/mL Suspension Sig: Twenty (20)
+Units Subcutaneous qPM.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+Primary:
+Subdural hematomoa
+Secondary:
+Acute Myelogenous leukemia/Myelodysplastic syndrome
+Diabetes -- type two
+COPD
+
+
+Discharge Condition:
+Fair, with improved sx, stable hematoma, requiring frequent
+platelet transfusions.
+
+Discharge Instructions:
+Please return to the emergency department for fevers/chills,
+shortness of breath, chest pain, severe headaches, confusion,
+speech difficulties.
+
+Follow up as below.
+
+Take medications as prescribed.
+
+Followup Instructions:
+You have an appointment with Dr. [**Last Name (STitle) **] on [**11-19**] at 11:30.
+Please call [**Telephone/Fax (1) 107363**] for questions.
+
+Provider: [**First Name11 (Name Pattern1) 1730**] [**Last Name (NamePattern4) 6175**], MD Where: [**Hospital6 29**]
+HEMATOLOGY/BMT Phone:[**Telephone/Fax (1) 3237**] Date/Time:[**2184-11-15**] 12:30
+
+Please call Dr. [**Last Name (STitle) 739**], your neurosurgeon, at
+[**Telephone/Fax (1) 1669**]
+to be seen in two weeks.  When you call, please remind them you
+will need another CT-scan of your head prior to the visit.
+
+
+
