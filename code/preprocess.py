@@ -1,4 +1,4 @@
-# TODO: Sanity, Overlap filtering, Sampling, Section Filtering, MetaMap Lite tokenizer, BIO variations, match ann entity count with CSV count, try spacy if decide to remove tag overlaps
+# TODO: Sampling, MetaMap Lite tokenizer
 
 import os
 import csv
@@ -8,7 +8,7 @@ from collections import defaultdict
 
 nltk.download('punkt')
 
-ENV = 'test'
+ENV = 'train'
 # 1 = simple sentence-level split
 VER = 1
 
