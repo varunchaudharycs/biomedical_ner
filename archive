@@ -1,0 +1,78 @@
+""" Arbitrary fixed length sentence IDs(text segmentation) """
+def get_ids_v1():
+    spanid = 1
+    count = 0
+    ids = []
+    while count < len(tokens):
+        currspan = min(len(tokens) - count, SPAN_SIZE)
+        ids += ([spanid] * currspan)
+        spanid += 1
+        count += currspan
+
+    return ids
+
+
+""" Imports for sampling """
+# import numpy as np
+# from imblearn.under_sampling import RandomUnderSampler
+# from imblearn.over_sampling import SMOTE, RandomOverSampler
+# SAMPLE = False
+
+
+""" Under Sampling: Random """
+# undersample = RandomUnderSampler(sampling_strategy = 'majority')
+# tokens = np.array(tokens)
+# tags = np.array(tags)
+# X_train_res, y_train_res = undersample.fit_sample(tokens.reshape(-1, 1), tags)
+# tokens = X_train_res.flatten()
+# tags = y_train_res
+
+
+""" Over Sampling: Random """
+# oversample = RandomOverSampler(sampling_strategy={'B-Drug': 14163, 'I-Drug': 2628, 'B-Reason': 3221, 'I-Reason': 2820, 'B-ADE': 764, 'I-ADE': 688, 'O': 14163})
+# tokens = np.array(tokens)
+# tags = np.array(tags)
+# X_train_res, y_train_res = oversample.fit_sample(tokens.reshape(-1, 1), tags)
+# tokens = X_train_res.flatten()
+# tags = y_train_res
+
+
+""" Under Sampling: Near-miss """
+# undersample = NearMiss(n_neighbors=1)
+# tokens = np.array(tokens)
+# tags = np.array(tags)
+# X_train_res, y_train_res = undersample.fit_sample(tokens.reshape(-1, 1), tags)
+# tokens = X_train_res.flatten()
+# tags = y_train_res
+
+
+def sample_data(ids, tokens, tags):
+    d = {'patientID': patientid, 'sentenceID': ids, 'tokens': tokens, 'tags': tags}
+    data = pd.DataFrame(d)
+    data = data.groupby("sentenceID").filter(lambda g: (g['tags'] != 'O').any())
+    return data
+
+if SAMPLE:
+    data = sample_data(ids, tokens, tags)
+    data.to_csv(outpath, header=False, index=False)
+    for tag in data.tags:
+        tagcountdict[tag] += 1
+    return max_seq_len
+
+
+# TAG_OVERLAP_FILES = {"101136", "100187", "129286", "106621", "108889", "110384", "122093", "110342", "111458", "113705", "178143", "113840", "110863", "102557", "110037", "119144", "111882", "100883", "114965", "117745", "109191", "113524", "113824", "116966", "105050", "123475", "110499", "192798", "100590", "101427", "103722", "100677", "103315", "112628", "115021", "107322", "134445", "100229", "114452", "105778", "103142", "115267", "105360", "111298", "109527", "116901", "185800", "114923", "114680", "110521", "103293", "107255", "103926", "141586", "105106", "109176", "119573", "115667", "157609", "107202", "108539", "107515", "115138", "106015", "109397", "121861", "181643", "104446", "110559", "126085", "112226", "121631", "106334", "123807", "106915", "116204", "105585", "189637", "115169", "119906", "111160", "103761", "103430", "106993", "107128", "105537", "146944", "113222", "106945", "115433", "105579", "109698", "104929", "142444", "112329", "109724"}
+
+
+""" Manual cleanup """
+104095.ann- T17	Drug 4305 4314;4314 4315	Olanzapin e --- [not in next line ]
+Random characters in ann file like "" (102027, line 410)
+
+
+""" Tokenizer issue """
+Processing ===  119573
+Extracting data from  /home/soujanya/Projects/biomedical_ner/code/../data/track2-training_data_2/119573.ann
+Extracted data from  /home/soujanya/Projects/biomedical_ner/code/../data/track2-training_data_2/119573.ann
+Tag overlaps -  defaultdict(<class 'int'>, {'Drug': 1})
+Extracting tokens & tags
+Expected -  soft blood pressures
+Actual -  "soft" blood

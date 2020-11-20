@@ -1,0 +1,25 @@
+ENV -  train
+Version -  1
+Max Seq length LOWER -  120
+Max Seq length UPPER -  150
+Longest sentence size -  151
+Original entities -  defaultdict(<class 'int'>, {'Drug': 14311, 'Reason': 3299, 'ADE': 840})
+Final entities -  defaultdict(<class 'int'>, {'Drug': 14303, 'Reason': 3258, 'ADE': 813})
+
+
+ENV -  val
+Version -  1
+Max Seq length LOWER -  120
+Max Seq length UPPER -  150
+Longest sentence size -  150
+Original entities -  defaultdict(<class 'int'>, {'Drug': 2046, 'Reason': 445, 'ADE': 103})
+Final entities -  defaultdict(<class 'int'>, {'Drug': 2045, 'Reason': 445, 'ADE': 103})
+
+
+ENV -  test
+Version -  1
+Max Seq length LOWER -  120
+Max Seq length UPPER -  150
+Longest sentence size -  151
+Original entities -  defaultdict(<class 'int'>, {'Drug': 10575, 'Reason': 2545, 'ADE': 625})
+Final entities -  defaultdict(<class 'int'>, {'Drug': 10569, 'Reason': 2519, 'ADE': 604})
