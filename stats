@@ -5,6 +5,7 @@ Max Seq length UPPER -  150
 Longest sentence size -  151
 Original entities -  defaultdict(<class 'int'>, {'Drug': 14311, 'Reason': 3299, 'ADE': 840})
 Final entities -  defaultdict(<class 'int'>, {'Drug': 14303, 'Reason': 3258, 'ADE': 813})
+Final tags -  defaultdict(<class 'int'>, {'O': 688654, 'B-Drug': 14303, 'I-Drug': 2670, 'B-Reason': 3258, 'I-Reason': 2868, 'B-ADE': 813, 'I-ADE': 693})
 
 
 ENV -  val
@@ -14,6 +15,7 @@ Max Seq length UPPER -  150
 Longest sentence size -  150
 Original entities -  defaultdict(<class 'int'>, {'Drug': 2046, 'Reason': 445, 'ADE': 103})
 Final entities -  defaultdict(<class 'int'>, {'Drug': 2045, 'Reason': 445, 'ADE': 103})
+Final tags -  defaultdict(<class 'int'>, {'O': 101844, 'B-Reason': 445, 'I-Reason': 340, 'B-Drug': 2045, 'I-Drug': 398, 'B-ADE': 103, 'I-ADE': 75})
 
 
 ENV -  test
@@ -23,3 +25,4 @@ Max Seq length UPPER -  150
 Longest sentence size -  151
 Original entities -  defaultdict(<class 'int'>, {'Drug': 10575, 'Reason': 2545, 'ADE': 625})
 Final entities -  defaultdict(<class 'int'>, {'Drug': 10569, 'Reason': 2519, 'ADE': 604})
+Final tags -  defaultdict(<class 'int'>, {'O': 516379, 'B-Reason': 2519, 'I-Reason': 2041, 'B-Drug': 10569, 'I-Drug': 1878, 'B-ADE': 604, 'I-ADE': 468})

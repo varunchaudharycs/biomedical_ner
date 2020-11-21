@@ -8,7 +8,7 @@ from collections import defaultdict
 
 nltk.download('punkt')
 
-ENV = 'train'
+ENV = 'val'
 # 1 = simple sentence-level split
 VER = 1
 
@@ -267,15 +267,18 @@ if __name__ == "__main__":
     maxseqlen_aggr = 0  # To calculate max_seq_len of the splits
     originalentitycounts = defaultdict(int)  # in ann files
     finalentitycounts = defaultdict(int)  # after overlap removal
+    finaltagcountdict = defaultdict(int)
 
     for patient, txtpath, annpath, outpath in get_docs():
         print('Processing === ', patient)
-        maxseqlen, ogtagcountdict, finaltagcountdict  = process(patient, txtpath, annpath, outpath)
+        maxseqlen, ogtagcountdict, tagcountdict = process(patient, txtpath, annpath, outpath)
 
         maxseqlen_aggr = max(maxseqlen_aggr, maxseqlen)
         for tag in VALID_TAGS:
-            finalentitycounts[tag] += finaltagcountdict['B-' + tag]
+            finalentitycounts[tag] += tagcountdict['B-' + tag]
             originalentitycounts[tag] += ogtagcountdict[tag]
+        for k in tagcountdict:
+            finaltagcountdict[k] += tagcountdict[k]
         # print('Processed === ', patient)
 
     print('ENV - ', ENV)
@@ -285,3 +288,4 @@ if __name__ == "__main__":
     print("Longest sentence size - ", maxseqlen_aggr)
     print('Original entities - ', originalentitycounts)
     print('Final entities - ', finalentitycounts)
+    print('Final tags - ', finaltagcountdict)
