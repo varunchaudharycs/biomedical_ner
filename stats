@@ -6,7 +6,31 @@ Longest sentence size -  151
 Original entities -  defaultdict(<class 'int'>, {'Drug': 14311, 'Reason': 3299, 'ADE': 840})
 Final entities -  defaultdict(<class 'int'>, {'Drug': 14303, 'Reason': 3258, 'ADE': 813})
 Final tags -  defaultdict(<class 'int'>, {'O': 688654, 'B-Drug': 14303, 'I-Drug': 2670, 'B-Reason': 3258, 'I-Reason': 2868, 'B-ADE': 813, 'I-ADE': 693})
+{'O': 1.0, 'B-Drug': 2.0272614925286145, 'I-Drug': 3.7056523255892193, 'B-Reason': 3.5066172878215243, 'I-Reason': 3.6341158752640035, 'B-ADE': 4.894754967435704, 'I-ADE': 5.054456077793612, '[CLS]': 3.0028144243913717, '[SEP]': 3.0028144243913717}
 
+
+ENV -  train
+Version -  1
+Max Seq length LOWER -  75
+Max Seq length UPPER -  100
+Longest sentence size -  101
+Original entities -  defaultdict(<class 'int'>, {'Drug': 14311, 'Reason': 3299, 'ADE': 840})
+Final entities -  defaultdict(<class 'int'>, {'Drug': 14303, 'Reason': 3258, 'ADE': 813})
+Final tags -  defaultdict(<class 'int'>, {'O': 688654, 'B-Drug': 14303, 'I-Drug': 2670, 'B-Reason': 3258, 'I-Reason': 2868, 'B-ADE': 813, 'I-ADE': 693, '[CLS]': 8121, '[SEP]': 8121})
+{'O': 0.11770158405624111, 'B-Drug': 5.667039548812603, 'I-Drug': 30.35792759051186, 'B-Reason': 24.878964599959076, 'I-Reason': 28.26208740120874, 'B-ADE': 99.69946699466995, 'I-ADE': 116.96344396344396, '[CLS]': 9.980995772277634, '[SEP]': 9.980995772277634}
+
+
+ENV -  train
+Version -  1
+Max Seq length LOWER -  300
+Max Seq length UPPER -  350
+Longest sentence size -  351
+Original entities -  defaultdict(<class 'int'>, {'Drug': 14311, 'Reason': 3299, 'ADE': 840})
+Final entities -  defaultdict(<class 'int'>, {'Drug': 14303, 'Reason': 3258, 'ADE': 813})
+Final tags -  defaultdict(<class 'int'>, {'O': 688654, 'B-Drug': 14303, 'I-Drug': 2670, 'B-Reason': 3258, 'I-Reason': 2868, 'B-ADE': 813, 'I-ADE': 693, '[CLS]': 2351, '[SEP]': 2351})
+{'O': 0.1, 'B-Drug': 2.0188259596655818, 'I-Drug': 3.6972167927261865, 'B-Reason': 3.4981817549584915, 'I-Reason': 3.625680342400971, 'B-ADE': 4.8863194345726715, 'I-ADE': 5.046020544930578, '[CLS]': 3.8244544955804125, '[SEP]': 3.8244544955804125}
+
+=====================================================================================================================
 
 ENV -  val
 Version -  1
@@ -17,6 +41,29 @@ Original entities -  defaultdict(<class 'int'>, {'Drug': 2046, 'Reason': 445, 'A
 Final entities -  defaultdict(<class 'int'>, {'Drug': 2045, 'Reason': 445, 'ADE': 103})
 Final tags -  defaultdict(<class 'int'>, {'O': 101844, 'B-Reason': 445, 'I-Reason': 340, 'B-Drug': 2045, 'I-Drug': 398, 'B-ADE': 103, 'I-ADE': 75})
 
+
+ENV -  val
+Version -  1
+Max Seq length LOWER -  75
+Max Seq length UPPER -  100
+Longest sentence size -  101
+Original entities -  defaultdict(<class 'int'>, {'Drug': 2046, 'Reason': 445, 'ADE': 103})
+Final entities -  defaultdict(<class 'int'>, {'Drug': 2045, 'Reason': 445, 'ADE': 103})
+Final tags -  defaultdict(<class 'int'>, {'O': 101844, 'B-Reason': 445, 'I-Reason': 340, 'B-Drug': 2045, 'I-Drug': 398, 'B-ADE': 103, 'I-ADE': 75, '[CLS]': 1201, '[SEP]': 1201})
+{'O': 0.11744759959676891, 'B-Reason': 26.87940074906367, 'I-Reason': 35.180392156862744, 'B-Drug': 5.849062754686226, 'I-Drug': 30.053601340033502, 'B-ADE': 116.1294498381877, 'I-ADE': 159.48444444444445, '[CLS]': 9.95947821260061, '[SEP]': 9.95947821260061}
+
+
+ENV -  val
+Version -  1
+Max Seq length LOWER -  300
+Max Seq length UPPER -  350
+Longest sentence size -  351
+Original entities -  defaultdict(<class 'int'>, {'Drug': 2046, 'Reason': 445, 'ADE': 103})
+Final entities -  defaultdict(<class 'int'>, {'Drug': 2045, 'Reason': 445, 'ADE': 103})
+Final tags -  defaultdict(<class 'int'>, {'O': 101844, 'B-Reason': 445, 'I-Reason': 340, 'B-Drug': 2045, 'I-Drug': 398, 'B-ADE': 103, 'I-ADE': 75, '[CLS]': 349, '[SEP]': 349})
+{'O': 0.1, 'B-Reason': 3.5755094196374615, 'I-Reason': 3.844638084193494, 'B-Drug': 2.0504306333267994, 'I-Drug': 3.6871316965192635, 'B-ADE': 5.038854713574065, 'I-ADE': 5.356095588267391, '[CLS]': 3.818511779601274, '[SEP]': 3.818511779601274}
+
+=====================================================================================================================
 
 ENV -  test
 Version -  1

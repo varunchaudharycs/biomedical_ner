@@ -1,14 +1,15 @@
 # TODO: Sampling, MetaMap Lite tokenizer
-
+import math
 import os
 import csv
 import nltk
 import pandas as pd
+import numpy as np
 from collections import defaultdict
 
 nltk.download('punkt')
 
-ENV = 'val'
+ENV = 'test'
 # 1 = simple sentence-level split
 VER = 1
 
@@ -28,8 +29,8 @@ DATA_DIR = os.path.join(CURR_DIR, '..', 'data', SRC[ENV])
 OUTPUT_DIR = os.path.join(CURR_DIR, '..', 'data', DEST[ENV])
 
 
-MAX_SEQ_UPPER = 150
-MAX_SEQ_LOWER = 120
+MAX_SEQ_UPPER = 100
+MAX_SEQ_LOWER = 75
 VALID_TAGS = ['Drug', 'Reason', 'ADE']
 
 
@@ -259,7 +260,18 @@ def process(patient, txtpath, annpath, outpath):
 
     create_csv(patientid, ids, tokens, tags, outpath)
 
-    return maxseqlen, anncounts, tagcountdict
+    return maxseqlen, anncounts, tagcountdict, ids[-1] + 1
+
+def create_class_weight(labels_dict,mu=0.15):
+    total = sum([labels_dict[key] for key in labels_dict])
+    class_weight = dict()
+
+    for key in labels_dict:
+        score = math.log(mu*total/float(labels_dict[key]))
+        class_weight[key] = score if score > 0 else 0.1
+        # class_weight[key] = total / (len(labels_dict) * float(labels_dict[key]))
+
+    return class_weight
 
 
 if __name__ == "__main__":
@@ -268,11 +280,13 @@ if __name__ == "__main__":
     originalentitycounts = defaultdict(int)  # in ann files
     finalentitycounts = defaultdict(int)  # after overlap removal
     finaltagcountdict = defaultdict(int)
+    totalids = 0 # count generated sentences over all files
 
     for patient, txtpath, annpath, outpath in get_docs():
         print('Processing === ', patient)
-        maxseqlen, ogtagcountdict, tagcountdict = process(patient, txtpath, annpath, outpath)
+        maxseqlen, ogtagcountdict, tagcountdict, currids = process(patient, txtpath, annpath, outpath)
 
+        totalids += currids
         maxseqlen_aggr = max(maxseqlen_aggr, maxseqlen)
         for tag in VALID_TAGS:
             finalentitycounts[tag] += tagcountdict['B-' + tag]
@@ -288,4 +302,8 @@ if __name__ == "__main__":
     print("Longest sentence size - ", maxseqlen_aggr)
     print('Original entities - ', originalentitycounts)
     print('Final entities - ', finalentitycounts)
+
+    finaltagcountdict['[CLS]'] = totalids
+    finaltagcountdict['[SEP]'] = totalids
     print('Final tags - ', finaltagcountdict)
+    print(create_class_weight(finaltagcountdict))
