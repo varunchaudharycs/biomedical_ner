@@ -1,0 +1,19 @@
+F1 score(Strict):
+0.7251574657280474
+
+Accuracy score:
+0.9789512182817939
+
+              precision    recall  f1-score   support
+
+         ADE       0.32      0.10      0.15       604
+        Drug       0.85      0.83      0.84     10569
+      Reason       0.53      0.34      0.41      2519
+
+   micro avg       0.80      0.71      0.75     13692
+   macro avg       0.57      0.42      0.47     13692
+weighted avg       0.77      0.71      0.73     13692
+
+Micro F1(lenient)-  0.8405540592535591
+Macro F1(lenient)-  0.5817994804279928
+Weighted F1(lenient)-  0.8247035449022696

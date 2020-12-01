@@ -1,10 +1,8 @@
-# TODO: Sampling, MetaMap Lite tokenizer
 import math
 import os
 import csv
 import nltk
 import pandas as pd
-import numpy as np
 from collections import defaultdict
 
 nltk.download('punkt')
