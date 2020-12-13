@@ -3,12 +3,12 @@ Named Entity Extraction - ADE, Reason, and Drug mention extraction - from clinic
 
 ### Pre-requisites
 * Cleanup
-    * Incorrect annotations 104095.ann- T17	Drug 4305 4314;4314 4315	Olanzapin e --- not in next line in txt file
+    * Incorrect annotations like 104095.ann= T17	Drug 4305 4314;4314 4315	Olanzapin e --- not in next line in txt file
     * Random characters in ann file like "" (102027, line 410)
 * Data
     * track2-training_data_2
-    * track2-training_data_3
-    * gold-standard-test-data
+    * track2-training_data_3(put files directly inside this folder)
+    * gold-standard-test-data(put files directly inside this folder)
 * Libraries
     * preprocessing packages= ntlk, pandas, nltk.download('punkt')
     * training packages(included in notebook)
